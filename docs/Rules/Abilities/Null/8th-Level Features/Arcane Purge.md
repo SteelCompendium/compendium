@@ -3,19 +3,27 @@ class: 'null'
 cost: 11 Discipline
 cost_amount: 11
 cost_resource: Discipline
+distance: Melee 1
 feature_type: ability
 file_basename: Arcane Purge
 file_dpath: Null/8th-Level Features
+flavor: You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.
 item_id: arcane-purge-11-discipline
 item_index: '04'
 item_name: Arcane Purge (11 Discipline)
+keywords:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.null.8th-level-feature:arcane-purge-11-discipline
 scdc:
   - 1.1.1:13.2.6.2:04
 source: mcdm.heroes.v1
-type: feature/ability/null/8th-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Arcane Purge (11 Discipline)

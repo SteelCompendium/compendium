@@ -3,19 +3,28 @@ class: elementalist
 cost: 5 Essence
 cost_amount: 5
 cost_resource: Essence
+distance: Ranged 10
 feature_type: ability
 file_basename: Subvert the Green Within
 file_dpath: Elementalist/2nd-Level Features
+flavor: Fungal spores sprout inside your enemy's brain, allowing you to control their actions.
 item_id: subvert-the-green-within-5-essence
 item_index: '02'
 item_name: Subvert the Green Within (5 Essence)
+keywords:
+  - Green
+  - Magic
+  - Ranged
+  - Strike
+  - Void
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:subvert-the-green-within-5-essence
 scdc:
   - 1.1.1:13.2.9.5:02
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/2nd-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Subvert the Green Within (5 Essence)

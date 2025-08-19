@@ -3,19 +3,25 @@ class: censor
 cost: 7 Wrath
 cost_amount: 7
 cost_resource: Wrath
+distance: 2 aura
 feature_type: ability
 file_basename: Edict of Purifying Pacifism
 file_dpath: Censor/3rd-Level Features
+flavor: You shed a righteous energy that punishes enemies who would harm you or your allies.
 item_id: edict-of-purifying-pacifism-7-wrath
 item_index: '01'
 item_name: Edict of Purifying Pacifism (7 Wrath)
+keywords:
+  - Area
+  - Magic
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.censor.3rd-level-feature:edict-of-purifying-pacifism-7-wrath
 scdc:
   - 1.1.1:13.2.7.6:01
 source: mcdm.heroes.v1
-type: feature/ability/censor/3rd-level-feature
+target: Each enemy in the area
+type: Maneuver
 ---
 
 ###### Edict of Purifying Pacifism (7 Wrath)

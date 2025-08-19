@@ -1,18 +1,25 @@
 ---
 class: talent
+distance: Ranged 10
 feature_type: ability
 file_basename: Kinetic Grip
 file_dpath: Talent/1st-Level Features
+flavor: You lift and hurl your foe away from you.
 item_id: kinetic-grip
 item_index: '01'
 item_name: Kinetic Grip
+keywords:
+  - Psionic
+  - Ranged
+  - Telekinesis
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:kinetic-grip
 scdc:
   - 1.1.1:13.2.1.1:01
 source: mcdm.heroes.v1
-type: feature/ability/talent/1st-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Kinetic Grip

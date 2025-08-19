@@ -3,19 +3,26 @@ class: talent
 cost: 5 Clarity
 cost_amount: 5
 cost_resource: Clarity
+distance: Ranged 10
 feature_type: ability
 file_basename: Flashback
 file_dpath: Talent/1st-Level Features
+flavor: The target is thrown several seconds back through time and gets to do it all again.
 item_id: flashback-5-clarity
 item_index: '03'
 item_name: Flashback (5 Clarity)
+keywords:
+  - Chronopathy
+  - Psionic
+  - Ranged
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:flashback-5-clarity
 scdc:
   - 1.1.1:13.2.1.1:03
 source: mcdm.heroes.v1
-type: feature/ability/talent/1st-level-feature
+target: Self or one ally
+type: Maneuver
 ---
 
 ###### Flashback (5 Clarity)

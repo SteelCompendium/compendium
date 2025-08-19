@@ -3,19 +3,26 @@ class: shadow
 cost: 5 Insight
 cost_amount: 5
 cost_resource: Insight
+distance: Ranged 5
 feature_type: ability
 file_basename: Setup
 file_dpath: Shadow/1st-Level Features
+flavor: Your friends will thank you.
 item_id: setup-5-insight
 item_index: 08
 item_name: Setup (5 Insight)
+keywords:
+  - Ranged
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:setup-5-insight
 scdc:
   - 1.1.1:13.2.2.1:08
 source: mcdm.heroes.v1
-type: feature/ability/shadow/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Setup (5 Insight)

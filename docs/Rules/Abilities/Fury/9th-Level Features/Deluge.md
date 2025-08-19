@@ -3,19 +3,26 @@ class: fury
 cost: 11 Ferocity
 cost_amount: 11
 cost_resource: Ferocity
+distance: 5 cube within 10
 feature_type: ability
 file_basename: Deluge
 file_dpath: Fury/9th-Level Features
+flavor: You summon your primordial storm.
 item_id: deluge-11-ferocity
 item_index: '01'
 item_name: Deluge (11 Ferocity)
+keywords:
+  - Area
+  - Magic
+  - Ranged
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:deluge-11-ferocity
 scdc:
   - 1.1.1:13.2.5.6:01
 source: mcdm.heroes.v1
-type: feature/ability/fury/9th-level-feature
+target: Each enemy in the area
+type: Main action
 ---
 
 ###### Deluge (11 Ferocity)

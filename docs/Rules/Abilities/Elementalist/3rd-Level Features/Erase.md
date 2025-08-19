@@ -3,19 +3,27 @@ class: elementalist
 cost: 7 Essence
 cost_amount: 7
 cost_resource: Essence
+distance: Ranged 10
 feature_type: ability
 file_basename: Erase
 file_dpath: Elementalist/3rd-Level Features
+flavor: With a flick of the wrist, you phase creatures out of existence.
 item_id: erase-7-essence
 item_index: '06'
 item_name: Erase (7 Essence)
+keywords:
+  - Magic
+  - Ranged
+  - Strike
+  - Void
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:erase-7-essence
 scdc:
   - 1.1.1:13.2.9.6:06
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/3rd-level-feature
+target: Special
+type: Main action
 ---
 
 ###### Erase (7 Essence)

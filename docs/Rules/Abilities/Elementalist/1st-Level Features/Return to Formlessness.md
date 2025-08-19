@@ -1,18 +1,25 @@
 ---
 class: elementalist
+distance: Melee 1
 feature_type: ability
 file_basename: Return to Formlessness
 file_dpath: Elementalist/1st-Level Features
+flavor: With the merest touch, you cause an object to turn to slag or ash.
 item_id: return-to-formlessness
 item_index: '03'
 item_name: Return to Formlessness
+keywords:
+  - Fire
+  - Magic
+  - Melee
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:return-to-formlessness
 scdc:
   - 1.1.1:13.2.9.1:03
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/1st-level-feature
+target: One mundane object
+type: Main action
 ---
 
 ###### Return to Formlessness

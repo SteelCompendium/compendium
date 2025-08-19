@@ -1,18 +1,26 @@
 ---
 class: talent
+distance: Ranged 10
 feature_type: ability
 file_basename: Hoarfrost
 file_dpath: Talent/1st-Level Features
+flavor: You blast a foe with a pulse of cold energy.
 item_id: hoarfrost
 item_index: '05'
 item_name: Hoarfrost
+keywords:
+  - Cryokinesis
+  - Psionic
+  - Ranged
+  - Strike
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:hoarfrost
 scdc:
   - 1.1.1:13.2.1.1:05
 source: mcdm.heroes.v1
-type: feature/ability/talent/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Hoarfrost

@@ -3,19 +3,24 @@ class: tactician
 cost: 11 Focus
 cost_amount: 11
 cost_resource: Focus
+distance: 3 burst
 feature_type: ability
 file_basename: Blot Out the Sun
 file_dpath: Tactician/9th-Level Features
+flavor: What makes a good soldier? The ability to fire four shots a minute in any weather.
 item_id: blot-out-the-sun-11-focus
 item_index: '02'
 item_name: Blot Out the Sun! (11 Focus)
+keywords:
+  - Area
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:blot-out-the-sun-11-focus
 scdc:
   - 1.1.1:13.2.4.7:02
 source: mcdm.heroes.v1
-type: feature/ability/tactician/9th-level-feature
+target: Self and each ally in the area
+type: Main action
 ---
 
 ###### Blot Out the Sun! (11 Focus)

@@ -1,18 +1,24 @@
 ---
 class: talent
+distance: Ranged 10
 feature_type: ability
 file_basename: Again
 file_dpath: Talent/1st-Level Features
+flavor: You step back a split second to see if things play out a little differently.
 item_id: again
 item_index: '13'
 item_name: Again
+keywords:
+  - Psionic
+  - Ranged
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:again
 scdc:
   - 1.1.1:13.2.1.1:13
 source: mcdm.heroes.v1
-type: feature/ability/talent/1st-level-feature
+target: Self or one creature
+type: Triggered
 ---
 
 ###### Again

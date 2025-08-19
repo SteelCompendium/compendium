@@ -3,19 +3,27 @@ class: talent
 cost: 9 Clarity
 cost_amount: 9
 cost_resource: Clarity
+distance: Ranged 10
 feature_type: ability
 file_basename: Soulbound
 file_dpath: Talent/5th-Level Features
+flavor: You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.
 item_id: soulbound-9-clarity
 item_index: '03'
 item_name: Soulbound (9 Clarity)
+keywords:
+  - Animapathy
+  - Psionic
+  - Ranged
+  - Strike
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.talent.5th-level-feature:soulbound-9-clarity
 scdc:
   - 1.1.1:13.2.1.4:03
 source: mcdm.heroes.v1
-type: feature/ability/talent/5th-level-feature
+target: Two enemies
+type: Main action
 ---
 
 ###### Soulbound (9 Clarity)

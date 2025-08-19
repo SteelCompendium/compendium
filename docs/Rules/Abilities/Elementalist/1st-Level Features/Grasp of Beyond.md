@@ -1,18 +1,26 @@
 ---
 class: elementalist
+distance: Melee 1
 feature_type: ability
 file_basename: Grasp of Beyond
 file_dpath: Elementalist/1st-Level Features
+flavor: You absorb the life energy of another creature and use it to teleport.
 item_id: grasp-of-beyond
 item_index: '19'
 item_name: Grasp of Beyond
+keywords:
+  - Magic
+  - Melee
+  - Strike
+  - Void
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:grasp-of-beyond
 scdc:
   - 1.1.1:13.2.9.1:19
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Grasp of Beyond

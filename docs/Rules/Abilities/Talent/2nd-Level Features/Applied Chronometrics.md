@@ -3,19 +3,26 @@ class: talent
 cost: 5 Clarity
 cost_amount: 5
 cost_resource: Clarity
+distance: Ranged 10
 feature_type: ability
 file_basename: Applied Chronometrics
 file_dpath: Talent/2nd-Level Features
+flavor: Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.
 item_id: applied-chronometrics-5-clarity
 item_index: '03'
 item_name: Applied Chronometrics (5 Clarity)
+keywords:
+  - Chronopathy
+  - Psionic
+  - Ranged
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:applied-chronometrics-5-clarity
 scdc:
   - 1.1.1:13.2.1.5:03
 source: mcdm.heroes.v1
-type: feature/ability/talent/2nd-level-feature
+target: Special
+type: Maneuver
 ---
 
 ###### Applied Chronometrics (5 Clarity)

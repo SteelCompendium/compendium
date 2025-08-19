@@ -3,19 +3,26 @@ class: talent
 cost: 5 Clarity
 cost_amount: 5
 cost_resource: Clarity
+distance: Ranged 10
 feature_type: ability
 file_basename: Iron
 file_dpath: Talent/1st-Level Features
+flavor: The target's skin turns to hard, dark metal, impenetrable and dense.
 item_id: iron-5-clarity
 item_index: '04'
 item_name: Iron (5 Clarity)
+keywords:
+  - Metamorphosis
+  - Psionic
+  - Ranged
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:iron-5-clarity
 scdc:
   - 1.1.1:13.2.1.1:04
 source: mcdm.heroes.v1
-type: feature/ability/talent/1st-level-feature
+target: Self or one ally
+type: Maneuver
 ---
 
 ###### Iron (5 Clarity)

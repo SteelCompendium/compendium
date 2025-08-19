@@ -1,18 +1,23 @@
 ---
 class: censor
+distance: Melee 1
 feature_type: ability
 file_basename: Grave Speech
 file_dpath: Censor/1st-Level Features
+flavor: You commune with the lingering soul of the recently dead.
 item_id: grave-speech
 item_index: '13'
 item_name: Grave Speech
+keywords:
+  - Magic
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:grave-speech
 scdc:
   - 1.1.1:13.2.7.1:13
 source: mcdm.heroes.v1
-type: feature/ability/censor/1st-level-feature
+target: One dead creature
+type: Maneuver
 ---
 
 ###### Grave Speech

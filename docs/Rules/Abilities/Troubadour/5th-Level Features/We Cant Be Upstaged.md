@@ -1,18 +1,25 @@
 ---
 class: troubadour
+distance: 5 aura
 feature_type: ability
 file_basename: We Cant Be Upstaged
 file_dpath: Troubadour/5th-Level Features
+flavor: Swordplay so graceful it looks like you all practiced this.
 item_id: we-cant-be-upstaged
 item_index: '06'
 item_name: We Can't Be Upstaged!
+keywords:
+  - Area
+  - Magic
+  - Performance
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:we-cant-be-upstaged
 scdc:
   - 1.1.1:13.2.3.4:06
 source: mcdm.heroes.v1
-type: feature/ability/troubadour/5th-level-feature
+target: Self and each ally in the area
+type: No action
 ---
 
 ###### We Can't Be Upstaged!

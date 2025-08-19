@@ -1,18 +1,25 @@
 ---
 class: censor
+distance: Ranged 10
 feature_type: ability
 file_basename: Every Step Death
 file_dpath: Abilities/Censor/1st-Level Features
+flavor: You show your foe a glimpse of their fate after death.
 item_id: every-step-death
 item_index: '15'
 item_name: Every Step... Death!
+keywords:
+  - Magic
+  - Ranged
+  - Strike
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:every-step-death
 scdc:
   - 1.1.1:13.2.7.1:15
 source: mcdm.heroes.v1
-type: feature/ability/censor/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Every Step... Death!

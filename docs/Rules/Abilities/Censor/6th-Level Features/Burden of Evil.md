@@ -3,19 +3,26 @@ class: censor
 cost: 9 Wrath
 cost_amount: 9
 cost_resource: Wrath
+distance: Ranged 10
 feature_type: ability
 file_basename: Burden of Evil
 file_dpath: Censor/6th-Level Features
+flavor: You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.
 item_id: burden-of-evil-9-wrath
 item_index: '06'
 item_name: Burden of Evil (9 Wrath)
+keywords:
+  - Magic
+  - Ranged
+  - Strike
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:burden-of-evil-9-wrath
 scdc:
   - 1.1.1:13.2.7.3:06
 source: mcdm.heroes.v1
-type: feature/ability/censor/6th-level-feature
+target: Three enemies
+type: Maneuver
 ---
 
 ###### Burden of Evil (9 Wrath)

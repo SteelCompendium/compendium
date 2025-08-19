@@ -3,19 +3,24 @@ class: 'null'
 cost: 7 Discipline
 cost_amount: 7
 cost_resource: Discipline
+distance: Self
 feature_type: ability
 file_basename: Stabilizing Field
 file_dpath: Null/3rd-Level Features
+flavor: You project order, making it harder for your enemies to interfere with you and your allies.
 item_id: stabilizing-field-7-discipline
 item_index: '04'
 item_name: Stabilizing Field (7 Discipline)
+keywords:
+  - Psionic
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.null.3rd-level-feature:stabilizing-field-7-discipline
 scdc:
   - 1.1.1:13.2.6.5:04
 source: mcdm.heroes.v1
-type: feature/ability/null/3rd-level-feature
+target: Self
+type: Maneuver
 ---
 
 ###### Stabilizing Field (7 Discipline)

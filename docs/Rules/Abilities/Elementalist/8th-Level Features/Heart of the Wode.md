@@ -3,19 +3,26 @@ class: elementalist
 cost: 11 Essence
 cost_amount: 11
 cost_resource: Essence
+distance: Ranged 10
 feature_type: ability
 file_basename: Heart of the Wode
 file_dpath: Elementalist/8th-Level Features
+flavor: You call forth one of the Great Tree's many splinters to provide for your every need.
 item_id: heart-of-the-wode-11-essence
 item_index: '02'
 item_name: Heart of the Wode (11 Essence)
+keywords:
+  - Green
+  - Magic
+  - Ranged
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:heart-of-the-wode-11-essence
 scdc:
   - 1.1.1:13.2.9.2:02
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/8th-level-feature
+target: Special
+type: Main action
 ---
 
 ###### Heart of the Wode (11 Essence)

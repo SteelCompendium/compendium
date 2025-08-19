@@ -3,19 +3,27 @@ class: talent
 cost: 9 Clarity
 cost_amount: 9
 cost_resource: Clarity
+distance: 5 x 2 line within 1
 feature_type: ability
 file_basename: Hypersonic
 file_dpath: Talent/5th-Level Features
+flavor: You move fast enough to turn around and watch your foes feel the aftermath.
 item_id: hypersonic-9-clarity
 item_index: '04'
 item_name: Hypersonic (9 Clarity)
+keywords:
+  - Area
+  - Charge
+  - Psionic
+  - Telekinesis
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.talent.5th-level-feature:hypersonic-9-clarity
 scdc:
   - 1.1.1:13.2.1.4:04
 source: mcdm.heroes.v1
-type: feature/ability/talent/5th-level-feature
+target: Each enemy in the area
+type: Main action
 ---
 
 ###### Hypersonic (9 Clarity)

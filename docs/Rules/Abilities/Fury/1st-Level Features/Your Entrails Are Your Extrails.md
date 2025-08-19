@@ -3,19 +3,26 @@ class: fury
 cost: 3 Ferocity
 cost_amount: 3
 cost_resource: Ferocity
+distance: Melee 1
 feature_type: ability
 file_basename: Your Entrails Are Your Extrails
 file_dpath: Fury/1st-Level Features
+flavor: Hard for them to fight when they're busy holding in their giblets.
 item_id: your-entrails-are-your-extrails-3-ferocity
 item_index: '03'
 item_name: Your Entrails Are Your Extrails! (3 Ferocity)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:your-entrails-are-your-extrails-3-ferocity
 scdc:
   - 1.1.1:13.2.5.1:03
 source: mcdm.heroes.v1
-type: feature/ability/fury/1st-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Your Entrails Are Your Extrails! (3 Ferocity)

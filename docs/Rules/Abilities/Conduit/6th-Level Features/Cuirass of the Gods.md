@@ -3,19 +3,26 @@ class: conduit
 cost: 9 Piety
 cost_amount: 9
 cost_resource: Piety
+distance: Ranged 10
 feature_type: ability
 file_basename: Cuirass of the Gods
 file_dpath: Conduit/6th-Level Features
+flavor: Your allies are covered in spiritual armor.
 item_id: cuirass-of-the-gods-9-piety
 item_index: '01'
 item_name: Cuirass of the Gods (9 Piety)
+keywords:
+  - Area
+  - Magic
+  - Ranged
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:cuirass-of-the-gods-9-piety
 scdc:
   - 1.1.1:13.2.8.3:01
 source: mcdm.heroes.v1
-type: feature/ability/conduit/6th-level-feature
+target: Three creatures
+type: Maneuver
 ---
 
 ###### Cuirass of the Gods (9 Piety)

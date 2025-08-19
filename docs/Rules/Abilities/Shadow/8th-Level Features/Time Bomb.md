@@ -1,18 +1,24 @@
 ---
 class: shadow
+distance: 2 cube within 10
 feature_type: ability
 file_basename: Time Bomb
 file_dpath: Shadow/8th-Level Features
+flavor: The longer it cooks, the bigger the boom.
 item_id: time-bomb
 item_index: '01'
 item_name: Time Bomb
+keywords:
+  - Area
+  - Ranged
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:time-bomb
 scdc:
   - 1.1.1:13.2.2.2:01
 source: mcdm.heroes.v1
-type: feature/ability/shadow/8th-level-feature
+target: Each enemy in the area
+type: Free maneuver
 ---
 
 ###### Time Bomb

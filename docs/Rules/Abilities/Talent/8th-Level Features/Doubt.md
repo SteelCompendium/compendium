@@ -3,19 +3,27 @@ class: talent
 cost: 11 Clarity
 cost_amount: 11
 cost_resource: Clarity
+distance: Ranged 10
 feature_type: ability
 file_basename: Doubt
 file_dpath: Talent/8th-Level Features
+flavor: You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.
 item_id: doubt-11-clarity
 item_index: '05'
 item_name: Doubt (11 Clarity)
+keywords:
+  - Animapathy
+  - Psionic
+  - Ranged
+  - Strike
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:doubt-11-clarity
 scdc:
   - 1.1.1:13.2.1.2:05
 source: mcdm.heroes.v1
-type: feature/ability/talent/8th-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Doubt (11 Clarity)

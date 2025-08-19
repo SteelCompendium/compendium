@@ -1,18 +1,27 @@
 ---
 class: talent
+distance: 3 cube within 10
 feature_type: ability
 file_basename: Incinerate
 file_dpath: Talent/1st-Level Features
+flavor: The air erupts into a column of smokeless flame.
 item_id: incinerate
 item_index: 09
 item_name: Incinerate
+keywords:
+  - Area
+  - Fire
+  - Psionic
+  - Pyrokinesis
+  - Ranged
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:incinerate
 scdc:
   - 1.1.1:13.2.1.1:09
 source: mcdm.heroes.v1
-type: feature/ability/talent/1st-level-feature
+target: Each enemy in the area
+type: Main action
 ---
 
 ###### Incinerate

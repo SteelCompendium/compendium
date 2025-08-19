@@ -3,19 +3,26 @@ class: conduit
 cost: 9 Piety
 cost_amount: 9
 cost_resource: Piety
+distance: Ranged 10
 feature_type: ability
 file_basename: Beacon of Grace
 file_dpath: Conduit/5th-Level Features
+flavor: You ignite a foe with holy radiance, rewarding allies who attack them.
 item_id: beacon-of-grace-9-piety
 item_index: '04'
 item_name: Beacon of Grace (9 Piety)
+keywords:
+  - Magic
+  - Ranged
+  - Strike
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:beacon-of-grace-9-piety
 scdc:
   - 1.1.1:13.2.8.4:04
 source: mcdm.heroes.v1
-type: feature/ability/conduit/5th-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Beacon of Grace (9 Piety)

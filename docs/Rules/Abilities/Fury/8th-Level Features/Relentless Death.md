@@ -3,19 +3,27 @@ class: fury
 cost: 11 Ferocity
 cost_amount: 11
 cost_resource: Ferocity
+distance: Self; see below
 feature_type: ability
 file_basename: Relentless Death
 file_dpath: Fury/8th-Level Features
+flavor: You won't escape your fate.
 item_id: relentless-death-11-ferocity
 item_index: '01'
 item_name: Relentless Death (11 Ferocity)
+keywords:
+  - Magic
+  - Melee
+  - Strike
+  - Weapon
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.fury.8th-level-feature:relentless-death-11-ferocity
 scdc:
   - 1.1.1:13.2.5.2:01
 source: mcdm.heroes.v1
-type: feature/ability/fury/8th-level-feature
+target: Self
+type: Main action
 ---
 
 ###### Relentless Death (11 Ferocity)

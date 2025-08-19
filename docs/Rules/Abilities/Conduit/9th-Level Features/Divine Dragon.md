@@ -3,19 +3,25 @@ class: conduit
 cost: 11 Piety
 cost_amount: 11
 cost_resource: Piety
+distance: Ranged 10
 feature_type: ability
 file_basename: Divine Dragon
 file_dpath: Conduit/9th-Level Features
+flavor: From nothing but divine will, you create a powerful ally.
 item_id: divine-dragon-11-piety
 item_index: '12'
 item_name: Divine Dragon (11 Piety)
+keywords:
+  - Magic
+  - Ranged
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:divine-dragon-11-piety
 scdc:
   - 1.1.1:13.2.8.7:12
 source: mcdm.heroes.v1
-type: feature/ability/conduit/9th-level-feature
+target: Special
+type: Main action
 ---
 
 ###### Divine Dragon (11 Piety)

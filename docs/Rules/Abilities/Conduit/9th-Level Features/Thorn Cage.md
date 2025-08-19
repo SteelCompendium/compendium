@@ -3,19 +3,26 @@ class: conduit
 cost: 11 Piety
 cost_amount: 11
 cost_resource: Piety
+distance: Ranged 10
 feature_type: ability
 file_basename: Thorn Cage
 file_dpath: Conduit/9th-Level Features
+flavor: Vines burst forth from the ground and bind your foe, slowly closing around them.
 item_id: thorn-cage-11-piety
 item_index: '11'
 item_name: Thorn Cage (11 Piety)
+keywords:
+  - Magic
+  - Ranged
+  - Strike
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:thorn-cage-11-piety
 scdc:
   - 1.1.1:13.2.8.7:11
 source: mcdm.heroes.v1
-type: feature/ability/conduit/9th-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Thorn Cage (11 Piety)

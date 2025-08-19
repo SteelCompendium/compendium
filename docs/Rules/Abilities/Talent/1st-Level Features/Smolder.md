@@ -3,19 +3,27 @@ class: talent
 cost: 3 Clarity
 cost_amount: 3
 cost_resource: Clarity
+distance: Ranged 10
 feature_type: ability
 file_basename: Smolder
 file_dpath: Talent/1st-Level Features
+flavor: Smoke flows from your enemy like tears as their skin begins to blacken and flake.
 item_id: smolder-3-clarity
 item_index: 08
 item_name: Smolder (3 Clarity)
+keywords:
+  - Psionic
+  - Pyrokinesis
+  - Ranged
+  - Strike
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:smolder-3-clarity
 scdc:
   - 1.1.1:13.2.1.1:08
 source: mcdm.heroes.v1
-type: feature/ability/talent/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Smolder (3 Clarity)

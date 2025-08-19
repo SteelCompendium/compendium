@@ -3,19 +3,25 @@ class: elementalist
 cost: 11 Essence
 cost_amount: 11
 cost_resource: Essence
+distance: Self
 feature_type: ability
 file_basename: Prism
 file_dpath: Elementalist/9th-Level Features
+flavor: You split your essence, allowing you to cast multiple effects at once.
 item_id: prism-11-essence
 item_index: '02'
 item_name: Prism (11 Essence)
+keywords:
+  - Magic
+  - Void
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.9th-level-feature:prism-11-essence
 scdc:
   - 1.1.1:13.2.9.7:02
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/9th-level-feature
+target: Self
+type: Main action
 ---
 
 ###### Prism (11 Essence)

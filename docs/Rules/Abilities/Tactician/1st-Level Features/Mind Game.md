@@ -3,19 +3,27 @@ class: tactician
 cost: 5 Focus
 cost_amount: 5
 cost_resource: Focus
+distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: Mind Game
 file_dpath: Tactician/1st-Level Features
+flavor: Your attack demoralizes your foe. Your allies begin to think you can win.
 item_id: mind-game-5-focus
 item_index: '12'
 item_name: Mind Game (5 Focus)
+keywords:
+  - Melee
+  - Ranged
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:mind-game-5-focus
 scdc:
   - 1.1.1:13.2.4.1:12
 source: mcdm.heroes.v1
-type: feature/ability/tactician/1st-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Mind Game (5 Focus)

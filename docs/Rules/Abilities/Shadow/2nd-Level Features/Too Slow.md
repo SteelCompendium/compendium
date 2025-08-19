@@ -3,19 +3,24 @@ class: shadow
 cost: 5 Insight
 cost_amount: 5
 cost_resource: Insight
+distance: Self; see below
 feature_type: ability
 file_basename: Too Slow
 file_dpath: Shadow/2nd-Level Features
+flavor: Your foe made a big mistake.
 item_id: too-slow-5-insight
 item_index: '03'
 item_name: Too Slow (5 Insight)
+keywords:
+  - '-'
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:too-slow-5-insight
 scdc:
   - 1.1.1:13.2.2.5:03
 source: mcdm.heroes.v1
-type: feature/ability/shadow/2nd-level-feature
+target: Self
+type: Free triggered
 ---
 
 ###### Too Slow (5 Insight)

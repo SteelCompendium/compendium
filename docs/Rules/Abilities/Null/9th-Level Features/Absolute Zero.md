@@ -3,19 +3,24 @@ class: 'null'
 cost: 11 Discipline
 cost_amount: 11
 cost_resource: Discipline
+distance: Self
 feature_type: ability
 file_basename: Absolute Zero
 file_dpath: Null/9th-Level Features
+flavor: You become the coldest thing in the timescape.
 item_id: absolute-zero-11-discipline
 item_index: '01'
 item_name: Absolute Zero (11 Discipline)
+keywords:
+  - Psionic
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.null.9th-level-feature:absolute-zero-11-discipline
 scdc:
   - 1.1.1:13.2.6.6:01
 source: mcdm.heroes.v1
-type: feature/ability/null/9th-level-feature
+target: Self
+type: Maneuver
 ---
 
 ###### Absolute Zero (11 Discipline)

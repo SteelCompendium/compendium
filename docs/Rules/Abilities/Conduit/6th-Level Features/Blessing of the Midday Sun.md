@@ -3,19 +3,25 @@ class: conduit
 cost: 9 Piety
 cost_amount: 9
 cost_resource: Piety
+distance: 4 aura
 feature_type: ability
 file_basename: Blessing of the Midday Sun
 file_dpath: Conduit/6th-Level Features
+flavor: Your body emits a heat that bakes your enemies and inspires your allies.
 item_id: blessing-of-the-midday-sun-9-piety
 item_index: '07'
 item_name: Blessing of the Midday Sun (9 Piety)
+keywords:
+  - Area
+  - Magic
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:blessing-of-the-midday-sun-9-piety
 scdc:
   - 1.1.1:13.2.8.3:07
 source: mcdm.heroes.v1
-type: feature/ability/conduit/6th-level-feature
+target: Self and each creature in the area
+type: Maneuver
 ---
 
 ###### Blessing of the Midday Sun (9 Piety)

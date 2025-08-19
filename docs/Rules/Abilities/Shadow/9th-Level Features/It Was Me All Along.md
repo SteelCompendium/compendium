@@ -3,19 +3,26 @@ class: shadow
 cost: 11 Insight
 cost_amount: 11
 cost_resource: Insight
+distance: Melee 1
 feature_type: ability
 file_basename: It Was Me All Along
 file_dpath: Shadow/9th-Level Features
+flavor: After everything you've been through together, you twist the blade and make the pain extra personal.
 item_id: it-was-me-all-along-11-insight
 item_index: '03'
 item_name: It Was Me All Along (11 Insight)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:it-was-me-all-along-11-insight
 scdc:
   - 1.1.1:13.2.2.7:03
 source: mcdm.heroes.v1
-type: feature/ability/shadow/9th-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### It Was Me All Along (11 Insight)

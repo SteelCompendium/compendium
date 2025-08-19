@@ -3,19 +3,25 @@ class: conduit
 cost: 9 Piety
 cost_amount: 9
 cost_resource: Piety
+distance: 4 burst
 feature_type: ability
 file_basename: Invocation of Mystery
 file_dpath: Conduit/6th-Level Features
+flavor: '"Now you see us..."'
 item_id: invocation-of-mystery-9-piety
 item_index: '05'
 item_name: Invocation of Mystery (9 Piety)
+keywords:
+  - Area
+  - Magic
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:invocation-of-mystery-9-piety
 scdc:
   - 1.1.1:13.2.8.3:05
 source: mcdm.heroes.v1
-type: feature/ability/conduit/6th-level-feature
+target: Self and each ally in the area
+type: Maneuver
 ---
 
 ###### Invocation of Mystery (9 Piety)

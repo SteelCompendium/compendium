@@ -3,19 +3,27 @@ class: talent
 cost: 5 Clarity
 cost_amount: 5
 cost_resource: Clarity
+distance: Ranged 10
 feature_type: ability
 file_basename: Levity and Gravity
 file_dpath: Talent/2nd-Level Features
+flavor: You raise the target slightly into the air, then smother them against the ground.
 item_id: levity-and-gravity-5-clarity
 item_index: '01'
 item_name: Levity and Gravity (5 Clarity)
+keywords:
+  - Psionic
+  - Ranged
+  - Strike
+  - Telekinesis
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:levity-and-gravity-5-clarity
 scdc:
   - 1.1.1:13.2.1.5:01
 source: mcdm.heroes.v1
-type: feature/ability/talent/2nd-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Levity and Gravity (5 Clarity)

@@ -1,18 +1,24 @@
 ---
 class: tactician
+distance: Melee 2
 feature_type: ability
 file_basename: Parry
 file_dpath: Tactician/1st-Level Features
+flavor: Your quick reflexes cost an enemy the precision they seek.
 item_id: parry
 item_index: '01'
 item_name: Parry
+keywords:
+  - Melee
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:parry
 scdc:
   - 1.1.1:13.2.4.1:01
 source: mcdm.heroes.v1
-type: feature/ability/tactician/1st-level-feature
+target: Self or one ally
+type: Triggered
 ---
 
 ###### Parry

@@ -3,19 +3,27 @@ class: troubadour
 cost: 11 Drama
 cost_amount: 11
 cost_resource: Drama
+distance: Melee 3
 feature_type: ability
 file_basename: Expert Fencer
 file_dpath: Troubadour/9th-Level Features
+flavor: If you can land the strike, the crowd goes wild.
 item_id: expert-fencer-11-drama
 item_index: '02'
 item_name: Expert Fencer (11 Drama)
+keywords:
+  - Charge
+  - Melee
+  - Strike
+  - Weapon
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:expert-fencer-11-drama
 scdc:
   - 1.1.1:13.2.3.7:02
 source: mcdm.heroes.v1
-type: feature/ability/troubadour/9th-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Expert Fencer (11 Drama)

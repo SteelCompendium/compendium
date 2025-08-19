@@ -3,19 +3,26 @@ class: censor
 cost: 3 Wrath
 cost_amount: 3
 cost_resource: Wrath
+distance: Melee 1
 feature_type: ability
 file_basename: Driving Assault
 file_dpath: Censor/1st-Level Features
+flavor: As you force your enemy back with your weapon, you use your faith to stay close.
 item_id: driving-assault-3-wrath
 item_index: '17'
 item_name: Driving Assault (3 Wrath)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:driving-assault-3-wrath
 scdc:
   - 1.1.1:13.2.7.1:17
 source: mcdm.heroes.v1
-type: feature/ability/censor/1st-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Driving Assault (3 Wrath)

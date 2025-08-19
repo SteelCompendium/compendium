@@ -1,18 +1,26 @@
 ---
 class: 'null'
+distance: Melee 1
 feature_type: ability
 file_basename: Joint Lock
 file_dpath: Null/1st-Level Features
+flavor: You contort your enemy's body into a stance they struggle to escape from.
 item_id: joint-lock
 item_index: '06'
 item_name: Joint Lock
+keywords:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:joint-lock
 scdc:
   - 1.1.1:13.2.6.1:06
 source: mcdm.heroes.v1
-type: feature/ability/null/1st-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Joint Lock

@@ -3,19 +3,24 @@ class: shadow
 cost: 7 Insight
 cost_amount: 7
 cost_resource: Insight
+distance: Self
 feature_type: ability
 file_basename: Dancer
 file_dpath: Shadow/3rd-Level Features
+flavor: You enter a flow state that makes you nearly impossible to pin down.
 item_id: dancer-7-insight
 item_index: '05'
 item_name: Dancer (7 Insight)
+keywords:
+  - '-'
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:dancer-7-insight
 scdc:
   - 1.1.1:13.2.2.6:05
 source: mcdm.heroes.v1
-type: feature/ability/shadow/3rd-level-feature
+target: Self
+type: Maneuver
 ---
 
 ###### Dancer (7 Insight)

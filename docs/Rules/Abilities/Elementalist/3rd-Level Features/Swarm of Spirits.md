@@ -3,19 +3,26 @@ class: elementalist
 cost: 7 Essence
 cost_amount: 7
 cost_resource: Essence
+distance: 3 aura
 feature_type: ability
 file_basename: Swarm of Spirits
 file_dpath: Elementalist/3rd-Level Features
+flavor: Guardian animal spirits surround you to harry your foes and bolster your allies.
 item_id: swarm-of-spirits-7-essence
 item_index: '04'
 item_name: Swarm of Spirits (7 Essence)
+keywords:
+  - Area
+  - Green
+  - Magic
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:swarm-of-spirits-7-essence
 scdc:
   - 1.1.1:13.2.9.6:04
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/3rd-level-feature
+target: Each enemy in the area
+type: Main action
 ---
 
 ###### Swarm of Spirits (7 Essence)

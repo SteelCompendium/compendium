@@ -3,19 +3,28 @@ class: troubadour
 cost: 7 Drama
 cost_amount: 7
 cost_resource: Drama
+distance: Melee 1 or ranged 10
 feature_type: ability
 file_basename: Star Solo
 file_dpath: Troubadour/3rd-Level Features
+flavor: Your performance travels and doesn't stop moving until your audience is completely rocked.
 item_id: star-solo-7-drama
 item_index: '01'
 item_name: Star Solo (7 Drama)
+keywords:
+  - Magic
+  - Melee
+  - Ranged
+  - Strike
+  - Weapon
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:star-solo-7-drama
 scdc:
   - 1.1.1:13.2.3.6:01
 source: mcdm.heroes.v1
-type: feature/ability/troubadour/3rd-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Star Solo (7 Drama)

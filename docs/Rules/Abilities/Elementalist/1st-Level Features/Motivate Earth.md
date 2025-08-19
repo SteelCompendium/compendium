@@ -1,18 +1,25 @@
 ---
 class: elementalist
+distance: Ranged 10
 feature_type: ability
 file_basename: Motivate Earth
 file_dpath: Elementalist/1st-Level Features
+flavor: The earth rises, falls, or opens up at your command.
 item_id: motivate-earth
 item_index: '21'
 item_name: Motivate Earth
+keywords:
+  - Earth
+  - Magic
+  - Melee
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:motivate-earth
 scdc:
   - 1.1.1:13.2.9.1:21
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/1st-level-feature
+target: Special
+type: Main action
 ---
 
 ###### Motivate Earth

@@ -1,18 +1,23 @@
 ---
 class: tactician
+distance: Ranged 10
 feature_type: ability
 file_basename: Mark
 file_dpath: Tactician/1st-Level Features
+flavor: You draw your allies' attention to a specific foe-with devastating effect.
 item_id: mark
 item_index: '11'
 item_name: Mark
+keywords:
+  - Ranged
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:mark
 scdc:
   - 1.1.1:13.2.4.1:11
 source: mcdm.heroes.v1
-type: feature/ability/tactician/1st-level-feature
+target: One creature
+type: Maneuver
 ---
 
 ###### Mark

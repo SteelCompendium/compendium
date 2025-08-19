@@ -3,19 +3,27 @@ class: 'null'
 cost: 9 Discipline
 cost_amount: 9
 cost_resource: Discipline
+distance: Melee 1
 feature_type: ability
 file_basename: Anticipating Strike
 file_dpath: Null/4th-Level Features
+flavor: You suddenly strike an enemy, then grab them in a psionically enhanced grip.
 item_id: anticipating-strike-9-discipline
 item_index: '01'
 item_name: Anticipating Strike (9 Discipline)
+keywords:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.null.4th-level-feature:anticipating-strike-9-discipline
 scdc:
   - 1.1.1:13.2.6.7:01
 source: mcdm.heroes.v1
-type: feature/ability/null/4th-level-feature
+target: One creature
+type: Free triggered
 ---
 
 ###### Anticipating Strike (9 Discipline)

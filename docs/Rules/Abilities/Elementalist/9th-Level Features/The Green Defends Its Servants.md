@@ -3,19 +3,26 @@ class: elementalist
 cost: 11 Essence
 cost_amount: 11
 cost_resource: Essence
+distance: Ranged 10
 feature_type: ability
 file_basename: The Green Defends Its Servants
 file_dpath: Elementalist/9th-Level Features
+flavor: A luminous green shield shows its true beauty the more it cracks.
 item_id: the-green-defends-its-servants-11-essence
 item_index: '03'
 item_name: The Green Defends Its Servants (11 Essence)
+keywords:
+  - Green
+  - Magic
+  - Ranged
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.9th-level-feature:the-green-defends-its-servants-11-essence
 scdc:
   - 1.1.1:13.2.9.7:03
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/9th-level-feature
+target: Self or one ally
+type: Maneuver
 ---
 
 ###### The Green Defends Its Servants (11 Essence)

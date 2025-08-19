@@ -3,19 +3,24 @@ class: fury
 cost: 11 Ferocity
 cost_amount: 11
 cost_resource: Ferocity
+distance: Self
 feature_type: ability
 file_basename: Elemental Ferocity
 file_dpath: Fury/8th-Level Features
+flavor: Your primordial energy makes for instant retribution.
 item_id: elemental-ferocity-11-ferocity
 item_index: '04'
 item_name: Elemental Ferocity (11 Ferocity)
+keywords:
+  - Magic
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.fury.8th-level-feature:elemental-ferocity-11-ferocity
 scdc:
   - 1.1.1:13.2.5.2:04
 source: mcdm.heroes.v1
-type: feature/ability/fury/8th-level-feature
+target: Self
+type: Maneuver
 ---
 
 ###### Elemental Ferocity (11 Ferocity)

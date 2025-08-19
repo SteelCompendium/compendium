@@ -3,19 +3,26 @@ class: conduit
 cost: 11 Piety
 cost_amount: 11
 cost_resource: Piety
+distance: 15 wall within 10
 feature_type: ability
 file_basename: Righteous Phalanx
 file_dpath: Conduit/9th-Level Features
+flavor: A wall of spinning swords and knives appears where you wish.
 item_id: righteous-phalanx-11-piety
 item_index: 09
 item_name: Righteous Phalanx (11 Piety)
+keywords:
+  - Area
+  - Magic
+  - Ranged
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:righteous-phalanx-11-piety
 scdc:
   - 1.1.1:13.2.8.7:09
 source: mcdm.heroes.v1
-type: feature/ability/conduit/9th-level-feature
+target: Special
+type: Main action
 ---
 
 ###### Righteous Phalanx (11 Piety)

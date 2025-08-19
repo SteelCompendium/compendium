@@ -3,19 +3,24 @@ class: tactician
 cost: 11 Focus
 cost_amount: 11
 cost_resource: Focus
+distance: Self
 feature_type: ability
 file_basename: Counterstrategy
 file_dpath: Tactician/9th-Level Features
+flavor: I've identified a way to negate their strengths.
 item_id: counterstrategy-11-focus
 item_index: '01'
 item_name: Counterstrategy (11 Focus)
+keywords:
+  - '-'
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:counterstrategy-11-focus
 scdc:
   - 1.1.1:13.2.4.7:01
 source: mcdm.heroes.v1
-type: feature/ability/tactician/9th-level-feature
+target: Self
+type: Main action
 ---
 
 ###### Counterstrategy (11 Focus)

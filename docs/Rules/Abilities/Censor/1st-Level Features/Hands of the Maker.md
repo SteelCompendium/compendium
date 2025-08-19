@@ -1,18 +1,23 @@
 ---
 class: censor
+distance: Self
 feature_type: ability
 file_basename: Hands of the Maker
 file_dpath: Censor/1st-Level Features
+flavor: You craft objects with the power of your mind.
 item_id: hands-of-the-maker
 item_index: '10'
 item_name: Hands of the Maker
+keywords:
+  - Magic
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:hands-of-the-maker
 scdc:
   - 1.1.1:13.2.7.1:10
 source: mcdm.heroes.v1
-type: feature/ability/censor/1st-level-feature
+target: Self
+type: Maneuver
 ---
 
 ###### Hands of the Maker

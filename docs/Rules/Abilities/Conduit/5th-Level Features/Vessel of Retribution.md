@@ -3,19 +3,25 @@ class: conduit
 cost: 9 Piety
 cost_amount: 9
 cost_resource: Piety
+distance: Ranged 10
 feature_type: ability
 file_basename: Vessel of Retribution
 file_dpath: Conduit/5th-Level Features
+flavor: You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.
 item_id: vessel-of-retribution-9-piety
 item_index: '02'
 item_name: Vessel of Retribution (9 Piety)
+keywords:
+  - Magic
+  - Ranged
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:vessel-of-retribution-9-piety
 scdc:
   - 1.1.1:13.2.8.4:02
 source: mcdm.heroes.v1
-type: feature/ability/conduit/5th-level-feature
+target: Self or one ally
+type: Maneuver
 ---
 
 ###### Vessel of Retribution (9 Piety)

@@ -3,19 +3,25 @@ class: troubadour
 cost: 11 Drama
 cost_amount: 11
 cost_resource: Drama
+distance: 5 burst
 feature_type: ability
 file_basename: Jam Session
 file_dpath: Troubadour/9th-Level Features
+flavor: Your jam session creates new genres that compel everyone to get up and move.
 item_id: jam-session-11-drama
 item_index: '01'
 item_name: Jam Session (11 Drama)
+keywords:
+  - Area
+  - Magic
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:jam-session-11-drama
 scdc:
   - 1.1.1:13.2.3.7:01
 source: mcdm.heroes.v1
-type: feature/ability/troubadour/9th-level-feature
+target: Each enemy in the area
+type: Main action
 ---
 
 ###### Jam Session (11 Drama)

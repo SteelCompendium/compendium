@@ -1,18 +1,24 @@
 ---
 class: shadow
+distance: Ranged 5
 feature_type: ability
 file_basename: Night Watch
 file_dpath: Shadow/4th-Level Features
+flavor: A steely dagger from out of the blue knocks another weapon off course.
 item_id: night-watch
 item_index: '01'
 item_name: Night Watch
+keywords:
+  - Ranged
+  - Weapon
 level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.4th-level-feature:night-watch
 scdc:
   - 1.1.1:13.2.2.8:01
 source: mcdm.heroes.v1
-type: feature/ability/shadow/4th-level-feature
+target: One ally
+type: Triggered
 ---
 
 ###### Night Watch

@@ -3,19 +3,26 @@ class: elementalist
 cost: 5 Essence
 cost_amount: 5
 cost_resource: Essence
+distance: Ranged 10
 feature_type: ability
 file_basename: No More Than a Breeze
 file_dpath: Elementalist/1st-Level Features
+flavor: The material substance of a creature shreds away at your command.
 item_id: no-more-than-a-breeze-5-essence
 item_index: '07'
 item_name: No More Than a Breeze (5 Essence)
+keywords:
+  - Magic
+  - Ranged
+  - Void
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:no-more-than-a-breeze-5-essence
 scdc:
   - 1.1.1:13.2.9.1:07
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/1st-level-feature
+target: Self or one ally
+type: Maneuver
 ---
 
 ###### No More Than a Breeze (5 Essence)

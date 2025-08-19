@@ -3,19 +3,26 @@ class: censor
 cost: 5 Wrath
 cost_amount: 5
 cost_resource: Wrath
+distance: Melee 1
 feature_type: ability
 file_basename: Censored
 file_dpath: Censor/1st-Level Features
+flavor: Judged and sentenced.
 item_id: censored-5-wrath
 item_index: '12'
 item_name: Censored (5 Wrath)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:censored-5-wrath
 scdc:
   - 1.1.1:13.2.7.1:12
 source: mcdm.heroes.v1
-type: feature/ability/censor/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Censored (5 Wrath)

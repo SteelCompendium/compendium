@@ -3,19 +3,27 @@ class: shadow
 cost: 9 Insight
 cost_amount: 9
 cost_resource: Insight
+distance: Melee 1
 feature_type: ability
 file_basename: Into the Shadows
 file_dpath: Shadow/5th-Level Features
+flavor: You sweep your foe off their feet and plunge them into absolute darkness.
 item_id: into-the-shadows-9-insight
 item_index: '02'
 item_name: Into the Shadows (9 Insight)
+keywords:
+  - Magic
+  - Melee
+  - Strike
+  - Weapon
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.5th-level-feature:into-the-shadows-9-insight
 scdc:
   - 1.1.1:13.2.2.4:02
 source: mcdm.heroes.v1
-type: feature/ability/shadow/5th-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Into the Shadows (9 Insight)

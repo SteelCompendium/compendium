@@ -1,18 +1,23 @@
 ---
 class: shadow
+distance: Self
 feature_type: ability
 file_basename: Defensive Roll
 file_dpath: Shadow/1st-Level Features
+flavor: When an enemy attacks, you roll with the impact to reduce the harm.
 item_id: defensive-roll
 item_index: '13'
 item_name: Defensive Roll
+keywords:
+  - '-'
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:defensive-roll
 scdc:
   - 1.1.1:13.2.2.1:13
 source: mcdm.heroes.v1
-type: feature/ability/shadow/1st-level-feature
+target: Self
+type: Triggered
 ---
 
 ###### Defensive Roll

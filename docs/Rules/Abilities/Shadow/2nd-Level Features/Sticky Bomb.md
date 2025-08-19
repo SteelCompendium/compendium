@@ -3,19 +3,24 @@ class: shadow
 cost: 5 Insight
 cost_amount: 5
 cost_resource: Insight
+distance: Ranged 10
 feature_type: ability
 file_basename: Sticky Bomb
 file_dpath: Shadow/2nd-Level Features
+flavor: Explosives are best when they're attached to an enemy.
 item_id: sticky-bomb-5-insight
 item_index: '01'
 item_name: Sticky Bomb (5 Insight)
+keywords:
+  - Ranged
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:sticky-bomb-5-insight
 scdc:
   - 1.1.1:13.2.2.5:01
 source: mcdm.heroes.v1
-type: feature/ability/shadow/2nd-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Sticky Bomb (5 Insight)

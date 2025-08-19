@@ -3,19 +3,24 @@ class: tactician
 cost: 5 Focus
 cost_amount: 5
 cost_resource: Focus
+distance: 1 burst
 feature_type: ability
 file_basename: Squad On Me
 file_dpath: Tactician/2nd-Level Features
+flavor: Together we are invincible!
 item_id: squad-on-me-5-focus
 item_index: '04'
 item_name: Squad! On Me! (5 Focus)
+keywords:
+  - Area
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:squad-on-me-5-focus
 scdc:
   - 1.1.1:13.2.4.5:04
 source: mcdm.heroes.v1
-type: feature/ability/tactician/2nd-level-feature
+target: Self and each ally in the area
+type: Maneuver
 ---
 
 ###### Squad! On Me! (5 Focus)

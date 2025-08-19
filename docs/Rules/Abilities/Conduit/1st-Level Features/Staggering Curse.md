@@ -1,18 +1,25 @@
 ---
 class: conduit
+distance: Melee 1
 feature_type: ability
 file_basename: Staggering Curse
 file_dpath: Conduit/1st-Level Features
+flavor: A blast of judgment disorients your foe.
 item_id: staggering-curse
 item_index: '11'
 item_name: Staggering Curse
+keywords:
+  - Magic
+  - Melee
+  - Strike
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:staggering-curse
 scdc:
   - 1.1.1:13.2.8.1:11
 source: mcdm.heroes.v1
-type: feature/ability/conduit/1st-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Staggering Curse

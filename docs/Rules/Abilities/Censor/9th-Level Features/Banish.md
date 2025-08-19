@@ -3,19 +3,26 @@ class: censor
 cost: 11 Wrath
 cost_amount: 11
 cost_resource: Wrath
+distance: Melee 1
 feature_type: ability
 file_basename: Banish
 file_dpath: Censor/9th-Level Features
+flavor: You sever the target's tenuous connection to the world.
 item_id: banish-11-wrath
 item_index: '05'
 item_name: Banish (11 Wrath)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.censor.9th-level-feature:banish-11-wrath
 scdc:
   - 1.1.1:13.2.7.7:05
 source: mcdm.heroes.v1
-type: feature/ability/censor/9th-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Banish (11 Wrath)

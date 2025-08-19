@@ -3,19 +3,25 @@ class: 'null'
 cost: 11 Discipline
 cost_amount: 11
 cost_resource: Discipline
+distance: 3 cube within 1
 feature_type: ability
 file_basename: Scalar Assault
 file_dpath: Null/8th-Level Features
+flavor: You warp reality to grow a limb for just a moment and make a single devastating attack.
 item_id: scalar-assault-11-discipline
 item_index: '02'
 item_name: Scalar Assault (11 Discipline)
+keywords:
+  - Area
+  - Psionic
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.null.8th-level-feature:scalar-assault-11-discipline
 scdc:
   - 1.1.1:13.2.6.2:02
 source: mcdm.heroes.v1
-type: feature/ability/null/8th-level-feature
+target: Each enemy in the area
+type: Main action
 ---
 
 ###### Scalar Assault (11 Discipline)

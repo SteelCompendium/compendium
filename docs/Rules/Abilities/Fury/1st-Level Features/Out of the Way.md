@@ -3,19 +3,26 @@ class: fury
 cost: 3 Ferocity
 cost_amount: 3
 cost_resource: Ferocity
+distance: Melee 1
 feature_type: ability
 file_basename: Out of the Way
 file_dpath: Fury/1st-Level Features
+flavor: Your enemies will clear your path-whether they want to or not.
 item_id: out-of-the-way-3-ferocity
 item_index: '04'
 item_name: Out of the Way! (3 Ferocity)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:out-of-the-way-3-ferocity
 scdc:
   - 1.1.1:13.2.5.1:04
 source: mcdm.heroes.v1
-type: feature/ability/fury/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Out of the Way! (3 Ferocity)

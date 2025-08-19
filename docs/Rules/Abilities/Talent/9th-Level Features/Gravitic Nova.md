@@ -3,19 +3,26 @@ class: talent
 cost: 11 Clarity
 cost_amount: 11
 cost_resource: Clarity
+distance: 3 burst
 feature_type: ability
 file_basename: Gravitic Nova
 file_dpath: Talent/9th-Level Features
+flavor: Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.
 item_id: gravitic-nova-11-clarity
 item_index: '05'
 item_name: Gravitic Nova (11 Clarity)
+keywords:
+  - Area
+  - Psionic
+  - Telekinesis
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:gravitic-nova-11-clarity
 scdc:
   - 1.1.1:13.2.1.7:05
 source: mcdm.heroes.v1
-type: feature/ability/talent/9th-level-feature
+target: Each enemy and object in the area
+type: Main action
 ---
 
 ###### Gravitic Nova (11 Clarity)

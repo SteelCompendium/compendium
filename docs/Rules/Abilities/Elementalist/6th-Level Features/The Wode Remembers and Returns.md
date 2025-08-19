@@ -3,19 +3,28 @@ class: elementalist
 cost: 9 Essence
 cost_amount: 9
 cost_resource: Essence
+distance: 4 burst
 feature_type: ability
 file_basename: The Wode Remembers and Returns
 file_dpath: Elementalist/6th-Level Features
+flavor: You create a terrarium that spans from canopy above to underbrush below.
 item_id: the-wode-remembers-and-returns-9-essence
 item_index: '03'
 item_name: The Wode Remembers and Returns (9 Essence)
+keywords:
+  - Area
+  - Earth
+  - Green
+  - Magic
+  - Void
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.6th-level-feature:the-wode-remembers-and-returns-9-essence
 scdc:
   - 1.1.1:13.2.9.3:03
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/6th-level-feature
+target: Special
+type: Main action
 ---
 
 ###### The Wode Remembers and Returns (9 Essence)

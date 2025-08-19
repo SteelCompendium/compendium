@@ -3,19 +3,25 @@ class: censor
 cost: 9 Wrath
 cost_amount: 9
 cost_resource: Wrath
+distance: 3 aura
 feature_type: ability
 file_basename: Edict of Peace
 file_dpath: Censor/6th-Level Features
+flavor: You anticipate your foes' moves and deny them.
 item_id: edict-of-peace-9-wrath
 item_index: '03'
 item_name: Edict of Peace (9 Wrath)
+keywords:
+  - Area
+  - Magic
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:edict-of-peace-9-wrath
 scdc:
   - 1.1.1:13.2.7.3:03
 source: mcdm.heroes.v1
-type: feature/ability/censor/6th-level-feature
+target: Each enemy in the area
+type: Maneuver
 ---
 
 ###### Edict of Peace (9 Wrath)

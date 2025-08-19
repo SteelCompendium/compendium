@@ -3,19 +3,26 @@ class: censor
 cost: 3 Wrath
 cost_amount: 3
 cost_resource: Wrath
+distance: Ranged 10
 feature_type: ability
 file_basename: Repent
 file_dpath: Censor/1st-Level Features
+flavor: You conjure memories of their sins to harry your foes.
 item_id: repent-3-wrath
 item_index: '05'
 item_name: Repent! (3 Wrath)
+keywords:
+  - Magic
+  - Ranged
+  - Strike
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:repent-3-wrath
 scdc:
   - 1.1.1:13.2.7.1:05
 source: mcdm.heroes.v1
-type: feature/ability/censor/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Repent! (3 Wrath)

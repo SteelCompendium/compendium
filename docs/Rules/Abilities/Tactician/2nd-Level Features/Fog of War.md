@@ -3,19 +3,24 @@ class: tactician
 cost: 5 Focus
 cost_amount: 5
 cost_resource: Focus
+distance: Ranged 10
 feature_type: ability
 file_basename: Fog of War
 file_dpath: Tactician/2nd-Level Features
+flavor: Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.
 item_id: fog-of-war-5-focus
 item_index: '05'
 item_name: Fog of War (5 Focus)
+keywords:
+  - Ranged
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:fog-of-war-5-focus
 scdc:
   - 1.1.1:13.2.4.5:05
 source: mcdm.heroes.v1
-type: feature/ability/tactician/2nd-level-feature
+target: Two creatures
+type: Maneuver
 ---
 
 ###### Fog of War (5 Focus)

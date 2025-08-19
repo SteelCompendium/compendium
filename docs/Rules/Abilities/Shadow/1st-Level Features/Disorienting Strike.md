@@ -3,19 +3,26 @@ class: shadow
 cost: 3 Insight
 cost_amount: 3
 cost_resource: Insight
+distance: Melee 1
 feature_type: ability
 file_basename: Disorienting Strike
 file_dpath: Shadow/1st-Level Features
+flavor: Your attack leaves them reeling, allowing you to follow up.
 item_id: disorienting-strike-3-insight
 item_index: '16'
 item_name: Disorienting Strike (3 Insight)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:disorienting-strike-3-insight
 scdc:
   - 1.1.1:13.2.2.1:16
 source: mcdm.heroes.v1
-type: feature/ability/shadow/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Disorienting Strike (3 Insight)

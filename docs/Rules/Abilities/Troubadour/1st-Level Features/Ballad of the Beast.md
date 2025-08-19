@@ -1,18 +1,25 @@
 ---
 class: troubadour
+distance: 5 aura
 feature_type: ability
 file_basename: Ballad of the Beast
 file_dpath: Troubadour/1st-Level Features
+flavor: Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪
 item_id: ballad-of-the-beast
 item_index: '22'
 item_name: '"Ballad of the Beast"'
+keywords:
+  - Area
+  - Magic
+  - Performance
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:ballad-of-the-beast
 scdc:
   - 1.1.1:13.2.3.1:22
 source: mcdm.heroes.v1
-type: feature/ability/troubadour/1st-level-feature
+target: Self and each ally in the area
+type: No action
 ---
 
 ###### "Ballad of the Beast"

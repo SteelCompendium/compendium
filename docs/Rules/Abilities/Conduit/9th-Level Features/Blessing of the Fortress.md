@@ -3,19 +3,25 @@ class: conduit
 cost: 11 Piety
 cost_amount: 11
 cost_resource: Piety
+distance: Self; see below
 feature_type: ability
 file_basename: Blessing of the Fortress
 file_dpath: Conduit/9th-Level Features
+flavor: A magic circle extends out from you, barring foes from getting close.
 item_id: blessing-of-the-fortress-11-piety
 item_index: '04'
 item_name: Blessing of the Fortress (11 Piety)
+keywords:
+  - Area
+  - Magic
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:blessing-of-the-fortress-11-piety
 scdc:
   - 1.1.1:13.2.8.7:04
 source: mcdm.heroes.v1
-type: feature/ability/conduit/9th-level-feature
+target: Self
+type: Maneuver
 ---
 
 ###### Blessing of the Fortress (11 Piety)

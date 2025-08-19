@@ -3,19 +3,24 @@ class: troubadour
 cost: 1 Drama
 cost_amount: 1
 cost_resource: Drama
+distance: Self
 feature_type: ability
 file_basename: Star Power
 file_dpath: Troubadour/1st-Level Features
+flavor: Your years of practicing fencing and dancing pay off on the battlefield.
 item_id: star-power-1-drama
 item_index: '21'
 item_name: Star Power (1 Drama)
+keywords:
+  - '-'
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:star-power-1-drama
 scdc:
   - 1.1.1:13.2.3.1:21
 source: mcdm.heroes.v1
-type: feature/ability/troubadour/1st-level-feature
+target: Self
+type: Maneuver
 ---
 
 ###### Star Power (1 Drama)

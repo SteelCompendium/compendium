@@ -3,19 +3,26 @@ class: shadow
 cost: 11 Insight
 cost_amount: 11
 cost_resource: Insight
+distance: Melee 1 or ranged 10
 feature_type: ability
 file_basename: To the Stars
 file_dpath: Shadow/9th-Level Features
+flavor: You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.
 item_id: to-the-stars-11-insight
 item_index: '05'
 item_name: To the Stars (11 Insight)
+keywords:
+  - Melee
+  - Ranged
+  - Strike
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:to-the-stars-11-insight
 scdc:
   - 1.1.1:13.2.2.7:05
 source: mcdm.heroes.v1
-type: feature/ability/shadow/9th-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### To the Stars (11 Insight)

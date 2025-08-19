@@ -3,19 +3,25 @@ class: conduit
 cost: 9 Piety
 cost_amount: 9
 cost_resource: Piety
+distance: 4 aura
 feature_type: ability
 file_basename: Aura of Souls
 file_dpath: Conduit/6th-Level Features
+flavor: A whirlwind of souls of the dead flies around you at your command.
 item_id: aura-of-souls-9-piety
 item_index: '02'
 item_name: Aura of Souls (9 Piety)
+keywords:
+  - Area
+  - Magic
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:aura-of-souls-9-piety
 scdc:
   - 1.1.1:13.2.8.3:02
 source: mcdm.heroes.v1
-type: feature/ability/conduit/6th-level-feature
+target: Each creature in the area
+type: Maneuver
 ---
 
 ###### Aura of Souls (9 Piety)

@@ -3,19 +3,25 @@ class: censor
 cost: 9 Wrath
 cost_amount: 9
 cost_resource: Wrath
+distance: Ranged 10
 feature_type: ability
 file_basename: Trinity of Trickery
 file_dpath: Censor/7th-Level Features
+flavor: Hey! I'm over here. No, here, numbskull.
 item_id: trinity-of-trickery-9-wrath
 item_index: '02'
 item_name: Trinity of Trickery (9 Wrath)
+keywords:
+  - Magic
+  - Ranged
 level: 7
 scc:
   - mcdm.heroes.v1:feature.ability.censor.7th-level-feature:trinity-of-trickery-9-wrath
 scdc:
   - 1.1.1:13.2.7.8:02
 source: mcdm.heroes.v1
-type: feature/ability/censor/7th-level-feature
+target: Self or one ally
+type: Maneuver
 ---
 
 ###### Trinity of Trickery (9 Wrath)

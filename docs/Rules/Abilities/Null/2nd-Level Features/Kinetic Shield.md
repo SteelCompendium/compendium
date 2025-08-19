@@ -3,19 +3,24 @@ class: 'null'
 cost: 5 Discipline
 cost_amount: 5
 cost_resource: Discipline
+distance: Self
 feature_type: ability
 file_basename: Kinetic Shield
 file_dpath: Null/2nd-Level Features
+flavor: You manifest a force barrier that absorbs incoming kinetic energy.
 item_id: kinetic-shield-5-discipline
 item_index: '05'
 item_name: Kinetic Shield (5 Discipline)
+keywords:
+  - Psionic
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.null.2nd-level-feature:kinetic-shield-5-discipline
 scdc:
   - 1.1.1:13.2.6.4:05
 source: mcdm.heroes.v1
-type: feature/ability/null/2nd-level-feature
+target: Self
+type: Maneuver
 ---
 
 ###### Kinetic Shield (5 Discipline)

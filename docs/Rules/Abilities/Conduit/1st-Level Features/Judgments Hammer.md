@@ -3,19 +3,26 @@ class: conduit
 cost: 3 Piety
 cost_amount: 3
 cost_resource: Piety
+distance: Ranged 10
 feature_type: ability
 file_basename: Judgments Hammer
 file_dpath: Conduit/1st-Level Features
+flavor: Your divine fury is a hammer that crashes down upon the unrighteous.
 item_id: judgments-hammer-3-piety
 item_index: '17'
 item_name: Judgment's Hammer (3 Piety)
+keywords:
+  - Magic
+  - Ranged
+  - Strike
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:judgments-hammer-3-piety
 scdc:
   - 1.1.1:13.2.8.1:17
 source: mcdm.heroes.v1
-type: feature/ability/conduit/1st-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Judgment's Hammer (3 Piety)

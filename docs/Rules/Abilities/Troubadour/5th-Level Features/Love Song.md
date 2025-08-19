@@ -3,19 +3,25 @@ class: troubadour
 cost: 9 Drama
 cost_amount: 9
 cost_resource: Drama
+distance: Ranged 10
 feature_type: ability
 file_basename: Love Song
 file_dpath: Troubadour/5th-Level Features
+flavor: You play a small ditty that plants you inside your target's heart.
 item_id: love-song-9-drama
 item_index: '03'
 item_name: Love Song (9 Drama)
+keywords:
+  - Magic
+  - Ranged
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:love-song-9-drama
 scdc:
   - 1.1.1:13.2.3.4:03
 source: mcdm.heroes.v1
-type: feature/ability/troubadour/5th-level-feature
+target: One creature or object
+type: Maneuver
 ---
 
 ###### Love Song (9 Drama)

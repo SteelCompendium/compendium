@@ -3,19 +3,28 @@ class: elementalist
 cost: 5 Essence
 cost_amount: 5
 cost_resource: Essence
+distance: 3 cube within 10
 feature_type: ability
 file_basename: O Flower Aid O Earth Defend
 file_dpath: Elementalist/2nd-Level Features
+flavor: Revitalizing plants and jagged stones grow, helping allies and hindering foes.
 item_id: o-flower-aid-o-earth-defend-5-essence
 item_index: '01'
 item_name: O Flower Aid, O Earth Defend (5 Essence)
+keywords:
+  - Area
+  - Earth
+  - Green
+  - Magic
+  - Ranged
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:o-flower-aid-o-earth-defend-5-essence
 scdc:
   - 1.1.1:13.2.9.5:01
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/2nd-level-feature
+target: Special
+type: Maneuver
 ---
 
 ###### O Flower Aid, O Earth Defend (5 Essence)

@@ -3,19 +3,27 @@ class: fury
 cost: 11 Ferocity
 cost_amount: 11
 cost_resource: Ferocity
+distance: Melee 1
 feature_type: ability
 file_basename: Primordial Bane
 file_dpath: Fury/9th-Level Features
+flavor: You attune the target to be weaker to a specific element.
 item_id: primordial-bane-11-ferocity
 item_index: '04'
 item_name: Primordial Bane (11 Ferocity)
+keywords:
+  - Magic
+  - Melee
+  - Strike
+  - Weapon
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:primordial-bane-11-ferocity
 scdc:
   - 1.1.1:13.2.5.6:04
 source: mcdm.heroes.v1
-type: feature/ability/fury/9th-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Primordial Bane (11 Ferocity)

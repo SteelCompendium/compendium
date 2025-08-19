@@ -3,19 +3,27 @@ class: 'null'
 cost: 11 Discipline
 cost_amount: 11
 cost_resource: Discipline
+distance: Melee 1
 feature_type: ability
 file_basename: Realitas
 file_dpath: Null/9th-Level Features
+flavor: Your essential hyperreality disrupts your enemy's connection to existence.
 item_id: realitas-11-discipline
 item_index: '06'
 item_name: Realitas (11 Discipline)
+keywords:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.null.9th-level-feature:realitas-11-discipline
 scdc:
   - 1.1.1:13.2.6.6:06
 source: mcdm.heroes.v1
-type: feature/ability/null/9th-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Realitas (11 Discipline)

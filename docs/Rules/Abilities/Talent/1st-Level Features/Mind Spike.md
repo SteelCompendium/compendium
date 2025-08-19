@@ -1,18 +1,26 @@
 ---
 class: talent
+distance: Ranged 10
 feature_type: ability
 file_basename: Mind Spike
 file_dpath: Talent/1st-Level Features
+flavor: A telepathic bolt instantly zaps a creature's brain.
 item_id: mind-spike
 item_index: '20'
 item_name: Mind Spike
+keywords:
+  - Psionic
+  - Ranged
+  - Strike
+  - Telepathy
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:mind-spike
 scdc:
   - 1.1.1:13.2.1.1:20
 source: mcdm.heroes.v1
-type: feature/ability/talent/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Mind Spike

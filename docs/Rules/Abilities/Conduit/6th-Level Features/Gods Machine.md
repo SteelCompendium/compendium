@@ -3,19 +3,25 @@ class: conduit
 cost: 9 Piety
 cost_amount: 9
 cost_resource: Piety
+distance: Ranged 10
 feature_type: ability
 file_basename: Gods Machine
 file_dpath: Conduit/6th-Level Features
+flavor: You conjure a whirring tank made of blades and metal.
 item_id: gods-machine-9-piety
 item_index: '12'
 item_name: Gods' Machine (9 Piety)
+keywords:
+  - Magic
+  - Ranged
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:gods-machine-9-piety
 scdc:
   - 1.1.1:13.2.8.3:12
 source: mcdm.heroes.v1
-type: feature/ability/conduit/6th-level-feature
+target: Special
+type: Main action
 ---
 
 ###### Gods' Machine (9 Piety)

@@ -3,19 +3,27 @@ class: 'null'
 cost: 5 Discipline
 cost_amount: 5
 cost_resource: Discipline
+distance: Melee 3
 feature_type: ability
 file_basename: Gravitic Strike
 file_dpath: Null/2nd-Level Features
+flavor: Your fist emanates gravitic force that pulls a distant enemy closer.
 item_id: gravitic-strike-5-discipline
 item_index: '03'
 item_name: Gravitic Strike (5 Discipline)
+keywords:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.null.2nd-level-feature:gravitic-strike-5-discipline
 scdc:
   - 1.1.1:13.2.6.4:03
 source: mcdm.heroes.v1
-type: feature/ability/null/2nd-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Gravitic Strike (5 Discipline)

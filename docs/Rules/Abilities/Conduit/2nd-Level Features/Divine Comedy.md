@@ -3,19 +3,25 @@ class: conduit
 cost: 5 Piety
 cost_amount: 5
 cost_resource: Piety
+distance: 5 burst
 feature_type: ability
 file_basename: Divine Comedy
 file_dpath: Conduit/2nd-Level Features
+flavor: You and your allies swap places to confound your foes.
 item_id: divine-comedy-5-piety
 item_index: '06'
 item_name: Divine Comedy (5 Piety)
+keywords:
+  - Area
+  - Magic
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:divine-comedy-5-piety
 scdc:
   - 1.1.1:13.2.8.5:06
 source: mcdm.heroes.v1
-type: feature/ability/conduit/2nd-level-feature
+target: Self and each ally in the area
+type: Maneuver
 ---
 
 ###### Divine Comedy (5 Piety)

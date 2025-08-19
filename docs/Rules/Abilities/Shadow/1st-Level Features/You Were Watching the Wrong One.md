@@ -1,18 +1,25 @@
 ---
 class: shadow
+distance: Melee 1
 feature_type: ability
 file_basename: You Were Watching the Wrong One
 file_dpath: Shadow/1st-Level Features
+flavor: They can't watch both of you at once.
 item_id: you-were-watching-the-wrong-one
 item_index: '14'
 item_name: You Were Watching the Wrong One
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:you-were-watching-the-wrong-one
 scdc:
   - 1.1.1:13.2.2.1:14
 source: mcdm.heroes.v1
-type: feature/ability/shadow/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### You Were Watching the Wrong One

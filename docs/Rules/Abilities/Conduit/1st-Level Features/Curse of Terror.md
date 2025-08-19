@@ -3,19 +3,26 @@ class: conduit
 cost: 5 Piety
 cost_amount: 5
 cost_resource: Piety
+distance: Ranged 10
 feature_type: ability
 file_basename: Curse of Terror
 file_dpath: Conduit/1st-Level Features
+flavor: Fear of divine judgment overwhelms your foe.
 item_id: curse-of-terror-5-piety
 item_index: '07'
 item_name: Curse of Terror (5 Piety)
+keywords:
+  - Magic
+  - Ranged
+  - Strike
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:curse-of-terror-5-piety
 scdc:
   - 1.1.1:13.2.8.1:07
 source: mcdm.heroes.v1
-type: feature/ability/conduit/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Curse of Terror (5 Piety)

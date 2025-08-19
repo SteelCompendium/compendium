@@ -1,18 +1,25 @@
 ---
 class: censor
+distance: Melee 1
 feature_type: ability
 file_basename: Halt Miscreant
 file_dpath: Censor/1st-Level Features
+flavor: You infuse your weapon with holy magic that makes it difficult for your foe to get away.
 item_id: halt-miscreant
 item_index: '16'
 item_name: Halt Miscreant!
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:halt-miscreant
 scdc:
   - 1.1.1:13.2.7.1:16
 source: mcdm.heroes.v1
-type: feature/ability/censor/1st-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Halt Miscreant!

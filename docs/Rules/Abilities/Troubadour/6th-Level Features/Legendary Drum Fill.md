@@ -3,19 +3,25 @@ class: troubadour
 cost: 9 Drama
 cost_amount: 9
 cost_resource: Drama
+distance: 4 burst
 feature_type: ability
 file_basename: Legendary Drum Fill
 file_dpath: Troubadour/6th-Level Features
+flavor: You start a drumroll that roars like thunder with every impact the heroes make.
 item_id: legendary-drum-fill-9-drama
 item_index: '04'
 item_name: Legendary Drum Fill (9 Drama)
+keywords:
+  - Area
+  - Magic
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:legendary-drum-fill-9-drama
 scdc:
   - 1.1.1:13.2.3.3:04
 source: mcdm.heroes.v1
-type: feature/ability/troubadour/6th-level-feature
+target: Self and each ally in the area
+type: Maneuver
 ---
 
 ###### Legendary Drum Fill (9 Drama)

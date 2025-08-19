@@ -3,19 +3,26 @@ class: conduit
 cost: 11 Piety
 cost_amount: 11
 cost_resource: Piety
+distance: Ranged 10
 feature_type: ability
 file_basename: Drag the Unworthy
 file_dpath: Conduit/8th-Level Features
+flavor: You conjure an angel who moves a foe and heals your allies.
 item_id: drag-the-unworthy-11-piety
 item_index: '04'
 item_name: Drag the Unworthy (11 Piety)
+keywords:
+  - Magic
+  - Ranged
+  - Strike
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.8th-level-feature:drag-the-unworthy-11-piety
 scdc:
   - 1.1.1:13.2.8.2:04
 source: mcdm.heroes.v1
-type: feature/ability/conduit/8th-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Drag the Unworthy (11 Piety)

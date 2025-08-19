@@ -1,18 +1,25 @@
 ---
 class: fury
+distance: Melee 1
 feature_type: ability
 file_basename: To the Death
 file_dpath: Fury/1st-Level Features
+flavor: Your reckless assault leaves you tactically vulnerable.
 item_id: to-the-death
 item_index: '02'
 item_name: To the Death!
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:to-the-death
 scdc:
   - 1.1.1:13.2.5.1:02
 source: mcdm.heroes.v1
-type: feature/ability/fury/1st-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### To the Death!

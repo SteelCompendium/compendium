@@ -3,19 +3,27 @@ class: shadow
 cost: 7 Insight
 cost_amount: 7
 cost_resource: Insight
+distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: Misdirecting Strike
 file_dpath: Shadow/3rd-Level Features
+flavor: '"Why are you looking at ME?!"'
 item_id: misdirecting-strike-7-insight
 item_index: '03'
 item_name: Misdirecting Strike (7 Insight)
+keywords:
+  - Melee
+  - Ranged
+  - Strike
+  - Weapon
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:misdirecting-strike-7-insight
 scdc:
   - 1.1.1:13.2.2.6:03
 source: mcdm.heroes.v1
-type: feature/ability/shadow/3rd-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Misdirecting Strike (7 Insight)

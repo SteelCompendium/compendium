@@ -3,19 +3,28 @@ class: elementalist
 cost: 9 Essence
 cost_amount: 9
 cost_resource: Essence
+distance: Ranged 10
 feature_type: ability
 file_basename: Meteor
 file_dpath: Elementalist/6th-Level Features
+flavor: You teleport the target into the air and let the ground and the elemental force of fire do the rest.
 item_id: meteor-9-essence
 item_index: '01'
 item_name: Meteor (9 Essence)
+keywords:
+  - Earth
+  - Fire
+  - Magic
+  - Ranged
+  - Void
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.6th-level-feature:meteor-9-essence
 scdc:
   - 1.1.1:13.2.9.3:01
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/6th-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Meteor (9 Essence)

@@ -3,19 +3,25 @@ class: troubadour
 cost: 5 Drama
 cost_amount: 5
 cost_resource: Drama
+distance: 3 burst
 feature_type: ability
 file_basename: Flip the Script
 file_dpath: Troubadour/1st-Level Features
+flavor: You try a different take on events, justifying the new locations everyone ended up in.
 item_id: flip-the-script-5-drama
 item_index: '10'
 item_name: Flip the Script (5 Drama)
+keywords:
+  - Area
+  - Magic
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:flip-the-script-5-drama
 scdc:
   - 1.1.1:13.2.3.1:10
 source: mcdm.heroes.v1
-type: feature/ability/troubadour/1st-level-feature
+target: Self and each ally in the area
+type: Main action
 ---
 
 ###### Flip the Script (5 Drama)

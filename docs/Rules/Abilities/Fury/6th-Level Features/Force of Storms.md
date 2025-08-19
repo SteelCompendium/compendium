@@ -3,19 +3,26 @@ class: fury
 cost: 9 Ferocity
 cost_amount: 9
 cost_resource: Ferocity
+distance: Melee 1
 feature_type: ability
 file_basename: Force of Storms
 file_dpath: Fury/6th-Level Features
+flavor: You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.
 item_id: force-of-storms-9-ferocity
 item_index: '02'
 item_name: Force of Storms (9 Ferocity)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:force-of-storms-9-ferocity
 scdc:
   - 1.1.1:13.2.5.3:02
 source: mcdm.heroes.v1
-type: feature/ability/fury/6th-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Force of Storms (9 Ferocity)

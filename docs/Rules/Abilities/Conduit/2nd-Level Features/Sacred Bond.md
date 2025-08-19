@@ -3,19 +3,25 @@ class: conduit
 cost: 5 Piety
 cost_amount: 5
 cost_resource: Piety
+distance: Ranged 10
 feature_type: ability
 file_basename: Sacred Bond
 file_dpath: Conduit/2nd-Level Features
+flavor: You forge a divine connection between two creatures.
 item_id: sacred-bond-5-piety
 item_index: '05'
 item_name: Sacred Bond (5 Piety)
+keywords:
+  - Magic
+  - Ranged
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:sacred-bond-5-piety
 scdc:
   - 1.1.1:13.2.8.5:05
 source: mcdm.heroes.v1
-type: feature/ability/conduit/2nd-level-feature
+target: Self and one ally
+type: Maneuver
 ---
 
 ###### Sacred Bond (5 Piety)

@@ -3,19 +3,27 @@ class: elementalist
 cost: 11 Essence
 cost_amount: 11
 cost_resource: Essence
+distance: 5 cube within 10
 feature_type: ability
 file_basename: Earth Rejects You
 file_dpath: Elementalist/9th-Level Features
+flavor: Everyone and everything gets blown away in an eruption of rocks and debris.
 item_id: earth-rejects-you-11-essence
 item_index: '01'
 item_name: Earth Rejects You (11 Essence)
+keywords:
+  - Area
+  - Earth
+  - Magic
+  - Ranged
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.9th-level-feature:earth-rejects-you-11-essence
 scdc:
   - 1.1.1:13.2.9.7:01
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/9th-level-feature
+target: Each enemy and object in the area
+type: Main action
 ---
 
 ###### Earth Rejects You (11 Essence)

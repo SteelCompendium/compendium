@@ -1,18 +1,23 @@
 ---
 class: shadow
+distance: Self
 feature_type: ability
 file_basename: In All This Confusion
 file_dpath: Shadow/1st-Level Features
+flavor: You vanish in a plume of black smoke to avoid danger.
 item_id: in-all-this-confusion
 item_index: '04'
 item_name: In All This Confusion
+keywords:
+  - Magic
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:in-all-this-confusion
 scdc:
   - 1.1.1:13.2.2.1:04
 source: mcdm.heroes.v1
-type: feature/ability/shadow/1st-level-feature
+target: Self
+type: Triggered
 ---
 
 ###### In All This Confusion

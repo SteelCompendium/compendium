@@ -3,19 +3,26 @@ class: censor
 cost: 9 Wrath
 cost_amount: 9
 cost_resource: Wrath
+distance: Melee 1
 feature_type: ability
 file_basename: Righteous Judgment
 file_dpath: Censor/5th-Level Features
+flavor: You amplify the power of your judgment.
 item_id: righteous-judgment-9-wrath
 item_index: '01'
 item_name: Righteous Judgment (9 Wrath)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.censor.5th-level-feature:righteous-judgment-9-wrath
 scdc:
   - 1.1.1:13.2.7.4:01
 source: mcdm.heroes.v1
-type: feature/ability/censor/5th-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Righteous Judgment (9 Wrath)

@@ -1,18 +1,24 @@
 ---
 class: talent
+distance: 3 burst
 feature_type: ability
 file_basename: Levitation Field
 file_dpath: Talent/8th-Level Features
+flavor: You manipulate the air around your allies so they can move as freely through the sky as you can.
 item_id: levitation-field
 item_index: '02'
 item_name: Levitation Field
+keywords:
+  - Area
+  - Psionic
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:levitation-field
 scdc:
   - 1.1.1:13.2.1.2:02
 source: mcdm.heroes.v1
-type: feature/ability/talent/8th-level-feature
+target: Each ally in the area
+type: Maneuver
 ---
 
 ###### Levitation Field

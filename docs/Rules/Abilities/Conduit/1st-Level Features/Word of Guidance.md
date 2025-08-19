@@ -1,18 +1,24 @@
 ---
 class: conduit
+distance: Ranged 10
 feature_type: ability
 file_basename: Word of Guidance
 file_dpath: Conduit/1st-Level Features
+flavor: You invigorate an attacking ally with divine energy.
 item_id: word-of-guidance
 item_index: '14'
 item_name: Word of Guidance
+keywords:
+  - Magic
+  - Ranged
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:word-of-guidance
 scdc:
   - 1.1.1:13.2.8.1:14
 source: mcdm.heroes.v1
-type: feature/ability/conduit/1st-level-feature
+target: One ally
+type: Triggered
 ---
 
 ###### Word of Guidance

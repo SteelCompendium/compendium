@@ -3,19 +3,25 @@ class: censor
 cost: 7 Wrath
 cost_amount: 7
 cost_resource: Wrath
+distance: 2 aura
 feature_type: ability
 file_basename: Edict of Stillness
 file_dpath: Censor/3rd-Level Features
+flavor: The holy aura you project makes it painful for evil-doers to leave your reach.
 item_id: edict-of-stillness-7-wrath
 item_index: '04'
 item_name: Edict of Stillness (7 Wrath)
+keywords:
+  - Area
+  - Magic
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.censor.3rd-level-feature:edict-of-stillness-7-wrath
 scdc:
   - 1.1.1:13.2.7.6:04
 source: mcdm.heroes.v1
-type: feature/ability/censor/3rd-level-feature
+target: Each enemy in the area
+type: Maneuver
 ---
 
 ###### Edict of Stillness (7 Wrath)

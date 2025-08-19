@@ -3,19 +3,24 @@ class: 'null'
 cost: 9 Discipline
 cost_amount: 9
 cost_resource: Discipline
+distance: Self
 feature_type: ability
 file_basename: Phase Leap
 file_dpath: Null/4th-Level Features
+flavor: You leap beyond reality, leaving an afterimage of yourself.
 item_id: phase-leap-9-discipline
 item_index: '04'
 item_name: Phase Leap (9 Discipline)
+keywords:
+  - Psionic
 level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.null.4th-level-feature:phase-leap-9-discipline
 scdc:
   - 1.1.1:13.2.6.7:04
 source: mcdm.heroes.v1
-type: feature/ability/null/4th-level-feature
+target: Self
+type: Move
 ---
 
 ###### Phase Leap (9 Discipline)

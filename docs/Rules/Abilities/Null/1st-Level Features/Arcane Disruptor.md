@@ -3,19 +3,27 @@ class: 'null'
 cost: 5 Discipline
 cost_amount: 5
 cost_resource: Discipline
+distance: Melee 1
 feature_type: ability
 file_basename: Arcane Disruptor
 file_dpath: Null/1st-Level Features
+flavor: Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.
 item_id: arcane-disruptor-5-discipline
 item_index: '15'
 item_name: Arcane Disruptor (5 Discipline)
+keywords:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:arcane-disruptor-5-discipline
 scdc:
   - 1.1.1:13.2.6.1:15
 source: mcdm.heroes.v1
-type: feature/ability/null/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Arcane Disruptor (5 Discipline)

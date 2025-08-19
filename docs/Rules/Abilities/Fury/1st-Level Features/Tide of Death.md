@@ -3,19 +3,25 @@ class: fury
 cost: 3 Ferocity
 cost_amount: 3
 cost_resource: Ferocity
+distance: Self; see below
 feature_type: ability
 file_basename: Tide of Death
 file_dpath: Fury/1st-Level Features
+flavor: Teach them the folly of lining up for you.
 item_id: tide-of-death-3-ferocity
 item_index: '10'
 item_name: Tide of Death (3 Ferocity)
+keywords:
+  - Melee
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:tide-of-death-3-ferocity
 scdc:
   - 1.1.1:13.2.5.1:10
 source: mcdm.heroes.v1
-type: feature/ability/fury/1st-level-feature
+target: Self
+type: Main action
 ---
 
 ###### Tide of Death (3 Ferocity)

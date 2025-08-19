@@ -3,19 +3,26 @@ class: conduit
 cost: 5 Piety
 cost_amount: 5
 cost_resource: Piety
+distance: 3 cube within 10
 feature_type: ability
 file_basename: Saints Tempest
 file_dpath: Conduit/2nd-Level Features
+flavor: A raging storm appears, striking your foes with lightning and throwing them around with wind.
 item_id: saints-tempest-5-piety
 item_index: '01'
 item_name: Saint's Tempest (5 Piety)
+keywords:
+  - Area
+  - Magic
+  - Ranged
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:saints-tempest-5-piety
 scdc:
   - 1.1.1:13.2.8.5:01
 source: mcdm.heroes.v1
-type: feature/ability/conduit/2nd-level-feature
+target: Each enemy in the area
+type: Main action
 ---
 
 ###### Saint's Tempest (5 Piety)

@@ -3,19 +3,24 @@ class: tactician
 cost: 11 Focus
 cost_amount: 11
 cost_resource: Focus
+distance: Ranged 10
 feature_type: ability
 file_basename: Finish Them
 file_dpath: Tactician/8th-Level Features
+flavor: You point out an opening to your ally so they can land a killing blow.
 item_id: finish-them-11-focus
 item_index: '04'
 item_name: Finish Them! (11 Focus)
+keywords:
+  - Ranged
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:finish-them-11-focus
 scdc:
   - 1.1.1:13.2.4.2:04
 source: mcdm.heroes.v1
-type: feature/ability/tactician/8th-level-feature
+target: One creature
+type: Free triggered
 ---
 
 ###### Finish Them! (11 Focus)

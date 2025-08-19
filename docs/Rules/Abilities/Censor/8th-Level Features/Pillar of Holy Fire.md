@@ -3,19 +3,26 @@ class: censor
 cost: 11 Wrath
 cost_amount: 11
 cost_resource: Wrath
+distance: Melee 1
 feature_type: ability
 file_basename: Pillar of Holy Fire
 file_dpath: Censor/8th-Level Features
+flavor: Your enemy's guilt fuels a holy flame that burns your foes.
 item_id: pillar-of-holy-fire-11-wrath
 item_index: '01'
 item_name: Pillar of Holy Fire (11 Wrath)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.censor.8th-level-feature:pillar-of-holy-fire-11-wrath
 scdc:
   - 1.1.1:13.2.7.2:01
 source: mcdm.heroes.v1
-type: feature/ability/censor/8th-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Pillar of Holy Fire (11 Wrath)

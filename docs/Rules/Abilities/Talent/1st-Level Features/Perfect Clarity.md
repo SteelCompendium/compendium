@@ -3,19 +3,26 @@ class: talent
 cost: 5 Clarity
 cost_amount: 5
 cost_resource: Clarity
+distance: Ranged 10
 feature_type: ability
 file_basename: Perfect Clarity
 file_dpath: Talent/1st-Level Features
+flavor: You clear the mind of nothing but the goal.
 item_id: perfect-clarity-5-clarity
 item_index: '06'
 item_name: Perfect Clarity (5 Clarity)
+keywords:
+  - Psionic
+  - Ranged
+  - Telepathy
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:perfect-clarity-5-clarity
 scdc:
   - 1.1.1:13.2.1.1:06
 source: mcdm.heroes.v1
-type: feature/ability/talent/1st-level-feature
+target: Self or one ally
+type: Maneuver
 ---
 
 ###### Perfect Clarity (5 Clarity)

@@ -1,18 +1,26 @@
 ---
 class: talent
+distance: Ranged 10
 feature_type: ability
 file_basename: Entropic Bolt
 file_dpath: Talent/1st-Level Features
+flavor: You advance an enemy's age for a moment.
 item_id: entropic-bolt
 item_index: '15'
 item_name: Entropic Bolt
+keywords:
+  - Chronopathy
+  - Psionic
+  - Ranged
+  - Strike
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:entropic-bolt
 scdc:
   - 1.1.1:13.2.1.1:15
 source: mcdm.heroes.v1
-type: feature/ability/talent/1st-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Entropic Bolt

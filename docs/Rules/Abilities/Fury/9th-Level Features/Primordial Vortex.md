@@ -3,19 +3,27 @@ class: fury
 cost: 11 Ferocity
 cost_amount: 11
 cost_resource: Ferocity
+distance: 3 burst
 feature_type: ability
 file_basename: Primordial Vortex
 file_dpath: Fury/9th-Level Features
+flavor: You channel the power of the Primordial Chaos to pull foes to you.
 item_id: primordial-vortex-11-ferocity
 item_index: '06'
 item_name: Primordial Vortex (11 Ferocity)
+keywords:
+  - Area
+  - Magic
+  - Melee
+  - Weapon
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:primordial-vortex-11-ferocity
 scdc:
   - 1.1.1:13.2.5.6:06
 source: mcdm.heroes.v1
-type: feature/ability/fury/9th-level-feature
+target: Each enemy in the area
+type: Main action
 ---
 
 ###### Primordial Vortex (11 Ferocity)

@@ -3,19 +3,26 @@ class: troubadour
 cost: 5 Drama
 cost_amount: 5
 cost_resource: Drama
+distance: Melee 1
 feature_type: ability
 file_basename: Classic Chandelier Stunt
 file_dpath: Troubadour/2nd-Level Features
+flavor: Audiences love this bit.
 item_id: classic-chandelier-stunt-5-drama
 item_index: '06'
 item_name: Classic Chandelier Stunt (5 Drama)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:classic-chandelier-stunt-5-drama
 scdc:
   - 1.1.1:13.2.3.5:06
 source: mcdm.heroes.v1
-type: feature/ability/troubadour/2nd-level-feature
+target: Self and one willing ally
+type: Main action
 ---
 
 ###### Classic Chandelier Stunt (5 Drama)

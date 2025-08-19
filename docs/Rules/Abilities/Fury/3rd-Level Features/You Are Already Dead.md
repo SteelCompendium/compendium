@@ -3,19 +3,26 @@ class: fury
 cost: 7 Ferocity
 cost_amount: 7
 cost_resource: Ferocity
+distance: Melee 1
 feature_type: ability
 file_basename: You Are Already Dead
 file_dpath: Fury/3rd-Level Features
+flavor: Slash. Walk away.
 item_id: you-are-already-dead-7-ferocity
 item_index: '04'
 item_name: You Are Already Dead (7 Ferocity)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.fury.3rd-level-feature:you-are-already-dead-7-ferocity
 scdc:
   - 1.1.1:13.2.5.5:04
 source: mcdm.heroes.v1
-type: feature/ability/fury/3rd-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### You Are Already Dead (7 Ferocity)

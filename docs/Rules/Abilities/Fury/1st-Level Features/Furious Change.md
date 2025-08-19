@@ -1,18 +1,23 @@
 ---
 class: fury
+distance: Ranged 10
 feature_type: ability
 file_basename: Furious Change
 file_dpath: Fury/1st-Level Features
+flavor: In your anger, you revert to a more bestial form.
 item_id: furious-change
 item_index: '14'
 item_name: Furious Change
+keywords:
+  - '-'
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:furious-change
 scdc:
   - 1.1.1:13.2.5.1:14
 source: mcdm.heroes.v1
-type: feature/ability/fury/1st-level-feature
+target: One enemy
+type: Triggered
 ---
 
 ###### Furious Change

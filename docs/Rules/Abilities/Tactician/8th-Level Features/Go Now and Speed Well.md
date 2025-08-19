@@ -3,19 +3,24 @@ class: tactician
 cost: 11 Focus
 cost_amount: 11
 cost_resource: Focus
+distance: Ranged 10
 feature_type: ability
 file_basename: Go Now and Speed Well
 file_dpath: Tactician/8th-Level Features
+flavor: You direct an attack to strike true.
 item_id: go-now-and-speed-well-11-focus
 item_index: '01'
 item_name: Go Now and Speed Well (11 Focus)
+keywords:
+  - Ranged
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:go-now-and-speed-well-11-focus
 scdc:
   - 1.1.1:13.2.4.2:01
 source: mcdm.heroes.v1
-type: feature/ability/tactician/8th-level-feature
+target: Self or one ally
+type: Main action
 ---
 
 ###### Go Now and Speed Well (11 Focus)

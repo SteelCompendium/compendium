@@ -3,19 +3,25 @@ class: shadow
 cost: 11 Insight
 cost_amount: 11
 cost_resource: Insight
+distance: Ranged 10
 feature_type: ability
 file_basename: I Am You
 file_dpath: Shadow/9th-Level Features
+flavor: Your mask reflects your foe's face. Surely they won't need it much longer.
 item_id: i-am-you-11-insight
 item_index: '01'
 item_name: I Am You (11 Insight)
+keywords:
+  - Magic
+  - Ranged
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:i-am-you-11-insight
 scdc:
   - 1.1.1:13.2.2.7:01
 source: mcdm.heroes.v1
-type: feature/ability/shadow/9th-level-feature
+target: One creature
+type: Maneuver
 ---
 
 ###### I Am You (11 Insight)

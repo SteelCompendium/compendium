@@ -3,19 +3,26 @@ class: talent
 cost: 5 Clarity
 cost_amount: 5
 cost_resource: Clarity
+distance: 1 burst
 feature_type: ability
 file_basename: Gravitic Burst
 file_dpath: Talent/2nd-Level Features
+flavor: Everyone get away from me!
 item_id: gravitic-burst-5-clarity
 item_index: '05'
 item_name: Gravitic Burst (5 Clarity)
+keywords:
+  - Area
+  - Psionic
+  - Telekinesis
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:gravitic-burst-5-clarity
 scdc:
   - 1.1.1:13.2.1.5:05
 source: mcdm.heroes.v1
-type: feature/ability/talent/2nd-level-feature
+target: Each enemy in the area
+type: Main action
 ---
 
 ###### Gravitic Burst (5 Clarity)

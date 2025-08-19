@@ -3,19 +3,24 @@ class: shadow
 cost: 9 Insight
 cost_amount: 9
 cost_resource: Insight
+distance: 4 burst
 feature_type: ability
 file_basename: Cinderstorm
 file_dpath: Shadow/6th-Level Features
+flavor: You teleport your friends in a burst of ash and fire.
 item_id: cinderstorm-9-insight
 item_index: '02'
 item_name: Cinderstorm (9 Insight)
+keywords:
+  - Magic
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:cinderstorm-9-insight
 scdc:
   - 1.1.1:13.2.2.3:02
 source: mcdm.heroes.v1
-type: feature/ability/shadow/6th-level-feature
+target: Self and each ally in the area
+type: Maneuver
 ---
 
 ###### Cinderstorm (9 Insight)

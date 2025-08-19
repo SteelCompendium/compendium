@@ -3,19 +3,27 @@ class: shadow
 cost: 9 Insight
 cost_amount: 9
 cost_resource: Insight
+distance: Melee 1
 feature_type: ability
 file_basename: Puppet Strings
 file_dpath: Shadow/6th-Level Features
+flavor: You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.
 item_id: puppet-strings-9-insight
 item_index: '03'
 item_name: Puppet Strings (9 Insight)
+keywords:
+  - Magic
+  - Melee
+  - Strike
+  - Weapon
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:puppet-strings-9-insight
 scdc:
   - 1.1.1:13.2.2.3:03
 source: mcdm.heroes.v1
-type: feature/ability/shadow/6th-level-feature
+target: Two enemies
+type: Main action
 ---
 
 ###### Puppet Strings (9 Insight)

@@ -3,19 +3,27 @@ class: 'null'
 cost: 9 Discipline
 cost_amount: 9
 cost_resource: Discipline
+distance: Melee 1
 feature_type: ability
 file_basename: Iron Grip
 file_dpath: Null/4th-Level Features
+flavor: You grab the target with supernatural force.
 item_id: iron-grip-9-discipline
 item_index: '03'
 item_name: Iron Grip (9 Discipline)
+keywords:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.null.4th-level-feature:iron-grip-9-discipline
 scdc:
   - 1.1.1:13.2.6.7:03
 source: mcdm.heroes.v1
-type: feature/ability/null/4th-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### Iron Grip (9 Discipline)

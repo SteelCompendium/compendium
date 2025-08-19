@@ -3,19 +3,24 @@ class: 'null'
 cost: 5 Discipline
 cost_amount: 5
 cost_resource: Discipline
+distance: Self
 feature_type: ability
 file_basename: Heat Sink
 file_dpath: Null/2nd-Level Features
+flavor: You absorb ambient heat, coating the ground in frost and precipitating snow from the air.
 item_id: heat-sink-5-discipline
 item_index: '04'
 item_name: Heat Sink (5 Discipline)
+keywords:
+  - Psionic
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.null.2nd-level-feature:heat-sink-5-discipline
 scdc:
   - 1.1.1:13.2.6.4:04
 source: mcdm.heroes.v1
-type: feature/ability/null/2nd-level-feature
+target: Self
+type: Maneuver
 ---
 
 ###### Heat Sink (5 Discipline)

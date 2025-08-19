@@ -1,18 +1,23 @@
 ---
 class: censor
+distance: 3 aura
 feature_type: ability
 file_basename: Blessing of Secrets
 file_dpath: Censor/4th-Level Features
+flavor: You project an illusory aura that makes you and allies harder to notice.
 item_id: blessing-of-secrets
 item_index: '01'
 item_name: Blessing of Secrets
+keywords:
+  - Magic
 level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.censor.4th-level-feature:blessing-of-secrets
 scdc:
   - 1.1.1:13.2.7.9:01
 source: mcdm.heroes.v1
-type: feature/ability/censor/4th-level-feature
+target: Self and each ally in the area
+type: Maneuver
 ---
 
 ###### Blessing of Secrets

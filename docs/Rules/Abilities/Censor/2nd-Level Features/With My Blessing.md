@@ -3,19 +3,25 @@ class: censor
 cost: 5 Wrath
 cost_amount: 5
 cost_resource: Wrath
+distance: Ranged 10
 feature_type: ability
 file_basename: With My Blessing
 file_dpath: Censor/2nd-Level Features
+flavor: A word in prayer, and the gods show the way.
 item_id: with-my-blessing-5-wrath
 item_index: '03'
 item_name: With My Blessing (5 Wrath)
+keywords:
+  - Magic
+  - Ranged
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:with-my-blessing-5-wrath
 scdc:
   - 1.1.1:13.2.7.5:03
 source: mcdm.heroes.v1
-type: feature/ability/censor/2nd-level-feature
+target: Self or one ally
+type: Main action
 ---
 
 ###### With My Blessing (5 Wrath)

@@ -1,18 +1,24 @@
 ---
 class: talent
+distance: Ranged 10
 feature_type: ability
 file_basename: Remote Assistance
 file_dpath: Talent/1st-Level Features
+flavor: An ally gains the benefit of your intellect.
 item_id: remote-assistance
 item_index: '21'
 item_name: Remote Assistance
+keywords:
+  - Psionic
+  - Ranged
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:remote-assistance
 scdc:
   - 1.1.1:13.2.1.1:21
 source: mcdm.heroes.v1
-type: feature/ability/talent/1st-level-feature
+target: One creature or object
+type: Maneuver
 ---
 
 ###### Remote Assistance

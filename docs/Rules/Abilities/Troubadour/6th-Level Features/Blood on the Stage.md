@@ -3,19 +3,26 @@ class: troubadour
 cost: 9 Drama
 cost_amount: 9
 cost_resource: Drama
+distance: Melee 1
 feature_type: ability
 file_basename: Blood on the Stage
 file_dpath: Troubadour/6th-Level Features
+flavor: It's love and blood or drama and blood. Either way, there's always blood.
 item_id: blood-on-the-stage-9-drama
 item_index: '06'
 item_name: Blood on the Stage (9 Drama)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:blood-on-the-stage-9-drama
 scdc:
   - 1.1.1:13.2.3.3:06
 source: mcdm.heroes.v1
-type: feature/ability/troubadour/6th-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Blood on the Stage (9 Drama)

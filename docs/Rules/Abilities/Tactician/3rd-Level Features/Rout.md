@@ -3,19 +3,24 @@ class: tactician
 cost: 7 Focus
 cost_amount: 7
 cost_resource: Focus
+distance: Self
 feature_type: ability
 file_basename: Rout
 file_dpath: Tactician/3rd-Level Features
+flavor: The tide begins to turn.
 item_id: rout-7-focus
 item_index: '02'
 item_name: Rout (7 Focus)
+keywords:
+  - '-'
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.3rd-level-feature:rout-7-focus
 scdc:
   - 1.1.1:13.2.4.6:02
 source: mcdm.heroes.v1
-type: feature/ability/tactician/3rd-level-feature
+target: Self
+type: Maneuver
 ---
 
 ###### Rout (7 Focus)

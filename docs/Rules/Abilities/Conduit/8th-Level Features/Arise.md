@@ -3,19 +3,25 @@ class: conduit
 cost: 11 Piety
 cost_amount: 11
 cost_resource: Piety
+distance: Ranged 10
 feature_type: ability
 file_basename: Arise
 file_dpath: Conduit/8th-Level Features
+flavor: Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.
 item_id: arise-11-piety
 item_index: '02'
 item_name: Arise! (11 Piety)
+keywords:
+  - Magic
+  - Ranged
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.8th-level-feature:arise-11-piety
 scdc:
   - 1.1.1:13.2.8.2:02
 source: mcdm.heroes.v1
-type: feature/ability/conduit/8th-level-feature
+target: Self or one ally
+type: Main action
 ---
 
 ###### Arise! (11 Piety)

@@ -1,18 +1,23 @@
 ---
 class: conduit
+distance: Melee 1
 feature_type: ability
 file_basename: Grave Speech
 file_dpath: Abilities/Conduit/1st-Level Features
+flavor: You commune with the lingering soul of the recently dead.
 item_id: grave-speech
 item_index: '19'
 item_name: Grave Speech
+keywords:
+  - Magic
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:grave-speech
 scdc:
   - 1.1.1:13.2.8.1:19
 source: mcdm.heroes.v1
-type: feature/ability/conduit/1st-level-feature
+target: One dead creature
+type: Maneuver
 ---
 
 ###### Grave Speech

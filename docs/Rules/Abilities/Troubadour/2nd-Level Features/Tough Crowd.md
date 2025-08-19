@@ -3,19 +3,26 @@ class: troubadour
 cost: 5 Drama
 cost_amount: 5
 cost_resource: Drama
+distance: 3 cube within 10
 feature_type: ability
 file_basename: Tough Crowd
 file_dpath: Troubadour/2nd-Level Features
+flavor: Your fans don't seem to like the opening act...
 item_id: tough-crowd-5-drama
 item_index: '04'
 item_name: Tough Crowd (5 Drama)
+keywords:
+  - Area
+  - Magic
+  - Ranged
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:tough-crowd-5-drama
 scdc:
   - 1.1.1:13.2.3.5:04
 source: mcdm.heroes.v1
-type: feature/ability/troubadour/2nd-level-feature
+target: Special
+type: Main action
 ---
 
 ###### Tough Crowd (5 Drama)

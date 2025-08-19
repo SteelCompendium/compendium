@@ -3,19 +3,27 @@ class: talent
 cost: 7 Clarity
 cost_amount: 7
 cost_resource: Clarity
+distance: Ranged 10
 feature_type: ability
 file_basename: Fling Through Time
 file_dpath: Talent/3rd-Level Features
+flavor: You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.
 item_id: fling-through-time-7-clarity
 item_index: '03'
 item_name: Fling Through Time (7 Clarity)
+keywords:
+  - Chronopathy
+  - Psionic
+  - Ranged
+  - Strike
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:fling-through-time-7-clarity
 scdc:
   - 1.1.1:13.2.1.6:03
 source: mcdm.heroes.v1
-type: feature/ability/talent/3rd-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Fling Through Time (7 Clarity)

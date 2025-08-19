@@ -3,19 +3,26 @@ class: fury
 cost: 5 Ferocity
 cost_amount: 5
 cost_resource: Ferocity
+distance: Melee 1
 feature_type: ability
 file_basename: To the Uttermost End
 file_dpath: Fury/1st-Level Features
+flavor: You gut your life force to ensure a foe's demise.
 item_id: to-the-uttermost-end-5-ferocity
 item_index: '06'
 item_name: To the Uttermost End (5 Ferocity)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:to-the-uttermost-end-5-ferocity
 scdc:
   - 1.1.1:13.2.5.1:06
 source: mcdm.heroes.v1
-type: feature/ability/fury/1st-level-feature
+target: One creature
+type: Main action
 ---
 
 ###### To the Uttermost End (5 Ferocity)

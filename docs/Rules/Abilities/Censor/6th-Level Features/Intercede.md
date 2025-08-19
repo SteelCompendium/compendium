@@ -3,19 +3,25 @@ class: censor
 cost: 9 Wrath
 cost_amount: 9
 cost_resource: Wrath
+distance: Ranged 10
 feature_type: ability
 file_basename: Intercede
 file_dpath: Censor/6th-Level Features
+flavor: You take your ally's place.
 item_id: intercede-9-wrath
 item_index: '02'
 item_name: Intercede (9 Wrath)
+keywords:
+  - Magic
+  - Ranged
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:intercede-9-wrath
 scdc:
   - 1.1.1:13.2.7.3:02
 source: mcdm.heroes.v1
-type: feature/ability/censor/6th-level-feature
+target: One ally
+type: Free triggered
 ---
 
 ###### Intercede (9 Wrath)

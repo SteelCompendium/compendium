@@ -3,19 +3,27 @@ class: elementalist
 cost: 9 Essence
 cost_amount: 9
 cost_resource: Essence
+distance: Ranged 10
 feature_type: ability
 file_basename: Subverted Perception of Space
 file_dpath: Elementalist/5th-Level Features
+flavor: You rip an enemy's world in twain.
 item_id: subverted-perception-of-space-9-essence
 item_index: '01'
 item_name: Subverted Perception of Space (9 Essence)
+keywords:
+  - Magic
+  - Ranged
+  - Strike
+  - Void
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:subverted-perception-of-space-9-essence
 scdc:
   - 1.1.1:13.2.9.4:01
 source: mcdm.heroes.v1
-type: feature/ability/elementalist/5th-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Subverted Perception of Space (9 Essence)

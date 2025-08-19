@@ -3,19 +3,26 @@ class: censor
 cost: 3 Wrath
 cost_amount: 3
 cost_resource: Wrath
+distance: Melee 1
 feature_type: ability
 file_basename: Behold a Shield of Faith
 file_dpath: Censor/1st-Level Features
+flavor: A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.
 item_id: behold-a-shield-of-faith-3-wrath
 item_index: 08
 item_name: Behold a Shield of Faith! (3 Wrath)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:behold-a-shield-of-faith-3-wrath
 scdc:
   - 1.1.1:13.2.7.1:08
 source: mcdm.heroes.v1
-type: feature/ability/censor/1st-level-feature
+target: One creature or object
+type: Main action
 ---
 
 ###### Behold a Shield of Faith! (3 Wrath)

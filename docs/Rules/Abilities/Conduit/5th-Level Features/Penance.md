@@ -3,19 +3,26 @@ class: conduit
 cost: 9 Piety
 cost_amount: 9
 cost_resource: Piety
+distance: 4 cube within 10
 feature_type: ability
 file_basename: Penance
 file_dpath: Conduit/5th-Level Features
+flavor: "\"If you won't kneel, the gods will make you.\""
 item_id: penance-9-piety
 item_index: '01'
 item_name: Penance (9 Piety)
+keywords:
+  - Area
+  - Magic
+  - Ranged
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:penance-9-piety
 scdc:
   - 1.1.1:13.2.8.4:01
 source: mcdm.heroes.v1
-type: feature/ability/conduit/5th-level-feature
+target: Each enemy in the area
+type: Main action
 ---
 
 ###### Penance (9 Piety)

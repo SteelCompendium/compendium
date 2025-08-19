@@ -3,19 +3,25 @@ class: troubadour
 cost: 5 Drama
 cost_amount: 5
 cost_resource: Drama
+distance: Ranged 10
 feature_type: ability
 file_basename: Guest Star
 file_dpath: Troubadour/2nd-Level Features
+flavor: We offered them a percentage of the gross. So they're working for free!
 item_id: guest-star-5-drama
 item_index: '02'
 item_name: Guest Star (5 Drama)
+keywords:
+  - Magic
+  - Ranged
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:guest-star-5-drama
 scdc:
   - 1.1.1:13.2.3.5:02
 source: mcdm.heroes.v1
-type: feature/ability/troubadour/2nd-level-feature
+target: Special
+type: Main action
 ---
 
 ###### Guest Star (5 Drama)
