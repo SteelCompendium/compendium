@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: troubadour
 cost: 11 Drama
 cost_amount: 11
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.3.7:03
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/troubadour/9th-level-feature
 ---
 
 ###### Renegotiated Contract (11 Drama)

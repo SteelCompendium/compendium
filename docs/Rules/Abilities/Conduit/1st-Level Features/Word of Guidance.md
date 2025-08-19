@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: conduit
 distance: Ranged 10
 feature_type: ability
@@ -18,7 +19,7 @@ scdc:
   - 1.1.1:13.2.8.1:14
 source: mcdm.heroes.v1
 target: One ally
-type: Triggered
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Word of Guidance

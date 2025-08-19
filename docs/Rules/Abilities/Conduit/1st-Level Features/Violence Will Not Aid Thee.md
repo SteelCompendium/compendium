@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 cost: 3 Piety
 cost_amount: 3
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.8.1:21
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Violence Will Not Aid Thee (3 Piety)

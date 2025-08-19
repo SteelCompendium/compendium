@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: 'null'
 cost: 9 Discipline
 cost_amount: 9
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.6.3:06
 source: mcdm.heroes.v1
 target: Self
-type: Main action
+type: feature/ability/null/6th-level-feature
 ---
 
 ###### Phase Step (9 Discipline)

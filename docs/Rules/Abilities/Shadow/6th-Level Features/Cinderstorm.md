@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: shadow
 cost: 9 Insight
 cost_amount: 9
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.2.3:02
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: Maneuver
+type: feature/ability/shadow/6th-level-feature
 ---
 
 ###### Cinderstorm (9 Insight)

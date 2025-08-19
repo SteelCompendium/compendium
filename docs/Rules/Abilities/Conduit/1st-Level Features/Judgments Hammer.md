@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 cost: 3 Piety
 cost_amount: 3
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.8.1:17
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Judgment's Hammer (3 Piety)

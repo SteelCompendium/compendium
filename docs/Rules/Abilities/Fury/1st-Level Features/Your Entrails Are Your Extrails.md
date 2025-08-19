@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: fury
 cost: 3 Ferocity
 cost_amount: 3
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.5.1:03
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/fury/1st-level-feature
 ---
 
 ###### Your Entrails Are Your Extrails! (3 Ferocity)

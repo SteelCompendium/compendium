@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 distance: Self
 feature_type: ability
@@ -17,7 +18,7 @@ scdc:
   - 1.1.1:13.2.8.1:02
 source: mcdm.heroes.v1
 target: Self
-type: Main action
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Faithful Friend

@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: talent
 cost: 9 Clarity
 cost_amount: 9
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.1.4:02
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Maneuver
+type: feature/ability/talent/5th-level-feature
 ---
 
 ###### Exothermic Shield (9 Clarity)

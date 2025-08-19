@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: conduit
 cost: 11 Piety
 cost_amount: 11
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.7:01
 source: mcdm.heroes.v1
 target: One ally
-type: Maneuver
+type: feature/ability/conduit/9th-level-feature
 ---
 
 ###### Alacrity of the Heart (11 Piety)

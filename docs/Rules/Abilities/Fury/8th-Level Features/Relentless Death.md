@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: fury
 cost: 11 Ferocity
 cost_amount: 11
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.5.2:01
 source: mcdm.heroes.v1
 target: Self
-type: Main action
+type: feature/ability/fury/8th-level-feature
 ---
 
 ###### Relentless Death (11 Ferocity)

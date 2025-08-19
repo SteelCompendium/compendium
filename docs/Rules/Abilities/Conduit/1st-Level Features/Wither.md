@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 distance: Ranged 10
 feature_type: ability
@@ -19,7 +20,7 @@ scdc:
   - 1.1.1:13.2.8.1:10
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Wither

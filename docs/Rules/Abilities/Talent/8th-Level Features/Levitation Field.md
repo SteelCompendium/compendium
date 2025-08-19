@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: talent
 distance: 3 burst
 feature_type: ability
@@ -18,7 +19,7 @@ scdc:
   - 1.1.1:13.2.1.2:02
 source: mcdm.heroes.v1
 target: Each ally in the area
-type: Maneuver
+type: feature/ability/talent/8th-level-feature
 ---
 
 ###### Levitation Field

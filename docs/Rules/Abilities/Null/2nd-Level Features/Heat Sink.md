@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: 'null'
 cost: 5 Discipline
 cost_amount: 5
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.6.4:04
 source: mcdm.heroes.v1
 target: Self
-type: Maneuver
+type: feature/ability/null/2nd-level-feature
 ---
 
 ###### Heat Sink (5 Discipline)

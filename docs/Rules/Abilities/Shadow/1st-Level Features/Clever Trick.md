@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: shadow
 cost: 1 Insight
 cost_amount: 1
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.2.1:06
 source: mcdm.heroes.v1
 target: Self
-type: Triggered
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### Clever Trick (1 Insight)

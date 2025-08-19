@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: shadow
 cost: 5 Insight
 cost_amount: 5
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.2.5:06
 source: mcdm.heroes.v1
 target: Each creature in the area
-type: Main action
+type: feature/ability/shadow/2nd-level-feature
 ---
 
 ###### Stink Bomb (5 Insight)

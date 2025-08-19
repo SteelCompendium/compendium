@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: censor
 cost: 9 Wrath
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.7.3:01
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/censor/6th-level-feature
 ---
 
 ###### Begone! (9 Wrath)

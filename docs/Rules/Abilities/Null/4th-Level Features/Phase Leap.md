@@ -1,4 +1,5 @@
 ---
+action_type: Move
 class: 'null'
 cost: 9 Discipline
 cost_amount: 9
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.6.7:04
 source: mcdm.heroes.v1
 target: Self
-type: Move
+type: feature/ability/null/4th-level-feature
 ---
 
 ###### Phase Leap (9 Discipline)

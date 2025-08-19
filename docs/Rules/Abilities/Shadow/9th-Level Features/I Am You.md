@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: shadow
 cost: 11 Insight
 cost_amount: 11
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.2.7:01
 source: mcdm.heroes.v1
 target: One creature
-type: Maneuver
+type: feature/ability/shadow/9th-level-feature
 ---
 
 ###### I Am You (11 Insight)

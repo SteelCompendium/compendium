@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: tactician
 cost: 5 Focus
 cost_amount: 5
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.4.5:01
 source: mcdm.heroes.v1
 target: Self
-type: Main action
+type: feature/ability/tactician/2nd-level-feature
 ---
 
 ###### Try Me Instead (5 Focus)

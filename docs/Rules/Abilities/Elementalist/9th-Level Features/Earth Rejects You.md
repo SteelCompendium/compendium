@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: elementalist
 cost: 11 Essence
 cost_amount: 11
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.9.7:01
 source: mcdm.heroes.v1
 target: Each enemy and object in the area
-type: Main action
+type: feature/ability/elementalist/9th-level-feature
 ---
 
 ###### Earth Rejects You (11 Essence)

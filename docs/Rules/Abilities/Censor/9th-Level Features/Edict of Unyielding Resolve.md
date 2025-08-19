@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: censor
 cost: 11 Wrath
 cost_amount: 11
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.7.7:04
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: Maneuver
+type: feature/ability/censor/9th-level-feature
 ---
 
 ###### Edict of Unyielding Resolve (11 Wrath)

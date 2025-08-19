@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: elementalist
 cost: 5 Essence
 cost_amount: 5
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.9.1:20
 source: mcdm.heroes.v1
 target: Special
-type: Maneuver
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Instantaneous Excavation (5 Essence)

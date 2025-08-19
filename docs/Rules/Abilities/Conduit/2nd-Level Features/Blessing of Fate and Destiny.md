@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 cost: 5 Piety
 cost_amount: 5
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.5:02
 source: mcdm.heroes.v1
 target: Three creatures
-type: Main action
+type: feature/ability/conduit/2nd-level-feature
 ---
 
 ###### Blessing of Fate and Destiny (5 Piety)

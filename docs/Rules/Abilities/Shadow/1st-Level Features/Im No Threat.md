@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: shadow
 distance: Self
 feature_type: ability
@@ -17,7 +18,7 @@ scdc:
   - 1.1.1:13.2.2.1:17
 source: mcdm.heroes.v1
 target: Self
-type: Maneuver
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### I'm No Threat

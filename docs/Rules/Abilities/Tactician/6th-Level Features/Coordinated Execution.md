@@ -1,4 +1,5 @@
 ---
+action_type: Free triggered
 class: tactician
 cost: 9 Focus
 cost_amount: 9
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.4.3:04
 source: mcdm.heroes.v1
 target: One ally
-type: Free triggered
+type: feature/ability/tactician/6th-level-feature
 ---
 
 ###### Coordinated Execution (9 Focus)

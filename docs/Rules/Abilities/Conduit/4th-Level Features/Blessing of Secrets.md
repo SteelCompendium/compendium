@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: conduit
 distance: 3 aura
 feature_type: ability
@@ -17,7 +18,7 @@ scdc:
   - 1.1.1:13.2.8.9:01
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: Maneuver
+type: feature/ability/conduit/4th-level-feature
 ---
 
 ###### Blessing of Secrets

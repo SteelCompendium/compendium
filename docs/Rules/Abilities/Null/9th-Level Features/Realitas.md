@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: 'null'
 cost: 11 Discipline
 cost_amount: 11
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.6.6:06
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/null/9th-level-feature
 ---
 
 ###### Realitas (11 Discipline)

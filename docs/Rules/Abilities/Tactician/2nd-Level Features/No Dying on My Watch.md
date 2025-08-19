@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: tactician
 cost: 5 Focus
 cost_amount: 5
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.4.5:02
 source: mcdm.heroes.v1
 target: One enemy
-type: Triggered
+type: feature/ability/tactician/2nd-level-feature
 ---
 
 ###### No Dying on My Watch (5 Focus)

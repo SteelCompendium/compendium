@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: censor
 cost: 11 Wrath
 cost_amount: 11
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.7.7:06
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/censor/9th-level-feature
 ---
 
 ###### Apostate (11 Wrath)

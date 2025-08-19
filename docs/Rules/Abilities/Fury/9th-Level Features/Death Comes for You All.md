@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: fury
 cost: 11 Ferocity
 cost_amount: 11
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.5.6:02
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/fury/9th-level-feature
 ---
 
 ###### Death Comes for You All! (11 Ferocity)

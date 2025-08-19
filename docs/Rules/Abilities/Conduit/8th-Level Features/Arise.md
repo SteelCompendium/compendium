@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 cost: 11 Piety
 cost_amount: 11
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.2:02
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Main action
+type: feature/ability/conduit/8th-level-feature
 ---
 
 ###### Arise! (11 Piety)

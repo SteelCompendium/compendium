@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: 'null'
 cost: 9 Discipline
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.6.7:02
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: Maneuver
+type: feature/ability/null/4th-level-feature
 ---
 
 ###### Synaptic Reset (9 Discipline)

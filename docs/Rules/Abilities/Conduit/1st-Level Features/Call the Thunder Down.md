@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 cost: 3 Piety
 cost_amount: 3
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.8.1:08
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Call the Thunder Down (3 Piety)

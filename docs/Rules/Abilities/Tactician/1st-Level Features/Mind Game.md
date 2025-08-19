@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: tactician
 cost: 5 Focus
 cost_amount: 5
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.4.1:12
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/tactician/1st-level-feature
 ---
 
 ###### Mind Game (5 Focus)

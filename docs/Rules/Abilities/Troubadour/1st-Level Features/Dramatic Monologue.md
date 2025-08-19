@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: troubadour
 distance: Ranged 10
 feature_type: ability
@@ -18,7 +19,7 @@ scdc:
   - 1.1.1:13.2.3.1:18
 source: mcdm.heroes.v1
 target: Special
-type: Maneuver
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Dramatic Monologue

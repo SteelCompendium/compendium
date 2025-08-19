@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: shadow
 cost: 11 Insight
 cost_amount: 11
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.2.7:04
 source: mcdm.heroes.v1
 target: Self
-type: Main action
+type: feature/ability/shadow/9th-level-feature
 ---
 
 ###### Cacophony of Cinders (11 Insight)

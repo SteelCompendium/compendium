@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 cost: 11 Piety
 cost_amount: 11
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.8.7:10
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/conduit/9th-level-feature
 ---
 
 ###### Solar Flare (11 Piety)

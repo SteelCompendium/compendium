@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: talent
 cost: 11 Clarity
 cost_amount: 11
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.1.2:05
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/talent/8th-level-feature
 ---
 
 ###### Doubt (11 Clarity)

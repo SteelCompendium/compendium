@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: troubadour
 cost: 3 Drama
 cost_amount: 3
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.3.1:23
 source: mcdm.heroes.v1
 target: One ally
-type: Triggered
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Harmonize (3 Drama)

@@ -1,4 +1,5 @@
 ---
+action_type: Free triggered
 class: censor
 cost: 9 Wrath
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.7.3:02
 source: mcdm.heroes.v1
 target: One ally
-type: Free triggered
+type: feature/ability/censor/6th-level-feature
 ---
 
 ###### Intercede (9 Wrath)

@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: fury
 cost: 9 Ferocity
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.5.3:05
 source: mcdm.heroes.v1
 target: Each creature in the area
-type: Maneuver
+type: feature/ability/fury/6th-level-feature
 ---
 
 ###### Riders on the Storm (9 Ferocity)

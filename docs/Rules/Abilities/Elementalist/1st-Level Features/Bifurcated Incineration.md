@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: elementalist
 distance: Ranged 10
 feature_type: ability
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.9.1:04
 source: mcdm.heroes.v1
 target: Two creatures or objects
-type: Main action
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Bifurcated Incineration

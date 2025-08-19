@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: talent
 cost: 11 Clarity
 cost_amount: 11
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.1.7:03
 source: mcdm.heroes.v1
 target: Three allies
-type: Main action
+type: feature/ability/talent/9th-level-feature
 ---
 
 ###### Acceleration Field (11 Clarity)

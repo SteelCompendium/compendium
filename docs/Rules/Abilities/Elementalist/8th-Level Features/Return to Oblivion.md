@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: elementalist
 cost: 11 Essence
 cost_amount: 11
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.9.2:05
 source: mcdm.heroes.v1
 target: Special
-type: Main action
+type: feature/ability/elementalist/8th-level-feature
 ---
 
 ###### Return to Oblivion (11 Essence)

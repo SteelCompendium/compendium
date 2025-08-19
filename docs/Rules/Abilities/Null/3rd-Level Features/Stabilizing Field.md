@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: 'null'
 cost: 7 Discipline
 cost_amount: 7
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.6.5:04
 source: mcdm.heroes.v1
 target: Self
-type: Maneuver
+type: feature/ability/null/3rd-level-feature
 ---
 
 ###### Stabilizing Field (7 Discipline)

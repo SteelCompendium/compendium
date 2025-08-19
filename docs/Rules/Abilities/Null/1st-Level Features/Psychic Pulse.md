@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: 'null'
 cost: 3 Discipline
 cost_amount: 3
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.6.1:17
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Maneuver
+type: feature/ability/null/1st-level-feature
 ---
 
 ###### Psychic Pulse (3 Discipline)

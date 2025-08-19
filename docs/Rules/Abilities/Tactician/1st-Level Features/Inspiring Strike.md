@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: tactician
 cost: 3 Focus
 cost_amount: 3
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.4.1:02
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/tactician/1st-level-feature
 ---
 
 ###### Inspiring Strike (3 Focus)

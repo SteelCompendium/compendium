@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: troubadour
 distance: Melee 1
 feature_type: ability
@@ -17,7 +18,7 @@ scdc:
   - 1.1.1:13.2.3.1:12
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Triggered
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Riposte

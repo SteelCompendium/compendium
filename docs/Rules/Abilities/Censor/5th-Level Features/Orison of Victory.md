@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: censor
 cost: 9 Wrath
 cost_amount: 9
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.7.4:02
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: Maneuver
+type: feature/ability/censor/5th-level-feature
 ---
 
 ###### Orison of Victory (9 Wrath)

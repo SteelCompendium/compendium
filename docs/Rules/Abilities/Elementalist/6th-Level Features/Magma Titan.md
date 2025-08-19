@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: elementalist
 cost: 9 Essence
 cost_amount: 9
@@ -24,7 +25,7 @@ scdc:
   - 1.1.1:13.2.9.3:02
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Maneuver
+type: feature/ability/elementalist/6th-level-feature
 ---
 
 ###### Magma Titan (9 Essence)

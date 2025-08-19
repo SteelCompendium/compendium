@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: 'null'
 cost: 9 Discipline
 cost_amount: 9
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.6.7:03
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/null/4th-level-feature
 ---
 
 ###### Iron Grip (9 Discipline)

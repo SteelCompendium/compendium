@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: shadow
 cost: 3 Insight
 cost_amount: 3
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.2.1:18
 source: mcdm.heroes.v1
 target: Two creatures or objects
-type: Main action
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### Two Throats at Once (3 Insight)

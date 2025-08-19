@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: troubadour
 cost: 9 Drama
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.3.3:05
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/troubadour/6th-level-feature
 ---
 
 ###### Here's How Your Story Ends (9 Drama)

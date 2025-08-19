@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: talent
 cost: 3 Clarity
 cost_amount: 3
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.1.2:01
 source: mcdm.heroes.v1
 target: Self, or one creature or object
-type: Triggered
+type: feature/ability/talent/8th-level-feature
 ---
 
 ###### Stasis Shield (3 Clarity)

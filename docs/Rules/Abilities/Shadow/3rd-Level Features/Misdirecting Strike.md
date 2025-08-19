@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: shadow
 cost: 7 Insight
 cost_amount: 7
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.2.6:03
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/shadow/3rd-level-feature
 ---
 
 ###### Misdirecting Strike (7 Insight)

@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 cost: 9 Piety
 cost_amount: 9
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.8.4:04
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/conduit/5th-level-feature
 ---
 
 ###### Beacon of Grace (9 Piety)

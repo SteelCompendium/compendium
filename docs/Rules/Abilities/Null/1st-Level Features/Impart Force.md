@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: 'null'
 cost: 5 Discipline
 cost_amount: 5
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.6.1:13
 source: mcdm.heroes.v1
 target: One creature or object
-type: Maneuver
+type: feature/ability/null/1st-level-feature
 ---
 
 ###### Impart Force (5 Discipline)

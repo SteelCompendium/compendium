@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: troubadour
 cost: 5 Drama
 cost_amount: 5
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.3.1:05
 source: mcdm.heroes.v1
 target: Self
-type: Maneuver
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Fake Your Death (5 Drama)

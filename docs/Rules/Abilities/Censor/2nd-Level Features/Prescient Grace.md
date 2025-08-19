@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: censor
 cost: 5 Wrath
 cost_amount: 5
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.7.5:06
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Triggered
+type: feature/ability/censor/2nd-level-feature
 ---
 
 ###### Prescient Grace (5 Wrath)

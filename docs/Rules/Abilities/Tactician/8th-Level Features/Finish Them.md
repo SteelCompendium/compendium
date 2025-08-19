@@ -1,4 +1,5 @@
 ---
+action_type: Free triggered
 class: tactician
 cost: 11 Focus
 cost_amount: 11
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.4.2:04
 source: mcdm.heroes.v1
 target: One creature
-type: Free triggered
+type: feature/ability/tactician/8th-level-feature
 ---
 
 ###### Finish Them! (11 Focus)

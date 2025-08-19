@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: shadow
 distance: Ranged 5
 feature_type: ability
@@ -18,7 +19,7 @@ scdc:
   - 1.1.1:13.2.2.8:01
 source: mcdm.heroes.v1
 target: One ally
-type: Triggered
+type: feature/ability/shadow/4th-level-feature
 ---
 
 ###### Night Watch

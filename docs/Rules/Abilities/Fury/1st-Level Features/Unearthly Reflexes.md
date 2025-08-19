@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: fury
 distance: Self
 feature_type: ability
@@ -17,7 +18,7 @@ scdc:
   - 1.1.1:13.2.5.1:05
 source: mcdm.heroes.v1
 target: Self
-type: Triggered
+type: feature/ability/fury/1st-level-feature
 ---
 
 ###### Unearthly Reflexes

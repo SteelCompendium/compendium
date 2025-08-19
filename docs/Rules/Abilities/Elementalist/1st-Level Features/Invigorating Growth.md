@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: elementalist
 cost: 3 Essence
 cost_amount: 3
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.9.1:23
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Invigorating Growth (3 Essence)

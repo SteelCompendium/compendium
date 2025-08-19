@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: elementalist
 distance: Ranged 10
 feature_type: ability
@@ -19,7 +20,7 @@ scdc:
   - 1.1.1:13.2.9.1:12
 source: mcdm.heroes.v1
 target: Special
-type: Maneuver
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Shared Void Sense

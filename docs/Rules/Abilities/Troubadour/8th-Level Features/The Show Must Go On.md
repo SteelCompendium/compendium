@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: troubadour
 cost: 11 Drama
 cost_amount: 11
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.3.2:04
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Maneuver
+type: feature/ability/troubadour/8th-level-feature
 ---
 
 ###### The Show Must Go On (11 Drama)

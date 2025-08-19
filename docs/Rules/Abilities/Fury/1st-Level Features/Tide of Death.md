@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: fury
 cost: 3 Ferocity
 cost_amount: 3
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.5.1:10
 source: mcdm.heroes.v1
 target: Self
-type: Main action
+type: feature/ability/fury/1st-level-feature
 ---
 
 ###### Tide of Death (3 Ferocity)

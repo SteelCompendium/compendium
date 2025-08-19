@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: censor
 distance: Ranged 10
 feature_type: ability
@@ -18,7 +19,7 @@ scdc:
   - 1.1.1:13.2.7.1:09
 source: mcdm.heroes.v1
 target: One enemy
-type: Maneuver
+type: feature/ability/censor/1st-level-feature
 ---
 
 ###### Judgment

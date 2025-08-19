@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: shadow
 cost: 11 Insight
 cost_amount: 11
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.2.2:04
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/shadow/8th-level-feature
 ---
 
 ###### Assassinate (11 Insight)

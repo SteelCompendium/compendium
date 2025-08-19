@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: 'null'
 distance: Melee 2
 feature_type: ability
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.6.1:09
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/null/1st-level-feature
 ---
 
 ###### Magnetic Strike

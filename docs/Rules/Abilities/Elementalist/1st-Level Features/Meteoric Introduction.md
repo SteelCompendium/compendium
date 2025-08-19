@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: elementalist
 distance: Melee 1
 feature_type: ability
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.9.1:05
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Meteoric Introduction

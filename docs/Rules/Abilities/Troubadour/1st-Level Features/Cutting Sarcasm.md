@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: troubadour
 distance: Ranged 10
 feature_type: ability
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.3.1:02
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Cutting Sarcasm

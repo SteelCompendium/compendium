@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: tactician
 distance: Melee 2
 feature_type: ability
@@ -18,7 +19,7 @@ scdc:
   - 1.1.1:13.2.4.1:01
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Triggered
+type: feature/ability/tactician/1st-level-feature
 ---
 
 ###### Parry

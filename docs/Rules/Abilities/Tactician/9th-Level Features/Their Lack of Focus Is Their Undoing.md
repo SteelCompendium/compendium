@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: tactician
 cost: 11 Focus
 cost_amount: 11
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.4.7:03
 source: mcdm.heroes.v1
 target: Three enemies
-type: Main action
+type: feature/ability/tactician/9th-level-feature
 ---
 
 ###### Their Lack of Focus Is Their Undoing (11 Focus)

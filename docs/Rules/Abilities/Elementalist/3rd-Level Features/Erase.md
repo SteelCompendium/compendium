@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: elementalist
 cost: 7 Essence
 cost_amount: 7
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.9.6:06
 source: mcdm.heroes.v1
 target: Special
-type: Main action
+type: feature/ability/elementalist/3rd-level-feature
 ---
 
 ###### Erase (7 Essence)

@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: conduit
 cost: 7 Piety
 cost_amount: 7
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.6:04
 source: mcdm.heroes.v1
 target: One ally
-type: Maneuver
+type: feature/ability/conduit/3rd-level-feature
 ---
 
 ###### Saint's Raiment (7 Piety)

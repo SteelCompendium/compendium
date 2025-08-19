@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: talent
 cost: 3 Clarity
 cost_amount: 3
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.1.1:08
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/talent/1st-level-feature
 ---
 
 ###### Smolder (3 Clarity)

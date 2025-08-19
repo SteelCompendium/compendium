@@ -1,4 +1,5 @@
 ---
+action_type: Free triggered
 class: conduit
 cost: 11 Piety
 cost_amount: 11
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.7:08
 source: mcdm.heroes.v1
 target: One creature
-type: Free triggered
+type: feature/ability/conduit/9th-level-feature
 ---
 
 ###### Word of Final Redemption (11 Piety)

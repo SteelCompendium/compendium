@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: troubadour
 cost: 11 Drama
 cost_amount: 11
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.3.2:05
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Maneuver
+type: feature/ability/troubadour/8th-level-feature
 ---
 
 ###### Power Ballad (11 Drama)

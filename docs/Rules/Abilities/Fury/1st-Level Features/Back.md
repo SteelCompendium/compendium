@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: fury
 cost: 3 Ferocity
 cost_amount: 3
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.5.1:12
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/fury/1st-level-feature
 ---
 
 ###### Back! (3 Ferocity)

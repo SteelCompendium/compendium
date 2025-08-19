@@ -1,4 +1,5 @@
 ---
+action_type: Free triggered
 class: fury
 cost: 9 Ferocity
 cost_amount: 9
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.5.3:01
 source: mcdm.heroes.v1
 target: Self
-type: Free triggered
+type: feature/ability/fury/6th-level-feature
 ---
 
 ###### Death Strike (9 Ferocity)

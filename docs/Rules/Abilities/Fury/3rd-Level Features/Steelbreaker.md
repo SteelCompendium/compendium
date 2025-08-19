@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: fury
 cost: 7 Ferocity
 cost_amount: 7
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.5.5:02
 source: mcdm.heroes.v1
 target: Self
-type: Maneuver
+type: feature/ability/fury/3rd-level-feature
 ---
 
 ###### Steelbreaker (7 Ferocity)

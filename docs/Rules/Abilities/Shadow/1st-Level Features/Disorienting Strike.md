@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: shadow
 cost: 3 Insight
 cost_amount: 3
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.2.1:16
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### Disorienting Strike (3 Insight)

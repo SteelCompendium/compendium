@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: tactician
 cost: 9 Focus
 cost_amount: 9
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.4.3:06
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/tactician/6th-level-feature
 ---
 
 ###### To Me Squad! (9 Focus)

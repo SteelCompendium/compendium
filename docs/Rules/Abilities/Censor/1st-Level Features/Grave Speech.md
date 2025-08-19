@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: censor
 distance: Melee 1
 feature_type: ability
@@ -17,7 +18,7 @@ scdc:
   - 1.1.1:13.2.7.1:13
 source: mcdm.heroes.v1
 target: One dead creature
-type: Maneuver
+type: feature/ability/censor/1st-level-feature
 ---
 
 ###### Grave Speech

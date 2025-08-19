@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: talent
 cost: 5 Clarity
 cost_amount: 5
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.1.5:05
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/talent/2nd-level-feature
 ---
 
 ###### Gravitic Burst (5 Clarity)

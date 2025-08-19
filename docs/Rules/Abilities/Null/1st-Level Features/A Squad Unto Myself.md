@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: 'null'
 cost: 5 Discipline
 cost_amount: 5
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.6.1:18
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/null/1st-level-feature
 ---
 
 ###### A Squad Unto Myself (5 Discipline)

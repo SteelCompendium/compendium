@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: 'null'
 distance: Self
 feature_type: ability
@@ -17,7 +18,7 @@ scdc:
   - 1.1.1:13.2.6.1:01
 source: mcdm.heroes.v1
 target: Self
-type: Triggered
+type: feature/ability/null/1st-level-feature
 ---
 
 ###### Inertial Shield

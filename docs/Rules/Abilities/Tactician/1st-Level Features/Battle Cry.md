@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: tactician
 cost: 3 Focus
 cost_amount: 3
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.4.1:07
 source: mcdm.heroes.v1
 target: Three allies
-type: Maneuver
+type: feature/ability/tactician/1st-level-feature
 ---
 
 ###### Battle Cry (3 Focus)

@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: tactician
 cost: 9 Focus
 cost_amount: 9
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.4.4:02
 source: mcdm.heroes.v1
 target: One ally
-type: Main action
+type: feature/ability/tactician/5th-level-feature
 ---
 
 ###### You've Still Got Something Left (9 Focus)

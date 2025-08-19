@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: censor
 cost: 9 Wrath
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.7.3:03
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Maneuver
+type: feature/ability/censor/6th-level-feature
 ---
 
 ###### Edict of Peace (9 Wrath)

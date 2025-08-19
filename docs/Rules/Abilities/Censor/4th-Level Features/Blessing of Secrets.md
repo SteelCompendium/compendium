@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: censor
 distance: 3 aura
 feature_type: ability
@@ -17,7 +18,7 @@ scdc:
   - 1.1.1:13.2.7.9:01
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: Maneuver
+type: feature/ability/censor/4th-level-feature
 ---
 
 ###### Blessing of Secrets

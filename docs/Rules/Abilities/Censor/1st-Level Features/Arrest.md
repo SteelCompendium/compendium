@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: censor
 cost: 5 Wrath
 cost_amount: 5
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.7.1:06
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/censor/1st-level-feature
 ---
 
 ###### Arrest (5 Wrath)

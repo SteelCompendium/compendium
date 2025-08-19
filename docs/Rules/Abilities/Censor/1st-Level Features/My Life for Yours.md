@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: censor
 distance: Ranged 10
 feature_type: ability
@@ -18,7 +19,7 @@ scdc:
   - 1.1.1:13.2.7.1:02
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Triggered
+type: feature/ability/censor/1st-level-feature
 ---
 
 ###### My Life for Yours

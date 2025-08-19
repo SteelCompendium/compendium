@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: troubadour
 cost: 9 Drama
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.3.3:04
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: Maneuver
+type: feature/ability/troubadour/6th-level-feature
 ---
 
 ###### Legendary Drum Fill (9 Drama)

@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: talent
 cost: 9 Clarity
 cost_amount: 9
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.1.3:04
 source: mcdm.heroes.v1
 target: Each creature and object in the area
-type: Main action
+type: feature/ability/talent/6th-level-feature
 ---
 
 ###### Stasis Field (9 Clarity)

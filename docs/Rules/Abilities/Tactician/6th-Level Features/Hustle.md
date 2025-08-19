@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: tactician
 cost: 9 Focus
 cost_amount: 9
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.4.3:02
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: Maneuver
+type: feature/ability/tactician/6th-level-feature
 ---
 
 ###### Hustle! (9 Focus)

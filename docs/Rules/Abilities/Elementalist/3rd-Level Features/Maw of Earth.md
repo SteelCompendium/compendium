@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: elementalist
 cost: 7 Essence
 cost_amount: 7
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.9.6:03
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/elementalist/3rd-level-feature
 ---
 
 ###### Maw of Earth (7 Essence)

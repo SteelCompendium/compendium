@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: shadow
 cost: 11 Insight
 cost_amount: 11
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.2.2:05
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/shadow/8th-level-feature
 ---
 
 ###### Shadowgrasp (11 Insight)

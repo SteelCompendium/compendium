@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: tactician
 cost: 5 Focus
 cost_amount: 5
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.4.5:04
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: Maneuver
+type: feature/ability/tactician/2nd-level-feature
 ---
 
 ###### Squad! On Me! (5 Focus)

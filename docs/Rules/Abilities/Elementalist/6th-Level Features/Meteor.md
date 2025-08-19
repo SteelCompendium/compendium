@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: elementalist
 cost: 9 Essence
 cost_amount: 9
@@ -24,7 +25,7 @@ scdc:
   - 1.1.1:13.2.9.3:01
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/elementalist/6th-level-feature
 ---
 
 ###### Meteor (9 Essence)

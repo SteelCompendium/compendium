@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: talent
 cost: 5 Clarity
 cost_amount: 5
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.1.1:12
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Maneuver
+type: feature/ability/talent/1st-level-feature
 ---
 
 ###### Inertia Soak (5 Clarity)

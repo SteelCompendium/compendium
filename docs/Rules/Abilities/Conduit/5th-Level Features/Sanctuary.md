@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: conduit
 cost: 9 Piety
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.4:03
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Maneuver
+type: feature/ability/conduit/5th-level-feature
 ---
 
 ###### Sanctuary (9 Piety)

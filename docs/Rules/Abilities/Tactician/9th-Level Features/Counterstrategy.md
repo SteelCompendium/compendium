@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: tactician
 cost: 11 Focus
 cost_amount: 11
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.4.7:01
 source: mcdm.heroes.v1
 target: Self
-type: Main action
+type: feature/ability/tactician/9th-level-feature
 ---
 
 ###### Counterstrategy (11 Focus)

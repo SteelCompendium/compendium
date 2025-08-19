@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: censor
 cost: 9 Wrath
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.7.8:02
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Maneuver
+type: feature/ability/censor/7th-level-feature
 ---
 
 ###### Trinity of Trickery (9 Wrath)

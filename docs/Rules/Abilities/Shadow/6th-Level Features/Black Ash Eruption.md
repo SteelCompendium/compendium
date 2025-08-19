@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: shadow
 cost: 9 Insight
 cost_amount: 9
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.2.3:01
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/shadow/6th-level-feature
 ---
 
 ###### Black Ash Eruption (9 Insight)

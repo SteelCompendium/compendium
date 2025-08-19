@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: troubadour
 cost: 7 Drama
 cost_amount: 7
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.3.6:03
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/troubadour/3rd-level-feature
 ---
 
 ###### Infernal Gavotte (7 Drama)

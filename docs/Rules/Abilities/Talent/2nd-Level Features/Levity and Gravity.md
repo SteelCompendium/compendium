@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: talent
 cost: 5 Clarity
 cost_amount: 5
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.1.5:01
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/talent/2nd-level-feature
 ---
 
 ###### Levity and Gravity (5 Clarity)

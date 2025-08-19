@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: talent
 cost: 7 Clarity
 cost_amount: 7
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.1.6:02
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/talent/3rd-level-feature
 ---
 
 ###### Soul Burn (7 Clarity)

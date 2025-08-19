@@ -1,4 +1,5 @@
 ---
+action_type: Free triggered
 class: shadow
 cost: 1 Insight
 cost_amount: 1
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.2.1:15
 source: mcdm.heroes.v1
 target: Self
-type: Free triggered
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### Hesitation Is Weakness (1 Insight)

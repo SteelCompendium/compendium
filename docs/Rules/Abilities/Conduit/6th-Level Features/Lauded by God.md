@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: conduit
 cost: 9 Piety
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.3:11
 source: mcdm.heroes.v1
 target: Two allies
-type: Maneuver
+type: feature/ability/conduit/6th-level-feature
 ---
 
 ###### Lauded by God (9 Piety)

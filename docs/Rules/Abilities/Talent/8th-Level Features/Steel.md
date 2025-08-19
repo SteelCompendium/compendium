@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: talent
 cost: 11 Clarity
 cost_amount: 11
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.1.2:04
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Maneuver
+type: feature/ability/talent/8th-level-feature
 ---
 
 ###### Steel (11 Clarity)

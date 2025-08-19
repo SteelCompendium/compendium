@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: talent
 cost: 11 Clarity
 cost_amount: 11
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.1.7:02
 source: mcdm.heroes.v1
 target: Each ally in the area
-type: Maneuver
+type: feature/ability/talent/9th-level-feature
 ---
 
 ###### Borrow From the Future (11 Clarity)

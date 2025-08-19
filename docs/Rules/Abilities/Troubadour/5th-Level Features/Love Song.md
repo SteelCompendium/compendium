@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: troubadour
 cost: 9 Drama
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.3.4:03
 source: mcdm.heroes.v1
 target: One creature or object
-type: Maneuver
+type: feature/ability/troubadour/5th-level-feature
 ---
 
 ###### Love Song (9 Drama)

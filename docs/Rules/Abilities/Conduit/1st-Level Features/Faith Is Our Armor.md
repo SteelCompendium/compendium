@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: conduit
 cost: 5 Piety
 cost_amount: 5
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.1:03
 source: mcdm.heroes.v1
 target: Four allies
-type: Maneuver
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Faith Is Our Armor (5 Piety)

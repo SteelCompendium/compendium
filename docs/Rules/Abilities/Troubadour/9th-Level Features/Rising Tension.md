@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: troubadour
 cost: 11 Drama
 cost_amount: 11
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.3.7:06
 source: mcdm.heroes.v1
 target: One ally
-type: Maneuver
+type: feature/ability/troubadour/9th-level-feature
 ---
 
 ###### Rising Tension (11 Drama)

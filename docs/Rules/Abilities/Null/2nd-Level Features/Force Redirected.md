@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: 'null'
 cost: 5 Discipline
 cost_amount: 5
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.6.4:06
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/null/2nd-level-feature
 ---
 
 ###### Force Redirected (5 Discipline)

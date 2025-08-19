@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: censor
 cost: 7 Wrath
 cost_amount: 7
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.7.6:03
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Maneuver
+type: feature/ability/censor/3rd-level-feature
 ---
 
 ###### Edict of Disruptive Isolation (7 Wrath)

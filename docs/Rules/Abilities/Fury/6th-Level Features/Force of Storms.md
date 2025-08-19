@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: fury
 cost: 9 Ferocity
 cost_amount: 9
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.5.3:02
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/fury/6th-level-feature
 ---
 
 ###### Force of Storms (9 Ferocity)

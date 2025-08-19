@@ -1,4 +1,5 @@
 ---
+action_type: Free maneuver
 class: fury
 cost: 5 Ferocity
 cost_amount: 5
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.5.1:15
 source: mcdm.heroes.v1
 target: Self
-type: Free maneuver
+type: feature/ability/fury/1st-level-feature
 ---
 
 ###### Make Peace With Your God! (5 Ferocity)

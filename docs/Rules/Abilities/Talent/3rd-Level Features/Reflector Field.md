@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: talent
 cost: 7 Clarity
 cost_amount: 7
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.1.6:04
 source: mcdm.heroes.v1
 target: Special
-type: Main action
+type: feature/ability/talent/3rd-level-feature
 ---
 
 ###### Reflector Field (7 Clarity)

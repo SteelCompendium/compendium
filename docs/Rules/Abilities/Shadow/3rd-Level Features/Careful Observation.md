@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: shadow
 distance: Ranged 20
 feature_type: ability
@@ -17,7 +18,7 @@ scdc:
   - 1.1.1:13.2.2.6:04
 source: mcdm.heroes.v1
 target: One creature
-type: Maneuver
+type: feature/ability/shadow/3rd-level-feature
 ---
 
 ###### Careful Observation

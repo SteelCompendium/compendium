@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: shadow
 distance: Melee 1
 feature_type: ability
@@ -19,7 +20,7 @@ scdc:
   - 1.1.1:13.2.2.1:14
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### You Were Watching the Wrong One

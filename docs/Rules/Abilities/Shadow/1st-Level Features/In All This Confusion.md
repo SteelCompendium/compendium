@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: shadow
 distance: Self
 feature_type: ability
@@ -17,7 +18,7 @@ scdc:
   - 1.1.1:13.2.2.1:04
 source: mcdm.heroes.v1
 target: Self
-type: Triggered
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### In All This Confusion

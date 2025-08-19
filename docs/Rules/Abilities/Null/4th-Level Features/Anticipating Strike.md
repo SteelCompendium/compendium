@@ -1,4 +1,5 @@
 ---
+action_type: Free triggered
 class: 'null'
 cost: 9 Discipline
 cost_amount: 9
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.6.7:01
 source: mcdm.heroes.v1
 target: One creature
-type: Free triggered
+type: feature/ability/null/4th-level-feature
 ---
 
 ###### Anticipating Strike (9 Discipline)

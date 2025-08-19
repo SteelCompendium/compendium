@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: talent
 cost: 9 Clarity
 cost_amount: 9
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.1.4:03
 source: mcdm.heroes.v1
 target: Two enemies
-type: Main action
+type: feature/ability/talent/5th-level-feature
 ---
 
 ###### Soulbound (9 Clarity)

@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: shadow
 distance: Melee 1 or ranged 5
 feature_type: ability
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.2.1:09
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### I Work Better Alone

@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: elementalist
 distance: Melee 1
 feature_type: ability
@@ -19,7 +20,7 @@ scdc:
   - 1.1.1:13.2.9.6:01
 source: mcdm.heroes.v1
 target: One mundane wooden object
-type: Main action
+type: feature/ability/elementalist/3rd-level-feature
 ---
 
 ###### Remember Growth and Sun and Rain

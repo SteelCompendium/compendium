@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: troubadour
 cost: 5 Drama
 cost_amount: 5
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.3.5:03
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/troubadour/2nd-level-feature
 ---
 
 ###### En Garde! (5 Drama)

@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 distance: 2 burst
 feature_type: ability
@@ -18,7 +19,7 @@ scdc:
   - 1.1.1:13.2.8.1:06
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Lightfall

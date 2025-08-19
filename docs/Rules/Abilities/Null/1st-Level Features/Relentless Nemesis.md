@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: 'null'
 cost: 3 Discipline
 cost_amount: 3
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.6.1:03
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/null/1st-level-feature
 ---
 
 ###### Relentless Nemesis (3 Discipline)

@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: talent
 cost: 5 Clarity
 cost_amount: 5
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.1.5:03
 source: mcdm.heroes.v1
 target: Special
-type: Maneuver
+type: feature/ability/talent/2nd-level-feature
 ---
 
 ###### Applied Chronometrics (5 Clarity)

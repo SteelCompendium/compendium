@@ -1,4 +1,5 @@
 ---
+action_type: Free triggered
 class: censor
 cost: 9 Wrath
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.7.3:05
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Free triggered
+type: feature/ability/censor/6th-level-feature
 ---
 
 ###### Pain of Your Own Making (9 Wrath)

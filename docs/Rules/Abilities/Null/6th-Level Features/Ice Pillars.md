@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: 'null'
 cost: 9 Discipline
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.6.3:01
 source: mcdm.heroes.v1
 target: Three creatures or objects
-type: Main action
+type: feature/ability/null/6th-level-feature
 ---
 
 ###### Ice Pillars (9 Discipline)

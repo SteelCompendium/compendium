@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: censor
 cost: 11 Wrath
 cost_amount: 11
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.7.2:03
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/censor/8th-level-feature
 ---
 
 ###### Your Allies Turn on You! (11 Wrath)

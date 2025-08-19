@@ -1,4 +1,5 @@
 ---
+action_type: No action
 class: troubadour
 cost: 7 Drama
 cost_amount: 7
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.3.6:05
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: No action
+type: feature/ability/troubadour/3rd-level-feature
 ---
 
 ###### Extensive Rewrites (7 Drama)

@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: shadow
 cost: 7 Insight
 cost_amount: 7
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.2.6:05
 source: mcdm.heroes.v1
 target: Self
-type: Maneuver
+type: feature/ability/shadow/3rd-level-feature
 ---
 
 ###### Dancer (7 Insight)

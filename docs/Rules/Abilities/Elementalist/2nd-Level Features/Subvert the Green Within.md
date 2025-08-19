@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: elementalist
 cost: 5 Essence
 cost_amount: 5
@@ -24,7 +25,7 @@ scdc:
   - 1.1.1:13.2.9.5:02
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/elementalist/2nd-level-feature
 ---
 
 ###### Subvert the Green Within (5 Essence)

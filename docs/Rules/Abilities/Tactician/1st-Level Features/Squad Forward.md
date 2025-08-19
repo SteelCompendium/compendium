@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: tactician
 cost: 3 Focus
 cost_amount: 3
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.4.1:03
 source: mcdm.heroes.v1
 target: Self and two allies
-type: Maneuver
+type: feature/ability/tactician/1st-level-feature
 ---
 
 ###### Squad! Forward! (3 Focus)

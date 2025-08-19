@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: talent
 cost: 9 Clarity
 cost_amount: 9
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.1.3:01
 source: mcdm.heroes.v1
 target: Special
-type: Maneuver
+type: feature/ability/talent/6th-level-feature
 ---
 
 ###### Synaptic Dissipation (9 Clarity)

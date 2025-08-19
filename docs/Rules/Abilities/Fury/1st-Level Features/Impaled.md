@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: fury
 distance: Melee 1
 feature_type: ability
@@ -19,7 +20,7 @@ scdc:
   - 1.1.1:13.2.5.1:08
 source: mcdm.heroes.v1
 target: One creature of your size or smaller
-type: Main action
+type: feature/ability/fury/1st-level-feature
 ---
 
 ###### Impaled!

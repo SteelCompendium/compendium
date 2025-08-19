@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: shadow
 cost: 5 Insight
 cost_amount: 5
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.2.5:05
 source: mcdm.heroes.v1
 target: Each creature in the area
-type: Maneuver
+type: feature/ability/shadow/2nd-level-feature
 ---
 
 ###### Machinations of Sound (5 Insight)

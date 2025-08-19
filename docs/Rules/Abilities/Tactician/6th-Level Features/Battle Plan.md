@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: tactician
 cost: 9 Focus
 cost_amount: 9
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.4.3:01
 source: mcdm.heroes.v1
 target: Three creatures
-type: Maneuver
+type: feature/ability/tactician/6th-level-feature
 ---
 
 ###### Battle Plan (9 Focus)

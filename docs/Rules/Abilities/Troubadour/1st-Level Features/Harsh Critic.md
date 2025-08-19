@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: troubadour
 cost: 3 Drama
 cost_amount: 3
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.3.1:20
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Harsh Critic (3 Drama)

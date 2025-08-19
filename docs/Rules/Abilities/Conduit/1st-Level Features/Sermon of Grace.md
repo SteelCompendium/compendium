@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 cost: 5 Piety
 cost_amount: 5
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.1:23
 source: mcdm.heroes.v1
 target: Each ally in the area
-type: Main action
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Sermon of Grace (5 Piety)

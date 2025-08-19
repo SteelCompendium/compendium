@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: censor
 cost: 9 Wrath
 cost_amount: 9
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.7.3:06
 source: mcdm.heroes.v1
 target: Three enemies
-type: Maneuver
+type: feature/ability/censor/6th-level-feature
 ---
 
 ###### Burden of Evil (9 Wrath)

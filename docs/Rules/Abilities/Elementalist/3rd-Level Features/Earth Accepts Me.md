@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: elementalist
 distance: Self
 feature_type: ability
@@ -18,7 +19,7 @@ scdc:
   - 1.1.1:13.2.9.6:05
 source: mcdm.heroes.v1
 target: Self
-type: Main action
+type: feature/ability/elementalist/3rd-level-feature
 ---
 
 ###### Earth Accepts Me

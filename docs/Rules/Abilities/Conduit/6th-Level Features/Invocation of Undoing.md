@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 cost: 9 Piety
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.3:06
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/conduit/6th-level-feature
 ---
 
 ###### Invocation of Undoing (9 Piety)

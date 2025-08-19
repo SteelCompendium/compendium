@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: tactician
 cost: 11 Focus
 cost_amount: 11
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.4.7:05
 source: mcdm.heroes.v1
 target: Self and two allies
-type: Main action
+type: feature/ability/tactician/9th-level-feature
 ---
 
 ###### Squad! Hit and Run! (11 Focus)

@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: conduit
 cost: 9 Piety
 cost_amount: 9
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.8.3:01
 source: mcdm.heroes.v1
 target: Three creatures
-type: Maneuver
+type: feature/ability/conduit/6th-level-feature
 ---
 
 ###### Cuirass of the Gods (9 Piety)

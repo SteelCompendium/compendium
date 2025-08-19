@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: conduit
 distance: Melee 1
 feature_type: ability
@@ -17,7 +18,7 @@ scdc:
   - 1.1.1:13.2.8.1:19
 source: mcdm.heroes.v1
 target: One dead creature
-type: Maneuver
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Grave Speech

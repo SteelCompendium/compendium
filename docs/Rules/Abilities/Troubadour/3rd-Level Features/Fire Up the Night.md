@@ -1,4 +1,5 @@
 ---
+action_type: No action
 class: troubadour
 distance: 5 aura
 feature_type: ability
@@ -19,7 +20,7 @@ scdc:
   - 1.1.1:13.2.3.6:02
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: No action
+type: feature/ability/troubadour/3rd-level-feature
 ---
 
 ###### "Fire Up the Night"

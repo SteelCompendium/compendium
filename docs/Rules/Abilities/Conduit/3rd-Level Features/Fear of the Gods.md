@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 cost: 7 Piety
 cost_amount: 7
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.8.6:03
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/conduit/3rd-level-feature
 ---
 
 ###### Fear of the Gods (7 Piety)

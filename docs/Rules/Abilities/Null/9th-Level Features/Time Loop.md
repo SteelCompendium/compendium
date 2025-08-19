@@ -1,4 +1,5 @@
 ---
+action_type: Free triggered
 class: 'null'
 cost: 11 Discipline
 cost_amount: 11
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.6.6:04
 source: mcdm.heroes.v1
 target: Self
-type: Free triggered
+type: feature/ability/null/9th-level-feature
 ---
 
 ###### Time Loop (11 Discipline)

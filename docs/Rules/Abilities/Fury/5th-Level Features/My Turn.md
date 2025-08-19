@@ -1,4 +1,5 @@
 ---
+action_type: Free triggered
 class: fury
 cost: 9 Ferocity
 cost_amount: 9
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.5.4:04
 source: mcdm.heroes.v1
 target: The triggering creature
-type: Free triggered
+type: feature/ability/fury/5th-level-feature
 ---
 
 ###### My Turn! (9 Ferocity)

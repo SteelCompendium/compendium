@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: troubadour
 cost: 7 Drama
 cost_amount: 7
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.3.6:06
 source: mcdm.heroes.v1
 target: One creature
-type: Maneuver
+type: feature/ability/troubadour/3rd-level-feature
 ---
 
 ###### We Meet at Last (7 Drama)

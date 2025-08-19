@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: troubadour
 cost: 11 Drama
 cost_amount: 11
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.3.2:01
 source: mcdm.heroes.v1
 target: Self
-type: Maneuver
+type: feature/ability/troubadour/8th-level-feature
 ---
 
 ###### Saved in the Edit (11 Drama)

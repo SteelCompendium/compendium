@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: fury
 distance: Melee 1
 feature_type: ability
@@ -18,7 +19,7 @@ scdc:
   - 1.1.1:13.2.5.1:11
 source: mcdm.heroes.v1
 target: Self or one creature
-type: Triggered
+type: feature/ability/fury/1st-level-feature
 ---
 
 ###### Lines of Force

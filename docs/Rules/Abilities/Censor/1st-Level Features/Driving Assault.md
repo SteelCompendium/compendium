@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: censor
 cost: 3 Wrath
 cost_amount: 3
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.7.1:17
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/censor/1st-level-feature
 ---
 
 ###### Driving Assault (3 Wrath)

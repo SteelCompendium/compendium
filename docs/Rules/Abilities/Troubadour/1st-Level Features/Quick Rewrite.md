@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: troubadour
 cost: 3 Drama
 cost_amount: 3
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.3.1:01
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Quick Rewrite (3 Drama)

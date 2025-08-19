@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: troubadour
 cost: 11 Drama
 cost_amount: 11
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.3.7:02
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/troubadour/9th-level-feature
 ---
 
 ###### Expert Fencer (11 Drama)

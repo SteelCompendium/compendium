@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 cost: 5 Piety
 cost_amount: 5
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.8.1:01
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Corruption's Curse (5 Piety)

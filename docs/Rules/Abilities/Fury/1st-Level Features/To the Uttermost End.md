@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: fury
 cost: 5 Ferocity
 cost_amount: 5
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.5.1:06
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/fury/1st-level-feature
 ---
 
 ###### To the Uttermost End (5 Ferocity)

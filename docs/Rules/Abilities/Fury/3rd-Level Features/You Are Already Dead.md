@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: fury
 cost: 7 Ferocity
 cost_amount: 7
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.5.5:04
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/fury/3rd-level-feature
 ---
 
 ###### You Are Already Dead (7 Ferocity)

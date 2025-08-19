@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: elementalist
 cost: 3 Essence
 cost_amount: 3
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.9.1:17
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Main action
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Behold the Mystery (3 Essence)

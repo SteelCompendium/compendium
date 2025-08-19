@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: fury
 cost: 11 Ferocity
 cost_amount: 11
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.5.2:04
 source: mcdm.heroes.v1
 target: Self
-type: Maneuver
+type: feature/ability/fury/8th-level-feature
 ---
 
 ###### Elemental Ferocity (11 Ferocity)

@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: conduit
 cost: 5 Piety
 cost_amount: 5
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.5:06
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: Maneuver
+type: feature/ability/conduit/2nd-level-feature
 ---
 
 ###### Divine Comedy (5 Piety)

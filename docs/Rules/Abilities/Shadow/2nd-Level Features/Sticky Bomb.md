@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: shadow
 cost: 5 Insight
 cost_amount: 5
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.2.5:01
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/shadow/2nd-level-feature
 ---
 
 ###### Sticky Bomb (5 Insight)

@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: 'null'
 cost: 9 Discipline
 cost_amount: 9
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.6.3:02
 source: mcdm.heroes.v1
 target: Self
-type: Maneuver
+type: feature/ability/null/6th-level-feature
 ---
 
 ###### Gravitic Charge (9 Discipline)

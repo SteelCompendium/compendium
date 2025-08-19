@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: conduit
 cost: 9 Piety
 cost_amount: 9
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.3:07
 source: mcdm.heroes.v1
 target: Self and each creature in the area
-type: Maneuver
+type: feature/ability/conduit/6th-level-feature
 ---
 
 ###### Blessing of the Midday Sun (9 Piety)

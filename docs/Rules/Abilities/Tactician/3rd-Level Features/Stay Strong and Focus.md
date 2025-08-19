@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: tactician
 cost: 7 Focus
 cost_amount: 7
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.4.6:01
 source: mcdm.heroes.v1
 target: Self
-type: Maneuver
+type: feature/ability/tactician/3rd-level-feature
 ---
 
 ###### Stay Strong and Focus! (7 Focus)

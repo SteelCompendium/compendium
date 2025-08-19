@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: troubadour
 cost: 5 Drama
 cost_amount: 5
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.3.1:10
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: Main action
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Flip the Script (5 Drama)

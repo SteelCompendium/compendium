@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 cost: 3 Piety
 cost_amount: 3
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.1:04
 source: mcdm.heroes.v1
 target: Special
-type: Main action
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Font of Wrath (3 Piety)

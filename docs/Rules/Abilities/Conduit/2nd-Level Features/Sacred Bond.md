@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: conduit
 cost: 5 Piety
 cost_amount: 5
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.5:05
 source: mcdm.heroes.v1
 target: Self and one ally
-type: Maneuver
+type: feature/ability/conduit/2nd-level-feature
 ---
 
 ###### Sacred Bond (5 Piety)

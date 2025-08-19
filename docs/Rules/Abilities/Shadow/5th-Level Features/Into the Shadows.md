@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: shadow
 cost: 9 Insight
 cost_amount: 9
@@ -23,7 +24,7 @@ scdc:
   - 1.1.1:13.2.2.4:02
 source: mcdm.heroes.v1
 target: One creature or object
-type: Main action
+type: feature/ability/shadow/5th-level-feature
 ---
 
 ###### Into the Shadows (9 Insight)

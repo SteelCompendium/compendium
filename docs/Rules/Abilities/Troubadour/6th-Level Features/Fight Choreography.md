@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: troubadour
 cost: 9 Drama
 cost_amount: 9
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.3.3:07
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/troubadour/6th-level-feature
 ---
 
 ###### Fight Choreography (9 Drama)

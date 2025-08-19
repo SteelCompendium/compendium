@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: 'null'
 distance: 1 aura
 feature_type: ability
@@ -18,7 +19,7 @@ scdc:
   - 1.1.1:13.2.6.1:11
 source: mcdm.heroes.v1
 target: Each enemy in the area
-type: Maneuver
+type: feature/ability/null/1st-level-feature
 ---
 
 ###### Null Field

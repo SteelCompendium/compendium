@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: shadow
 cost: 9 Insight
 cost_amount: 9
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.2.3:06
 source: mcdm.heroes.v1
 target: Three creatures
-type: Maneuver
+type: feature/ability/shadow/6th-level-feature
 ---
 
 ###### One Vial Makes You Better (9 Insight)

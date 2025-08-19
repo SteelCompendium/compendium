@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: conduit
 cost: 11 Piety
 cost_amount: 11
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.8.7:11
 source: mcdm.heroes.v1
 target: One creature
-type: Main action
+type: feature/ability/conduit/9th-level-feature
 ---
 
 ###### Thorn Cage (11 Piety)

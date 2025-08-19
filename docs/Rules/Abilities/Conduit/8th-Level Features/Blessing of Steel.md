@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: conduit
 cost: 11 Piety
 cost_amount: 11
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.8.2:03
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: Maneuver
+type: feature/ability/conduit/8th-level-feature
 ---
 
 ###### Blessing of Steel (11 Piety)

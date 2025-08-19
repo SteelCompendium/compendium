@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: shadow
 cost: 5 Insight
 cost_amount: 5
@@ -22,7 +23,7 @@ scdc:
   - 1.1.1:13.2.2.1:05
 source: mcdm.heroes.v1
 target: Self
-type: Main action
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### Shadowstrike (5 Insight)

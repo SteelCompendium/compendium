@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: tactician
 distance: Ranged 10
 feature_type: ability
@@ -17,7 +18,7 @@ scdc:
   - 1.1.1:13.2.4.1:06
 source: mcdm.heroes.v1
 target: One ally
-type: Main action
+type: feature/ability/tactician/1st-level-feature
 ---
 
 ###### "Strike Now!"

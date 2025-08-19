@@ -1,4 +1,5 @@
 ---
+action_type: Triggered
 class: talent
 distance: Ranged 10
 feature_type: ability
@@ -18,7 +19,7 @@ scdc:
   - 1.1.1:13.2.1.1:19
 source: mcdm.heroes.v1
 target: One creature
-type: Triggered
+type: feature/ability/talent/1st-level-feature
 ---
 
 ###### Feedback Loop

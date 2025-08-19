@@ -1,4 +1,5 @@
 ---
+action_type: Main action
 class: censor
 cost: 9 Wrath
 cost_amount: 9
@@ -20,7 +21,7 @@ scdc:
   - 1.1.1:13.2.7.4:04
 source: mcdm.heroes.v1
 target: Self or one ally
-type: Main action
+type: feature/ability/censor/5th-level-feature
 ---
 
 ###### Gods Grant Thee Strength (9 Wrath)

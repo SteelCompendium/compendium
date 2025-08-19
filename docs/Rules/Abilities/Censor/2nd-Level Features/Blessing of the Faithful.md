@@ -1,4 +1,5 @@
 ---
+action_type: Maneuver
 class: censor
 cost: 5 Wrath
 cost_amount: 5
@@ -21,7 +22,7 @@ scdc:
   - 1.1.1:13.2.7.5:04
 source: mcdm.heroes.v1
 target: Self and each ally in the area
-type: Maneuver
+type: feature/ability/censor/2nd-level-feature
 ---
 
 ###### Blessing of the Faithful (5 Wrath)
