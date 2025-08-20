@@ -416,7 +416,7 @@ Most goblins speak Caelian and Szetch.
 > **Effect:** The ally is the target of the triggering strike instead
 
 <!-- -->
-> ⭐️ Crafty
+> ⭐️ **Crafty**
 >
 > The monarch doesn't provoke opportunity attacks by moving.
 

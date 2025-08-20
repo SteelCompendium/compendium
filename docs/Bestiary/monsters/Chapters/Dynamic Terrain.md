@@ -1188,9 +1188,9 @@ A small wooden cart uses alchemical rockets to launch up to a hundred arrows at 
 <!-- -->
 > 🔳 **Screamers**
 >
-> | Area, Ranged, Weapon    |             Main action (Adjacent creature) |
-> | ----------------------- | ------------------------------------------: |
-> | **📏 5 cube within 20** | **🎯 Each creature and object in the area** |
+> | **Area, Ranged, Weapon** |         **Main action (Adjacent creature)** |
+> | ------------------------ | ------------------------------------------: |
+> | **📏 5 cube within 20**  | **🎯 Each creature and object in the area** |
 >
 > - **≤11:** 5 damage; R < 0 dazed (save ends)
 > - **12-16:** 8 damage; R < 1 dazed (save ends)

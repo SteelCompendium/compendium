@@ -55,7 +55,7 @@ type: monster
 > **Effect:** Each target must be on the ground, and each square a target is pulled through is difficult terrain for enemies.
 
 <!-- -->
-> ❇️ Blistering Element
+> ❇️ **Blistering Element**
 >
 > | **Area, Magic** |               **Main Action** |
 > | --------------- | ----------------------------: |
@@ -85,7 +85,7 @@ type: monster
 > **Effect:** A shapechanged creature is slowed and has fire weakness 10 as their limbs stretch and their skin becomes paper thin.
 
 <!-- -->
-> 🗡 Throw
+> 🗡 **Throw**
 >
 > | **Melee, Strike** |                  **Maneuver** |
 > | ----------------- | ----------------------------: |

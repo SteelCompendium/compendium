@@ -66,7 +66,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 <!-- -->
 > 🏹 **Memory Thief (5 Malice)**
 >
-> | Psionic, Ranged\*\* |        **Maneuver** |
+> | **Psionic, Ranged** |        **Maneuver** |
 > | ------------------- | ------------------: |
 > | **📏 Ranged 5**     | **🎯 One creature** |
 >

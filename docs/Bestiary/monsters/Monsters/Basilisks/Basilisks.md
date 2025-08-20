@@ -204,6 +204,6 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 > **Effect:** Each target takes 4 acid damage. Any target who has M < 2 is also slowed (save ends).
 
 <!-- -->
-> ⭐️ Petrifying Fumes
+> ⭐️ **Petrifying Fumes**
 >
 > Any creature who starts their turn adjacent to the tonguesnapper and has M < 1 is slowed (save ends).

@@ -15,7 +15,7 @@ type: feature/ability/role-advancement/controller
 ###### Level 4 Role Advancement Ability
 
 <!-- -->
-> 🔳 Elemental Blast (Encounter)\*\*
+> 🔳 **Elemental Blast (Encounter)**
 >
 > | **Area, Magic, Ranged** |                  **Main action** |
 > | ----------------------- | -------------------------------: |

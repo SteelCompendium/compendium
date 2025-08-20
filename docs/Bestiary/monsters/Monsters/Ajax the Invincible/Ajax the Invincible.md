@@ -211,7 +211,7 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 > **Special:** This ability can be replaced with the features of a different treasure Ajax has acquired.
 
 <!-- -->
-> 🔳 Bead of Hell (2 Malice)
+> 🔳 **Bead of Hell (2 Malice)**
 >
 > | **Area, Magic, Ranged** |   **Maneuver** |
 > | ----------------------- | -------------: |

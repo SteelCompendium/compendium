@@ -2049,7 +2049,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > **Effect:** This ability deals an extra 5 damage for each winded target in the area.
 
 <!-- -->
-> 🏹 Hunting Leap
+> 🏹 **Hunting Leap**
 >
 > | **Ranged**      |                  **Maneuver** |
 > | --------------- | ----------------------------: |

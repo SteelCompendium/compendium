@@ -71,7 +71,7 @@ type: monster
 > **Effect:** This ability deals an extra 5 damage for each winded target in the area.
 
 <!-- -->
-> 🏹 Hunting Leap
+> 🏹 **Hunting Leap**
 >
 > | **Ranged**      |                  **Maneuver** |
 > | --------------- | ----------------------------: |

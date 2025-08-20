@@ -1665,7 +1665,7 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 > **Special:** This ability can be replaced with the features of a different treasure Ajax has acquired.
 
 <!-- -->
-> 🔳 Bead of Hell (2 Malice)
+> 🔳 **Bead of Hell (2 Malice)**
 >
 > | **Area, Magic, Ranged** |   **Maneuver** |
 > | ----------------------- | -------------: |
@@ -3265,7 +3265,7 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 > **Effect:** Each target takes 4 acid damage. Any target who has M < 2 is also slowed (save ends).
 
 <!-- -->
-> ⭐️ Petrifying Fumes
+> ⭐️ **Petrifying Fumes**
 >
 > Any creature who starts their turn adjacent to the tonguesnapper and has M < 1 is slowed (save ends).
 
@@ -3516,7 +3516,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 > **Effect:** Each target must be on the ground, and each square a target is pulled through is difficult terrain for enemies.
 
 <!-- -->
-> ❇️ Blistering Element
+> ❇️ **Blistering Element**
 >
 > | **Area, Magic** |               **Main Action** |
 > | --------------- | ----------------------------: |
@@ -3546,7 +3546,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 > **Effect:** A shapechanged creature is slowed and has fire weakness 10 as their limbs stretch and their skin becomes paper thin.
 
 <!-- -->
-> 🗡 Throw
+> 🗡 **Throw**
 >
 > | **Melee, Strike** |                  **Maneuver** |
 > | ----------------- | ----------------------------: |
@@ -12602,7 +12602,7 @@ Most goblins speak Caelian and Szetch.
 > **Effect:** The ally is the target of the triggering strike instead
 
 <!-- -->
-> ⭐️ Crafty
+> ⭐️ **Crafty**
 >
 > The monarch doesn't provoke opportunity attacks by moving.
 
@@ -13811,7 +13811,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 > At the end of each of their turns, the bloodlord can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way
 
 <!-- -->
-> ☠️ Advance! (Villain Action 1)
+> ☠️ **Advance! (Villain Action 1)**
 >
 > | **Area**        |                                 **-** |
 > | --------------- | ------------------------------------: |
@@ -23276,7 +23276,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 <!-- -->
 > 🏹 **Memory Thief (5 Malice)**
 >
-> | Psionic, Ranged\*\* |        **Maneuver** |
+> | **Psionic, Ranged** |        **Maneuver** |
 > | ------------------- | ------------------: |
 > | **📏 Ranged 5**     | **🎯 One creature** |
 >
@@ -25957,7 +25957,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > **Effect:** This ability deals an extra 5 damage for each winded target in the area.
 
 <!-- -->
-> 🏹 Hunting Leap
+> 🏹 **Hunting Leap**
 >
 > | **Ranged**      |                  **Maneuver** |
 > | --------------- | ----------------------------: |
@@ -28129,9 +28129,9 @@ A small wooden cart uses alchemical rockets to launch up to a hundred arrows at 
 <!-- -->
 > 🔳 **Screamers**
 >
-> | Area, Ranged, Weapon    |             Main action (Adjacent creature) |
-> | ----------------------- | ------------------------------------------: |
-> | **📏 5 cube within 20** | **🎯 Each creature and object in the area** |
+> | **Area, Ranged, Weapon** |         **Main action (Adjacent creature)** |
+> | ------------------------ | ------------------------------------------: |
+> | **📏 5 cube within 20**  | **🎯 Each creature and object in the area** |
 >
 > - **≤11:** 5 damage; R < 0 dazed (save ends)
 > - **12-16:** 8 damage; R < 1 dazed (save ends)
@@ -28931,7 +28931,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 **<span class="steel-compendium-ability">Level 4 Role Advancement Ability</span>**
 
 <!-- -->
-> 🔳 Elemental Blast (Encounter)\*\*
+> 🔳 **Elemental Blast (Encounter)**
 >
 > | **Area, Magic, Ranged** |                  **Main action** |
 > | ----------------------- | -------------------------------: |
