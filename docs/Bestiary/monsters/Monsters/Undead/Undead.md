@@ -97,7 +97,7 @@ Most undead speak (or at least understand) the languages they knew in life.
 
 It's rare you fight a single zombie. Low-level undead most often appear in huge droves, and skeletons, ghouls, specters, and shades can overwhelm the mightiest of heroes through sheer numbers alone if those heroes aren't careful.
 
-###### **Undead Malice (Level 1+ Malice Features)**
+###### Undead Malice (Level 1+ Malice Features)
 
 At the start of any undead's turn, you can spend Malice to activate one of the following features.
 

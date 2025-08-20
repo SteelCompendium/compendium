@@ -2,12 +2,12 @@
 file_basename: Hag Malice
 file_dpath: Monsters/Hag/Features
 item_id: hag-malice-malice-features
-item_index: '36'
+item_index: '35'
 item_name: Hag Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:hag-malice-malice-features
 scdc:
-  - 1.1.1:2.2:36
+  - 1.1.1:2.2:35
 source: mcdm.monsters.v1
 type: monster/feature
 ---

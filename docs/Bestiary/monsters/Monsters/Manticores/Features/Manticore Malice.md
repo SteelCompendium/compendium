@@ -2,12 +2,12 @@
 file_basename: Manticore Malice
 file_dpath: Monsters/Manticores/Features
 item_id: manticore-malice-malice-features
-item_index: '50'
+item_index: '49'
 item_name: Manticore Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:manticore-malice-malice-features
 scdc:
-  - 1.1.1:2.2:50
+  - 1.1.1:2.2:49
 source: mcdm.monsters.v1
 type: monster/feature
 ---

@@ -2,12 +2,12 @@
 file_basename: Time Raider Malice
 file_dpath: Monsters/Time Raiders/Features
 item_id: time-raider-malice-malice-features
-item_index: '17'
+item_index: '16'
 item_name: Time Raider Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:time-raider-malice-malice-features
 scdc:
-  - 1.1.1:2.2:17
+  - 1.1.1:2.2:16
 source: mcdm.monsters.v1
 type: monster/feature
 ---

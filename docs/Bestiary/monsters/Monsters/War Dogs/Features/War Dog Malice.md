@@ -2,12 +2,12 @@
 file_basename: War Dog Malice
 file_dpath: Monsters/War Dogs/Features
 item_id: war-dog-malice-level-10-malice-features
-item_index: '53'
+item_index: '52'
 item_name: War Dog Malice (Level 10+ Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:war-dog-malice-level-10-malice-features
 scdc:
-  - 1.1.1:2.2:53
+  - 1.1.1:2.2:52
 source: mcdm.monsters.v1
 type: monster/feature
 ---

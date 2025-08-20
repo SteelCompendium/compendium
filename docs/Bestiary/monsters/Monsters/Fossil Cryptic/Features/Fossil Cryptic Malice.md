@@ -2,12 +2,12 @@
 file_basename: Fossil Cryptic Malice
 file_dpath: Monsters/Fossil Cryptic/Features
 item_id: fossil-cryptic-malice-malice-features
-item_index: '56'
+item_index: '55'
 item_name: Fossil Cryptic Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:fossil-cryptic-malice-malice-features
 scdc:
-  - 1.1.1:2.2:56
+  - 1.1.1:2.2:55
 source: mcdm.monsters.v1
 type: monster/feature
 ---

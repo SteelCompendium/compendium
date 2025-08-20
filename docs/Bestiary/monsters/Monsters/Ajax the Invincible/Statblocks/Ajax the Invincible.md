@@ -171,6 +171,8 @@ type: monster
 > | ----------------------- | ----------------------------: |
 > | **📏 5 burst**          | **🎯 Each enemy in the area** |
 >
+> **Power Roll + 5:**
+>
 > - **≤11:** 11 fire damage; A < 4 weakened (save ends)
 > - **12-16:** 17 fire damage; A < 5 weakened (save ends)
 > - **17+:** 21 fire damage; A < 6 weakened (save ends)

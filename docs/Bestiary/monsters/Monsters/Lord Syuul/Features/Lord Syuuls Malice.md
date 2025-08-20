@@ -2,12 +2,12 @@
 file_basename: Lord Syuuls Malice
 file_dpath: Monsters/Lord Syuul/Features
 item_id: lord-syuuls-malice-malice-features
-item_index: '28'
+item_index: '27'
 item_name: Lord Syuul's Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:lord-syuuls-malice-malice-features
 scdc:
-  - 1.1.1:2.2:28
+  - 1.1.1:2.2:27
 source: mcdm.monsters.v1
 type: monster/feature
 ---

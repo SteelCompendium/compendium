@@ -2,12 +2,12 @@
 file_basename: Wode Elf Malice
 file_dpath: Monsters/Elves Wode/Features
 item_id: wode-elf-malice-malice-features
-item_index: '27'
+item_index: '26'
 item_name: Wode Elf Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:wode-elf-malice-malice-features
 scdc:
-  - 1.1.1:2.2:27
+  - 1.1.1:2.2:26
 source: mcdm.monsters.v1
 type: monster/feature
 ---

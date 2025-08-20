@@ -2,12 +2,12 @@
 file_basename: Devil Malice
 file_dpath: Monsters/Devils/Features
 item_id: devil-malice-malice-features
-item_index: '37'
+item_index: '36'
 item_name: Devil Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:devil-malice-malice-features
 scdc:
-  - 1.1.1:2.2:37
+  - 1.1.1:2.2:36
 source: mcdm.monsters.v1
 type: monster/feature
 ---
