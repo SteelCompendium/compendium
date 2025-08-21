@@ -1,27 +1,50 @@
 (function () {
-    const KEY = "mkdocs:fontChoice";
-    const FONTS = {
-        inter:  { text: "Inter",              code: "JetBrains Mono" },
-        merri:  { text: "Merriweather Sans",  code: "JetBrains Mono" }
+    const KEY = "mkdocs:fontPrefs";
+    const VARS = {
+        large: "--md-large-header-font",
+        small: "--md-small-header-font",
+        text:  "--md-text-font",
+        code:  "--md-code-font",
     };
 
-    function apply(choice) {
-        const f = FONTS[choice]; if (!f) return;
-        const r = document.documentElement;
-        r.style.setProperty("--md-text-font", f.text);
-        r.style.setProperty("--md-code-font", f.code);
-        localStorage.setItem(KEY, choice);
+    function apply(prefs) {
+        const r = document.documentElement.style;
+        Object.entries(VARS).forEach(([k, cssVar]) => {
+            if (prefs[k]) r.setProperty(cssVar, prefs[k]);
+        });
+        localStorage.setItem(KEY, JSON.stringify(prefs));
     }
 
-    // Apply saved preference ASAP
-    const saved = localStorage.getItem(KEY);
-    if (saved && FONTS[saved]) apply(saved);
+    // Apply saved prefs ASAP
+    let saved = {};
+    try { saved = JSON.parse(localStorage.getItem(KEY) || "{}"); } catch {}
+    if (Object.keys(saved).length) apply(saved);
 
-    // Hook up the selector when present (e.g., on /preferences/)
     document.addEventListener("DOMContentLoaded", () => {
-        const sel = document.getElementById("font-picker");
-        if (!sel) return;
-        if (saved && FONTS[saved]) sel.value = saved;
-        sel.addEventListener("change", () => apply(sel.value));
+        const sel = {
+            large: document.getElementById("font-large"),
+            small: document.getElementById("font-small"),
+            text:  document.getElementById("font-text"),
+            code:  document.getElementById("font-code"),
+        };
+
+        // Initialize controls from saved values
+        for (const k of Object.keys(sel)) {
+            if (sel[k] && saved[k]) sel[k].value = saved[k];
+        }
+
+        function update() {
+            const prefs = {
+                large: sel.large?.value,
+                small: sel.small?.value,
+                text:  sel.text?.value,
+                code:  sel.code?.value,
+            };
+            apply(prefs);
+        }
+
+        for (const k of Object.keys(sel)) {
+            sel[k]?.addEventListener("change", update);
+        }
     });
 })();
