@@ -67,7 +67,7 @@ Any rival can replace their signature ability with a signature ability a hero ha
 
 Most rivals speak Caelian and two other languages.
 
-###### Rival Malice Level 1+ Malice Features
+###### Rival Malice (Level 1+ Malice Features)
 
 At the start of any rival's turn, you can spend Malice to activate one of the following features.
 

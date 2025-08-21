@@ -18240,7 +18240,7 @@ Any rival can replace their signature ability with a signature ability a hero ha
 
 Most rivals speak Caelian and two other languages.
 
-**<span class="steel-compendium-malice">Rival Malice Level 1+ Malice Features</span>**
+**<span class="steel-compendium-malice">Rival Malice (Level 1+ Malice Features)</span>**
 
 At the start of any rival's turn, you can spend Malice to activate one of the following features.
 
@@ -26875,7 +26875,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 >
 > The necrotic eye has damage immunity 15. When they use a main action, they lose this immunity until the end of the round.
 
-**<span class="steel-compendium-statblock">Toxic Eye Level 6 Hexer</span>**
+**<span class="steel-compendium-statblock">Toxic Eye</span>**
 
 | Eyestalk, Horror, Overmind |             -              |      Level 6      |         Hexer         |         EV -         |
 | :------------------------: | :------------------------: | :---------------: | :-------------------: | :------------------: |

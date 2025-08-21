@@ -276,7 +276,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 >
 > The necrotic eye has damage immunity 15. When they use a main action, they lose this immunity until the end of the round.
 
-###### Toxic Eye Level 6 Hexer
+###### Toxic Eye
 
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |          Hexer          |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
