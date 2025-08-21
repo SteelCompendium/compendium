@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block extrahead %}
+{{ super() }}
+<script>
+    (function(){
+        try {
+            const s = JSON.parse(localStorage.getItem("mkdocs:fontPrefs") || "{}");
+            const r = document.documentElement.style;
+            if (s.large) r.setProperty("--md-large-header-font", s.large);
+            if (s.small) r.setProperty("--md-small-header-font", s.small);
+            if (s.text)  r.setProperty("--md-text-font",  s.text);
+            if (s.code)  r.setProperty("--md-code-font",  s.code);
+            if (s.width) r.setProperty("--md-max_width",   s.width);
+        } catch(e) {}
+    })();
+</script>
+{% endblock %}
