@@ -35,7 +35,7 @@ type: index
 | [Shadowstrike](../1st-Level%20Features/Shadowstrike)                                                 | 5 Insight  | 1     | ability      | Main action    | Self; see below      | Self                           |
 | [Smoke Bomb](../1st-Level%20Features/Smoke%20Bomb)                                                   |            | 1     | trait        |                |                      |                                |
 | [Teamwork Has Its Place](../1st-Level%20Features/Teamwork%20Has%20Its%20Place)                       |            | 1     | ability      | Main action    | Melee 1 or ranged 5  | One creature or object         |
-| [Two Throats at Once](../1st-Level%20Features/Two%20Throats%20at%20Once)                             | 3 Insight  | 1     | ability      | Main action    | Melee 1              | Two creatures or objects       |
+| [Two Throats at Once](../1st-Level%20Features/Two%20Throats%20at%20Once)                             | 3 Insight  | 1     | ability      | Main action    | Melee 1 or ranged 5  | Two creatures or objects       |
 | [You Were Watching the Wrong One](../1st-Level%20Features/You%20Were%20Watching%20the%20Wrong%20One) |            | 1     | ability      | Main action    | Melee 1              | One creature                   |
 | [Burning Ash](../2nd-Level%20Features/Burning%20Ash)                                                 |            | 2     | trait        |                |                      |                                |
 | [Friend](../2nd-Level%20Features/Friend)                                                             |            | 2     | trait        |                |                      |                                |

@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 class: elementalist
-distance: Ranged 10
+distance: Melee 1
 feature_type: ability
 file_basename: Motivate Earth
 file_dpath: Elementalist/1st-Level Features
@@ -29,7 +29,7 @@ type: feature/ability/elementalist/1st-level-feature
 
 | **Earth, Magic, Melee** | **Main action** |
 | ----------------------- | --------------: |
-| **📏 Ranged 10**        |  **🎯 Special** |
+| **📏 Melee 1**          |  **🎯 Special** |
 
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
 

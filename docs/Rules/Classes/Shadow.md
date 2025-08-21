@@ -362,7 +362,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 | **Melee, Ranged, Strike, Weapon** |                 **Main action** |
 | --------------------------------- | ------------------------------: |
-| **📏 Melee 1**                    | **🎯 Two creatures or objects** |
+| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures or objects** |
 
 **Power Roll + Agility:**
 

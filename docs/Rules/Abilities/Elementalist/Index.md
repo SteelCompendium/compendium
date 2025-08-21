@@ -39,7 +39,7 @@ type: index
 | [Invigorating Growth](../1st-Level%20Features/Invigorating%20Growth)                                       | 3 Essence  | 1     | ability      | Main action | Ranged 10         | One creature                      |
 | [It Is the Soul Which Hears](../1st-Level%20Features/It%20Is%20the%20Soul%20Which%20Hears)                 |            | 1     | trait        |             |                   |                                   |
 | [Meteoric Introduction](../1st-Level%20Features/Meteoric%20Introduction)                                   |            | 1     | ability      | Main action | Melee 1           | One creature or object            |
-| [Motivate Earth](../1st-Level%20Features/Motivate%20Earth)                                                 |            | 1     | ability      | Main action | Ranged 10         | Special                           |
+| [Motivate Earth](../1st-Level%20Features/Motivate%20Earth)                                                 |            | 1     | ability      | Main action | Melee 1           | Special                           |
 | [No More Than a Breeze](../1st-Level%20Features/No%20More%20Than%20a%20Breeze)                             | 5 Essence  | 1     | ability      | Maneuver    | Ranged 10         | Self or one ally                  |
 | [Persistent Magic](../1st-Level%20Features/Persistent%20Magic)                                             |            | 1     | trait        |             |                   |                                   |
 | [Practical Magic](../1st-Level%20Features/Practical%20Magic)                                               |            | 1     | ability      | Maneuver    | Self; see below   | Self                              |

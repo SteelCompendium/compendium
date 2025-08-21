@@ -4,7 +4,7 @@ class: shadow
 cost: 3 Insight
 cost_amount: 3
 cost_resource: Insight
-distance: Melee 1
+distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: Two Throats at Once
 file_dpath: Shadow/1st-Level Features
@@ -33,7 +33,7 @@ type: feature/ability/shadow/1st-level-feature
 
 | **Melee, Ranged, Strike, Weapon** |                 **Main action** |
 | --------------------------------- | ------------------------------: |
-| **📏 Melee 1**                    | **🎯 Two creatures or objects** |
+| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures or objects** |
 
 **Power Roll + Agility:**
 

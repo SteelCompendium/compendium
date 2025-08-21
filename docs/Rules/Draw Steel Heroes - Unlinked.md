@@ -7658,7 +7658,7 @@ You have the following ability.
 
 | **Earth, Magic, Melee** | **Main action** |
 | ----------------------- | --------------: |
-| **📏 Ranged 10**        |  **🎯 Special** |
+| **📏 Melee 1**          |  **🎯 Special** |
 
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
 
@@ -11825,7 +11825,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 | **Melee, Ranged, Strike, Weapon** |                 **Main action** |
 | --------------------------------- | ------------------------------: |
-| **📏 Melee 1**                    | **🎯 Two creatures or objects** |
+| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures or objects** |
 
 **Power Roll + Agility:**
 
