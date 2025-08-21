@@ -26,6 +26,18 @@
         localStorage.setItem(KEY, JSON.stringify(prefs));
     }
 
+    // Accept: number+unit (em/rem/px/%), or 'none'/'full'
+    // If user enters a bare number, default to 'em'.
+    function normalizeWidth(raw) {
+        if (!raw) return null;
+        let v = String(raw).trim().toLowerCase();
+        if (v === "full") v = "none";
+        if (v === "none") return v;
+        if (/^\d+(\.\d+)?(em|rem|px|%)$/.test(v)) return v;
+        if (/^\d+(\.\d+)?$/.test(v)) return v + "em";  // default unit
+        return null;
+    }
+
     // Load + apply ASAP (pre-DOM)
     let saved = {};
     try { saved = JSON.parse(localStorage.getItem(KEY) || "{}"); } catch {}
@@ -52,48 +64,40 @@
             });
         }
 
-        // width controls
-        const range = document.getElementById("width-range");
-        const out   = document.getElementById("width-value");
-        const full  = document.getElementById("width-full");
+        const input = document.getElementById("width-input");
+        const applyBtn = document.getElementById("width-apply");
+        const resetBtn = document.getElementById("width-reset");
 
-        function setFromRange() {
-            const em = `${range.value}em`;
-            out.textContent = em;
-            saved.width = em;
-            applyWidth(saved.width);
-            save(saved);
-        }
+        if (!input || !applyBtn || !resetBtn) return;
 
-        function setFullWidth(on) {
-            if (on) {
-                range.disabled = true;
-                saved.width = "none";
-                out.textContent = "full";
-            } else {
-                range.disabled = false;
-                setFromRange();
+        // Initialize field
+        input.value = saved.width || "61em";
+
+        function doApply() {
+            const norm = normalizeWidth(input.value);
+            if (!norm) {
+                input.setCustomValidity("Enter a value like 61em, 1200px, 90%, or 'none'");
+                input.reportValidity();
                 return;
             }
+            input.setCustomValidity("");
+            saved.width = norm;
             applyWidth(saved.width);
             save(saved);
         }
 
-        if (range && out && full) {
-            // init UI from saved width
-            if (saved.width === "none") {
-                full.checked = true;
-                range.disabled = true;
-                out.textContent = "full";
-            } else if (saved.width && /^\d+(\.\d+)?em$/.test(saved.width)) {
-                range.value = String(parseFloat(saved.width)); // strip "em"
-                out.textContent = saved.width;
-            } else {
-                out.textContent = `${range.value}em`;
-            }
+        // Apply on button click or Enter
+        applyBtn.addEventListener("click", doApply);
+        input.addEventListener("keydown", (e) => {
+            if (e.key === "Enter") { e.preventDefault(); doApply(); }
+        });
 
-            range.addEventListener("input", setFromRange);
-            full.addEventListener("change", () => setFullWidth(full.checked));
-        }
+        // Reset to theme default
+        resetBtn.addEventListener("click", () => {
+            input.value = "61em";
+            saved.width = "61em";
+            applyWidth(saved.width);
+            save(saved);
+        });
     });
 })();
