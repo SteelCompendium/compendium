@@ -1,25 +1,33 @@
 ---
+action_type: Main action
 class: censor
-feature_type: trait
+distance: Melee 1
+feature_type: ability
 file_basename: Your Allies Cannot Save You
 file_dpath: Censor/1st-Level Features
+flavor: Your magic strike turns your foe's guilt into a burst of holy power.
 item_id: your-allies-cannot-save-you
-item_index: '06'
+item_index: '04'
 item_name: Your Allies Cannot Save You!
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:your-allies-cannot-save-you
+  - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:your-allies-cannot-save-you
 scdc:
-  - 1.1.1:13.1.7.1:06
+  - 1.1.1:13.2.7.1:04
 source: mcdm.heroes.v1
-type: feature/trait/censor/1st-level-feature
+target: One creature or object
+type: feature/ability/censor/1st-level-feature
 ---
 
 ###### Your Allies Cannot Save You!
 
 *Your magic strike turns your foe's guilt into a burst of holy power.*
 
-| **Melee, Strike, Weapon** |               **Main Action** |
+| **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Melee 1**            | **🎯 One creature or object** |
 

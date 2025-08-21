@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Field Arsenal
 file_dpath: Tactician/1st-Level Features
 item_id: field-arsenal
-item_index: 08
+item_index: '04'
 item_name: Field Arsenal
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:field-arsenal
 scdc:
-  - 1.1.1:13.1.4.1:08
+  - 1.1.1:13.1.4.1:04
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---

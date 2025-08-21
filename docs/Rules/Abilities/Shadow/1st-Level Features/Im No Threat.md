@@ -1,18 +1,24 @@
 ---
+action_type: Maneuver
 class: shadow
-feature_type: trait
+distance: Self
+feature_type: ability
 file_basename: Im No Threat
 file_dpath: Shadow/1st-Level Features
+flavor: Taking on an illusory countenance gives you an advantage on subterfuge.
 item_id: im-no-threat
-item_index: '12'
+item_index: '17'
 item_name: I'm No Threat
+keywords:
+  - Magic
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:im-no-threat
+  - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:im-no-threat
 scdc:
-  - 1.1.1:13.1.2.1:12
+  - 1.1.1:13.2.2.1:17
 source: mcdm.heroes.v1
-type: feature/trait/shadow/1st-level-feature
+target: Self
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### I'm No Threat
@@ -21,7 +27,7 @@ type: feature/trait/shadow/1st-level-feature
 
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |
-| **📏 Self** |  \*\*🎯 Self |
+| **📏 Self** |  **🎯 Self** |
 
 **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can shift.
 

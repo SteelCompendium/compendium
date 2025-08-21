@@ -1,20 +1,28 @@
 ---
+action_type: Main action
 class: censor
 cost: 11 Wrath
 cost_amount: 11
 cost_resource: Wrath
+distance: Ranged 10
 feature_type: ability
 file_basename: Terror Manifest
 file_dpath: Censor/9th-Level Features
+flavor: '"I know what you fear."'
 item_id: terror-manifest-11-wrath
 item_index: '01'
 item_name: Terror Manifest (11 Wrath)
+keywords:
+  - Magic
+  - Ranged
+  - Strike
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.censor.9th-level-feature:terror-manifest-11-wrath
 scdc:
   - 1.1.1:13.2.7.7:01
 source: mcdm.heroes.v1
+target: One creature
 type: feature/ability/censor/9th-level-feature
 ---
 
@@ -22,7 +30,7 @@ type: feature/ability/censor/9th-level-feature
 
 *"I know what you fear."*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 

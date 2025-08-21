@@ -18,6 +18,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **As a tactician, you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.**
 
+<!-- -->
 > "Your line is broken, Varrox! Your wizard is dead. Hahah! You should have negotiated!"
 >
 > **Sir John of Tor**
@@ -91,6 +92,7 @@ Though you can't gain focus outside of combat, you can use your heroic abilities
 
 When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the tactician, but they might appear in future products.)
 
+<!-- -->
 > **Tactician Abilities Explained**
 >
 > Many of the tactician's abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The tactician is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The tactician can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the tactician's abilities are the actual commands they give their friends!
@@ -396,7 +398,7 @@ Your tactical doctrine grants you a feature, as shown on the 2nd-Level Doctrine 
 
 ##### Goaded
 
-You have learned to leverage your marked foes' psychology and goad them into acting before they're tactically ready. Whenever a creature marked by you uses a strike that targets you or any ally within your line of effect, you can use a free triggered action to change the target of the strike to you or another ally within your line of effect.
+You have learned to leverage your marked foes' psychology and goad them into acting before they're tactically ready. Whenever a creature marked by you uses a strike that targets you or any ally within your line of effect, you can use a free triggered action to change one target of the strike to you or another ally within your line of effect. The new target must be within distance of the ability and within line of effect of the creature using it.
 
 ##### Infiltration Tactics
 
@@ -752,6 +754,8 @@ Choose one of the following abilities.
 
 ###### Instant Retaliation (9 Focus)
 
+*You parry with almost supernatural speed.*
+
 | **Melee, Weapon** | **Free triggered** |
 | ----------------- | -----------------: |
 | **📏 Melee 1**    |    **🎯 One ally** |
@@ -892,6 +896,8 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 
 ###### Floodgates Open (11 Focus)
 
+*You direct your squad to strike in unison and with devastating effect.*
+
 | **Ranged**       |     **Main action** |
 | ---------------- | ------------------: |
 | **📏 Ranged 10** | **🎯 Three allies** |
@@ -942,7 +948,7 @@ Choose one of the following abilities.
 
 ###### Their Lack of Focus Is Their Undoing (11 Focus)
 
-*You trick your enemies into attacking each other and leave them*
+*You trick your enemies into attacking each other and leave them confused by the aftermath.*
 
 | **Magic, Ranged, Weapon** |      **Main action** |
 | ------------------------- | -------------------: |
@@ -994,7 +1000,7 @@ Choose one of the following abilities.
 
 *You focus on making an enemy irrelevant.*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main Action** |
+| **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 

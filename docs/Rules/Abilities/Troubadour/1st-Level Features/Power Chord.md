@@ -1,18 +1,25 @@
 ---
+action_type: Maneuver
 class: troubadour
-feature_type: trait
+distance: 2 burst
+feature_type: ability
 file_basename: Power Chord
 file_dpath: Troubadour/1st-Level Features
+flavor: Your instrument rings true and your music blows everyone away.
 item_id: power-chord
-item_index: '06'
+item_index: 09
 item_name: Power Chord
+keywords:
+  - Area
+  - Magic
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:power-chord
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:power-chord
 scdc:
-  - 1.1.1:13.1.3.1:06
+  - 1.1.1:13.2.3.1:09
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/1st-level-feature
+target: Each enemy in the area
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Power Chord

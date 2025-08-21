@@ -66,6 +66,7 @@ When you make a project roll using a skill from the crafting skill group, you ca
 
 On any day when you don't take a respite, you can spend 1 uninterrupted hour working on a crafting project using a skill you have from the crafting skill group. If you do so, you gain 1d10 project points toward that project.
 
+<!-- -->
 > **Perks and Tests**
 >
 > The existence of specific perks doesn't mean that a hero can't attempt the task related to a perk without having that perk. Aside from supernatural perks, a Director can always allow a hero to attempt a mundane task mentioned in a perk by making a test. Perks are special because they allow a hero to attempt a specific task without a test, and often give a better result than a successful test-or even a test with a reward would give.
@@ -242,7 +243,7 @@ You have the following ability.
 
 *You cast an entertaining spell that creates a minor but impressive magical effect.*
 
-| **Magic**              | **Main Action** |
+| **Magic**              | **Main action** |
 | ---------------------- | --------------: |
 | **📏 Self; see below** |     **🎯 Self** |
 
@@ -274,62 +275,13 @@ If your familiar is destroyed, you can restore them as a respite activity, or by
 
 **Familiar**
 
-<table style="width:99%;">
-<colgroup>
-<col style="width: 18%" />
-<col style="width: 16%" />
-<col style="width: 26%" />
-<col style="width: 20%" />
-<col style="width: 19%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">Familiar</th>
-<th style="text-align: center;">-</th>
-<th style="text-align: center;">Level -</th>
-<th style="text-align: center;">-</th>
-<th style="text-align: center;">EV -</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><strong>1T</strong><br />
-Size</td>
-<td style="text-align: center;"><strong>5</strong><br />
-Speed</td>
-<td style="text-align: center;"><strong>2x your level</strong><br />
-Stamina</td>
-<td style="text-align: center;"><strong>0</strong><br />
-Stability</td>
-<td style="text-align: center;"><strong>-</strong><br />
-Free Strike</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>-</strong><br />
-Immunities</td>
-<td style="text-align: center;"><strong>-</strong><br />
-Movement</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><strong>-</strong><br />
-With Captain</td>
-<td style="text-align: center;"><strong>-</strong><br />
-Weaknesses</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><strong>-3</strong><br />
-Might</td>
-<td style="text-align: center;"><strong>+2</strong><br />
-Agility</td>
-<td style="text-align: center;"><strong>0</strong><br />
-Reason</td>
-<td style="text-align: center;"><strong>0</strong><br />
-Intuition</td>
-<td style="text-align: center;"><strong>+1</strong><br />
-Presence</td>
-</tr>
-</tbody>
-</table>
+|       Familiar        |          -          |            Level -             |            -            |          EV -          |
+| :-------------------: | :-----------------: | :----------------------------: | :---------------------: | :--------------------: |
+|   **1T**<br/> Size    |  **5**<br/> Speed   | **2x your level**<br/> Stamina |  **0**<br/> Stability   | **-**<br/> Free Strike |
+| **-**<br/> Immunities | **-**<br/> Movement |                                | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-3**<br/> Might   | **+2**<br/> Agility |       **0**<br/> Reason        |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
+<!-- -->
 > **Telepathic**
 >
 > While you and your familiar are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.

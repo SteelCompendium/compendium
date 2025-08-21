@@ -48,6 +48,7 @@ Abilities are special actions, maneuvers, and more that allow you to affect crea
 
 Abilities are presented in a special format that first describes the ability, then summarizes its mechanical details, and finally breaks out the ability's power roll (if it has one) and effects.
 
+<!-- -->
 > **Abilities in Combat**
 >
 > All the abilities appearing in this book are used as a main action, a maneuver, a triggered action, or some other part of your turn. As such, these abilities are all explicitly usable in combat or some other time-sensitive scenario where the game unfolds as combat rounds. If a creature has an ability that takes 1 minute or longer to use, that ability can't be used in combat.
@@ -76,7 +77,7 @@ The nine Heroic Resources in the game are:
 
 ##### Heroic Abilities
 
-If an ability has a Heroic Resource cost to activate-as in, you can't use the ability at all without spending some of your Heroic Resource-then it is a heroic ability. If an effect allows you to use heroic ability when it isn't your turn, you must sill pay its Heroic Resource cost to use it it unless the effect says otherwise.
+If an ability has a Heroic Resource cost to activate-as in, you can't use the ability at all without spending some of your Heroic Resource-then it is a heroic ability. If an effect allows you to use a heroic ability when it isn't your turn, you must still pay its Heroic Resource cost to use it unless the effect says otherwise.
 
 Some abilities don't cost your Heroic Resource to use but allow you to spend your Heroic Resource to enhance or add effects to the ability, such as the conduit's Healing Grace. These abilities are not heroic abilities unless the baseline ability can't be used without spending your Heroic Resource.
 
@@ -116,6 +117,7 @@ Abilities with the Ranged keyword can be used to affect creatures who are too fa
 
 Abilities with the Strike keyword (often referred to simply as "strikes") deal damage to or impose a harmful effect on specific creatures or objects.
 
+<!-- -->
 > **It's Not All Strikes!**
 >
 > The Strike keyword and phrases such as "makes a strike" are reserved for abilities that have a creature targeting specific creatures or objects (not affecting creatures or objects in an area) and harming those targets in some way by making a power roll. The many abilities in the game that target areas of effect are not strikes. They instead use the Area keyword. That means if a feature distinctly interacts with a strike, that feature has no effect on abilities with the Area keyword.
@@ -188,10 +190,9 @@ When an ability affects a linear area, that area is expressed as "A x B line." T
 
 When an ability creates a wall, that area is expressed as "X wall." The number X is how many squares are used to make the wall. When you place a wall, you can build it one square at a time, but each square must share at least one side (not just a corner) with another square of the wall. A creature or object must be within the area to be targeted by a wall ability.
 
-the wall. A creature or object must be within the area to be targeted by a wall ability.
-
 You can stack squares on top of each other to make the wall higher. Unless otherwise stated, a wall can't be placed in occupied squares, and a wall blocks line of effect.
 
+<!-- -->
 > **Straight Lines**
 >
 > Talking about a straight line area of effect on an encounter map doesn't mean the line can only be a straight vertical or horizontal line of contiguous squares. It means each square in the line's length must move in the same direction without bending back in an opposite direction. To make a line area quickly, pick your line's origin square, then pick each subsquent square in the line one at a time in a single direction without bending back in an opposite direction.
@@ -230,6 +231,7 @@ If an ability targets "self," it can affect only the creature using the ability.
 
 If an area ability doesn't provide a number of targets but instead says it applies to each creature, object, enemy, or ally in the area, then all eligible targets for the ability are affected.
 
+<!-- -->
 > **Telling Friend From Foe**
 >
 > There might be times when a foe disguises or obscures themself so that they're temporarily seen as an ally-or at least not seen as an enemy. Until the effect ends, such a creature can't be targeted by abilities that would usually target them by targeting enemies. Fear not, though. All classes have access to at least one ability that targets creatures, whether friend or foe.
@@ -241,12 +243,12 @@ If an ability requires a power roll, it has a "Power Roll" entry that tells you 
 Unlike power rolls made as tests (see Chapter 9), ability rolls always do something useful. You're rolling to determine the impact of the ability, including how much damage it deals and any other effects it imposes based on the tier outcome of the power roll. For instance, the fury's Brutal Slam ability is a melee strike that targets one adjacent creature (within 1 square), and which has the following effects:
 
 - **Tier 1 (11 or lower):** The ability deals damage equal to 3 + your Might score, then pushes the target back 1 square.
-- **Tier 2 (12**\*-\***16):** The ability deals damage equal to 6 + your Might score, then pushes the target back 2 squares.
+- **Tier 2 (12-16):** The ability deals damage equal to 6 + your Might score, then pushes the target back 2 squares.
 - **Tier 3 (17 or higher):** The ability deals damage equal to 9 + your Might score, then pushes the target back 4 squares.
 
 ###### Characteristics and Damage
 
-Certain damage-dealing abilities note that damage as a number followed by a plus sign (+) and the letter M , A , R , I , or P . The indicated letter means you add your characteristic score-either Might, Agility, Reason, Intuition, or Presence-to the damage dealt by the ability. Certain abilities let you use your highest characteristic score for the power roll.
+Certain damage-dealing abilities note that damage as a number followed by a plus sign (+) and the letter M, A, R, I, or P. The indicated letter means you add your characteristic score-either Might, Agility, Reason, Intuition, or Presence-to the damage dealt by the ability. Certain abilities let you use your highest characteristic score for the power roll.
 
 Using the fury's Brutal Slam ability as an example again, that ability uses a Might power roll and features the following damage expressions in the three tier outcomes of the power roll:
 
@@ -272,7 +274,7 @@ Strikes and area abilities can deal damage and have an additional effect on a ta
 
 To keep things moving quickly and to make abilities easy to read during play, damage and effects are separated with a semicolon in a power roll tier entry, with effects abbreviated whenever possible. An effect determined by a power roll always applies to the target unless otherwise specified. For example, the Brutal Slam ability mentioned above has the following power roll setup in the ability format:
 
-**Power Roll +** Might\*\*:\*\*
+**Power Roll + Might:**
 
 - **≤11:** 3 + M damage; push 1
 - **12-16:** 6 + M damage; push 2
@@ -300,7 +302,7 @@ Your character has a **weak**, an **average**, and a **strong** potency value, a
 - Your average potency value is equal to your highest characteristic score − 1.
 - Your strong potency value is equal to your highest characteristic score.
 
-In abilities and other effects, a potency always appears as the single-letter abbreviation for the target's characteristic: M for Might, A for Agility, R for Reason, I for Intuition, or P for Presence. That characteristic is followed by a "less than" sign (\<) and your potency value-for example, M
+In abilities and other effects, a potency always appears as the single-letter abbreviation for the target's characteristic: M for Might, A for Agility, R for Reason, I for Intuition, or P for Presence. That characteristic is followed by a "less than" sign (\<) and your potency value-for example, M < WEAK or R < AVERAGE -with the value indicating the minimum score in that characteristic that the target needs to beat the effect.
 
 As an example, consider the conduit's Judgment's Hammer ability, which has the following power roll:
 
@@ -344,13 +346,13 @@ Potencies are made for quick resolution at the table, but a number of triggered 
 
 If an ability or feature allows you to spend your Heroic Resource on an effect that is entirely dependent on a potency and the target is unaffected because their characteristic is high enough to resist the potency, then you don't spend the Heroic Resource.
 
-For example, the tactician's Overwatch ability allows the tactician to spend 1 focus to impose the slowed condition on a target who has R
+For example, the tactician's Overwatch ability allows the tactician to spend 1 focus to impose the slowed condition on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the tactician targets a creature whose high Reason leaves them unaffected, the tactician doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the potency was resisted.
 
 This rule also applies to Director-controlled creatures who spend Malice on abilities and features that affect a target using a potency and have no other automatic effects.
 
 #### Critical Hit
 
-Whenever you make an ability roll as a main action and the roll is a natural 19 or natural 20-a total of 19 or 20 before adding your characteristic score or other modifiers-you score a critical hit. A critical hit allows you to immediately take an additional action after resolving the power roll, whether or not it's your turn and even if you are dazed (see [Conditions](#page-91-2) below).
+Whenever you make an ability roll as a main action and the roll is a natural 19 or natural 20-a total of 19 or 20 before adding your characteristic score or other modifiers-you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the power roll, whether or not it's your turn and even if you are dazed (see [Conditions](#page-91-2) below).
 
 You can't score a critical hit with an ability roll made as a maneuver or any other action type, but you can score a critical hit with a main action you use off your turn. For example, an opportunity attack made as a triggered action or a signature ability used as a free triggered action with the assistance of the tactician's Strike Now ability can be critical hits.
 
@@ -435,7 +437,7 @@ Whenever a creature moves or is subjected to forced movement-a push, pull, or sl
 
 Some abilities and other effects refer to a hero or their targets being "on the ground." Unless otherwise indicated, "ground" means any surface a creature could typically stand, sit, or lie upon, whether a castle's stone floor, the dirt of a road, the deck of a ship, or a metal platform suspended high in the air.
 
-<span id="page-91-0"></span>Likewise, if an effect refers to a "ceiling," that means any solid surface above a creature, whether a wooden tavern ceiling, the rocky roof of a cave, or an invisible wall of force.
+Likewise, if an effect refers to a "ceiling," that means any solid surface above a creature, whether a wooden tavern ceiling, the rocky roof of a cave, or an invisible wall of force.
 
 #### Conditions
 
@@ -461,7 +463,7 @@ A creature who is grabbed has speed 0, can't be force moved except by a creature
 
 A creature who has another creature grabbed can use a maneuver to move the grabbed creature into an unoccupied space adjacent to them.
 
-A creature can release a creature they have grabbed at any time to end that condition (no action required). A grabbed creature can attempt to escape being grabbed using the Escape Grab maneuver (see [Chapter 10: Combat](#page-288-0)). If a grabbed creature teleports, or if either the grabbed creature or the creature grabbing them is force moved so that both creatures are no longer adjacent to each other, that creature is no longer grabbed.
+A creature can release a creature they have grabbed at any time to end that condition (no action required). A grabbed creature can attempt to escape being grabbed using the Escape Grab maneuver (see [Chapter 10: Combat](#page-288-0)). If a grabbed creature teleports, or if either the grabbed creature or the creature grabbing them is force moved so that both creatures are not adjacent to each other, that creature is no longer grabbed.
 
 A creature can grab only creatures of their size or smaller. If a creature's Might score is 2 or higher, they can grab any creature larger than them with a size equal to or less than their Might score.
 
@@ -497,16 +499,18 @@ Each class in this chapter includes a table that shows the progression as a hero
 
 For example a 6th-level censor has "Signature, 3, 5, 7, 9" in their Abilities column, and "5, 9" in their Order Abilities column (representing the censor's subclass). This means a censor of that level has a signature ability and four heroic abilities costing 3, 5, 7, and 9 wrath respectively, plus an additional two subclass heroic abilities costing 5 and 9 wrath.
 
+<!-- -->
 > **Quick Build Gold Icons**
 >
 > Abilities granted by your class that are quick build options are indicated by a gold icon to the left of their name. Look for this icon if you're using the quick build options when creating your hero:
 
 ## Censor
 
-Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions-or even existence-are anathema to your church.\*\*
+Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions-or even existence-are anathema to your church.
 
 As a censor, you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
+<!-- -->
 > "We FIGHT!
 >
 > Until HELL!
@@ -559,99 +563,18 @@ After choosing your deity, pick one domain from their portfolio. Your choice of 
 
 ###### Censor Advancement Table
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 4%" />
-<col style="width: 66%" />
-<col style="width: 17%" />
-<col style="width: 11%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Level</th>
-<th>Features</th>
-<th>Abilities</th>
-<th>Order<br />
-Abilities</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1st</td>
-<td>Censor Order, Deity and Domains, Wrath,<br />
-Judgment, Kit, My Life for Yours, Domain<br />
-Feature, Censor Abilities</td>
-<td>Signature, 3, 5</td>
-<td>-</td>
-</tr>
-<tr class="even">
-<td>2nd</td>
-<td>Perk, Order Features, Order Ability</td>
-<td>Signature, 3, 5</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>3rd</td>
-<td>Look On My Work and Despair, 7-Wrath<br />
-Ability</td>
-<td>Signature,<br />
-3, 5, 7</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>4th</td>
-<td>Characteristic Increase, Perk, Skill, Wrath<br />
-Beyond Wrath, Domain Feature</td>
-<td>Signature,<br />
-3, 5, 7</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>5th</td>
-<td>Order Feature, 9-Wrath Ability</td>
-<td>Signature, 3,<br />
-5, 7, 9</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>6th</td>
-<td>Implement of Wrath, Perk, Order Ability</td>
-<td>Signature, 3,<br />
-5, 7, 9</td>
-<td>5, 9</td>
-</tr>
-<tr class="odd">
-<td>7th</td>
-<td>Characteristic Increase, Domain Feature,<br />
-Focused Wrath, Skill</td>
-<td>Signature, 3,<br />
-5, 7, 9</td>
-<td>5, 9</td>
-</tr>
-<tr class="even">
-<td>8th</td>
-<td>Perk, Order Feature, 11-Wrath Ability</td>
-<td>Signature, 3, 5,<br />
-7, 9, 11</td>
-<td>5, 9</td>
-</tr>
-<tr class="odd">
-<td>9th</td>
-<td>Improved Implement of Wrath, Order Ability</td>
-<td>Signature, 3, 5,<br />
-7, 9, 11</td>
-<td>5, 9, 11</td>
-</tr>
-<tr class="even">
-<td>10th</td>
-<td>Characteristic Increase, Perk, Skill, Templar,<br />
-Virtue, Wrath of the Gods</td>
-<td>Signature, 3, 5,<br />
-7, 9, 11</td>
-<td>5, 9, 11</td>
-</tr>
-</tbody>
-</table>
+| Level | Features                                                                                                             | Abilities                      | Order<br/> Abilities |
+| ----- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------- |
+| 1st   | Censor Order, Deity and Domains, Wrath,<br/> Judgment, Kit, My Life for Yours, Domain<br/> Feature, Censor Abilities | Signature, 3, 5                | -                    |
+| 2nd   | Perk, Order Features, Order Ability                                                                                  | Signature, 3, 5                | 5                    |
+| 3rd   | Look On My Work and Despair, 7-Wrath<br/> Ability                                                                    | Signature,<br/> 3, 5, 7        | 5                    |
+| 4th   | Characteristic Increase, Perk, Skill, Wrath<br/> Beyond Wrath, Domain Feature                                        | Signature,<br/> 3, 5, 7        | 5                    |
+| 5th   | Order Feature, 9-Wrath Ability                                                                                       | Signature, 3,<br/> 5, 7, 9     | 5                    |
+| 6th   | Implement of Wrath, Perk, Order Ability                                                                              | Signature, 3,<br/> 5, 7, 9     | 5, 9                 |
+| 7th   | Characteristic Increase, Domain Feature,<br/> Focused Wrath, Skill                                                   | Signature, 3,<br/> 5, 7, 9     | 5, 9                 |
+| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                | Signature, 3, 5,<br/> 7, 9, 11 | 5, 9                 |
+| 9th   | Improved Implement of Wrath, Order Ability                                                                           | Signature, 3, 5,<br/> 7, 9, 11 | 5, 9, 11             |
+| 10th  | Characteristic Increase, Perk, Skill, Templar,<br/> Virtue, Wrath of the Gods                                        | Signature, 3, 5,<br/> 7, 9, 11 | 5, 9, 11             |
 
 #### Wrath
 
@@ -690,7 +613,9 @@ Whenever a creature judged by you uses a main action and is within your line of 
 - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-- If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn. You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
+- If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.
+
+You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
 
 ##### Judgment Order Benefit
 
@@ -775,7 +700,7 @@ You have the following ability.
 
 *An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
 
-| **Magic**   | **Main Action** |
+| **Magic**   | **Main action** |
 | ----------- | --------------: |
 | **📏 Self** |     **🎯 Self** |
 
@@ -803,7 +728,7 @@ You have the following ability.
 
 *You craft objects with the power of your mind.*
 
-| **Magic**   | **Manuever** |
+| **Magic**   | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
@@ -845,7 +770,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You channel power through your weapon to repel foes.*
 
-| **Area, Magic, Melee, Weapon** |               **Main Action** |
+| **Area, Magic, Melee, Weapon** |               **Main action** |
 | ------------------------------ | ----------------------------: |
 | **📏 2 cube within 1**         | **🎯 Each enemy in the area** |
 
@@ -859,7 +784,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You show your foe a glimpse of their fate after death.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -875,7 +800,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
 
-| **Melee, Strike, Weapon** |               **Main Action** |
+| **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
@@ -889,7 +814,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *Your magic strike turns your foe's guilt into a burst of holy power.*
 
-| **Melee, Strike, Weapon** |               **Main Action** |
+| **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
@@ -913,7 +838,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
 
-| **Melee, Strike, Weapon** |               **Main Action** |
+| **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
@@ -929,7 +854,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *As you force your enemy back with your weapon, you use your faith to stay close.*
 
-| **Melee, Strike, Weapon** |               **Main Action** |
+| **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
@@ -945,7 +870,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *You channel holy energy to smite a foe and heal an ally.*
 
-| **Magic, Melee, Strike, Weapon** |               **Main Action** |
+| **Magic, Melee, Strike, Weapon** |               **Main action** |
 | -------------------------------- | ----------------------------: |
 | **📏 Melee 1**                   | **🎯 One creature or object** |
 
@@ -961,7 +886,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *You conjure memories of their sins to harry your foes.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -979,7 +904,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *"I got you, you son of a bitch."*
 
-| **Magic, Melee, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Strike, Weapon** |     **Main action** |
 | -------------------------------- | ------------------: |
 | **📏 Melee 1**                   | **🎯 One creature** |
 
@@ -995,7 +920,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *You attack a foe and your enemies behold a vision of the true nature of your resolve.*
 
-| **Magic, Melee, Ranged, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
 | ---------------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
 
@@ -1011,7 +936,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *Judged and sentenced.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -1027,7 +952,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *The gods judge, fire cleanses.*
 
-| **Magic, Melee, Ranged, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
 | ---------------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
 
@@ -1095,7 +1020,7 @@ Choose one of the following abilities.
 
 *I am but a vessel. Your own deeds weigh upon you.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -1161,7 +1086,7 @@ Choose one of the following abilities.
 
 *The shock of your condemnation freezes your enemy in their boots.*
 
-| **Magic, Melee, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Strike, Weapon** |     **Main action** |
 | -------------------------------- | ------------------: |
 | **📏 Melee 1**                   | **🎯 One creature** |
 
@@ -1390,7 +1315,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 
 *You amplify the power of your judgment.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -1406,7 +1331,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 
 *You strike a foe and create a fleet of divine shields that protect your allies.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -1459,7 +1384,7 @@ Choose one of the following abilities.
 
 *You reverse the effects from an evildoer.*
 
-| **Magic, Ranged** |      **Free Triggered** |
+| **Magic, Ranged** |      **Free triggered** |
 | ----------------- | ----------------------: |
 | **📏 Ranged 10**  | **🎯 Self or one ally** |
 
@@ -1568,7 +1493,7 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 
 *You concentrate on a friend and teleport to them.*
 
-| **Magic, Ranged** |           **Main Action** |
+| **Magic, Ranged** |           **Main action** |
 | ----------------- | ------------------------: |
 | **📏 Ranged 10**  | **🎯 Self and each ally** |
 
@@ -1684,9 +1609,9 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *You curse your foe to become a bane to their allies.*
 
-| **Melee, Stike, Weapon** |     **Main Action** |
-| ------------------------ | ------------------: |
-| **📏 Melee 1**           | **🎯 One creature** |
+| **Melee, Strike, Weapon** |     **Main action** |
+| ------------------------- | ------------------: |
+| **📏 Melee 1**            | **🎯 One creature** |
 
 **Power Roll + Might:**
 
@@ -1700,7 +1625,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *You use your foe as a tool against your enemies.*
 
-| **Ranged, Strike, Weapon** |     **Main Action** |
+| **Ranged, Strike, Weapon** |     **Main action** |
 | -------------------------- | ------------------: |
 | **📏 Ranged 10**           | **🎯 One creature** |
 
@@ -1716,7 +1641,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *Your enemy's guilt fuels a holy flame that burns your foes.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -1732,7 +1657,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *You turn your enemies' ire to the target.*
 
-| **Ranged, Strike, Weapon** |     **Main Action** |
+| **Ranged, Strike, Weapon** |     **Main action** |
 | -------------------------- | ------------------: |
 | **📏 Ranged 10**           | **🎯 One creature** |
 
@@ -1742,7 +1667,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 - **12-16:** 9 + P damage; I < AVERAGE, slowed (save ends)
 - **17+:** 12 + P damage; I < STRONG, slowed (save ends)
 
-**Effect:** While the target is slowed this way, each ally who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is slowed this way, each ally within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
+**Effect:** While the target is slowed this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is slowed this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
 
 ### 9th-Level Features
 
@@ -1768,7 +1693,7 @@ Choose one of the following abilities.
 
 *You sever the target's tenuous connection to the world.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -1784,7 +1709,7 @@ Choose one of the following abilities.
 
 *"I know what you fear."*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -1832,7 +1757,7 @@ Choose one of the following abilities.
 
 *You channel holy energy to seal an enemy's fate.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -1898,6 +1823,7 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 **As a conduit, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
 
+<!-- -->
 > "The gods judge our actions, and our inaction."
 >
 > **Dazar**
@@ -2100,7 +2026,7 @@ You have the following ability.
 
 You have the following ability.
 
-#### Grave Speech
+###### Grave Speech
 
 *You commune with the lingering soul of the recently dead.*
 
@@ -2409,7 +2335,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 *You ask your saint for thunder and your prayer is answered.*
 
-| **Area, Magic, Range**  |               **Main action** |
+| **Area, Magic, Ranged** |               **Main action** |
 | ----------------------- | ----------------------------: |
 | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
 
@@ -2605,7 +2531,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### Morning Light (5 Piety)
 
-*Light shines at your command, burning your foes and blessing your*
+*Light shines at your command, burning your foes and blessing your allies.*
 
 | **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |
@@ -2684,8 +2610,6 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | **Magic, Ranged** |   **Maneuver** |
 | ----------------- | -------------: |
 | **📏 Ranged 10**  | **🎯 Special** |
-
-![target icon](https://upload.wikimedia.org/wikipedia/commons/9/9a/Misc_Target_Icon.png) Special
 
 **Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 surge at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
 
@@ -2888,7 +2812,7 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 
 *You ignite a foe with holy radiance, rewarding allies who attack them.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -3342,7 +3266,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 | **Magic, Ranged** |    **Maneuver** |
 | ----------------- | --------------: |
-| **📏 Ranged 10**  | **🎯 one ally** |
+| **📏 Ranged 10**  | **🎯 One ally** |
 
 **Effect:** The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.
 
@@ -3364,7 +3288,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | ---------------------- | -----------: |
 | **📏 Self; see below** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, no target can approach within 5 squares of you by moving or by being force moved by any enemy. Targets can be force moved closer to you by you or your allies, or can move closer because of your movement.
+**Effect:** Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being force moved by any enemy. Targets can be force moved closer to you by you or your allies, or can move closer because of your movement.
 
 ###### Divine Dragon (11 Piety)
 
@@ -3532,10 +3456,11 @@ You gain one skill of your choice.
 
 ## Elementalist
 
-Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.\*\*
+Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
 **As an elementalist, you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your elemental specialization determines which of these talents you excel at.**
 
+<!-- -->
 > "Understanding the mystery, requires ignorance of the mystery."
 >
 > **Embers**
@@ -3684,7 +3609,7 @@ You have the following ability.
 
 Your elemental specialization grants you a feature, as shown on the 1st-Level Elemental Specialization Features table.
 
-#### 1st-Level Elemental Specialization Features
+#### 1st-Level Elemental Specialization Features Table
 
 | Specialization | Feature                    |
 | -------------- | -------------------------- |
@@ -3725,7 +3650,7 @@ You have the following ability.
 
 | **Earth, Magic, Melee** | **Main action** |
 | ----------------------- | --------------: |
-| **📏 Ranged 10**        |  **🎯 Special** |
+| **📏 Melee 1**          |  **🎯 Special** |
 
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
 
@@ -3780,7 +3705,9 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 | ----------------------- | ----------------------: |
 | **📏 Ranged 10**        | **🎯 Self or one ally** |
 
-**Trigger:** The target force moves a creature or object. **Effect:** The forced movement distance gains a bonus equal to your Reason score.
+**Trigger:** The target force moves a creature or object.
+
+**Effect:** The forced movement distance gains a bonus equal to your Reason score.
 
 **Spend 1 Essence:** The forced movement distance gains a bonus equal to twice your Reason score instead.
 
@@ -3802,11 +3729,13 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 
 *You call on the void to swallow and spit out an ally.*
 
-| **Magic, Ranged, Void** |          s**Triggered** |
+| **Magic, Ranged, Void** |           **Triggered** |
 | ----------------------- | ----------------------: |
 | **📏 Ranged 10**        | **🎯 Self or one ally** |
 
-**Trigger:** The target starts their turn, moves, or is force moved. **Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
+**Trigger:** The target starts their turn, moves, or is force moved.
+
+**Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
 
 **Spend 1 Essence:** You teleport the target up to a number of squares equal to twice your Reason score instead.
 
@@ -3940,7 +3869,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 5 + R damage; push 3
 - **17+:** 8 + R damage; push 4
 
-###### Ry of Agonizing Self-Reflection
+###### Ray of Agonizing Self-Reflection
 
 *You inflict pain and doubt in equal measure.*
 
@@ -4064,7 +3993,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 *A storm of fire descends upon your enemies.*
 
-| **Area, Fire, Magic, Ranged** |               **Main Action** |
+| **Area, Fire, Magic, Ranged** |               **Main action** |
 | ----------------------------- | ----------------------------: |
 | **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
 
@@ -4110,9 +4039,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 *You call down a rain that burns your enemies and restores your allies.*
 
-| **Area, Green, Magic, Raned** |               **Main action** |
-| ----------------------------- | ----------------------------: |
-| **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
+| **Area, Green, Magic, Ranged** |               **Main action** |
+| ------------------------------ | ----------------------------: |
+| **📏 3 cube within 10**        | **🎯 Each enemy in the area** |
 
 **Power Roll + Reason:**
 
@@ -4165,262 +4094,29 @@ You can revert back to your true form as a maneuver. You can't enter an animal f
 
 ###### Green Animal Forms Table
 
-<table style="width:96%;">
-<colgroup>
-<col style="width: 5%" />
-<col style="width: 1%" />
-<col style="width: 5%" />
-<col style="width: 3%" />
-<col style="width: 1%" />
-<col style="width: 4%" />
-<col style="width: 5%" />
-<col style="width: 72%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Animal Type</th>
-<th>Level</th>
-<th>Temporary Stamina</th>
-<th>Speed</th>
-<th>Size</th>
-<th>Stability Bonus</th>
-<th>Melee Damage Bonus</th>
-<th>Special</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Canine</td>
-<td>2nd</td>
-<td>5</td>
-<td>7</td>
-<td>1M</td>
-<td>+0</td>
-<td>+1/+1/+1</td>
-<td>You gain an edge on tests that involve smell.</td>
-</tr>
-<tr class="even">
-<td>Fish</td>
-<td>2nd</td>
-<td>0</td>
-<td>5 (swim only)</td>
-<td>1T</td>
-<td>+0</td>
-<td>+0/+0/+0</td>
-<td>You can breathe in water but can't breathe outside of it.</td>
-</tr>
-<tr class="odd">
-<td>Rodent</td>
-<td>2nd</td>
-<td>0</td>
-<td>5 (climb)</td>
-<td>1T</td>
-<td>+0</td>
-<td>+0/+0/+0</td>
-<td>You gain an edge on tests that involve smell.</td>
-</tr>
-<tr class="even">
-<td>Bird</td>
-<td>3rd</td>
-<td>0</td>
-<td>5 (fly)</td>
-<td>1T</td>
-<td>+0</td>
-<td>+0/+0/+0</td>
-<td>-</td>
-</tr>
-<tr class="odd">
-<td>Great cat</td>
-<td>3rd</td>
-<td>5</td>
-<td>6 (climb)</td>
-<td>2</td>
-<td>+0</td>
-<td>+1/+1/+1</td>
-<td>As a maneuver, you can jump up to 3 squares in any direction. If you land on<br />
-an enemy of your size or smaller, that enemy is knocked prone, and you can<br />
-make a melee free strike against them (no action required).</td>
-</tr>
-<tr class="even">
-<td>Giant frog</td>
-<td>4th</td>
-<td>5</td>
-<td>5 (swim)</td>
-<td>2</td>
-<td>+0</td>
-<td>+0/+0/+0</td>
-<td>Your melee free strike has a distance of melee 3. When you take the Advance<br />
-move action, you can high jump or long jump up to half your speed. This<br />
-jump can allow you to move more squares than your speed.</td>
-</tr>
-<tr class="odd">
-<td>Horse</td>
-<td>4th</td>
-<td>5</td>
-<td>8</td>
-<td>2</td>
-<td>+1</td>
-<td>+0/+0/+0</td>
-<td>You can use the Charge main action as a maneuver. You can't use two Charge<br />
-main actions on the same turn.</td>
-</tr>
-<tr class="even">
-<td>Mohler</td>
-<td>4th</td>
-<td>0</td>
-<td>7 (burrow)</td>
-<td>1S</td>
-<td>+1</td>
-<td>+0/+0/+0</td>
-<td>Your melee distance gains a +1 bonus.</td>
-</tr>
-<tr class="odd">
-<td>Bear</td>
-<td>5th</td>
-<td>10</td>
-<td>5 (climb)</td>
-<td>2</td>
-<td>+1</td>
-<td>+2/+2/+2</td>
-<td>Your melee distance gains a +1 bonus.</td>
-</tr>
-<tr class="even">
-<td>Giant bird</td>
-<td>5th</td>
-<td>0</td>
-<td>7 (fly)</td>
-<td>2</td>
-<td>+0</td>
-<td>+1/+1/+1</td>
-<td>After making a melee free strike, you can shift up to 3 squares as a free<br />
-triggered action.</td>
-</tr>
-<tr class="odd">
-<td>Giant<br />
-salamander</td>
-<td>6th</td>
-<td>5</td>
-<td>5</td>
-<td>1L</td>
-<td>+3</td>
-<td>+2/+2/+2</td>
-<td>Your melee free strike deals fire damage. Additionally, you have fire immunity<br />
-3.</td>
-</tr>
-<tr class="even">
-<td>Giant spider</td>
-<td>6th</td>
-<td>0</td>
-<td>5 (climb)</td>
-<td>2</td>
-<td>+0</td>
-<td>+0/+1/+2</td>
-<td>You have a double edge on melee free strikes against creatures you are hidden<br />
-from.</td>
-</tr>
-<tr class="odd">
-<td>Giant snake</td>
-<td>7th</td>
-<td>5</td>
-<td>5</td>
-<td>3</td>
-<td>+0</td>
-<td>+0/+1/+2</td>
-<td>Whenever you obtain a tier 2 or tier 3 outcome on a melee free strike, you<br />
-can automatically grab the target. While grabbed this way, the target takes 2<br />
-damage at the start of each of their turns.</td>
-</tr>
-<tr class="even">
-<td>Kangaroo</td>
-<td>7th</td>
-<td>0</td>
-<td>7</td>
-<td>1L</td>
-<td>+1</td>
-<td>+0/+0/+4</td>
-<td>When you score a critical hit with a melee free strike, the target is dazed (save<br />
-ends). When you take the Advance move action, you can high jump or long<br />
-jump up to half your speed. This jump can allow you to move more squares<br />
-than your speed.</td>
-</tr>
-<tr class="odd">
-<td>Spiny armadillo</td>
-<td>7th</td>
-<td>10</td>
-<td>5</td>
-<td>1M</td>
-<td>+2</td>
-<td>+0/+0/+0</td>
-<td>Whenever you take damage from an adjacent creature's melee ability, that<br />
-creature takes 3 damage.</td>
-</tr>
-<tr class="even">
-<td>Ostrich</td>
-<td>8th</td>
-<td>0</td>
-<td>10</td>
-<td>2</td>
-<td>+0</td>
-<td>+1/+1/+1</td>
-<td>Your movement does not provoke opportunity attacks.</td>
-</tr>
-<tr class="odd">
-<td>Shark</td>
-<td>8th</td>
-<td>0</td>
-<td>8 (swim only)</td>
-<td>2</td>
-<td>+0</td>
-<td>+2/+2/+2</td>
-<td>You can breathe in water but can't breathe outside of it. Additionally, you gain<br />
-an edge on strikes against targets who are bleeding or winded.</td>
-</tr>
-<tr class="even">
-<td>Giant octopus</td>
-<td>9th</td>
-<td>5</td>
-<td>5 (swim)</td>
-<td>3</td>
-<td>+2</td>
-<td>+0/+0/+0</td>
-<td>You can breathe in water. Additionally, you can target two creatures or objects<br />
-with your melee free strike. Whenever you obtain a tier 2 or tier 3 outcome on<br />
-a melee free strike, you can automatically grab the target. You can have up to<br />
-eight creatures grabbed.</td>
-</tr>
-<tr class="odd">
-<td>Rhinoceros</td>
-<td>9th</td>
-<td>10</td>
-<td>8</td>
-<td>2</td>
-<td>+5</td>
-<td>+2/+2/+2</td>
-<td>Whenever you make a melee free strike as part of the Charge action, that<br />
-strike gains an edge.</td>
-</tr>
-<tr class="even">
-<td>King terror lizard</td>
-<td>10th</td>
-<td>20</td>
-<td>5</td>
-<td>4</td>
-<td>+3</td>
-<td>+2/+2/+2</td>
-<td>Your melee free strike is a 1 burst with the Area and Strike keywords.</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Animal Type           | Level | Temporary Stamina | Speed         | Size | Stability Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                               |
+| --------------------- | ----- | ----------------- | ------------- | ---- | --------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Canine                | 2nd   | 5                 | 7             | 1M   | +0              | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                         |
+| Fish                  | 2nd   | 0                 | 5 (swim only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                             |
+| Rodent                | 2nd   | 0                 | 5 (climb)     | 1T   | +0              | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                         |
+| Bird                  | 3rd   | 0                 | 5 (fly)       | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                                     |
+| Great cat             | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | As a maneuver, you can jump up to 3 squares in any direction. If you land on<br/> an enemy of your size or smaller, that enemy is knocked prone, and you can<br/> make a melee free strike against them (no action required).                                                         |
+| Giant frog            | 4th   | 5                 | 5 (swim)      | 2    | +0              | +0/+0/+0           | Your melee free strike has a distance of melee 3. When you take the Advance<br/> move action, you can high jump or long jump up to half your speed. This<br/> jump can allow you to move more squares than your speed.                                                                |
+| Horse                 | 4th   | 5                 | 8             | 2    | +1              | +0/+0/+0           | You can use the Charge main action as a maneuver. You can't use two Charge<br/> main actions on the same turn.                                                                                                                                                                        |
+| Mohler                | 4th   | 0                 | 7 (burrow)    | 1S   | +1              | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                 |
+| Bear                  | 5th   | 10                | 5 (climb)     | 2    | +1              | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                 |
+| Giant bird            | 5th   | 0                 | 7 (fly)       | 2    | +0              | +1/+1/+1           | After making a melee free strike, you can shift up to 3 squares as a free<br/> triggered action.                                                                                                                                                                                      |
+| Giant<br/> salamander | 6th   | 5                 | 5             | 1L   | +3              | +2/+2/+2           | Your melee free strike deals fire damage. Additionally, you have fire immunity<br/> 3.                                                                                                                                                                                                |
+| Giant spider          | 6th   | 0                 | 5 (climb)     | 2    | +0              | +0/+1/+2           | You have a double edge on melee free strikes against creatures you are hidden<br/> from.                                                                                                                                                                                              |
+| Giant snake           | 7th   | 5                 | 5             | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee free strike, you<br/> can automatically grab the target. While grabbed this way, the target takes 2<br/> damage at the start of each of their turns.                                                                        |
+| Kangaroo              | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee free strike, the target is dazed (save<br/> ends). When you take the Advance move action, you can high jump or long<br/> jump up to half your speed. This jump can allow you to move more squares<br/> than your speed.                    |
+| Spiny armadillo       | 7th   | 10                | 5             | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br/> creature takes 3 damage.                                                                                                                                                                                |
+| Ostrich               | 8th   | 0                 | 10            | 2    | +0              | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                                   |
+| Shark                 | 8th   | 0                 | 8 (swim only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br/> an edge on strikes against targets who are bleeding or winded.                                                                                                                                  |
+| Giant octopus         | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br/> with your melee free strike. Whenever you obtain a tier 2 or tier 3 outcome on<br/> a melee free strike, you can automatically grab the target. You can have up to<br/> eight creatures grabbed. |
+| Rhinoceros            | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee free strike as part of the Charge action, that<br/> strike gains an edge.                                                                                                                                                                                   |
+| King terror lizard    | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your melee free strike is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                |
+|                       |       |                   |               |      |                 |                    |                                                                                                                                                                                                                                                                                       |
 
 ##### There Is No Space Between
 
@@ -4951,81 +4647,35 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 
 **Source of Earth**
 
-<table style="width:99%;">
-<colgroup>
-<col style="width: 19%" />
-<col style="width: 22%" />
-<col style="width: 17%" />
-<col style="width: 21%" />
-<col style="width: 20%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">Elemental</th>
-<th style="text-align: center;">-</th>
-<th style="text-align: center;">Level 8</th>
-<th style="text-align: center;">BRUTE</th>
-<th style="text-align: center;">EV -</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><strong>2</strong><br />
-Size</td>
-<td style="text-align: center;"><strong>6</strong><br />
-Speed</td>
-<td style="text-align: center;"><strong>45</strong><br />
-Stamina</td>
-<td style="text-align: center;"><strong>5</strong><br />
-Stability</td>
-<td style="text-align: center;"><strong>5</strong><br />
-Free Strike</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>-</strong><br />
-Immunities</td>
-<td style="text-align: center;"><strong>Burrow</strong><br />
-Movement</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><strong>-</strong><br />
-With Captain</td>
-<td style="text-align: center;"><strong>-</strong><br />
-Weaknesses</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><strong>+3</strong><br />
-Might</td>
-<td style="text-align: center;"><strong>+1</strong><br />
-Agility</td>
-<td style="text-align: center;"><strong>-5</strong><br />
-Reason</td>
-<td style="text-align: center;"><strong>-5</strong><br />
-Intuition</td>
-<td style="text-align: center;"><strong>-3</strong><br />
-Presence</td>
-</tr>
-</tbody>
-</table>
+|       Elemental       |            -             |       Level 8       |          BRUTE          |          EV -          |
+| :-------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
+|    **2**<br/> Size    |     **6**<br/> Speed     | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
+| **-**<br/> Immunities | **Burrow**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **+3**<br/> Might   |   **+1**<br/> Agility    | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
 
+<!-- -->
 > **Earthwalk**
 >
 > Difficult terrain composed of earth and stone doesn't cost the source extra movement.
 
+<!-- -->
 > **Tunneler**
 >
 > When the source burrows, they create a size 2 tunnel.
 
+<!-- -->
 > **Earth Harness**
 >
 > A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
 
+<!-- -->
 > **Boulder Bash**
 >
 > | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
 > | --------------------------------- | ----------------------------: |
 > | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
 >
-> **2d10 + 3:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 5 damage; push 3
 > - **12-16:** 9 damage; push 4
@@ -5228,6 +4878,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **As a fury, you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness-and neither do you.**
 
+<!-- -->
 > "DEATH!"
 >
 > **Khorva**
@@ -5272,6 +4923,7 @@ Your primordial aspect is your subclass, and your choice of aspect determines ma
 
 Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called ferocity.
 
+<!-- -->
 > **Where's My Maneuver?**
 >
 > Since most other classes get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the fury?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the fury has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
@@ -5337,7 +4989,7 @@ Some Growing Ferocity benefits can be applied only if you are a specific level o
 
 Your primordial aspect grants you two features, as shown on the 1st-Level Aspect Features table.
 
-###### 1st-Level Aspect Features Tables
+###### 1st-Level Aspect Features Table
 
 | Aspect     | Feature                        |
 | ---------- | ------------------------------ |
@@ -5396,6 +5048,8 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 
 ###### Lines of Force
+
+*You redirect the energy of motion.*
 
 | **Magic, Melee** |               **Triggered** |
 | ---------------- | --------------------------: |
@@ -5599,9 +5253,9 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 *You unleash a howl that hurls your enemies back.*
 
-| **Area, Melee, Weapon**  |               **Main action** |
-| ------------------------ | ----------------------------: |
-| **📏 5x1 line within 1** | **🎯 Each enemy in the area** |
+| **Area, Melee, Weapon**    |               **Main action** |
+| -------------------------- | ----------------------------: |
+| **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
 **Effect:** The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 
@@ -6181,6 +5835,8 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 ###### Primordial Rage (11 Ferocity)
 
+*Your ferocity manifests into primordial power.*
+
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
@@ -6652,6 +6308,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **As a null, you resist the supernatural forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the supernatural. Those who break the laws of nature using sorcery or psionics should fear you.**
 
+<!-- -->
 > "Any weapon can be turned against the hand that wields it."
 >
 > **Ardashir**
@@ -7178,6 +6835,8 @@ Choose one of the following heroic abilities.
 
 ###### Entropic Field (5 Discipline)
 
+*You drastically increase the local entropy.*
+
 | **Area, Psionic, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 3 cube within 1**    | **🎯 Each enemy in the area** |
@@ -7266,7 +6925,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has i
+**Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is bleeding (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
 
 ###### Stabilizing Field (7 Discipline)
 
@@ -7322,6 +6981,8 @@ As a 5th-level null, you gain the following features.
 
 Your null tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
 
+###### 5th-Level Tradition Features Table
+
 | Tradition     | Feature            |
 | ------------- | ------------------ |
 | Chronokinetic | Instant Action     |
@@ -7348,7 +7009,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 
 *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
 
-| **Melee, Psionic, Strike, Weapon** |    **Free trigger** |
+| **Melee, Psionic, Strike, Weapon** |  **Free triggered** |
 | ---------------------------------- | ------------------: |
 | **📏 Melee 1**                     | **🎯 One creature** |
 
@@ -7460,7 +7121,7 @@ Choose one of the following abilities.
 | ------------------- | --------------------------------: |
 | **📏 Ranged 10**    | **🎯 Three creatures or objects** |
 
-**Power Roll + Reason:**
+**Power Roll + Intuition:**
 
 - **≤11:** Vertical slide 6
 - **12-16:** Vertical slide 8
@@ -7942,7 +7603,7 @@ You have the following ability.
 
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |
-| **📏 Self** |  \*\*🎯 Self |
+| **📏 Self** |  **🎯 Self** |
 
 **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can shift.
 
@@ -7972,7 +7633,7 @@ Your shadow college grants you a triggered action, as shown on the College Trigg
 
 | **Magic**   | **Triggered** |
 | ----------- | ------------: |
-| **📏 Self** |   \*\*🎯 Self |
+| **📏 Self** |   **🎯 Self** |
 
 **Trigger:** An enemy targets you with a strike.
 
@@ -7998,7 +7659,7 @@ Your shadow college grants you a triggered action, as shown on the College Trigg
 
 | **Magic**   | **Triggered** |
 | ----------- | ------------: |
-| **📏 Self** |   \*\*🎯 Self |
+| **📏 Self** |   **🎯 Self** |
 
 **Trigger:** You take damage.
 
@@ -8124,7 +7785,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 ###### Eviscerate (3 Insight)
 
-*You leave your foe bleeding out after a devastating attack*
+*You leave your foe bleeding out after a devastating attack.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
@@ -8156,7 +7817,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 | **Melee, Ranged, Strike, Weapon** |                 **Main action** |
 | --------------------------------- | ------------------------------: |
-| **📏 Melee 1**                    | **🎯 Two creatures or objects** |
+| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures or objects** |
 
 **Power Roll + Agility:**
 
@@ -8174,7 +7835,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
-| **📏 Melee 1**                    | **🎯 One creature** |
+| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
 **Power Roll + Agility:**
 
@@ -8218,7 +7879,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 | **Magic, Melee, Ranged** | **Main action** |
 | ------------------------ | --------------: |
-| **📏 Self; see below 5** |     **🎯 Self** |
+| **📏 Self; see below**   |     **🎯 Self** |
 
 **Effect:** You use a strike signature ability twice.
 
@@ -8234,12 +7895,13 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 Your shadow college grants you a feature, as shown on the 2nd-Level College Features table.
 
-| 2nd-Level College Features |                  |
-| -------------------------- | ---------------- |
-| College                    | Feature          |
-| Black Ash                  | Burning Ash      |
-| Caustic Alchemy            | Trained Assassin |
-| Harlequin Mask             | Friend!          |
+###### 2nd-Level College Features Table
+
+| College         | Feature          |
+| --------------- | ---------------- |
+| Black Ash       | Burning Ash      |
+| Caustic Alchemy | Trained Assassin |
+| Harlequin Mask  | Friend!          |
 
 ##### Burning Ash
 
@@ -8263,7 +7925,7 @@ Your shadow college grants your choice of one of two heroic abilities.
 
 Choose one of the following abilities.
 
-###### In a Puff of Smoke (5 Insight)
+###### In a Puff of Ash (5 Insight)
 
 *You enchant a strike with your teleportation magic.*
 
@@ -8420,6 +8082,8 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 - **17+:** 16 + A damage; A < STRONG, restrained (save ends)
 
 ###### Staggering Blow (7 Insight)
+
+*There's no recovering from this.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
@@ -8755,7 +8419,7 @@ You have damage immunity against area abilities and effects equal to your Agilit
 
 For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.
 
-**Spend 2+ Insight**: For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
+**Spend 2+ Insight:** For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
 
 #### 11-Insight Ability
 
@@ -8837,7 +8501,7 @@ Choose one of the following abilities.
 
 *You tumble through the battle, stabbing foes and teleporting allies.*
 
-| **Magic, Melee, Weapon** | **Main Action** |
+| **Magic, Melee, Weapon** | **Main action** |
 | ------------------------ | --------------: |
 | **📏 Self; see below**   |     **🎯 Self** |
 
@@ -8887,7 +8551,7 @@ Choose one of the following abilities.
 
 ###### To the Stars (11 Insight)
 
-*You attach your most potent explosive to your foe. Under less pressing*
+*You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
 
 | **Melee, Ranged, Strike**   |               **Main action** |
 | --------------------------- | ----------------------------: |
@@ -8975,6 +8639,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **As a tactician, you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.**
 
+<!-- -->
 > "Your line is broken, Varrox! Your wizard is dead. Hahah! You should have negotiated!"
 >
 > **Sir John of Tor**
@@ -9048,6 +8713,7 @@ Though you can't gain focus outside of combat, you can use your heroic abilities
 
 When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the tactician, but they might appear in future products.)
 
+<!-- -->
 > **Tactician Abilities Explained**
 >
 > Many of the tactician's abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The tactician is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The tactician can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the tactician's abilities are the actual commands they give their friends!
@@ -9353,7 +9019,7 @@ Your tactical doctrine grants you a feature, as shown on the 2nd-Level Doctrine 
 
 ##### Goaded
 
-You have learned to leverage your marked foes' psychology and goad them into acting before they're tactically ready. Whenever a creature marked by you uses a strike that targets you or any ally within your line of effect, you can use a free triggered action to change the target of the strike to you or another ally within your line of effect.
+You have learned to leverage your marked foes' psychology and goad them into acting before they're tactically ready. Whenever a creature marked by you uses a strike that targets you or any ally within your line of effect, you can use a free triggered action to change one target of the strike to you or another ally within your line of effect. The new target must be within distance of the ability and within line of effect of the creature using it.
 
 ##### Infiltration Tactics
 
@@ -9709,6 +9375,8 @@ Choose one of the following abilities.
 
 ###### Instant Retaliation (9 Focus)
 
+*You parry with almost supernatural speed.*
+
 | **Melee, Weapon** | **Free triggered** |
 | ----------------- | -----------------: |
 | **📏 Melee 1**    |    **🎯 One ally** |
@@ -9849,6 +9517,8 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 
 ###### Floodgates Open (11 Focus)
 
+*You direct your squad to strike in unison and with devastating effect.*
+
 | **Ranged**       |     **Main action** |
 | ---------------- | ------------------: |
 | **📏 Ranged 10** | **🎯 Three allies** |
@@ -9899,7 +9569,7 @@ Choose one of the following abilities.
 
 ###### Their Lack of Focus Is Their Undoing (11 Focus)
 
-*You trick your enemies into attacking each other and leave them*
+*You trick your enemies into attacking each other and leave them confused by the aftermath.*
 
 | **Magic, Ranged, Weapon** |      **Main action** |
 | ------------------------- | -------------------: |
@@ -9951,7 +9621,7 @@ Choose one of the following abilities.
 
 *You focus on making an enemy irrelevant.*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main Action** |
+| **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
@@ -10005,6 +9675,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **As a talent, you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and talents who use too much power too quickly pay a deadly price.**
 
+<!-- -->
 > "I've seen what you can do! There is NO LIMIT to your power! All you have to do... is BELIEVE!"
 >
 > **Khorva**
@@ -10287,9 +9958,9 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Power Roll + Presence:**
 
-- **≤11:** 2 + P corruption damage; p
-- **12-16:** 3 + P corruption damage; p
-- **17+:** 5 + P corruption damage; p
+- **≤11:** 2 + P corruption damage; P < WEAK, slowed (save ends)
+- **12-16:** 3 + P corruption damage; P < AVERAGE, slowed (save ends)
+- **17+:** 5 + P corruption damage; P < STRONG, slowed (save ends)
 
 **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 
@@ -10411,7 +10082,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 6 + P damage
 - **17+:** 9 + P damage
 
-Effect: You gain 1 surge.
+**Effect:** You gain 1 surge.
 
 **Strained:** The target takes an extra 3 damage. You also take 3 damage that can't be reduced in any way.
 
@@ -10601,7 +10272,7 @@ Choose one of the following abilities.
 
 **Power Roll + Presence:**
 
-- **≤11:** The target's speed is halved (save ends), or if p
+- **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is slowed (save ends).
 - **12-16:** The target is slowed (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
 - **17+:** The target is slowed (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 
@@ -10717,7 +10388,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 *Spheres of solid psionic energy float around you.*
 
-| **Psionic, Ranged, Strike, Telekinesis** | **Main Action** |
+| **Psionic, Ranged, Strike, Telekinesis** | **Main action** |
 | ---------------------------------------- | --------------: |
 | **📏 Self; see below**                   |     **🎯 Self** |
 
@@ -10849,7 +10520,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 | -------------------------------- | ----------------------: |
 | **📏 Ranged 10**                 | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy attempts uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
+**Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 
 **Strained:** The target gains 2 surges. You are weakened and slowed (save ends).
 
@@ -10977,7 +10648,7 @@ Choose one of the following abilities.
 
 *Keep everything as it was. Ignore everything that will be.*
 
-| **Area, Chronopathy, Psionic, Ranged** |                             **Main Action** |
+| **Area, Chronopathy, Psionic, Ranged** |                             **Main action** |
 | -------------------------------------- | ------------------------------------------: |
 | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 
@@ -11001,7 +10672,7 @@ Choose one of the following abilities.
 
 *You bend gravity into a fine point and pull your foes toward it.*
 
-| **Area, Psionic, Ranged, Telekinesis** |                             **Main Action** |
+| **Area, Psionic, Ranged, Telekinesis** |                             **Main action** |
 | -------------------------------------- | ------------------------------------------: |
 | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 
@@ -11075,7 +10746,7 @@ As a 7th-level talent, you gain the following features.
 
 #### Ancestral Memory
 
-Each time you finish a respite, you can choose a number of skills you have up to your Reason score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last unil the end of your next respite.
+Each time you finish a respite, you can choose a number of skills you have up to your Reason score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last until the end of your next respite.
 
 #### Cascading Strain
 
@@ -11193,7 +10864,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 | ------------------------------------- | ------------------: |
 | **📏 Melee 2**                        | **🎯 One creature** |
 
-**Power Roll + Reason**
+**Power Roll + Reason:**
 
 - **≤11:** 12 + R damage; R < WEAK, the target takes a bane on their next power roll
 - **12-16:** 17 + R damage; R < AVERAGE, the target takes a bane on power rolls (save ends)
@@ -11429,7 +11100,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **Recoveries:** 8
 
-**Skills:** You gain the Read Person skill (see Skills in Chapter 9: Tests). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Read Person, Rumors, Society.)
+**Skills:** You gain the Read Person skill (see Skills in Chapter 9: Tests). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)
 
 ### 1st-Level Features
 
@@ -11485,6 +11156,7 @@ Though you can't gain drama outside of combat, you can use your heroic abilities
 
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama equal to your Victories.
 
+<!-- -->
 > **The Auteur Troubadour**
 >
 > Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
@@ -11645,7 +11317,7 @@ You have the following performance abilities, which are usable with your Routine
 - **12-16:** Lightning damage equal to 5 + your level
 - **17+:** Lightning damage equal to 10 + your level
 
-#### "Ballad of the Beast"
+###### "Ballad of the Beast"
 
 *Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*
 
@@ -11767,7 +11439,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
 
-| **Maigc, Melee, Ranged, Strike** |     **Main action** |
+| **Magic, Melee, Ranged, Strike** |     **Main action** |
 | -------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**       | **🎯 One creature** |
 
@@ -11793,7 +11465,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 *Just one bad review will ruin their day.*
 
-| **Magic, Melee, Ranged, Strike** |               **Main Action** |
+| **Magic, Melee, Ranged, Strike** |               **Main action** |
 | -------------------------------- | ----------------------------: |
 | **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
 
@@ -11825,7 +11497,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 *You write something unexpected into the scene that hinders your enemy.*
 
-| **Area, Magic, Ranged** |               **Main Action** |
+| **Area, Magic, Ranged** |               **Main action** |
 | ----------------------- | ----------------------------: |
 | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
 
@@ -11955,6 +11627,8 @@ Choose one of the following abilities.
 
 ###### Guest Star (5 Drama)
 
+*We offered them a percentage of the gross. So they're working for free!*
+
 | **Magic, Ranged** | **Main action** |
 | ----------------- | --------------: |
 | **📏 Ranged 10**  |  **🎯 Special** |
@@ -12069,7 +11743,7 @@ You have the following performance abilities, which are usable with your Routine
 
 **Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests).
 
-#### "Never-Ending Hero"
+###### "Never-Ending Hero"
 
 *And toniiight we can truly say ♪ They will alllways find a way!♪*
 
@@ -12475,7 +12149,7 @@ You have the following performance abilities, which are usable with your Routine
 | ---------------------------- | ---------------------------: |
 | **📏 5 aura**                | **🎯 Each ally in the area** |
 
-**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend Recoveries or use triggered actions At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
+**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend Recoveries or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
 
 ###### Radical Fantasia
 

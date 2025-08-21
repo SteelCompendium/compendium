@@ -1,20 +1,27 @@
 ---
+action_type: Main action
 class: conduit
 cost: 9 Piety
 cost_amount: 9
 cost_resource: Piety
+distance: Three 10 x 1 lines within 1
 feature_type: ability
 file_basename: Lightning Lord
 file_dpath: Conduit/6th-Level Features
+flavor: Lightning bursts forth from your body in several directions.
 item_id: lightning-lord-9-piety
 item_index: '03'
 item_name: Lightning Lord (9 Piety)
+keywords:
+  - Area
+  - Magic
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:lightning-lord-9-piety
 scdc:
   - 1.1.1:13.2.8.3:03
 source: mcdm.heroes.v1
+target: Each enemy in the area
 type: feature/ability/conduit/6th-level-feature
 ---
 

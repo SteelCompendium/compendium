@@ -195,6 +195,7 @@ Your hero grew up among leaders who rule over others and play the games of polit
 
 **Skill Options:** One skill from the interpersonal skill group. (*Quick Build:* Lead.)
 
+<!-- -->
 > **But I Really Want Alertness**
 >
 > If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the noble upbringing aspect should give a character access to the Alertness skill, given that living among those who covet your power means always being aware of your surroundings.
@@ -207,7 +208,7 @@ If your hero knows a language, they can speak, read, write, and understand it.
 
 ##### Caelian Empire
 
-The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago. During the height of this most recent human empire, all humans (including folks from Vanigar in the far north, but not folks from the islands of Ix). learned to speak the Caelian tongue. For many, especially the noble classes and the well-to-do, Caelian effectively replaced their native language.
+The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago. During the height of this most recent human empire, all humans (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble classes and the well-to-do, Caelian effectively replaced their native language.
 
 Some 1,300 years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most humans in most regions to one extent or another.
 
@@ -217,7 +218,7 @@ Most people in Orden can speak and understand some Caelian, simply because the e
 
 Folk have been speaking, signing, and writing in Orden for at least thirty thousand years, but most of the world's ancient languages are now dead. Many have been forgotten. Others were spoken by peoples who never developed writing, preventing those languages from being preserved. And many languages that were preserved in writing left no related descendants, so that no one now knows what sounds that writing represented.
 
-The languages on the Vaslorian Languages by Ancestry table are the most common languages in that region, actively spoken and signed by significant populations of people. The Vaslorian Human Languages table shows the dominant languages in that region's human-centric territories. Most languages are associated with a specific ancestry and its culture, but being a member of an ancestry doesn't automatically make you part of the associated culture the language is tied to. For example, if your orc hero was raised in a culture of elves, you probably speak one of the elf languages, and might never have learned Kalliak.
+The languages on the Languages by Ancestry table are the most common languages actively spoken and signed by significant populations of people in Orden. The Vaslorian Human Languages table shows the dominant languages in that region's human-centric territories. Most languages are associated with a specific ancestry and its culture, but being a member of an ancestry doesn't automatically make you part of the associated culture the language is tied to. For example, if your orc hero was raised in a culture of elves, you probably speak one of the elf languages, and might never have learned Kalliak.
 
 Most languages have colloquial or casual names. For instance, many people in Orden call Kalliak "Orcish" and Hyrallic "Elvish," but any sage knows there are lots of orcish and elf languages, just as there are multiple human languages.
 
@@ -231,7 +232,7 @@ Each extant language has a spoken, signed, and written version. When you learn a
 | Higara   | Higaran     |
 | Ix       | Oaxuatl     |
 | Khemhara | Khemharic   |
-| Koursir  | Khoursirian |
+| Khoursir | Khoursirian |
 | Phaedros | Phaedran    |
 | Rioja    | Riojan      |
 | Vanigar  | Vaniric     |
@@ -239,154 +240,33 @@ Each extant language has a spoken, signed, and written version. When you learn a
 
 ###### Languages by Ancestry Table
 
-<table style="width:99%;">
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 27%" />
-<col style="width: 56%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Language</th>
-<th>Ancestry</th>
-<th>Notes</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Anjali</td>
-<td>Devils, hobgoblins</td>
-<td>Language of contract law</td>
-</tr>
-<tr class="even">
-<td>Axiomatic</td>
-<td>Memonek</td>
-<td>Native language of Axiom, and the common<br />
-language of the timescape by trade</td>
-</tr>
-<tr class="odd">
-<td>Caelian</td>
-<td>Orden denizens</td>
-<td>Common language of Orden</td>
-</tr>
-<tr class="even">
-<td>Filliaric</td>
-<td>Angulotls</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>The First<br />
-Language</td>
-<td>Elder dragons</td>
-<td>Language of magic</td>
-</tr>
-<tr class="even">
-<td>Hyrallic</td>
-<td>High elves</td>
-<td>Language of interspecies diplomacy</td>
-</tr>
-<tr class="odd">
-<td>Illyvric</td>
-<td>Shadow elves</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Kalliak</td>
-<td>Orcs</td>
-<td>Offshoot of Zaliac</td>
-</tr>
-<tr class="odd">
-<td>Kethaic</td>
-<td>Kobolds</td>
-<td>Patois of Vastariax and Caelian</td>
-</tr>
-<tr class="even">
-<td>Khelt</td>
-<td>Bugbears, fey</td>
-<td>Offshoot of Kheltivari</td>
-</tr>
-<tr class="odd">
-<td>Khoursirian</td>
-<td>Polder, humans</td>
-<td>Distant offshoot of Khamish</td>
-</tr>
-<tr class="even">
-<td>High Kuric</td>
-<td>Bredbeddles, giants,<br />
-ogres, trolls</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Low Kuric</td>
-<td>Elementals</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Mindspeech</td>
-<td>Voiceless talkers</td>
-<td>A symbolic language shared among native<br />
-telepaths</td>
-</tr>
-<tr class="odd">
-<td>Proto-Ctholl</td>
-<td>Lower demons</td>
-<td>Incomplete precursor of Tholl</td>
-</tr>
-<tr class="even">
-<td>Szetch</td>
-<td>Goblins, radenwights</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Tholl</td>
-<td>Higher demons, gnolls</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Urollialic</td>
-<td>Olothec</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Variac</td>
-<td>Olothec, trolls,<br />
-voiceless talkers</td>
-<td>Common language of the World Below</td>
-</tr>
-<tr class="even">
-<td>Vastariax</td>
-<td>Dragons, dragon<br />
-knights</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Vhoric</td>
-<td>Hakaan</td>
-<td>Offshoot of the stone giant dialect of High<br />
-Kuric</td>
-</tr>
-<tr class="even">
-<td>Voll</td>
-<td>Time raiders</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Yllyric</td>
-<td>Wode elves</td>
-<td>Language of druids</td>
-</tr>
-<tr class="even">
-<td>Za'hariax</td>
-<td>Overminds</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Zaliac</td>
-<td>Dwarves</td>
-<td>Language of engineering</td>
-</tr>
-</tbody>
-</table>
+| Language                | Ancestry                                | Notes                                                                            |
+| ----------------------- | --------------------------------------- | -------------------------------------------------------------------------------- |
+| Anjali                  | Devils, hobgoblins                      | Language of contract law                                                         |
+| Axiomatic               | Memonek                                 | Native language of Axiom, and the common<br/> language of the timescape by trade |
+| Caelian                 | Orden denizens                          | Common language of Orden                                                         |
+| Filliaric               | Angulotls                               |                                                                                  |
+| The First<br/> Language | Elder dragons                           | Language of magic                                                                |
+| Hyrallic                | High elves                              | Language of interspecies diplomacy                                               |
+| Illyvric                | Shadow elves                            |                                                                                  |
+| Kalliak                 | Orcs                                    | Offshoot of Zaliac                                                               |
+| Kethaic                 | Kobolds                                 | Patois of Vastariax and Caelian                                                  |
+| Khelt                   | Bugbears, fey                           | Offshoot of Kheltivari                                                           |
+| Khoursirian             | Polder, humans                          | Distant offshoot of Khamish                                                      |
+| High Kuric              | Bredbeddles, giants,<br/> ogres, trolls |                                                                                  |
+| Low Kuric               | Elementals                              |                                                                                  |
+| Mindspeech              | Voiceless talkers                       | A symbolic language shared among native<br/> telepaths                           |
+| Proto-Ctholl            | Lower demons                            | Incomplete precursor of Tholl                                                    |
+| Szetch                  | Goblins, radenwights                    |                                                                                  |
+| Tholl                   | Higher demons, gnolls                   |                                                                                  |
+| Urollialic              | Olothec                                 |                                                                                  |
+| Variac                  | Olothec, trolls,<br/> voiceless talkers | Common language of the World Below                                               |
+| Vastariax               | Dragons, dragon<br/> knights            |                                                                                  |
+| Vhoric                  | Hakaan                                  | Offshoot of the stone giant dialect of High<br/> Kuric                           |
+| Voll                    | Time raiders                            |                                                                                  |
+| Yllyric                 | Wode elves                              | Language of druids                                                               |
+| Za'hariax               | Overminds                               |                                                                                  |
+| Zaliac                  | Dwarves                                 | Language of engineering                                                          |
 
 ##### Language Usage
 
@@ -412,80 +292,17 @@ The Dead Languages table shows some of the dead languages of Orden, and the mode
 
 ###### Dead Languages Table
 
-<table style="width:98%;">
-<colgroup>
-<col style="width: 15%" />
-<col style="width: 26%" />
-<col style="width: 19%" />
-<col style="width: 38%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Language</th>
-<th>Ancestry</th>
-<th>Related Languages</th>
-<th>Common Topics</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Ananjali</td>
-<td>Old hobgoblin</td>
-<td>Anjali</td>
-<td>Zodiakol, the bloodmetal</td>
-</tr>
-<tr class="even">
-<td>High Rhyvian</td>
-<td>Sun elf</td>
-<td>Hyrallic, Yllyric</td>
-<td>Liannar, the sunmetal</td>
-</tr>
-<tr class="odd">
-<td>Khamish</td>
-<td>Beast lord</td>
-<td>Khoursirian</td>
-<td>Beast magic</td>
-</tr>
-<tr class="even">
-<td>Kheltivari</td>
-<td>Old fae</td>
-<td>Yllyric, Khelt</td>
-<td>Using a wode to travel<br />
-through time</td>
-</tr>
-<tr class="odd">
-<td>Low Rhyvian</td>
-<td>Sky elf</td>
-<td>Hyrallic</td>
-<td>Flying castles</td>
-</tr>
-<tr class="even">
-<td>Old Variac</td>
-<td>Olothec, voiceless talkers</td>
-<td>Variac</td>
-<td>Kollar, the sinmetal</td>
-</tr>
-<tr class="odd">
-<td>Phorialtic</td>
-<td>Old elemental</td>
-<td>Low and High Kuric</td>
-<td>Moving between<br />
-manifolds</td>
-</tr>
-<tr class="even">
-<td>Rallarian</td>
-<td>Steel dwarf</td>
-<td>Zaliac</td>
-<td>Valiar, the truemetal</td>
-</tr>
-<tr class="odd">
-<td>Ullorvic</td>
-<td>Star elf</td>
-<td>Hyrallic, Yllyric</td>
-<td>Rovion, the starmetal</td>
-</tr>
-</tbody>
-</table>
+| Language     | Ancestry                   | Related Languages  | Common Topics                            |
+| ------------ | -------------------------- | ------------------ | ---------------------------------------- |
+| Ananjali     | Old hobgoblin              | Anjali             | Zodiakol, the bloodmetal                 |
+| High Rhyvian | Sun elf                    | Hyrallic, Yllyric  | Liannar, the sunmetal                    |
+| Khamish      | Beast lord                 | Khoursirian        | Beast magic                              |
+| Kheltivari   | Old fae                    | Yllyric, Khelt     | Using a wode to travel<br/> through time |
+| Low Rhyvian  | Sky elf                    | Hyrallic           | Flying castles                           |
+| Old Variac   | Olothec, voiceless talkers | Variac             | Kollar, the sinmetal                     |
+| Phorialtic   | Old elemental              | Low and High Kuric | Moving between<br/> manifolds            |
+| Rallarian    | Steel dwarf                | Zaliac             | Valiar, the truemetal                    |
+| Ullorvic     | Star elf                   | Hyrallic, Yllyric  | Rovion, the starmetal                    |
 
 Khamish is still spoken by lizardfolk and other creatures connected to the beast lords. However, the forms spoken today only vaguely resemble their original tongues and have been adapted for use within their speakers' own circles.
 

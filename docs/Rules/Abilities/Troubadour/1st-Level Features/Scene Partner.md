@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Scene Partner
 file_dpath: Troubadour/1st-Level Features
 item_id: scene-partner
-item_index: '14'
+item_index: '04'
 item_name: Scene Partner
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:scene-partner
 scdc:
-  - 1.1.1:13.1.3.1:14
+  - 1.1.1:13.1.3.1:04
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/1st-level-feature
 ---

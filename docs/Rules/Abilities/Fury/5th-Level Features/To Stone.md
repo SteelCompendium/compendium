@@ -1,20 +1,29 @@
 ---
+action_type: Main action
 class: fury
 cost: 9 Ferocity
 cost_amount: 9
 cost_resource: Ferocity
+distance: Melee 1
 feature_type: ability
 file_basename: To Stone
 file_dpath: Fury/5th-Level Features
+flavor: You channel the Primordial Chaos into blows that petrify your foe... literally.
 item_id: to-stone-9-ferocity
 item_index: '03'
 item_name: To Stone! (9 Ferocity)
+keywords:
+  - Magic
+  - Melee
+  - Strike
+  - Weapon
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.fury.5th-level-feature:to-stone-9-ferocity
 scdc:
   - 1.1.1:13.2.5.4:03
 source: mcdm.heroes.v1
+target: One creature
 type: feature/ability/fury/5th-level-feature
 ---
 

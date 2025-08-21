@@ -1,20 +1,29 @@
 ---
+action_type: Main action
 class: tactician
 cost: 5 Focus
 cost_amount: 5
 cost_resource: Focus
+distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: Hammer and Anvil
 file_dpath: Tactician/1st-Level Features
+flavor: "\"Let's not argue about who's the hammer and who's the anvil!\""
 item_id: hammer-and-anvil-5-focus
-item_index: '06'
+item_index: 09
 item_name: Hammer and Anvil (5 Focus)
+keywords:
+  - Melee
+  - Ranged
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:hammer-and-anvil-5-focus
 scdc:
-  - 1.1.1:13.2.4.1:06
+  - 1.1.1:13.2.4.1:09
 source: mcdm.heroes.v1
+target: One creature or object
 type: feature/ability/tactician/1st-level-feature
 ---
 

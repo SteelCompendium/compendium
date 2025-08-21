@@ -1,18 +1,27 @@
 ---
+action_type: Main action
 class: elementalist
-feature_type: trait
+distance: 2 cube within 10
+feature_type: ability
 file_basename: Unquiet Ground
 file_dpath: Elementalist/1st-Level Features
+flavor: A sudden storm of detritus assaults your foes and leaves them struggling to move.
 item_id: unquiet-ground
-item_index: '27'
+item_index: '18'
 item_name: Unquiet Ground
+keywords:
+  - Area
+  - Earth
+  - Magic
+  - Ranged
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:unquiet-ground
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:unquiet-ground
 scdc:
-  - 1.1.1:13.1.9.1:27
+  - 1.1.1:13.2.9.1:18
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+target: Each enemy in the area
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Unquiet Ground

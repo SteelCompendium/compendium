@@ -18,6 +18,7 @@ When a creature force moves a target into a stationary object that is the target
 
 If you force move a creature downward into an object that doesn't break (including the ground), they also take falling damage as if they had fallen the distance force moved and their Agility score was 0 (see [Falling](#page-283-3) above).
 
+<!-- -->
 > **Tracking Object Forced-Movement Damage**
 >
 > At the Director's discretion, mundane objects that are force moved into creatures or other objects take damage as if they were creatures. Sturdy objects can take damage as follows before they are destroyed:

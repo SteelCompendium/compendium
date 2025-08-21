@@ -1,25 +1,32 @@
 ---
+action_type: Main action
 class: censor
-feature_type: trait
+distance: Ranged 10
+feature_type: ability
 file_basename: Guided to Your Side
 file_dpath: Censor/7th-Level Features
+flavor: You concentrate on a friend and teleport to them.
 item_id: guided-to-your-side
-item_index: '12'
+item_index: '01'
 item_name: Guided to Your Side
+keywords:
+  - Magic
+  - Ranged
 level: 7
 scc:
-  - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:guided-to-your-side
+  - mcdm.heroes.v1:feature.ability.censor.7th-level-feature:guided-to-your-side
 scdc:
-  - 1.1.1:13.1.7.9:12
+  - 1.1.1:13.2.7.8:01
 source: mcdm.heroes.v1
-type: feature/trait/censor/7th-level-feature
+target: Self and each ally
+type: feature/ability/censor/7th-level-feature
 ---
 
 ###### Guided to Your Side
 
 *You concentrate on a friend and teleport to them.*
 
-| **Magic, Ranged** |           **Main Action** |
+| **Magic, Ranged** |           **Main action** |
 | ----------------- | ------------------------: |
 | **📏 Ranged 10**  | **🎯 Self and each ally** |
 

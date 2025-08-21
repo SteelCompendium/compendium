@@ -1,18 +1,27 @@
 ---
+action_type: Main action
 class: shadow
-feature_type: trait
+distance: Melee 1 or ranged 5
+feature_type: ability
 file_basename: I Work Better Alone
 file_dpath: Shadow/1st-Level Features
+flavor: "\"It's better, just you and me. Isn't it?\""
 item_id: i-work-better-alone
-item_index: '07'
+item_index: 09
 item_name: I Work Better Alone
+keywords:
+  - Melee
+  - Ranged
+  - Strike
+  - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:i-work-better-alone
+  - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:i-work-better-alone
 scdc:
-  - 1.1.1:13.1.2.1:07
+  - 1.1.1:13.2.2.1:09
 source: mcdm.heroes.v1
-type: feature/trait/shadow/1st-level-feature
+target: One creature
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### I Work Better Alone

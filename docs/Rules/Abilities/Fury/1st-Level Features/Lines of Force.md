@@ -1,21 +1,30 @@
 ---
+action_type: Triggered
 class: fury
-feature_type: trait
+distance: Melee 1
+feature_type: ability
 file_basename: Lines of Force
 file_dpath: Fury/1st-Level Features
+flavor: You redirect the energy of motion.
 item_id: lines-of-force
-item_index: '15'
+item_index: '11'
 item_name: Lines of Force
+keywords:
+  - Magic
+  - Melee
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:lines-of-force
+  - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:lines-of-force
 scdc:
-  - 1.1.1:13.1.5.1:15
+  - 1.1.1:13.2.5.1:11
 source: mcdm.heroes.v1
-type: feature/trait/fury/1st-level-feature
+target: Self or one creature
+type: feature/ability/fury/1st-level-feature
 ---
 
 ###### Lines of Force
+
+*You redirect the energy of motion.*
 
 | **Magic, Melee** |               **Triggered** |
 | ---------------- | --------------------------: |

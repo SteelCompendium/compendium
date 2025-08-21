@@ -1,20 +1,26 @@
 ---
+action_type: Maneuver
 class: fury
 cost: 7 Ferocity
 cost_amount: 7
 cost_resource: Ferocity
+distance: Self
 feature_type: ability
 file_basename: Demon Unleashed
 file_dpath: Fury/3rd-Level Features
+flavor: Foes tremble at the sight of you.
 item_id: demon-unleashed-7-ferocity
 item_index: '01'
 item_name: Demon Unleashed (7 Ferocity)
+keywords:
+  - Magic
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.fury.3rd-level-feature:demon-unleashed-7-ferocity
 scdc:
   - 1.1.1:13.2.5.5:01
 source: mcdm.heroes.v1
+target: Self
 type: feature/ability/fury/3rd-level-feature
 ---
 

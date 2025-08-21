@@ -1,20 +1,29 @@
 ---
+action_type: Main action
 class: 'null'
 cost: 5 Discipline
 cost_amount: 5
 cost_resource: Discipline
+distance: Melee 3
 feature_type: ability
 file_basename: Force Redirected
 file_dpath: Null/2nd-Level Features
+flavor: The force of your strike moves your target in a surprising direction.
 item_id: force-redirected-5-discipline
 item_index: '06'
 item_name: Force Redirected (5 Discipline)
+keywords:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.null.2nd-level-feature:force-redirected-5-discipline
 scdc:
   - 1.1.1:13.2.6.4:06
 source: mcdm.heroes.v1
+target: One creature
 type: feature/ability/null/2nd-level-feature
 ---
 

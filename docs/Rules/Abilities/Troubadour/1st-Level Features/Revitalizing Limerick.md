@@ -1,18 +1,26 @@
 ---
+action_type: No action
 class: troubadour
-feature_type: trait
+distance: 5 aura
+feature_type: ability
 file_basename: Revitalizing Limerick
 file_dpath: Troubadour/1st-Level Features
+flavor: There once was a man from Capital...
 item_id: revitalizing-limerick
-item_index: '03'
+item_index: '06'
 item_name: Revitalizing Limerick
+keywords:
+  - Area
+  - Magic
+  - Performance
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:revitalizing-limerick
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:revitalizing-limerick
 scdc:
-  - 1.1.1:13.1.3.1:03
+  - 1.1.1:13.2.3.1:06
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/1st-level-feature
+target: Self and each ally in the area
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Revitalizing Limerick

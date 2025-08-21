@@ -1,20 +1,28 @@
 ---
+action_type: Main action
 class: elementalist
 cost: 3 Essence
 cost_amount: 3
 cost_resource: Essence
+distance: 2 burst
 feature_type: ability
 file_basename: Ripples in the Earth
 file_dpath: Elementalist/1st-Level Features
+flavor: Like a stone was dropped into a pond, waves in the earth radiate from you.
 item_id: ripples-in-the-earth-3-essence
-item_index: '01'
+item_index: 08
 item_name: Ripples in the Earth (3 Essence)
+keywords:
+  - Area
+  - Earth
+  - Magic
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:ripples-in-the-earth-3-essence
 scdc:
-  - 1.1.1:13.2.9.1:01
+  - 1.1.1:13.2.9.1:08
 source: mcdm.heroes.v1
+target: Each enemy in the area
 type: feature/ability/elementalist/1st-level-feature
 ---
 

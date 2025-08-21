@@ -1,18 +1,26 @@
 ---
+action_type: No action
 class: troubadour
-feature_type: trait
+distance: 5 aura
+feature_type: ability
 file_basename: Choreography
 file_dpath: Troubadour/1st-Level Features
+flavor: Taps, kicks, steps. It's all "choreography."
 item_id: choreography
-item_index: '05'
+item_index: 08
 item_name: Choreography
+keywords:
+  - Area
+  - Magic
+  - Performance
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:choreography
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:choreography
 scdc:
-  - 1.1.1:13.1.3.1:05
+  - 1.1.1:13.2.3.1:08
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/1st-level-feature
+target: Self and each ally in the area
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Choreography

@@ -14,10 +14,11 @@ type: class
 
 ## Elementalist
 
-Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.\*\*
+Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
 **As an elementalist, you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your elemental specialization determines which of these talents you excel at.**
 
+<!-- -->
 > "Understanding the mystery, requires ignorance of the mystery."
 >
 > **Embers**
@@ -166,7 +167,7 @@ You have the following ability.
 
 Your elemental specialization grants you a feature, as shown on the 1st-Level Elemental Specialization Features table.
 
-#### 1st-Level Elemental Specialization Features
+#### 1st-Level Elemental Specialization Features Table
 
 | Specialization | Feature                    |
 | -------------- | -------------------------- |
@@ -207,7 +208,7 @@ You have the following ability.
 
 | **Earth, Magic, Melee** | **Main action** |
 | ----------------------- | --------------: |
-| **📏 Ranged 10**        |  **🎯 Special** |
+| **📏 Melee 1**          |  **🎯 Special** |
 
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
 
@@ -262,7 +263,9 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 | ----------------------- | ----------------------: |
 | **📏 Ranged 10**        | **🎯 Self or one ally** |
 
-**Trigger:** The target force moves a creature or object. **Effect:** The forced movement distance gains a bonus equal to your Reason score.
+**Trigger:** The target force moves a creature or object.
+
+**Effect:** The forced movement distance gains a bonus equal to your Reason score.
 
 **Spend 1 Essence:** The forced movement distance gains a bonus equal to twice your Reason score instead.
 
@@ -284,11 +287,13 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 
 *You call on the void to swallow and spit out an ally.*
 
-| **Magic, Ranged, Void** |          s**Triggered** |
+| **Magic, Ranged, Void** |           **Triggered** |
 | ----------------------- | ----------------------: |
 | **📏 Ranged 10**        | **🎯 Self or one ally** |
 
-**Trigger:** The target starts their turn, moves, or is force moved. **Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
+**Trigger:** The target starts their turn, moves, or is force moved.
+
+**Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
 
 **Spend 1 Essence:** You teleport the target up to a number of squares equal to twice your Reason score instead.
 
@@ -422,7 +427,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 5 + R damage; push 3
 - **17+:** 8 + R damage; push 4
 
-###### Ry of Agonizing Self-Reflection
+###### Ray of Agonizing Self-Reflection
 
 *You inflict pain and doubt in equal measure.*
 
@@ -546,7 +551,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 *A storm of fire descends upon your enemies.*
 
-| **Area, Fire, Magic, Ranged** |               **Main Action** |
+| **Area, Fire, Magic, Ranged** |               **Main action** |
 | ----------------------------- | ----------------------------: |
 | **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
 
@@ -592,9 +597,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 *You call down a rain that burns your enemies and restores your allies.*
 
-| **Area, Green, Magic, Raned** |               **Main action** |
-| ----------------------------- | ----------------------------: |
-| **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
+| **Area, Green, Magic, Ranged** |               **Main action** |
+| ------------------------------ | ----------------------------: |
+| **📏 3 cube within 10**        | **🎯 Each enemy in the area** |
 
 **Power Roll + Reason:**
 
@@ -647,262 +652,29 @@ You can revert back to your true form as a maneuver. You can't enter an animal f
 
 ###### Green Animal Forms Table
 
-<table style="width:96%;">
-<colgroup>
-<col style="width: 5%" />
-<col style="width: 1%" />
-<col style="width: 5%" />
-<col style="width: 3%" />
-<col style="width: 1%" />
-<col style="width: 4%" />
-<col style="width: 5%" />
-<col style="width: 72%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Animal Type</th>
-<th>Level</th>
-<th>Temporary Stamina</th>
-<th>Speed</th>
-<th>Size</th>
-<th>Stability Bonus</th>
-<th>Melee Damage Bonus</th>
-<th>Special</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Canine</td>
-<td>2nd</td>
-<td>5</td>
-<td>7</td>
-<td>1M</td>
-<td>+0</td>
-<td>+1/+1/+1</td>
-<td>You gain an edge on tests that involve smell.</td>
-</tr>
-<tr class="even">
-<td>Fish</td>
-<td>2nd</td>
-<td>0</td>
-<td>5 (swim only)</td>
-<td>1T</td>
-<td>+0</td>
-<td>+0/+0/+0</td>
-<td>You can breathe in water but can't breathe outside of it.</td>
-</tr>
-<tr class="odd">
-<td>Rodent</td>
-<td>2nd</td>
-<td>0</td>
-<td>5 (climb)</td>
-<td>1T</td>
-<td>+0</td>
-<td>+0/+0/+0</td>
-<td>You gain an edge on tests that involve smell.</td>
-</tr>
-<tr class="even">
-<td>Bird</td>
-<td>3rd</td>
-<td>0</td>
-<td>5 (fly)</td>
-<td>1T</td>
-<td>+0</td>
-<td>+0/+0/+0</td>
-<td>-</td>
-</tr>
-<tr class="odd">
-<td>Great cat</td>
-<td>3rd</td>
-<td>5</td>
-<td>6 (climb)</td>
-<td>2</td>
-<td>+0</td>
-<td>+1/+1/+1</td>
-<td>As a maneuver, you can jump up to 3 squares in any direction. If you land on<br />
-an enemy of your size or smaller, that enemy is knocked prone, and you can<br />
-make a melee free strike against them (no action required).</td>
-</tr>
-<tr class="even">
-<td>Giant frog</td>
-<td>4th</td>
-<td>5</td>
-<td>5 (swim)</td>
-<td>2</td>
-<td>+0</td>
-<td>+0/+0/+0</td>
-<td>Your melee free strike has a distance of melee 3. When you take the Advance<br />
-move action, you can high jump or long jump up to half your speed. This<br />
-jump can allow you to move more squares than your speed.</td>
-</tr>
-<tr class="odd">
-<td>Horse</td>
-<td>4th</td>
-<td>5</td>
-<td>8</td>
-<td>2</td>
-<td>+1</td>
-<td>+0/+0/+0</td>
-<td>You can use the Charge main action as a maneuver. You can't use two Charge<br />
-main actions on the same turn.</td>
-</tr>
-<tr class="even">
-<td>Mohler</td>
-<td>4th</td>
-<td>0</td>
-<td>7 (burrow)</td>
-<td>1S</td>
-<td>+1</td>
-<td>+0/+0/+0</td>
-<td>Your melee distance gains a +1 bonus.</td>
-</tr>
-<tr class="odd">
-<td>Bear</td>
-<td>5th</td>
-<td>10</td>
-<td>5 (climb)</td>
-<td>2</td>
-<td>+1</td>
-<td>+2/+2/+2</td>
-<td>Your melee distance gains a +1 bonus.</td>
-</tr>
-<tr class="even">
-<td>Giant bird</td>
-<td>5th</td>
-<td>0</td>
-<td>7 (fly)</td>
-<td>2</td>
-<td>+0</td>
-<td>+1/+1/+1</td>
-<td>After making a melee free strike, you can shift up to 3 squares as a free<br />
-triggered action.</td>
-</tr>
-<tr class="odd">
-<td>Giant<br />
-salamander</td>
-<td>6th</td>
-<td>5</td>
-<td>5</td>
-<td>1L</td>
-<td>+3</td>
-<td>+2/+2/+2</td>
-<td>Your melee free strike deals fire damage. Additionally, you have fire immunity<br />
-3.</td>
-</tr>
-<tr class="even">
-<td>Giant spider</td>
-<td>6th</td>
-<td>0</td>
-<td>5 (climb)</td>
-<td>2</td>
-<td>+0</td>
-<td>+0/+1/+2</td>
-<td>You have a double edge on melee free strikes against creatures you are hidden<br />
-from.</td>
-</tr>
-<tr class="odd">
-<td>Giant snake</td>
-<td>7th</td>
-<td>5</td>
-<td>5</td>
-<td>3</td>
-<td>+0</td>
-<td>+0/+1/+2</td>
-<td>Whenever you obtain a tier 2 or tier 3 outcome on a melee free strike, you<br />
-can automatically grab the target. While grabbed this way, the target takes 2<br />
-damage at the start of each of their turns.</td>
-</tr>
-<tr class="even">
-<td>Kangaroo</td>
-<td>7th</td>
-<td>0</td>
-<td>7</td>
-<td>1L</td>
-<td>+1</td>
-<td>+0/+0/+4</td>
-<td>When you score a critical hit with a melee free strike, the target is dazed (save<br />
-ends). When you take the Advance move action, you can high jump or long<br />
-jump up to half your speed. This jump can allow you to move more squares<br />
-than your speed.</td>
-</tr>
-<tr class="odd">
-<td>Spiny armadillo</td>
-<td>7th</td>
-<td>10</td>
-<td>5</td>
-<td>1M</td>
-<td>+2</td>
-<td>+0/+0/+0</td>
-<td>Whenever you take damage from an adjacent creature's melee ability, that<br />
-creature takes 3 damage.</td>
-</tr>
-<tr class="even">
-<td>Ostrich</td>
-<td>8th</td>
-<td>0</td>
-<td>10</td>
-<td>2</td>
-<td>+0</td>
-<td>+1/+1/+1</td>
-<td>Your movement does not provoke opportunity attacks.</td>
-</tr>
-<tr class="odd">
-<td>Shark</td>
-<td>8th</td>
-<td>0</td>
-<td>8 (swim only)</td>
-<td>2</td>
-<td>+0</td>
-<td>+2/+2/+2</td>
-<td>You can breathe in water but can't breathe outside of it. Additionally, you gain<br />
-an edge on strikes against targets who are bleeding or winded.</td>
-</tr>
-<tr class="even">
-<td>Giant octopus</td>
-<td>9th</td>
-<td>5</td>
-<td>5 (swim)</td>
-<td>3</td>
-<td>+2</td>
-<td>+0/+0/+0</td>
-<td>You can breathe in water. Additionally, you can target two creatures or objects<br />
-with your melee free strike. Whenever you obtain a tier 2 or tier 3 outcome on<br />
-a melee free strike, you can automatically grab the target. You can have up to<br />
-eight creatures grabbed.</td>
-</tr>
-<tr class="odd">
-<td>Rhinoceros</td>
-<td>9th</td>
-<td>10</td>
-<td>8</td>
-<td>2</td>
-<td>+5</td>
-<td>+2/+2/+2</td>
-<td>Whenever you make a melee free strike as part of the Charge action, that<br />
-strike gains an edge.</td>
-</tr>
-<tr class="even">
-<td>King terror lizard</td>
-<td>10th</td>
-<td>20</td>
-<td>5</td>
-<td>4</td>
-<td>+3</td>
-<td>+2/+2/+2</td>
-<td>Your melee free strike is a 1 burst with the Area and Strike keywords.</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Animal Type           | Level | Temporary Stamina | Speed         | Size | Stability Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                               |
+| --------------------- | ----- | ----------------- | ------------- | ---- | --------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Canine                | 2nd   | 5                 | 7             | 1M   | +0              | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                         |
+| Fish                  | 2nd   | 0                 | 5 (swim only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                             |
+| Rodent                | 2nd   | 0                 | 5 (climb)     | 1T   | +0              | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                         |
+| Bird                  | 3rd   | 0                 | 5 (fly)       | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                                     |
+| Great cat             | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | As a maneuver, you can jump up to 3 squares in any direction. If you land on<br/> an enemy of your size or smaller, that enemy is knocked prone, and you can<br/> make a melee free strike against them (no action required).                                                         |
+| Giant frog            | 4th   | 5                 | 5 (swim)      | 2    | +0              | +0/+0/+0           | Your melee free strike has a distance of melee 3. When you take the Advance<br/> move action, you can high jump or long jump up to half your speed. This<br/> jump can allow you to move more squares than your speed.                                                                |
+| Horse                 | 4th   | 5                 | 8             | 2    | +1              | +0/+0/+0           | You can use the Charge main action as a maneuver. You can't use two Charge<br/> main actions on the same turn.                                                                                                                                                                        |
+| Mohler                | 4th   | 0                 | 7 (burrow)    | 1S   | +1              | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                 |
+| Bear                  | 5th   | 10                | 5 (climb)     | 2    | +1              | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                 |
+| Giant bird            | 5th   | 0                 | 7 (fly)       | 2    | +0              | +1/+1/+1           | After making a melee free strike, you can shift up to 3 squares as a free<br/> triggered action.                                                                                                                                                                                      |
+| Giant<br/> salamander | 6th   | 5                 | 5             | 1L   | +3              | +2/+2/+2           | Your melee free strike deals fire damage. Additionally, you have fire immunity<br/> 3.                                                                                                                                                                                                |
+| Giant spider          | 6th   | 0                 | 5 (climb)     | 2    | +0              | +0/+1/+2           | You have a double edge on melee free strikes against creatures you are hidden<br/> from.                                                                                                                                                                                              |
+| Giant snake           | 7th   | 5                 | 5             | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee free strike, you<br/> can automatically grab the target. While grabbed this way, the target takes 2<br/> damage at the start of each of their turns.                                                                        |
+| Kangaroo              | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee free strike, the target is dazed (save<br/> ends). When you take the Advance move action, you can high jump or long<br/> jump up to half your speed. This jump can allow you to move more squares<br/> than your speed.                    |
+| Spiny armadillo       | 7th   | 10                | 5             | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br/> creature takes 3 damage.                                                                                                                                                                                |
+| Ostrich               | 8th   | 0                 | 10            | 2    | +0              | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                                   |
+| Shark                 | 8th   | 0                 | 8 (swim only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br/> an edge on strikes against targets who are bleeding or winded.                                                                                                                                  |
+| Giant octopus         | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br/> with your melee free strike. Whenever you obtain a tier 2 or tier 3 outcome on<br/> a melee free strike, you can automatically grab the target. You can have up to<br/> eight creatures grabbed. |
+| Rhinoceros            | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee free strike as part of the Charge action, that<br/> strike gains an edge.                                                                                                                                                                                   |
+| King terror lizard    | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your melee free strike is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                |
+|                       |       |                   |               |      |                 |                    |                                                                                                                                                                                                                                                                                       |
 
 ##### There Is No Space Between
 
@@ -1433,81 +1205,35 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 
 **Source of Earth**
 
-<table style="width:99%;">
-<colgroup>
-<col style="width: 19%" />
-<col style="width: 22%" />
-<col style="width: 17%" />
-<col style="width: 21%" />
-<col style="width: 20%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">Elemental</th>
-<th style="text-align: center;">-</th>
-<th style="text-align: center;">Level 8</th>
-<th style="text-align: center;">BRUTE</th>
-<th style="text-align: center;">EV -</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><strong>2</strong><br />
-Size</td>
-<td style="text-align: center;"><strong>6</strong><br />
-Speed</td>
-<td style="text-align: center;"><strong>45</strong><br />
-Stamina</td>
-<td style="text-align: center;"><strong>5</strong><br />
-Stability</td>
-<td style="text-align: center;"><strong>5</strong><br />
-Free Strike</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>-</strong><br />
-Immunities</td>
-<td style="text-align: center;"><strong>Burrow</strong><br />
-Movement</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><strong>-</strong><br />
-With Captain</td>
-<td style="text-align: center;"><strong>-</strong><br />
-Weaknesses</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><strong>+3</strong><br />
-Might</td>
-<td style="text-align: center;"><strong>+1</strong><br />
-Agility</td>
-<td style="text-align: center;"><strong>-5</strong><br />
-Reason</td>
-<td style="text-align: center;"><strong>-5</strong><br />
-Intuition</td>
-<td style="text-align: center;"><strong>-3</strong><br />
-Presence</td>
-</tr>
-</tbody>
-</table>
+|       Elemental       |            -             |       Level 8       |          BRUTE          |          EV -          |
+| :-------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
+|    **2**<br/> Size    |     **6**<br/> Speed     | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
+| **-**<br/> Immunities | **Burrow**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **+3**<br/> Might   |   **+1**<br/> Agility    | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
 
+<!-- -->
 > **Earthwalk**
 >
 > Difficult terrain composed of earth and stone doesn't cost the source extra movement.
 
+<!-- -->
 > **Tunneler**
 >
 > When the source burrows, they create a size 2 tunnel.
 
+<!-- -->
 > **Earth Harness**
 >
 > A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
 
+<!-- -->
 > **Boulder Bash**
 >
 > | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
 > | --------------------------------- | ----------------------------: |
 > | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
 >
-> **2d10 + 3:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 5 damage; push 3
 > - **12-16:** 9 damage; push 4

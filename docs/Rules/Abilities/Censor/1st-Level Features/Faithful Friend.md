@@ -1,25 +1,31 @@
 ---
+action_type: Main action
 class: censor
-feature_type: trait
+distance: Self
+feature_type: ability
 file_basename: Faithful Friend
 file_dpath: Censor/1st-Level Features
+flavor: An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.
 item_id: faithful-friend
-item_index: '02'
+item_index: '01'
 item_name: Faithful Friend
+keywords:
+  - Magic
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:faithful-friend
+  - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:faithful-friend
 scdc:
-  - 1.1.1:13.1.7.1:02
+  - 1.1.1:13.2.7.1:01
 source: mcdm.heroes.v1
-type: feature/trait/censor/1st-level-feature
+target: Self
+type: feature/ability/censor/1st-level-feature
 ---
 
 ###### Faithful Friend
 
 *An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
 
-| **Magic**   | **Main Action** |
+| **Magic**   | **Main action** |
 | ----------- | --------------: |
 | **📏 Self** |     **🎯 Self** |
 

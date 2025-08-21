@@ -1,20 +1,29 @@
 ---
+action_type: Maneuver
 class: 'null'
 cost: 5 Discipline
 cost_amount: 5
 cost_resource: Discipline
+distance: Melee 1
 feature_type: ability
 file_basename: Impart Force
 file_dpath: Null/1st-Level Features
+flavor: A single touch from you, and your enemy flies backward.
 item_id: impart-force-5-discipline
-item_index: '05'
+item_index: '13'
 item_name: Impart Force (5 Discipline)
+keywords:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:impart-force-5-discipline
 scdc:
-  - 1.1.1:13.2.6.1:05
+  - 1.1.1:13.2.6.1:13
 source: mcdm.heroes.v1
+target: One creature or object
 type: feature/ability/null/1st-level-feature
 ---
 

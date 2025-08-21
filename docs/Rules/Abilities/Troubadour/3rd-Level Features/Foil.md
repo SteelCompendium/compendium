@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Foil
 file_dpath: Troubadour/3rd-Level Features
 item_id: foil
-item_index: '02'
+item_index: '01'
 item_name: Foil
 level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:foil
 scdc:
-  - 1.1.1:13.1.3.7:02
+  - 1.1.1:13.1.3.7:01
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/3rd-level-feature
 ---

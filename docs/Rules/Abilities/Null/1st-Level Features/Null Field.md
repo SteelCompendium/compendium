@@ -1,18 +1,25 @@
 ---
+action_type: Maneuver
 class: 'null'
-feature_type: trait
+distance: 1 aura
+feature_type: ability
 file_basename: Null Field
 file_dpath: Null/1st-Level Features
+flavor: You project an aura that dampens the power of your foes.
 item_id: null-field
-item_index: '10'
+item_index: '11'
 item_name: Null Field
+keywords:
+  - Area
+  - Psionic
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.null.1st-level-feature:null-field
+  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:null-field
 scdc:
-  - 1.1.1:13.1.6.1:10
+  - 1.1.1:13.2.6.1:11
 source: mcdm.heroes.v1
-type: feature/trait/null/1st-level-feature
+target: Each enemy in the area
+type: feature/ability/null/1st-level-feature
 ---
 
 ###### Null Field

@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Speed Augmentation
 file_dpath: Null/1st-Level Features
 item_id: speed-augmentation
-item_index: '12'
+item_index: '04'
 item_name: Speed Augmentation
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:speed-augmentation
 scdc:
-  - 1.1.1:13.1.6.1:12
+  - 1.1.1:13.1.6.1:04
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

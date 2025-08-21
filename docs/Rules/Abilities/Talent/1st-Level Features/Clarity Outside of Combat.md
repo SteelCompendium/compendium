@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Clarity Outside of Combat
 file_dpath: Talent/1st-Level Features
 item_id: clarity-outside-of-combat
-item_index: '13'
+item_index: '07'
 item_name: Clarity Outside of Combat
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:clarity-outside-of-combat
 scdc:
-  - 1.1.1:13.1.1.1:13
+  - 1.1.1:13.1.1.1:07
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

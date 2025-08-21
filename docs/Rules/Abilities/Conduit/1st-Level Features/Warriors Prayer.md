@@ -1,18 +1,26 @@
 ---
+action_type: Main action
 class: conduit
-feature_type: trait
+distance: Ranged 10
+feature_type: ability
 file_basename: Warriors Prayer
 file_dpath: Conduit/1st-Level Features
+flavor: Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.
 item_id: warriors-prayer
-item_index: '23'
+item_index: '13'
 item_name: Warrior's Prayer
+keywords:
+  - Magic
+  - Ranged
+  - Strike
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:warriors-prayer
+  - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:warriors-prayer
 scdc:
-  - 1.1.1:13.1.8.1:23
+  - 1.1.1:13.2.8.1:13
 source: mcdm.heroes.v1
-type: feature/trait/conduit/1st-level-feature
+target: One creature
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Warrior's Prayer

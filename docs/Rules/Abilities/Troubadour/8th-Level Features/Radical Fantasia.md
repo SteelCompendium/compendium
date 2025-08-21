@@ -1,18 +1,26 @@
 ---
+action_type: No action
 class: troubadour
-feature_type: trait
+distance: 5 aura
+feature_type: ability
 file_basename: Radical Fantasia
 file_dpath: Troubadour/8th-Level Features
+flavor: 𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy-aaaiigh?♪
 item_id: radical-fantasia
-item_index: '03'
+item_index: '02'
 item_name: Radical Fantasia
+keywords:
+  - Area
+  - Magic
+  - Performance
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:radical-fantasia
+  - mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:radical-fantasia
 scdc:
-  - 1.1.1:13.1.3.2:03
+  - 1.1.1:13.2.3.2:02
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/8th-level-feature
+target: Self and each ally in the area
+type: feature/ability/troubadour/8th-level-feature
 ---
 
 ###### Radical Fantasia

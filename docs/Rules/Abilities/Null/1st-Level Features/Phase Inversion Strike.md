@@ -1,18 +1,27 @@
 ---
+action_type: Main action
 class: 'null'
-feature_type: trait
+distance: Melee 1
+feature_type: ability
 file_basename: Phase Inversion Strike
 file_dpath: Null/1st-Level Features
+flavor: You step momentarily out of phase as you pull an enemy through you.
 item_id: phase-inversion-strike
-item_index: '07'
+item_index: 08
 item_name: Phase Inversion Strike
+keywords:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.null.1st-level-feature:phase-inversion-strike
+  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:phase-inversion-strike
 scdc:
-  - 1.1.1:13.1.6.1:07
+  - 1.1.1:13.2.6.1:08
 source: mcdm.heroes.v1
-type: feature/trait/null/1st-level-feature
+target: One creature or object
+type: feature/ability/null/1st-level-feature
 ---
 
 ###### Phase Inversion Strike

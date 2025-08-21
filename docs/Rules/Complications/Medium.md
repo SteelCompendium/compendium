@@ -22,7 +22,7 @@ You can perceive ghosts and spirits that others don't sense. These supernatural 
 
 *The restless dead speak to you.*
 
-| **Magic**   | **Main Action** |
+| **Magic**   | **Main action** |
 | ----------- | --------------: |
 | **📏 Self** |     **🎯 Self** |
 

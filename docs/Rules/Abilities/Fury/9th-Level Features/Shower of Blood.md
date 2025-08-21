@@ -1,20 +1,28 @@
 ---
+action_type: Main action
 class: fury
 cost: 11 Ferocity
 cost_amount: 11
 cost_resource: Ferocity
+distance: Melee 1
 feature_type: ability
 file_basename: Shower of Blood
 file_dpath: Fury/9th-Level Features
+flavor: You shock your foes with the brutality of your strike, resetting the balance of combat.
 item_id: shower-of-blood-11-ferocity
 item_index: '03'
 item_name: Shower of Blood (11 Ferocity)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:shower-of-blood-11-ferocity
 scdc:
   - 1.1.1:13.2.5.6:03
 source: mcdm.heroes.v1
+target: One creature
 type: feature/ability/fury/9th-level-feature
 ---
 

@@ -1,20 +1,30 @@
 ---
+action_type: Maneuver
 class: elementalist
 cost: 9 Essence
 cost_amount: 9
 cost_resource: Essence
+distance: Ranged 10
 feature_type: ability
 file_basename: Luminous Champion Aloft
 file_dpath: Elementalist/6th-Level Features
+flavor: They shine vibrantly, a beautiful diamond in the night sky.
 item_id: luminous-champion-aloft-9-essence
 item_index: '04'
 item_name: Luminous Champion Aloft (9 Essence)
+keywords:
+  - Fire
+  - Green
+  - Magic
+  - Ranged
+  - Void
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.6th-level-feature:luminous-champion-aloft-9-essence
 scdc:
   - 1.1.1:13.2.9.3:04
 source: mcdm.heroes.v1
+target: Self or one ally
 type: feature/ability/elementalist/6th-level-feature
 ---
 

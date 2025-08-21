@@ -36,9 +36,9 @@ You wear light armor and wield a shield and a light weapon.
 
 ##### Signature Ability
 
-###### Shock and Awe
+###### Raider's Awe
 
-*You execute a brutal strike that leaves your foe reeling.*
+*You execute a brutal strike that leaves your foe reeling. (Previously known as "Shock and Awe")*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |

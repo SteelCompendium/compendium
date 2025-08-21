@@ -1,20 +1,28 @@
 ---
+action_type: Maneuver
 class: troubadour
 cost: 11 Drama
 cost_amount: 11
 cost_resource: Drama
+distance: Melee 1 or ranged 10
 feature_type: ability
 file_basename: Epic
 file_dpath: Troubadour/9th-Level Features
+flavor: Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.
 item_id: epic-11-drama
 item_index: '05'
 item_name: Epic (11 Drama)
+keywords:
+  - Magic
+  - Melee
+  - Ranged
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:epic-11-drama
 scdc:
   - 1.1.1:13.2.3.7:05
 source: mcdm.heroes.v1
+target: One creature
 type: feature/ability/troubadour/9th-level-feature
 ---
 

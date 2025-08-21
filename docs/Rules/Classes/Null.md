@@ -18,6 +18,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **As a null, you resist the supernatural forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the supernatural. Those who break the laws of nature using sorcery or psionics should fear you.**
 
+<!-- -->
 > "Any weapon can be turned against the hand that wields it."
 >
 > **Ardashir**
@@ -544,6 +545,8 @@ Choose one of the following heroic abilities.
 
 ###### Entropic Field (5 Discipline)
 
+*You drastically increase the local entropy.*
+
 | **Area, Psionic, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 3 cube within 1**    | **🎯 Each enemy in the area** |
@@ -632,7 +635,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has i
+**Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is bleeding (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
 
 ###### Stabilizing Field (7 Discipline)
 
@@ -688,6 +691,8 @@ As a 5th-level null, you gain the following features.
 
 Your null tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
 
+###### 5th-Level Tradition Features Table
+
 | Tradition     | Feature            |
 | ------------- | ------------------ |
 | Chronokinetic | Instant Action     |
@@ -714,7 +719,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 
 *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
 
-| **Melee, Psionic, Strike, Weapon** |    **Free trigger** |
+| **Melee, Psionic, Strike, Weapon** |  **Free triggered** |
 | ---------------------------------- | ------------------: |
 | **📏 Melee 1**                     | **🎯 One creature** |
 
@@ -826,7 +831,7 @@ Choose one of the following abilities.
 | ------------------- | --------------------------------: |
 | **📏 Ranged 10**    | **🎯 Three creatures or objects** |
 
-**Power Roll + Reason:**
+**Power Roll + Intuition:**
 
 - **≤11:** Vertical slide 6
 - **12-16:** Vertical slide 8

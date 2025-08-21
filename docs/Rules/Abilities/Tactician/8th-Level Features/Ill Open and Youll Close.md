@@ -1,20 +1,29 @@
 ---
+action_type: Main action
 class: tactician
 cost: 11 Focus
 cost_amount: 11
 cost_resource: Focus
+distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: Ill Open and Youll Close
 file_dpath: Tactician/8th-Level Features
+flavor: You create an opening for an ally.
 item_id: ill-open-and-youll-close-11-focus
 item_index: '03'
 item_name: I'll Open and You'll Close (11 Focus)
+keywords:
+  - Melee
+  - Ranged
+  - Strike
+  - Weapon
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:ill-open-and-youll-close-11-focus
 scdc:
   - 1.1.1:13.2.4.2:03
 source: mcdm.heroes.v1
+target: One creature
 type: feature/ability/tactician/8th-level-feature
 ---
 

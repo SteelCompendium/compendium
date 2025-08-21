@@ -1,18 +1,27 @@
 ---
+action_type: Main action
 class: talent
-feature_type: trait
+distance: Melee 2
+feature_type: ability
 file_basename: Spirit Sword
 file_dpath: Talent/1st-Level Features
+flavor: You form a blade of mind energy and stab your target, invigorating yourself.
 item_id: spirit-sword
-item_index: 09
+item_index: '07'
 item_name: Spirit Sword
+keywords:
+  - Animapathy
+  - Melee
+  - Psionic
+  - Strike
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:spirit-sword
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:spirit-sword
 scdc:
-  - 1.1.1:13.1.1.1:09
+  - 1.1.1:13.2.1.1:07
 source: mcdm.heroes.v1
-type: feature/trait/talent/1st-level-feature
+target: One creature or object
+type: feature/ability/talent/1st-level-feature
 ---
 
 ###### Spirit Sword
@@ -29,6 +38,6 @@ type: feature/trait/talent/1st-level-feature
 - **12-16:** 6 + P damage
 - **17+:** 9 + P damage
 
-Effect: You gain 1 surge.
+**Effect:** You gain 1 surge.
 
 **Strained:** The target takes an extra 3 damage. You also take 3 damage that can't be reduced in any way.

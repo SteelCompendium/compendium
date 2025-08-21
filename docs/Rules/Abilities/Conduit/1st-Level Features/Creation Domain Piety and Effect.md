@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Creation Domain Piety and Effect
 file_dpath: Conduit/1st-Level Features
 item_id: creation-domain-piety-and-effect
-item_index: '06'
+item_index: '05'
 item_name: Creation Domain Piety and Effect
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:creation-domain-piety-and-effect
 scdc:
-  - 1.1.1:13.1.8.1:06
+  - 1.1.1:13.1.8.1:05
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

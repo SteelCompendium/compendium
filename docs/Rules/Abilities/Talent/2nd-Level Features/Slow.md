@@ -1,20 +1,28 @@
 ---
+action_type: Maneuver
 class: talent
 cost: 5 Clarity
 cost_amount: 5
 cost_resource: Clarity
+distance: Ranged 10
 feature_type: ability
 file_basename: Slow
 file_dpath: Talent/2nd-Level Features
+flavor: Perhaps they wonder why everyone else is moving so quickly?
 item_id: slow-5-clarity
 item_index: '06'
 item_name: Slow (5 Clarity)
+keywords:
+  - Chronopathy
+  - Psionic
+  - Ranged
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:slow-5-clarity
 scdc:
   - 1.1.1:13.2.1.5:06
 source: mcdm.heroes.v1
+target: Three creatures or objects
 type: feature/ability/talent/2nd-level-feature
 ---
 
@@ -28,7 +36,7 @@ type: feature/ability/talent/2nd-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** The target's speed is halved (save ends), or if p
+- **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is slowed (save ends).
 - **12-16:** The target is slowed (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
 - **17+:** The target is slowed (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 

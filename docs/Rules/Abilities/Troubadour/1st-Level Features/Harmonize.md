@@ -1,20 +1,26 @@
 ---
+action_type: Triggered
 class: troubadour
 cost: 3 Drama
 cost_amount: 3
 cost_resource: Drama
+distance: Ranged 5
 feature_type: ability
 file_basename: Harmonize
 file_dpath: Troubadour/1st-Level Features
+flavor: Give the chorus a little punch.
 item_id: harmonize-3-drama
-item_index: '10'
+item_index: '23'
 item_name: Harmonize (3 Drama)
+keywords:
+  - Ranged
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:harmonize-3-drama
 scdc:
-  - 1.1.1:13.2.3.1:10
+  - 1.1.1:13.2.3.1:23
 source: mcdm.heroes.v1
+target: One ally
 type: feature/ability/troubadour/1st-level-feature
 ---
 

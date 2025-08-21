@@ -1,18 +1,26 @@
 ---
+action_type: Main action
 class: 'null'
-feature_type: trait
+distance: 1 burst
+feature_type: ability
 file_basename: Dance of Blows
 file_dpath: Null/1st-Level Features
+flavor: You strike everywhere at once, tricking an enemy into moving out of position.
 item_id: dance-of-blows
-item_index: 09
+item_index: '10'
 item_name: Dance of Blows
+keywords:
+  - Area
+  - Psionic
+  - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.null.1st-level-feature:dance-of-blows
+  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:dance-of-blows
 scdc:
-  - 1.1.1:13.1.6.1:09
+  - 1.1.1:13.2.6.1:10
 source: mcdm.heroes.v1
-type: feature/trait/null/1st-level-feature
+target: Each enemy in the area
+type: feature/ability/null/1st-level-feature
 ---
 
 ###### Dance of Blows

@@ -48,6 +48,7 @@ This chapter details twelve ancestries for the game:
 
 **Time Raider:** Travelers of the timescape, the time raiders (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
 
+<!-- -->
 > **Other Sections**
 >
 > The rules for using ancestries refer to lots of other parts of the game. You can find information on specific topics as follows:
@@ -246,93 +247,19 @@ Humans have the potential to live a little longer on Orden than they do in the r
 
 ###### Ancestry Measurements Table
 
-<table style="width:98%;">
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 28%" />
-<col style="width: 22%" />
-<col style="width: 31%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Ancestry</th>
-<th>Height in Feet/<br />
-Inches</th>
-<th>Weight in<br />
-Pounds</th>
-<th>Life Expectancy in<br />
-Years</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Devil</td>
-<td>5'0''-6'0''</td>
-<td>120-250</td>
-<td>70-120</td>
-</tr>
-<tr class="even">
-<td>Dragon Knight</td>
-<td>6'0''-7'0''</td>
-<td>200-350</td>
-<td>50-90</td>
-</tr>
-<tr class="odd">
-<td>Dwarf</td>
-<td>4'0''-4'6''</td>
-<td>500-1,000</td>
-<td>700-1,500</td>
-</tr>
-<tr class="even">
-<td>Wode Elf</td>
-<td>5'6''-6'6''</td>
-<td>100-150</td>
-<td>1,200-3,000</td>
-</tr>
-<tr class="odd">
-<td>High Elf</td>
-<td>5'6''-6'6''</td>
-<td>100-150</td>
-<td>1,200-3,000</td>
-</tr>
-<tr class="even">
-<td>Hakaan</td>
-<td>9'0''-10'0''</td>
-<td>1,000-2,000</td>
-<td>300-500</td>
-</tr>
-<tr class="odd">
-<td>Human</td>
-<td>5'0''-6'0''</td>
-<td>100-300</td>
-<td>70-120</td>
-</tr>
-<tr class="even">
-<td>Memonek</td>
-<td>5'0''-6'0''</td>
-<td>50-100</td>
-<td>70-120</td>
-</tr>
-<tr class="odd">
-<td>Orc</td>
-<td>5'6''-6'6''</td>
-<td>150-300</td>
-<td>50-90</td>
-</tr>
-<tr class="even">
-<td>Polder</td>
-<td>3'3''-3'9''</td>
-<td>20-50</td>
-<td>50-90</td>
-</tr>
-<tr class="odd">
-<td>Time Raider</td>
-<td>5'0''-6'0''</td>
-<td>120-250</td>
-<td>50-90</td>
-</tr>
-</tbody>
-</table>
+| Ancestry      | Height in Feet/<br/> Inches | Weight in<br/> Pounds | Life Expectancy in<br/> Years |
+| ------------- | --------------------------- | --------------------- | ----------------------------- |
+| Devil         | 5'0''-6'0''                 | 120-250               | 70-120                        |
+| Dragon Knight | 6'0''-7'0''                 | 200-350               | 50-90                         |
+| Dwarf         | 4'0''-4'6''                 | 500-1,000             | 700-1,500                     |
+| Wode Elf      | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
+| High Elf      | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
+| Hakaan        | 9'0''-10'0''                | 1,000-2,000           | 300-500                       |
+| Human         | 5'0''-6'0''                 | 100-300               | 70-120                        |
+| Memonek       | 5'0''-6'0''                 | 50-100                | 70-120                        |
+| Orc           | 5'6''-6'6''                 | 150-300               | 50-90                         |
+| Polder        | 3'3''-3'6''                 | 20-50                 | 50-90                         |
+| Time Raider   | 5'0''-6'0''                 | 120-250               | 50-90                         |
 
 ### Starting Size and Speed
 
@@ -604,9 +531,9 @@ You have the following signature ability.
 
 *You let loose a mighty roar to shake your foes' spirits.*
 
-| **Area, Magic** |               **Main Action** |
+| **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |
-| **📏 1 Burst**  | **🎯 Each enemy in the area** |
+| **📏 1 burst**  | **🎯 Each enemy in the area** |
 
 **Power Roll + Might or Presence:**
 
@@ -622,7 +549,7 @@ You have the following signature ability.
 
 *A furious exhalation of energy washes over your foes.*
 
-| **Area, Magic**        |               **Main Action** |
+| **Area, Magic**        |               **Main action** |
 | ---------------------- | ----------------------------: |
 | **📏 3 cube within 1** | **🎯 Each enemy in the area** |
 
@@ -916,7 +843,7 @@ You have the following signature ability. Signature abilities can be used at wil
 
 *Thorny vines erupt from every surface and attempt to bind your foe.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -1664,7 +1591,7 @@ You have the following ability.
 
 *You become an actual shadow.*
 
-| **Magic**   | **Main Action** |
+| **Magic**   | **Main action** |
 | ----------- | --------------: |
 | **📏 Self** |     **🎯 Self** |
 
@@ -1814,15 +1741,17 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 ###### Detonate Sigil
 
-| **Magic, Ranged, Strike** |                        **Main Action** |
+*A magic sigil you placed on a creature explodes with energy.*
+
+| **Magic, Ranged, Strike** |                        **Main action** |
 | ------------------------- | -------------------------------------: |
 | **📏 Ranged 10**          | **🎯 One creature bearing your sigil** |
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- **≤11:** 3 + R , I , or P damage; slide 1
-- **12-16:** 5 + R , I , or P damage; slide 2
-- **17+:** 7 + R , I , or P damage; slide 3
+- **≤11:** 3 + R, I, or P damage; slide 1
+- **12-16:** 5 + R, I, or P damage; slide 2
+- **17+:** 7 + R, I, or P damage; slide 3
 
 **Effect:** The sigil disappears from the creature.
 
@@ -1962,9 +1891,9 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- **≤11:** 2 + R , I , or P damage;
-- **12-16:** 5 + R , I , or P damage; push 1
-- **17+:** 7 + R , I , or P damage; push 2; M < STRONG, prone
+- **≤11:** 2 + R, I, or P damage;
+- **12-16:** 5 + R, I, or P damage; push 1
+- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, prone
 
 ###### Psionic Bolt
 
@@ -1973,6 +1902,8 @@ Choose one signature ability from the following options. Signature abilities can
 | **Psionic, Ranged, Strike** | Main action                   |
 | --------------------------- | ----------------------------- |
 | **📏 Ranged 10**            | **🎯 One creature or object** |
+
+**Power Roll + Reason, Intuition, or Presence:**
 
 - **≤11:** 2 + R, I, or P psychic damage; slide 1
 - **12-16:** 5 + R, I, or P psychic damage; slide 2

@@ -1,20 +1,28 @@
 ---
+action_type: Main action
 class: fury
 cost: 9 Ferocity
 cost_amount: 9
 cost_resource: Ferocity
+distance: Melee 1
 feature_type: ability
 file_basename: Seek and Destroy
 file_dpath: Fury/6th-Level Features
+flavor: You break through the enemy lines to make an example.
 item_id: seek-and-destroy-9-ferocity
 item_index: '06'
 item_name: Seek and Destroy (9 Ferocity)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:seek-and-destroy-9-ferocity
 scdc:
   - 1.1.1:13.2.5.3:06
 source: mcdm.heroes.v1
+target: One creature
 type: feature/ability/fury/6th-level-feature
 ---
 

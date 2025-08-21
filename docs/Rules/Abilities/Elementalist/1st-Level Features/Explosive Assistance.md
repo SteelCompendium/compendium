@@ -1,18 +1,26 @@
 ---
+action_type: Triggered
 class: elementalist
-feature_type: trait
+distance: Ranged 10
+feature_type: ability
 file_basename: Explosive Assistance
 file_dpath: Elementalist/1st-Level Features
+flavor: You add a little magic to an ally's aggression at just the right time.
 item_id: explosive-assistance
-item_index: 09
+item_index: '06'
 item_name: Explosive Assistance
+keywords:
+  - Fire
+  - Magic
+  - Ranged
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:explosive-assistance
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:explosive-assistance
 scdc:
-  - 1.1.1:13.1.9.1:09
+  - 1.1.1:13.2.9.1:06
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+target: Self or one ally
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Explosive Assistance
@@ -23,6 +31,8 @@ type: feature/trait/elementalist/1st-level-feature
 | ----------------------- | ----------------------: |
 | **📏 Ranged 10**        | **🎯 Self or one ally** |
 
-**Trigger:** The target force moves a creature or object. **Effect:** The forced movement distance gains a bonus equal to your Reason score.
+**Trigger:** The target force moves a creature or object.
+
+**Effect:** The forced movement distance gains a bonus equal to your Reason score.
 
 **Spend 1 Essence:** The forced movement distance gains a bonus equal to twice your Reason score instead.

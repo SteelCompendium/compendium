@@ -1,20 +1,27 @@
 ---
+action_type: Main action
 class: troubadour
 cost: 5 Drama
 cost_amount: 5
 cost_resource: Drama
+distance: 3 burst
 feature_type: ability
 file_basename: Dramatic Reversal
 file_dpath: Troubadour/1st-Level Features
+flavor: Give the audience a surprise.
 item_id: dramatic-reversal-5-drama
-item_index: '04'
+item_index: '07'
 item_name: Dramatic Reversal (5 Drama)
+keywords:
+  - Area
+  - Magic
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:dramatic-reversal-5-drama
 scdc:
-  - 1.1.1:13.2.3.1:04
+  - 1.1.1:13.2.3.1:07
 source: mcdm.heroes.v1
+target: Self and each ally in the area
 type: feature/ability/troubadour/1st-level-feature
 ---
 

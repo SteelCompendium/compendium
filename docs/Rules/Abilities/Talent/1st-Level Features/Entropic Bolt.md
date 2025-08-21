@@ -1,18 +1,27 @@
 ---
+action_type: Main action
 class: talent
-feature_type: trait
+distance: Ranged 10
+feature_type: ability
 file_basename: Entropic Bolt
 file_dpath: Talent/1st-Level Features
+flavor: You advance an enemy's age for a moment.
 item_id: entropic-bolt
-item_index: '17'
+item_index: '15'
 item_name: Entropic Bolt
+keywords:
+  - Chronopathy
+  - Psionic
+  - Ranged
+  - Strike
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:entropic-bolt
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:entropic-bolt
 scdc:
-  - 1.1.1:13.1.1.1:17
+  - 1.1.1:13.2.1.1:15
 source: mcdm.heroes.v1
-type: feature/trait/talent/1st-level-feature
+target: One creature or object
+type: feature/ability/talent/1st-level-feature
 ---
 
 ###### Entropic Bolt
@@ -25,9 +34,9 @@ type: feature/trait/talent/1st-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 2 + P corruption damage; p
-- **12-16:** 3 + P corruption damage; p
-- **17+:** 5 + P corruption damage; p
+- **≤11:** 2 + P corruption damage; P < WEAK, slowed (save ends)
+- **12-16:** 3 + P corruption damage; P < AVERAGE, slowed (save ends)
+- **17+:** 5 + P corruption damage; P < STRONG, slowed (save ends)
 
 **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 

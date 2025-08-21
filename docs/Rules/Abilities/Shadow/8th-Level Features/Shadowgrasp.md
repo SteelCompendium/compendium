@@ -1,20 +1,27 @@
 ---
+action_type: Main action
 class: shadow
 cost: 11 Insight
 cost_amount: 11
 cost_resource: Insight
+distance: 2 burst
 feature_type: ability
 file_basename: Shadowgrasp
 file_dpath: Shadow/8th-Level Features
+flavor: The shadows around you give way, allowing the shadow creature within you to grasp at your foes.
 item_id: shadowgrasp-11-insight
-item_index: '04'
+item_index: '05'
 item_name: Shadowgrasp (11 Insight)
+keywords:
+  - Area
+  - Magic
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:shadowgrasp-11-insight
 scdc:
-  - 1.1.1:13.2.2.2:04
+  - 1.1.1:13.2.2.2:05
 source: mcdm.heroes.v1
+target: Each enemy in the area
 type: feature/ability/shadow/8th-level-feature
 ---
 

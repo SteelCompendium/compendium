@@ -1,18 +1,26 @@
 ---
+action_type: No action
 class: troubadour
-feature_type: trait
+distance: 2 aura
+feature_type: ability
 file_basename: Blocking
 file_dpath: Troubadour/1st-Level Features
+flavor: No, no, no, you lose the audience that way. Try it like this...
 item_id: blocking
-item_index: '02'
+item_index: '03'
 item_name: Blocking
+keywords:
+  - Area
+  - Magic
+  - Performance
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:blocking
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:blocking
 scdc:
-  - 1.1.1:13.1.3.1:02
+  - 1.1.1:13.2.3.1:03
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/1st-level-feature
+target: Each creature in the area
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Blocking

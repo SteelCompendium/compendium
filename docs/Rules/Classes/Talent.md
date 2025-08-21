@@ -18,6 +18,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **As a talent, you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and talents who use too much power too quickly pay a deadly price.**
 
+<!-- -->
 > "I've seen what you can do! There is NO LIMIT to your power! All you have to do... is BELIEVE!"
 >
 > **Khorva**
@@ -300,9 +301,9 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Power Roll + Presence:**
 
-- **≤11:** 2 + P corruption damage; p
-- **12-16:** 3 + P corruption damage; p
-- **17+:** 5 + P corruption damage; p
+- **≤11:** 2 + P corruption damage; P < WEAK, slowed (save ends)
+- **12-16:** 3 + P corruption damage; P < AVERAGE, slowed (save ends)
+- **17+:** 5 + P corruption damage; P < STRONG, slowed (save ends)
 
 **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 
@@ -424,7 +425,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 6 + P damage
 - **17+:** 9 + P damage
 
-Effect: You gain 1 surge.
+**Effect:** You gain 1 surge.
 
 **Strained:** The target takes an extra 3 damage. You also take 3 damage that can't be reduced in any way.
 
@@ -614,7 +615,7 @@ Choose one of the following abilities.
 
 **Power Roll + Presence:**
 
-- **≤11:** The target's speed is halved (save ends), or if p
+- **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is slowed (save ends).
 - **12-16:** The target is slowed (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
 - **17+:** The target is slowed (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 
@@ -730,7 +731,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 *Spheres of solid psionic energy float around you.*
 
-| **Psionic, Ranged, Strike, Telekinesis** | **Main Action** |
+| **Psionic, Ranged, Strike, Telekinesis** | **Main action** |
 | ---------------------------------------- | --------------: |
 | **📏 Self; see below**                   |     **🎯 Self** |
 
@@ -862,7 +863,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 | -------------------------------- | ----------------------: |
 | **📏 Ranged 10**                 | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy attempts uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
+**Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 
 **Strained:** The target gains 2 surges. You are weakened and slowed (save ends).
 
@@ -990,7 +991,7 @@ Choose one of the following abilities.
 
 *Keep everything as it was. Ignore everything that will be.*
 
-| **Area, Chronopathy, Psionic, Ranged** |                             **Main Action** |
+| **Area, Chronopathy, Psionic, Ranged** |                             **Main action** |
 | -------------------------------------- | ------------------------------------------: |
 | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 
@@ -1014,7 +1015,7 @@ Choose one of the following abilities.
 
 *You bend gravity into a fine point and pull your foes toward it.*
 
-| **Area, Psionic, Ranged, Telekinesis** |                             **Main Action** |
+| **Area, Psionic, Ranged, Telekinesis** |                             **Main action** |
 | -------------------------------------- | ------------------------------------------: |
 | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 
@@ -1088,7 +1089,7 @@ As a 7th-level talent, you gain the following features.
 
 #### Ancestral Memory
 
-Each time you finish a respite, you can choose a number of skills you have up to your Reason score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last unil the end of your next respite.
+Each time you finish a respite, you can choose a number of skills you have up to your Reason score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last until the end of your next respite.
 
 #### Cascading Strain
 
@@ -1206,7 +1207,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 | ------------------------------------- | ------------------: |
 | **📏 Melee 2**                        | **🎯 One creature** |
 
-**Power Roll + Reason**
+**Power Roll + Reason:**
 
 - **≤11:** 12 + R damage; R < WEAK, the target takes a bane on their next power roll
 - **12-16:** 17 + R damage; R < AVERAGE, the target takes a bane on power rolls (save ends)

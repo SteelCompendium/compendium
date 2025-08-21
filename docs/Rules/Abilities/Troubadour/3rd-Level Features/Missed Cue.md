@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Missed Cue
 file_dpath: Troubadour/3rd-Level Features
 item_id: missed-cue
-item_index: '03'
+item_index: '02'
 item_name: Missed Cue
 level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:missed-cue
 scdc:
-  - 1.1.1:13.1.3.7:03
+  - 1.1.1:13.1.3.7:02
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/3rd-level-feature
 ---

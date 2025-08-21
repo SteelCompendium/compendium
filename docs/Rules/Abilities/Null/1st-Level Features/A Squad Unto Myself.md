@@ -1,20 +1,28 @@
 ---
+action_type: Main action
 class: 'null'
 cost: 5 Discipline
 cost_amount: 5
 cost_resource: Discipline
+distance: 2 burst
 feature_type: ability
 file_basename: A Squad Unto Myself
 file_dpath: Null/1st-Level Features
+flavor: You move so quickly, it seems as though an army assaulted your foes.
 item_id: a-squad-unto-myself-5-discipline
-item_index: 08
+item_index: '18'
 item_name: A Squad Unto Myself (5 Discipline)
+keywords:
+  - Area
+  - Psionic
+  - Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:a-squad-unto-myself-5-discipline
 scdc:
-  - 1.1.1:13.2.6.1:08
+  - 1.1.1:13.2.6.1:18
 source: mcdm.heroes.v1
+target: Each enemy in the area
 type: feature/ability/null/1st-level-feature
 ---
 

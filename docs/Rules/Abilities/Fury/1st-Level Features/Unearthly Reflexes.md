@@ -1,18 +1,24 @@
 ---
+action_type: Triggered
 class: fury
-feature_type: trait
+distance: Self
+feature_type: ability
 file_basename: Unearthly Reflexes
 file_dpath: Fury/1st-Level Features
+flavor: You are as elusive as a hummingbird.
 item_id: unearthly-reflexes
-item_index: 08
+item_index: '05'
 item_name: Unearthly Reflexes
+keywords:
+  - '-'
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:unearthly-reflexes
+  - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:unearthly-reflexes
 scdc:
-  - 1.1.1:13.1.5.1:08
+  - 1.1.1:13.2.5.1:05
 source: mcdm.heroes.v1
-type: feature/trait/fury/1st-level-feature
+target: Self
+type: feature/ability/fury/1st-level-feature
 ---
 
 ###### Unearthly Reflexes

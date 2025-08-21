@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Void Acolyte of the Mystery
 file_dpath: Elementalist/1st-Level Features
 item_id: void-acolyte-of-the-mystery
-item_index: '22'
+item_index: '10'
 item_name: 'Void: Acolyte of the Mystery'
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:void-acolyte-of-the-mystery
 scdc:
-  - 1.1.1:13.1.9.1:22
+  - 1.1.1:13.1.9.1:10
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

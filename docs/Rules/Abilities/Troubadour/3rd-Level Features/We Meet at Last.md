@@ -1,20 +1,27 @@
 ---
+action_type: Maneuver
 class: troubadour
 cost: 7 Drama
 cost_amount: 7
 cost_resource: Drama
+distance: Ranged 10
 feature_type: ability
 file_basename: We Meet at Last
 file_dpath: Troubadour/3rd-Level Features
+flavor: You magically intertwine your fate with another creature-for better or worse.
 item_id: we-meet-at-last-7-drama
-item_index: '04'
+item_index: '06'
 item_name: We Meet at Last (7 Drama)
+keywords:
+  - Magic
+  - Ranged
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:we-meet-at-last-7-drama
 scdc:
-  - 1.1.1:13.2.3.6:04
+  - 1.1.1:13.2.3.6:06
 source: mcdm.heroes.v1
+target: One creature
 type: feature/ability/troubadour/3rd-level-feature
 ---
 

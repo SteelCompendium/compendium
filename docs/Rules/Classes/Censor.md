@@ -14,10 +14,11 @@ type: class
 
 ## Censor
 
-Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions-or even existence-are anathema to your church.\*\*
+Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions-or even existence-are anathema to your church.
 
 As a censor, you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
+<!-- -->
 > "We FIGHT!
 >
 > Until HELL!
@@ -70,99 +71,18 @@ After choosing your deity, pick one domain from their portfolio. Your choice of 
 
 ###### Censor Advancement Table
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 4%" />
-<col style="width: 66%" />
-<col style="width: 17%" />
-<col style="width: 11%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Level</th>
-<th>Features</th>
-<th>Abilities</th>
-<th>Order<br />
-Abilities</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1st</td>
-<td>Censor Order, Deity and Domains, Wrath,<br />
-Judgment, Kit, My Life for Yours, Domain<br />
-Feature, Censor Abilities</td>
-<td>Signature, 3, 5</td>
-<td>-</td>
-</tr>
-<tr class="even">
-<td>2nd</td>
-<td>Perk, Order Features, Order Ability</td>
-<td>Signature, 3, 5</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>3rd</td>
-<td>Look On My Work and Despair, 7-Wrath<br />
-Ability</td>
-<td>Signature,<br />
-3, 5, 7</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>4th</td>
-<td>Characteristic Increase, Perk, Skill, Wrath<br />
-Beyond Wrath, Domain Feature</td>
-<td>Signature,<br />
-3, 5, 7</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>5th</td>
-<td>Order Feature, 9-Wrath Ability</td>
-<td>Signature, 3,<br />
-5, 7, 9</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>6th</td>
-<td>Implement of Wrath, Perk, Order Ability</td>
-<td>Signature, 3,<br />
-5, 7, 9</td>
-<td>5, 9</td>
-</tr>
-<tr class="odd">
-<td>7th</td>
-<td>Characteristic Increase, Domain Feature,<br />
-Focused Wrath, Skill</td>
-<td>Signature, 3,<br />
-5, 7, 9</td>
-<td>5, 9</td>
-</tr>
-<tr class="even">
-<td>8th</td>
-<td>Perk, Order Feature, 11-Wrath Ability</td>
-<td>Signature, 3, 5,<br />
-7, 9, 11</td>
-<td>5, 9</td>
-</tr>
-<tr class="odd">
-<td>9th</td>
-<td>Improved Implement of Wrath, Order Ability</td>
-<td>Signature, 3, 5,<br />
-7, 9, 11</td>
-<td>5, 9, 11</td>
-</tr>
-<tr class="even">
-<td>10th</td>
-<td>Characteristic Increase, Perk, Skill, Templar,<br />
-Virtue, Wrath of the Gods</td>
-<td>Signature, 3, 5,<br />
-7, 9, 11</td>
-<td>5, 9, 11</td>
-</tr>
-</tbody>
-</table>
+| Level | Features                                                                                                             | Abilities                      | Order<br/> Abilities |
+| ----- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------- |
+| 1st   | Censor Order, Deity and Domains, Wrath,<br/> Judgment, Kit, My Life for Yours, Domain<br/> Feature, Censor Abilities | Signature, 3, 5                | -                    |
+| 2nd   | Perk, Order Features, Order Ability                                                                                  | Signature, 3, 5                | 5                    |
+| 3rd   | Look On My Work and Despair, 7-Wrath<br/> Ability                                                                    | Signature,<br/> 3, 5, 7        | 5                    |
+| 4th   | Characteristic Increase, Perk, Skill, Wrath<br/> Beyond Wrath, Domain Feature                                        | Signature,<br/> 3, 5, 7        | 5                    |
+| 5th   | Order Feature, 9-Wrath Ability                                                                                       | Signature, 3,<br/> 5, 7, 9     | 5                    |
+| 6th   | Implement of Wrath, Perk, Order Ability                                                                              | Signature, 3,<br/> 5, 7, 9     | 5, 9                 |
+| 7th   | Characteristic Increase, Domain Feature,<br/> Focused Wrath, Skill                                                   | Signature, 3,<br/> 5, 7, 9     | 5, 9                 |
+| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                | Signature, 3, 5,<br/> 7, 9, 11 | 5, 9                 |
+| 9th   | Improved Implement of Wrath, Order Ability                                                                           | Signature, 3, 5,<br/> 7, 9, 11 | 5, 9, 11             |
+| 10th  | Characteristic Increase, Perk, Skill, Templar,<br/> Virtue, Wrath of the Gods                                        | Signature, 3, 5,<br/> 7, 9, 11 | 5, 9, 11             |
 
 #### Wrath
 
@@ -201,7 +121,9 @@ Whenever a creature judged by you uses a main action and is within your line of 
 - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-- If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn. You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
+- If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.
+
+You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
 
 ##### Judgment Order Benefit
 
@@ -286,7 +208,7 @@ You have the following ability.
 
 *An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
 
-| **Magic**   | **Main Action** |
+| **Magic**   | **Main action** |
 | ----------- | --------------: |
 | **📏 Self** |     **🎯 Self** |
 
@@ -314,7 +236,7 @@ You have the following ability.
 
 *You craft objects with the power of your mind.*
 
-| **Magic**   | **Manuever** |
+| **Magic**   | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
@@ -356,7 +278,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You channel power through your weapon to repel foes.*
 
-| **Area, Magic, Melee, Weapon** |               **Main Action** |
+| **Area, Magic, Melee, Weapon** |               **Main action** |
 | ------------------------------ | ----------------------------: |
 | **📏 2 cube within 1**         | **🎯 Each enemy in the area** |
 
@@ -370,7 +292,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You show your foe a glimpse of their fate after death.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -386,7 +308,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
 
-| **Melee, Strike, Weapon** |               **Main Action** |
+| **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
@@ -400,7 +322,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *Your magic strike turns your foe's guilt into a burst of holy power.*
 
-| **Melee, Strike, Weapon** |               **Main Action** |
+| **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
@@ -424,7 +346,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
 
-| **Melee, Strike, Weapon** |               **Main Action** |
+| **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
@@ -440,7 +362,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *As you force your enemy back with your weapon, you use your faith to stay close.*
 
-| **Melee, Strike, Weapon** |               **Main Action** |
+| **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
@@ -456,7 +378,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *You channel holy energy to smite a foe and heal an ally.*
 
-| **Magic, Melee, Strike, Weapon** |               **Main Action** |
+| **Magic, Melee, Strike, Weapon** |               **Main action** |
 | -------------------------------- | ----------------------------: |
 | **📏 Melee 1**                   | **🎯 One creature or object** |
 
@@ -472,7 +394,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *You conjure memories of their sins to harry your foes.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -490,7 +412,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *"I got you, you son of a bitch."*
 
-| **Magic, Melee, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Strike, Weapon** |     **Main action** |
 | -------------------------------- | ------------------: |
 | **📏 Melee 1**                   | **🎯 One creature** |
 
@@ -506,7 +428,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *You attack a foe and your enemies behold a vision of the true nature of your resolve.*
 
-| **Magic, Melee, Ranged, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
 | ---------------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
 
@@ -522,7 +444,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *Judged and sentenced.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -538,7 +460,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *The gods judge, fire cleanses.*
 
-| **Magic, Melee, Ranged, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
 | ---------------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
 
@@ -606,7 +528,7 @@ Choose one of the following abilities.
 
 *I am but a vessel. Your own deeds weigh upon you.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -672,7 +594,7 @@ Choose one of the following abilities.
 
 *The shock of your condemnation freezes your enemy in their boots.*
 
-| **Magic, Melee, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Strike, Weapon** |     **Main action** |
 | -------------------------------- | ------------------: |
 | **📏 Melee 1**                   | **🎯 One creature** |
 
@@ -901,7 +823,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 
 *You amplify the power of your judgment.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -917,7 +839,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 
 *You strike a foe and create a fleet of divine shields that protect your allies.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -970,7 +892,7 @@ Choose one of the following abilities.
 
 *You reverse the effects from an evildoer.*
 
-| **Magic, Ranged** |      **Free Triggered** |
+| **Magic, Ranged** |      **Free triggered** |
 | ----------------- | ----------------------: |
 | **📏 Ranged 10**  | **🎯 Self or one ally** |
 
@@ -1079,7 +1001,7 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 
 *You concentrate on a friend and teleport to them.*
 
-| **Magic, Ranged** |           **Main Action** |
+| **Magic, Ranged** |           **Main action** |
 | ----------------- | ------------------------: |
 | **📏 Ranged 10**  | **🎯 Self and each ally** |
 
@@ -1195,9 +1117,9 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *You curse your foe to become a bane to their allies.*
 
-| **Melee, Stike, Weapon** |     **Main Action** |
-| ------------------------ | ------------------: |
-| **📏 Melee 1**           | **🎯 One creature** |
+| **Melee, Strike, Weapon** |     **Main action** |
+| ------------------------- | ------------------: |
+| **📏 Melee 1**            | **🎯 One creature** |
 
 **Power Roll + Might:**
 
@@ -1211,7 +1133,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *You use your foe as a tool against your enemies.*
 
-| **Ranged, Strike, Weapon** |     **Main Action** |
+| **Ranged, Strike, Weapon** |     **Main action** |
 | -------------------------- | ------------------: |
 | **📏 Ranged 10**           | **🎯 One creature** |
 
@@ -1227,7 +1149,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *Your enemy's guilt fuels a holy flame that burns your foes.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -1243,7 +1165,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *You turn your enemies' ire to the target.*
 
-| **Ranged, Strike, Weapon** |     **Main Action** |
+| **Ranged, Strike, Weapon** |     **Main action** |
 | -------------------------- | ------------------: |
 | **📏 Ranged 10**           | **🎯 One creature** |
 
@@ -1253,7 +1175,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 - **12-16:** 9 + P damage; I < AVERAGE, slowed (save ends)
 - **17+:** 12 + P damage; I < STRONG, slowed (save ends)
 
-**Effect:** While the target is slowed this way, each ally who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is slowed this way, each ally within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
+**Effect:** While the target is slowed this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is slowed this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
 
 ### 9th-Level Features
 
@@ -1279,7 +1201,7 @@ Choose one of the following abilities.
 
 *You sever the target's tenuous connection to the world.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -1295,7 +1217,7 @@ Choose one of the following abilities.
 
 *"I know what you fear."*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -1343,7 +1265,7 @@ Choose one of the following abilities.
 
 *You channel holy energy to seal an enemy's fate.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 

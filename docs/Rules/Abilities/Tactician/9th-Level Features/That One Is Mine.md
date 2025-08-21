@@ -1,20 +1,29 @@
 ---
+action_type: Main action
 class: tactician
 cost: 11 Focus
 cost_amount: 11
 cost_resource: Focus
+distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: That One Is Mine
 file_dpath: Tactician/9th-Level Features
+flavor: You focus on making an enemy irrelevant.
 item_id: that-one-is-mine-11-focus
 item_index: '04'
 item_name: That One Is Mine! (11 Focus)
+keywords:
+  - Melee
+  - Ranged
+  - Strike
+  - Weapon
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:that-one-is-mine-11-focus
 scdc:
   - 1.1.1:13.2.4.7:04
 source: mcdm.heroes.v1
+target: One creature
 type: feature/ability/tactician/9th-level-feature
 ---
 
@@ -22,7 +31,7 @@ type: feature/ability/tactician/9th-level-feature
 
 *You focus on making an enemy irrelevant.*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main Action** |
+| **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 

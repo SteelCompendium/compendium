@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Saints Epiphany
 file_dpath: Censor/4th-Level Features
 item_id: saints-epiphany
-item_index: '15'
+item_index: '14'
 item_name: Saint's Epiphany
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:saints-epiphany
 scdc:
-  - 1.1.1:13.1.7.10:15
+  - 1.1.1:13.1.7.10:14
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

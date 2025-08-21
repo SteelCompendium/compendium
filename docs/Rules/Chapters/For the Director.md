@@ -30,6 +30,7 @@ The best way to think of a campaign is to compare it to a film saga, a series of
 
 Some campaigns are short, spanning only a single adventure or even just one session of play. Most last a good while longer than that, and contain multiple adventures. The longest campaigns feature many adventures and take the heroes from 1st to 10th level.
 
+<!-- -->
 > **You're Not Being Tested**
 >
 > You don't need to memorize every single rule and exception before you start running *Draw Steel*. This is a big book, and you're allowed to use it while you play! Whenever a question comes up at the table, you can tell the other players, "Let me reference the old texts," and find the right answer.
@@ -87,6 +88,7 @@ Here's an example of an opening overview that Matthew Colville created for his g
 
 As you can see, this opening overview introduces the setting-Vasloria (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](#page-17-3)). It also gives just enough history and background information for the players to understand their heroes' goal-to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
 
+<!-- -->
 > **Personal Problems at the Table**
 >
 > Sometimes a player might talk over others. Sometimes a player makes a snarky comment that hurts someone else's feelings. Sometimes a player might cheat on their dice rolls. When personal problems pop up at the table, it's best to talk about those issues at the player level rather than try to solve them by punishing a player's hero.
@@ -266,9 +268,7 @@ Matt tells the Director that Linn enjoys the extra protection afforded to her by
 - **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly high elf named Leaves of the Autumn Wind offers to enhance the crown, allowing the talent to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
 - **4th Echelon:** With the crown enhanced, Linn can speak directly to Bruulv. By learning the elemental's history and desires through negotiation, she can see that Bruulv mostly wants to return to the City of Brass so they might once again see the raw elemental powers come together. If Linn can visit this city that is literally worlds away, she earns Bruulv's trust and the elemental stops taking over her form.
 
-At each echelon, you should revisit your complication echelon outlines, since the actions of the players could change your plans. In the example
-
-outline above, if Sorin gets away after the battle with Saxton during the 1st echelon, the elementalist is likely to return and try to free Bruulv once again!
+At each echelon, you should revisit your complication echelon outlines, since the actions of the players could change your plans. In the example outline above, if Sorin gets away after the battle with Saxton during the 1st echelon, the elementalist is likely to return and try to free Bruulv once again!
 
 ### Creating Adventures
 
@@ -276,6 +276,7 @@ A lot of Directors prefer to make their own adventures rather than use published
 
 Every good adventure includes villains, a task to accomplish, NPCs, and interesting locations and adventure sites.
 
+<!-- -->
 > **Player Ambition Writes Adventures**
 >
 > Players have ambition driven by their characters' complications, personal stories, and desires for titles, supernatural treasures, and other rewards. Indulge these desires! If a hero wants to go on a quest to gain a Blade of Quintessence, let them know where they can find one (after they put in the proper research or questing time, of course). You can then plan an adventure, even just a short one, around the weapon's retrieval!
@@ -311,6 +312,7 @@ Instead of achieving their goals through diplomacy and heroics, villains take wh
 
 Of course, some villains want to cause violence and mayhem just for the sake of it! These villains can be fun to throw into an adventure from time to time, but many are the type of folks who are typically being manipulated by villains with even greater motivation. As such, they shouldn't be the focus of every adventure in every campaign.
 
+<!-- -->
 > **Stealing is Encouraged**
 >
 > When you're coming up with ideas for campaigns, adventures, and scenes, you should feel free to steal plots, action set pieces, characters, and anything else you want from your favorite movies, television shows, novels, comic books, and podcasts. You can then modify a few cosmetic details to make things your own. Borrowing a character who's a human man in your favorite novel to make an NPC? Make the NPC a dwarf woman with a new name and no one is the wiser. Got an idea for an encounter based on a battle scene from your favorite science fiction flick? Make those invading aliens gnolls instead! Let your favorite stories inspire you, especially when you're looking for new ideas.
@@ -329,6 +331,7 @@ An adventure's goal isn't always clear to the players at the start, but the hero
 
 Every adventure should have an inciting incident that either sees the heroes discovering the adventure's goal, or that puts them on the path to discovering it. If the characters start an adventure by finding the freshly murdered body of a noble in the streets of Capital, they're likely to look for clues that could lead them to catching a murderer-a solid, straightforward adventure goal. Or it could be that the murder leads them to uncovering a grand conspiracy in which one of Capital's Great Houses is planning a coordinated and violent takeover of the city. The heroes must stop those plots-an adventure goal that might take them several scenes to fully uncover. But each of those scenes should lead directly to the next without leaving the players wondering, "What should we do?"
 
+<!-- -->
 > **Complications and Adventures**
 >
 > If the heroes in your campaign have taken complications (see [Complications and Campaigns](#page-391-0) above), it's a good idea to have at least one complication make trouble for a hero during an adventure, or play some other part in the adventure's story. Rotate the hero whose complication is highlighted each time, so that every player gets a chance to be at the center of the story.
@@ -477,6 +480,7 @@ more if you dig through it." This encourages players to be more active in the pr
 
 Allow the heroes' investigation to drive the action. In an exploration scene, you take on the role of the environment, reacting to the characters' and players' choices. Don't tell the players what their heroes do. Instead, describe the consequences of their actions. If characters take the time to carefully search the bandit hideout for traps, they should have a chance of finding any traps you've set up there. But if a hero runs into the cave and triggers a hidden trap because they didn't move into hostile territory carefully, that's on them! It's an important lesson the player can learn for next time.
 
+<!-- -->
 > **The Players Will Surprise You**
 >
 > Even the best-prepared adventures rarely survive first contact with the heroes. Your session notes expect the players to have their characters enter the bandit hideout from a secret back entrance, but one player has the bright idea of entering through a crack in the cave roof. It's perfectly fine to go off script and adapt to the players' plans if doing so is fun for everyone.
@@ -521,7 +525,7 @@ If a test is a **success with a consequence**, the hero succeeds but suffers a s
 
 If a test is a **success**, the hero does what they set out to do! You can even let a player narrate the outcome of a successful test by asking them, "How did you pull this off ?"
 
-If the test is a **success with a reward**, the hero does what they set out to do-and then some. A reward might grant another character who needs to make the same test an automatic success, grant a boon on a future test for the hero, reveal a hidden treasure the hero wasn't looking for, inspire a nearby NPC to come forth and offer aid, or earn the group a hero token. A reward on a test is yours to choose.
+If the test is a **success with a reward**, the hero does what they set out to do-and then some. A reward might grant another character who needs to make the same test an automatic success, grant an edge on a future test for the hero, reveal a hidden treasure the hero wasn't looking for, inspire a nearby NPC to come forth and offer aid, or earn the group a hero token. A reward on a test is yours to choose.
 
 Sample consequences and rewards for tests are detailed in [Chapter 9: Tests](#page-263-0).
 
@@ -537,6 +541,7 @@ The hazards you'll create and use in your adventures come in one of three types:
 - **Activated One-Time:** An activated one-time hazard is triggered and then creates one instance of danger. Sometimes that danger ends almost as soon as it begins, such as a trap that fires a single poison dart. Other times, that one instance of danger can create other lasting problems the heroes must deal with, such as a cave-in that deals damage, then leaves the party trapped in an abandoned mine.
 - **Obstruction:** Obstructions are hazards the heroes must find their way over or around, such as pools of acid, chasms, and rivers of lava. Since obstruction hazards are typically static, a hero takes damage or suffers other effects from an obstruction only as the result of a failed test made to traverse the hazard.
 
+<!-- -->
 > **Terrain as Hazards**
 >
 > Some of the best hazards are the terrain options found in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*. These dynamic options work great in combat encounters, but you can also use many of them as hazards the heroes must cross (such as acid pools and lava) or contend with (such as the arcane object known as the black obelisk) as they travel from one destination to another. You can use these hazards as is, or rework them to match your story. For example, you might convert an acid pool to a pool of toxic sludge by having it deal poison damage instead of acid damage.
@@ -623,6 +628,7 @@ It helps to know the various outcomes an NPC might offer during a negotiation ah
 
 A negotiation has six possible outcomes, but two of those are predetermined. If a negotiation ends with the NPC at interest 4, then the heroes get what they want. If the heroes end the negotiation at interest 1, the NPC can't offer them anything. Even with four options left wide open, however, setting up outcomes actually requires less prep work than you might think.
 
+<!-- -->
 > **Multiple NPCs**
 >
 > The negotiation rules are built around the idea of the heroes facing off against a single dominant NPC-a powerful leader, a ranking diplomat, a warlord, a key villain, and so forth. But this isn't to say that you can't run a negotiation with the heroes interacting with a group of NPCs, each with their own slightly different take on wheeling and dealing.
@@ -669,6 +675,7 @@ During negotiation, let the players talk freely about their strategy if that fit
 
 Once a negotiation starts, the players and characters can obtain information about the NPC involved only by making tests, using their characters' features, or through engaging in conversation with the NPC. Whenever the NPC makes an offer to the heroes after a test, make it clear what the terms of the offer are. While some NPCs might speak cryptically, it's best for the players to understand what they're getting their heroes into. It can be fun to trick the heroes, but many players don't feel the fun when they get tricked instead.
 
+<!-- -->
 > **Sharing Interest and Patience**
 >
 > It's up to you as the Director to decide whether to share an NPC's interest or patience during a negotiation. Sometimes sharing this information can make an encounter more dramatic, with the players watching their progress rise and fall in real time. Other groups might find negotiation more fun and immersive if those exact numbers are hidden from the players, just as some groups like knowing the Stamina of every creature in a battle and others prefer to keep that information secret. Talk to your players about what they'd prefer.
@@ -756,6 +763,10 @@ The guildmaster has the following possible pitfalls:
 - **Justice:** We're reshaping the world here. Of course, some people who can't adapt are going to find themselves on the bottom. But why should anyone blame us for that?
 - **Peace:** Conflict isn't bad in and of itself. It drives innovation. The key is to not be on the losing side.
 - **Revelry:** I don't have time for this foolishness. Come talk to me again when you have something of value to show me.
+
+#### Warlord
+
+**Impression Score:** 4
 
 *The warlord has raised their banner and troops flock to their cause. Some say a warlord never negotiates, but that's not true. They're happy to listen to terms of surrender.*
 
@@ -1191,7 +1202,7 @@ The following challenges can be part of the montage test:
 
 At the end of the first round of the montage test, the characters' journey is interrupted by one of the following threats:
 
-Predatory Monster: The characters stumble into or are stalked by a monstrous predator, and must engage in a standard combat encounter to overcome the threat or drive it off. If any character has obtained a success on the Scout Ahead challenge, you can let the characters make a group test to sneak past or set an ambush for the monster.
+**Predatory Monster:** The characters stumble into or are stalked by a monstrous predator, and must engage in a standard combat encounter to overcome the threat or drive it off. If any character has obtained a success on the Scout Ahead challenge, you can let the characters make a group test to sneak past or set an ambush for the monster.
 
 **Unexpected Hazard:** A natural hazard such as an avalanche, rockslide, or wildfire interrupts the journey. Each hero must make a test of your choice to avoid the hazard, losing a Recovery on a failure.
 
@@ -1400,6 +1411,7 @@ The encounter you craft should be connected to the first adventure you plan to r
 
 If you've got still more time, you can keep playing a little longer, either by expanding the combat encounter or adding some exploration or travel. Otherwise, wrap the combat up, thank the players for a great first session, and start planning your next session.
 
+<!-- -->
 > "Life's like a movie
 >
 > Write your own ending

@@ -1,25 +1,34 @@
 ---
+action_type: Main action
 class: censor
-feature_type: trait
+distance: 2 cube within 1
+feature_type: ability
 file_basename: Back Blasphemer
 file_dpath: Censor/1st-Level Features
+flavor: You channel power through your weapon to repel foes.
 item_id: back-blasphemer
-item_index: '10'
+item_index: '07'
 item_name: Back Blasphemer!
+keywords:
+  - Area
+  - Magic
+  - Melee
+  - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:back-blasphemer
+  - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:back-blasphemer
 scdc:
-  - 1.1.1:13.1.7.1:10
+  - 1.1.1:13.2.7.1:07
 source: mcdm.heroes.v1
-type: feature/trait/censor/1st-level-feature
+target: Each enemy in the area
+type: feature/ability/censor/1st-level-feature
 ---
 
 ###### Back Blasphemer!
 
 *You channel power through your weapon to repel foes.*
 
-| **Area, Magic, Melee, Weapon** |               **Main Action** |
+| **Area, Magic, Melee, Weapon** |               **Main action** |
 | ------------------------------ | ----------------------------: |
 | **📏 2 cube within 1**         | **🎯 Each enemy in the area** |
 

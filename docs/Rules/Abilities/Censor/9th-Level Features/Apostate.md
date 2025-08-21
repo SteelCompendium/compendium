@@ -1,20 +1,28 @@
 ---
+action_type: Main action
 class: censor
 cost: 11 Wrath
 cost_amount: 11
 cost_resource: Wrath
+distance: Melee 1
 feature_type: ability
 file_basename: Apostate
 file_dpath: Censor/9th-Level Features
+flavor: You channel holy energy to seal an enemy's fate.
 item_id: apostate-11-wrath
 item_index: '06'
 item_name: Apostate (11 Wrath)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.censor.9th-level-feature:apostate-11-wrath
 scdc:
   - 1.1.1:13.2.7.7:06
 source: mcdm.heroes.v1
+target: One creature
 type: feature/ability/censor/9th-level-feature
 ---
 
@@ -22,7 +30,7 @@ type: feature/ability/censor/9th-level-feature
 
 *You channel holy energy to seal an enemy's fate.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 

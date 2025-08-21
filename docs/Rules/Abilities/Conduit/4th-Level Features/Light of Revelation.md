@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Light of Revelation
 file_dpath: Conduit/4th-Level Features
 item_id: light-of-revelation
-item_index: '12'
+item_index: '11'
 item_name: Light of Revelation
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:light-of-revelation
 scdc:
-  - 1.1.1:13.1.8.10:12
+  - 1.1.1:13.1.8.10:11
 source: mcdm.heroes.v1
 type: feature/trait/conduit/4th-level-feature
 ---

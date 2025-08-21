@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Density Augmentation
 file_dpath: Null/1st-Level Features
 item_id: density-augmentation
-item_index: '17'
+item_index: '07'
 item_name: Density Augmentation
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:density-augmentation
 scdc:
-  - 1.1.1:13.1.6.1:17
+  - 1.1.1:13.1.6.1:07
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

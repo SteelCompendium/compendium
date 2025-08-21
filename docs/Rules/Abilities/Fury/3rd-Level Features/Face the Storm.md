@@ -1,20 +1,26 @@
 ---
+action_type: Maneuver
 class: fury
 cost: 7 Ferocity
 cost_amount: 7
 cost_resource: Ferocity
+distance: Self
 feature_type: ability
 file_basename: Face the Storm
 file_dpath: Fury/3rd-Level Features
+flavor: Shocked in the face of your naked brutality, your enemy's instincts take over.
 item_id: face-the-storm-7-ferocity
 item_index: '03'
 item_name: Face the Storm! (7 Ferocity)
+keywords:
+  - Magic
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.fury.3rd-level-feature:face-the-storm-7-ferocity
 scdc:
   - 1.1.1:13.2.5.5:03
 source: mcdm.heroes.v1
+target: Self
 type: feature/ability/fury/3rd-level-feature
 ---
 

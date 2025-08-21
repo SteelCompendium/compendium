@@ -1,18 +1,26 @@
 ---
+action_type: Triggered
 class: elementalist
-feature_type: trait
+distance: Ranged 10
+feature_type: ability
 file_basename: Breath of Dawn Remembered
 file_dpath: Elementalist/1st-Level Features
+flavor: The power you channel grants the ability to get back in the fight.
 item_id: breath-of-dawn-remembered
-item_index: '34'
+item_index: '24'
 item_name: Breath of Dawn Remembered
+keywords:
+  - Green
+  - Magic
+  - Ranged
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:breath-of-dawn-remembered
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:breath-of-dawn-remembered
 scdc:
-  - 1.1.1:13.1.9.1:34
+  - 1.1.1:13.2.9.1:24
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+target: Self or one ally
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Breath of Dawn Remembered

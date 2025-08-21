@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Inspired Deception
 file_dpath: Censor/1st-Level Features
 item_id: inspired-deception
-item_index: '03'
+item_index: '02'
 item_name: Inspired Deception
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:inspired-deception
 scdc:
-  - 1.1.1:13.1.7.1:03
+  - 1.1.1:13.1.7.1:02
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

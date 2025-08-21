@@ -1,20 +1,28 @@
 ---
+action_type: Maneuver
 class: 'null'
 cost: 11 Discipline
 cost_amount: 11
 cost_resource: Discipline
+distance: Melee 1
 feature_type: ability
 file_basename: Heat Drain
 file_dpath: Null/9th-Level Features
+flavor: You drain all the heat from the target.
 item_id: heat-drain-11-discipline
 item_index: '05'
 item_name: Heat Drain (11 Discipline)
+keywords:
+  - Melee
+  - Psionic
+  - Strike
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.null.9th-level-feature:heat-drain-11-discipline
 scdc:
   - 1.1.1:13.2.6.6:05
 source: mcdm.heroes.v1
+target: One creature
 type: feature/ability/null/9th-level-feature
 ---
 

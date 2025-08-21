@@ -1,18 +1,27 @@
 ---
+action_type: Main action
 class: 'null'
-feature_type: trait
+distance: Melee 1
+feature_type: ability
 file_basename: Kinetic Strike
 file_dpath: Null/1st-Level Features
+flavor: Your opponent staggers. They cannot ignore you.
 item_id: kinetic-strike
 item_index: '05'
 item_name: Kinetic Strike
+keywords:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.null.1st-level-feature:kinetic-strike
+  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:kinetic-strike
 scdc:
-  - 1.1.1:13.1.6.1:05
+  - 1.1.1:13.2.6.1:05
 source: mcdm.heroes.v1
-type: feature/trait/null/1st-level-feature
+target: One creature or object
+type: feature/ability/null/1st-level-feature
 ---
 
 ###### Kinetic Strike

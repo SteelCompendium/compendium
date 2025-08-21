@@ -1,20 +1,27 @@
 ---
+action_type: Main action
 class: troubadour
 cost: 5 Drama
 cost_amount: 5
 cost_resource: Drama
+distance: Special
 feature_type: ability
 file_basename: Encore
 file_dpath: Troubadour/2nd-Level Features
+flavor: Again! Again!
 item_id: encore-5-drama
 item_index: '05'
 item_name: Encore (5 Drama)
+keywords:
+  - Magic
+  - Strike
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:encore-5-drama
 scdc:
   - 1.1.1:13.2.3.5:05
 source: mcdm.heroes.v1
+target: Special
 type: feature/ability/troubadour/2nd-level-feature
 ---
 

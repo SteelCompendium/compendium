@@ -122,9 +122,9 @@ You have the following signature ability.
 
 *You let loose a mighty roar to shake your foes' spirits.*
 
-| **Area, Magic** |               **Main Action** |
+| **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |
-| **📏 1 Burst**  | **🎯 Each enemy in the area** |
+| **📏 1 burst**  | **🎯 Each enemy in the area** |
 
 **Power Roll + Might or Presence:**
 
@@ -140,7 +140,7 @@ You have the following signature ability.
 
 *A furious exhalation of energy washes over your foes.*
 
-| **Area, Magic**        |               **Main Action** |
+| **Area, Magic**        |               **Main action** |
 | ---------------------- | ----------------------------: |
 | **📏 3 cube within 1** | **🎯 Each enemy in the area** |
 

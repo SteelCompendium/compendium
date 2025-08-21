@@ -1,18 +1,26 @@
 ---
+action_type: Main action
 class: troubadour
-feature_type: trait
+distance: Melee 1
+feature_type: ability
 file_basename: Artful Flourish
 file_dpath: Troubadour/1st-Level Features
+flavor: And they said practicing fencing was a waste!
 item_id: artful-flourish
-item_index: '07'
+item_index: '11'
 item_name: Artful Flourish
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:artful-flourish
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:artful-flourish
 scdc:
-  - 1.1.1:13.1.3.1:07
+  - 1.1.1:13.2.3.1:11
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/1st-level-feature
+target: Two creatures or objects
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Artful Flourish

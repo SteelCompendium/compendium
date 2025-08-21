@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Covert Operations
 file_dpath: Tactician/1st-Level Features
 item_id: covert-operations
-item_index: '03'
+item_index: '02'
 item_name: Covert Operations
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:covert-operations
 scdc:
-  - 1.1.1:13.1.4.1:03
+  - 1.1.1:13.1.4.1:02
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---

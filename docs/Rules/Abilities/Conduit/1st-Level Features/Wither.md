@@ -1,18 +1,26 @@
 ---
+action_type: Main action
 class: conduit
-feature_type: trait
+distance: Ranged 10
+feature_type: ability
 file_basename: Wither
 file_dpath: Conduit/1st-Level Features
+flavor: A bolt of holy energy saps the life from a foe.
 item_id: wither
-item_index: '15'
+item_index: '10'
 item_name: Wither
+keywords:
+  - Magic
+  - Ranged
+  - Strike
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:wither
+  - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:wither
 scdc:
-  - 1.1.1:13.1.8.1:15
+  - 1.1.1:13.2.8.1:10
 source: mcdm.heroes.v1
-type: feature/trait/conduit/1st-level-feature
+target: One creature or object
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Wither

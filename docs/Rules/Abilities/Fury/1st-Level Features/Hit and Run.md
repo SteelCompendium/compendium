@@ -1,18 +1,26 @@
 ---
+action_type: Main action
 class: fury
-feature_type: trait
+distance: Melee 1
+feature_type: ability
 file_basename: Hit and Run
 file_dpath: Fury/1st-Level Features
+flavor: Staying in constant motion helps you slip out of reach after a brutal assault.
 item_id: hit-and-run
-item_index: '11'
+item_index: '07'
 item_name: Hit and Run
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:hit-and-run
+  - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:hit-and-run
 scdc:
-  - 1.1.1:13.1.5.1:11
+  - 1.1.1:13.2.5.1:07
 source: mcdm.heroes.v1
-type: feature/trait/fury/1st-level-feature
+target: One creature or object
+type: feature/ability/fury/1st-level-feature
 ---
 
 ###### Hit and Run

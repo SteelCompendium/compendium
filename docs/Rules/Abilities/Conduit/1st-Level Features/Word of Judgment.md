@@ -1,18 +1,25 @@
 ---
+action_type: Triggered
 class: conduit
-feature_type: trait
+distance: Ranged 10
+feature_type: ability
 file_basename: Word of Judgment
 file_dpath: Conduit/1st-Level Features
+flavor: Your holy word saps an attacking enemy's strength.
 item_id: word-of-judgment
-item_index: '28'
+item_index: '16'
 item_name: Word of Judgment
+keywords:
+  - Magic
+  - Ranged
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:word-of-judgment
+  - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:word-of-judgment
 scdc:
-  - 1.1.1:13.1.8.1:28
+  - 1.1.1:13.2.8.1:16
 source: mcdm.heroes.v1
-type: feature/trait/conduit/1st-level-feature
+target: One ally
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Word of Judgment

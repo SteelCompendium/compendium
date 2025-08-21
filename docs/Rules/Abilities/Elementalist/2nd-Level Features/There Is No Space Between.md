@@ -1,18 +1,26 @@
 ---
+action_type: Maneuver
 class: elementalist
-feature_type: trait
+distance: Ranged 10
+feature_type: ability
 file_basename: There Is No Space Between
 file_dpath: Elementalist/2nd-Level Features
+flavor: Knowledge of the mystery reveals that two spaces are the same space.
 item_id: there-is-no-space-between
-item_index: '03'
+item_index: '04'
 item_name: There Is No Space Between
+keywords:
+  - Magic
+  - Ranged
+  - Void
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:there-is-no-space-between
+  - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:there-is-no-space-between
 scdc:
-  - 1.1.1:13.1.9.6:03
+  - 1.1.1:13.2.9.5:04
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/2nd-level-feature
+target: Special
+type: feature/ability/elementalist/2nd-level-feature
 ---
 
 ###### There Is No Space Between

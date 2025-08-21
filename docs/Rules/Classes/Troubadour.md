@@ -42,7 +42,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **Recoveries:** 8
 
-**Skills:** You gain the Read Person skill (see Skills in Chapter 9: Tests). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Read Person, Rumors, Society.)
+**Skills:** You gain the Read Person skill (see Skills in Chapter 9: Tests). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)
 
 ### 1st-Level Features
 
@@ -98,6 +98,7 @@ Though you can't gain drama outside of combat, you can use your heroic abilities
 
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama equal to your Victories.
 
+<!-- -->
 > **The Auteur Troubadour**
 >
 > Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
@@ -258,7 +259,7 @@ You have the following performance abilities, which are usable with your Routine
 - **12-16:** Lightning damage equal to 5 + your level
 - **17+:** Lightning damage equal to 10 + your level
 
-#### "Ballad of the Beast"
+###### "Ballad of the Beast"
 
 *Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*
 
@@ -380,7 +381,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
 
-| **Maigc, Melee, Ranged, Strike** |     **Main action** |
+| **Magic, Melee, Ranged, Strike** |     **Main action** |
 | -------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**       | **🎯 One creature** |
 
@@ -406,7 +407,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 *Just one bad review will ruin their day.*
 
-| **Magic, Melee, Ranged, Strike** |               **Main Action** |
+| **Magic, Melee, Ranged, Strike** |               **Main action** |
 | -------------------------------- | ----------------------------: |
 | **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
 
@@ -438,7 +439,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 *You write something unexpected into the scene that hinders your enemy.*
 
-| **Area, Magic, Ranged** |               **Main Action** |
+| **Area, Magic, Ranged** |               **Main action** |
 | ----------------------- | ----------------------------: |
 | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
 
@@ -568,6 +569,8 @@ Choose one of the following abilities.
 
 ###### Guest Star (5 Drama)
 
+*We offered them a percentage of the gross. So they're working for free!*
+
 | **Magic, Ranged** | **Main action** |
 | ----------------- | --------------: |
 | **📏 Ranged 10**  |  **🎯 Special** |
@@ -682,7 +685,7 @@ You have the following performance abilities, which are usable with your Routine
 
 **Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests).
 
-#### "Never-Ending Hero"
+###### "Never-Ending Hero"
 
 *And toniiight we can truly say ♪ They will alllways find a way!♪*
 
@@ -1088,7 +1091,7 @@ You have the following performance abilities, which are usable with your Routine
 | ---------------------------- | ---------------------------: |
 | **📏 5 aura**                | **🎯 Each ally in the area** |
 
-**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend Recoveries or use triggered actions At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
+**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend Recoveries or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
 
 ###### Radical Fantasia
 

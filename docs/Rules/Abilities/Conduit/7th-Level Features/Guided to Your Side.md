@@ -1,18 +1,25 @@
 ---
+action_type: Main action
 class: conduit
-feature_type: trait
+distance: Ranged 10
+feature_type: ability
 file_basename: Guided to Your Side
 file_dpath: Conduit/7th-Level Features
+flavor: You concentrate on a friend and teleport to them.
 item_id: guided-to-your-side
-item_index: '12'
+item_index: '01'
 item_name: Guided to Your Side
+keywords:
+  - Magic
+  - Ranged
 level: 7
 scc:
-  - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:guided-to-your-side
+  - mcdm.heroes.v1:feature.ability.conduit.7th-level-feature:guided-to-your-side
 scdc:
-  - 1.1.1:13.1.8.9:12
+  - 1.1.1:13.2.8.8:01
 source: mcdm.heroes.v1
-type: feature/trait/conduit/7th-level-feature
+target: Self and each ally
+type: feature/ability/conduit/7th-level-feature
 ---
 
 ###### Guided to Your Side

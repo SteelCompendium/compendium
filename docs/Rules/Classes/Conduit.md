@@ -18,6 +18,7 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 **As a conduit, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
 
+<!-- -->
 > "The gods judge our actions, and our inaction."
 >
 > **Dazar**
@@ -220,7 +221,7 @@ You have the following ability.
 
 You have the following ability.
 
-#### Grave Speech
+###### Grave Speech
 
 *You commune with the lingering soul of the recently dead.*
 
@@ -529,7 +530,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 *You ask your saint for thunder and your prayer is answered.*
 
-| **Area, Magic, Range**  |               **Main action** |
+| **Area, Magic, Ranged** |               **Main action** |
 | ----------------------- | ----------------------------: |
 | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
 
@@ -725,7 +726,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### Morning Light (5 Piety)
 
-*Light shines at your command, burning your foes and blessing your*
+*Light shines at your command, burning your foes and blessing your allies.*
 
 | **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |
@@ -804,8 +805,6 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | **Magic, Ranged** |   **Maneuver** |
 | ----------------- | -------------: |
 | **📏 Ranged 10**  | **🎯 Special** |
-
-![target icon](https://upload.wikimedia.org/wikipedia/commons/9/9a/Misc_Target_Icon.png) Special
 
 **Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 surge at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
 
@@ -1008,7 +1007,7 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 
 *You ignite a foe with holy radiance, rewarding allies who attack them.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -1462,7 +1461,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 | **Magic, Ranged** |    **Maneuver** |
 | ----------------- | --------------: |
-| **📏 Ranged 10**  | **🎯 one ally** |
+| **📏 Ranged 10**  | **🎯 One ally** |
 
 **Effect:** The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.
 
@@ -1484,7 +1483,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | ---------------------- | -----------: |
 | **📏 Self; see below** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, no target can approach within 5 squares of you by moving or by being force moved by any enemy. Targets can be force moved closer to you by you or your allies, or can move closer because of your movement.
+**Effect:** Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being force moved by any enemy. Targets can be force moved closer to you by you or your allies, or can move closer because of your movement.
 
 ###### Divine Dragon (11 Piety)
 

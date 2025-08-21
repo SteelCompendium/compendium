@@ -46,6 +46,7 @@ Usually, these churches recognize each other as expressing different, equally va
 
 There are churches dedicated to nature or knowledge or the sun, with no clear moral or ethical component to them. There are evil churches, churches devoted to dark saints and tyrant gods. But the saints and heroes listed here each have churches that, however esoteric their teachings (usually referred to as the "speech" or "words" of the saint or hero) expect their clergy to go forth into the world and perform good deeds-tend to the sick, ease pain, perform birth, death, and union rituals. These churches all have acolytes and abbots, censors and conduits. It is not so much that Grole the One-Handed was, in life, principally concerned with the spiritual wellbeing of his *people*, but rather that this is what people expect of *churches*. So, as a religion grows, it soon conforms to the expectations of the people such that even the church of Khorvath Who Slew A Thousand has conduits who heal the sick and tend to the souls of their people.
 
+<!-- -->
 > **How To Use This Chapter**
 >
 > *Draw Steel* isn't about religion any more than it is about language or treasure, but understanding how religion works in a day-to-day sense can help make the game world feel more real. The people in Orden aren't any more religious than the people of Earth were in the premodern era. It is a factor in their lives, but not the only factor-and for some people, not a very important one.
@@ -102,7 +103,7 @@ Some people in Orden, like the hakaan and the orcs believe their ancestors watch
 
 ### Conduits and Censors
 
-"Conduit" and "censor" are not a titles within any church-they are jobs or ranks. An abbot, rector, even a bishop may be, or may have been, a conduit or a censor. Conduits and censors are those members of the church expected to go out into the world and actively, sometimes very actively, represent their saint's ethos. It is for this purpose conduits and censors are given access to powerful prayers.
+"Conduit" and "censor" are not titles within any church-they are jobs or ranks. An abbot, rector, even a bishop may be, or may have been, a conduit or a censor. Conduits and censors are those members of the church expected to go out into the world and actively, sometimes very actively, represent their saint's ethos. It is for this purpose conduits and censors are given access to powerful prayers.
 
 Any sufficiently large organization has conduits and censors just like they have shadows and wizards. The thieves' guild needs healers, just as the church needs spies! A conduit who works for the thieves' guild still serves their saint which implicitly means the church approves of the guild's activities and the two organizations are at least pointing in the same direction if not actively allied.
 
@@ -133,36 +134,36 @@ The Deities and Domains table and the Saints and Domains table summarize each of
 
 ###### Saints and Domains Table
 
-| Saint                              | Domains                       |
-| ---------------------------------- | ----------------------------- |
-| Atossa the Shepherd                | Fate, Protection, Trickery    |
-| Cho'kassa the Time Rider           | Storm, Sun                    |
-| Draighen the Warden                | Nature, Sun                   |
-| Eriarwen the Wroth                 | Nature, Storm                 |
-| Eseld the Eye                      | Knowledge, Trickery           |
-| Gaed the Confessor                 | Love, Protection              |
-| Grole the One-Handed               | Life, War                     |
-| Gryffyn the Stout                  | Creation, Life                |
-| Gwenllian the Fell-Handed          | Protection, War               |
-| Illwyv li Orchiax                  | Nature, Protection            |
-| Khorvath Who Slew a Thousand       | Sun, War                      |
-| Khravila Who Ran Forty Leagues     | Knowledge, Trickery           |
-| Kyruyalka the False Principle      | Death, Trickery               |
-| Lady Magnetar                      | Life, Sun                     |
-| Llewellyn the Valiant              | Life, Protection              |
-| Mahsiti the Weaver                 | Creation, Knowledge, Trickery |
-| Pentalion the Paladin              | Death, War                    |
-| Prexaspes the Stargazer            | Nature, Protection, Sun       |
-| Ripples of Honey on a Golden Shore | Life, Protection              |
-| A Sea of Suns                      | Creation, Life                |
-| Stakros the Engineer               | Creation, Knowledge           |
-| The Taste of Morning               | Creation, Knowledge           |
-| Thellasko the Great Designer       | Knowledge, War                |
-| Thyll Hylacae                      | Life, Nature                  |
-| Uryal the Subtle                   | Knowledge, Trickery           |
-| Valak-koth the Seeker              | Knowledge, Sun                |
-| Yllin Dyrvis                       | Knowledge, Nature             |
-| Zarok the Law-Giver                | Protection, War               |
+| Saint                               | Domains                       |
+| ----------------------------------- | ----------------------------- |
+| Atossa the Shepherd                 | Fate, Protection, Trickery    |
+| Cho'kassa the Time Rider            | Storm, Sun                    |
+| Draighen the Warden                 | Nature, Sun                   |
+| Eriarwen the Wroth                  | Nature, Storm                 |
+| Eseld the Eye                       | Knowledge, Trickery           |
+| Gaed the Confessor                  | Love, Protection              |
+| Grole the One-Handed                | Life, War                     |
+| Gryffyn the Stout                   | Creation, Life                |
+| Gwenllian the Fell-Handed           | Protection, War               |
+| Illwyv li Orchiax                   | Nature, Protection            |
+| Khorvath Who Slew a Thousand        | Sun, War                      |
+| Khravila Who Ran Forty Leagues      | Knowledge, Trickery           |
+| Kyruyalka the False Principle       | Death, Trickery               |
+| Lady Magnetar                       | Life, Sun                     |
+| Llewellyn the Valiant               | Life, Protection              |
+| Mahsiti the Weaver                  | Creation, Knowledge, Trickery |
+| Pentalion the Paladin               | Death, War                    |
+| Prexaspes the Stargazer             | Nature, Protection, Sun       |
+| Ripples of Honey on a Shore of Gold | Life, Protection              |
+| A Sea of Suns                       | Creation, Life                |
+| Stakros the Engineer                | Creation, Knowledge           |
+| The Taste of Morning                | Creation, Knowledge           |
+| Thellasko the Great Designer        | Knowledge, War                |
+| Thyll Hylacae                       | Life, Nature                  |
+| Uryal the Subtle                    | Knowledge, Trickery           |
+| Valak-koth the Seeker               | Knowledge, Sun                |
+| Yllin Dyrvis                        | Knowledge, Nature             |
+| Zarok the Law-Giver                 | Protection, War               |
 
 ### Val
 
@@ -480,7 +481,7 @@ Expensive to produce, *The Game of War* was never very popular outside the Acade
 
 In Thellasko's time, the most senior noble was always the senior commander, regardless of experience or, indeed, sanity. After Thellasko and *The Game of War*, commanders were chosen from among the soldiers with the most battlefield experience.
 
-Thellasko was granted sainthood on his deathbed after a generation of successful battles won by his students, all of whom carried a symbol of graduation from Thellasko's school-three adjacent hexagons. The students praised him on the battlefield during his life, and his church continues to advance his theories
+Thellasko was granted sainthood on his deathbed after a generation of successful battles won by his students, all of whom carried a symbol of graduation from Thellasko's school-three adjacent hexagons. The students praised him on the battlefield during his life, and his church continues to advance his theories.
 
 Thellasko teaches the virtue of accepting the battle as it is, not as you wish it might be. To take action based on available data, not what tradition says. That wars are not won based solely on the size of one's army, but based on which side is best able to bring its force to bear against the opponent.
 
@@ -658,7 +659,7 @@ The Red Sun hobgoblins seemed unstoppable. The baron began to think he might nee
 
 Then the loremaster came. Zür the wizard, dwarf and master of the Tower of Enchantment arrived. Seeing the need, he opened his tomes and researched what might the hobgoblins might wield. He presented himself to the baron's court with a solution. The Red Sun had found an ancient spring dedicated to a Gol demon-god. The Red Sun hobgoblins had bathed in the spring and awoken the blessing of the demon within and, having bathed in the river, they were now invulnerable.
 
-Zür believed he could remove the enchantment and rob the Ren Sun of their power. But the way to the spring was dangerous and he had no guard. The baron was at a loss, his greatest knights were almost all dead, thanks to the Red Sun.
+Zür believed he could remove the enchantment and rob the Red Sun of their power. But the way to the spring was dangerous and he had no guard. The baron was at a loss, his greatest knights were almost all dead, thanks to the Red Sun.
 
 "I will attend," Lady Gwenllian volunteered. The baron objected. Lady Gwenllian was his personal knight and bodyguard, just as her mother had been to his father. "If we succeed," Gwenllian said, "you will have no need of bodyguards. If we fail, it will be the same."
 

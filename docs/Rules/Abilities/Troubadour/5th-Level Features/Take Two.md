@@ -1,18 +1,26 @@
 ---
+action_type: No action
 class: troubadour
-feature_type: trait
+distance: 5 aura
+feature_type: ability
 file_basename: Take Two
 file_dpath: Troubadour/5th-Level Features
+flavor: One more, and this time make it interesting.
 item_id: take-two
 item_index: '04'
 item_name: Take Two!
+keywords:
+  - Area
+  - Magic
+  - Performance
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.5th-level-feature:take-two
+  - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:take-two
 scdc:
-  - 1.1.1:13.1.3.5:04
+  - 1.1.1:13.2.3.4:04
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/5th-level-feature
+target: Self and each ally in the area
+type: feature/ability/troubadour/5th-level-feature
 ---
 
 ###### Take Two!

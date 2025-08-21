@@ -1,18 +1,27 @@
 ---
+action_type: Main action
 class: 'null'
-feature_type: trait
+distance: Melee 1
+feature_type: ability
 file_basename: Pressure Points
 file_dpath: Null/1st-Level Features
+flavor: You strike at key nerve clusters to leave your foe staggered.
 item_id: pressure-points
 item_index: '14'
 item_name: Pressure Points
+keywords:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.null.1st-level-feature:pressure-points
+  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:pressure-points
 scdc:
-  - 1.1.1:13.1.6.1:14
+  - 1.1.1:13.2.6.1:14
 source: mcdm.heroes.v1
-type: feature/trait/null/1st-level-feature
+target: One creature or object
+type: feature/ability/null/1st-level-feature
 ---
 
 ###### Pressure Points

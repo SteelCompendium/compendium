@@ -1,18 +1,26 @@
 ---
+action_type: Main action
 class: elementalist
-feature_type: trait
+distance: Ranged 10
+feature_type: ability
 file_basename: Hurl Element
 file_dpath: Elementalist/1st-Level Features
+flavor: You cast a ball of elemental energy at a foe.
 item_id: hurl-element
-item_index: '31'
+item_index: '22'
 item_name: Hurl Element
+keywords:
+  - Magic
+  - Ranged
+  - Strike
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:hurl-element
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:hurl-element
 scdc:
-  - 1.1.1:13.1.9.1:31
+  - 1.1.1:13.2.9.1:22
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+target: One creature or object
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Hurl Element

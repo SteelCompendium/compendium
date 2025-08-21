@@ -1,18 +1,24 @@
 ---
+action_type: Main action
 class: conduit
-feature_type: trait
+distance: Self
+feature_type: ability
 file_basename: Faithful Friend
 file_dpath: Abilities/Conduit/1st-Level Features
+flavor: An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.
 item_id: faithful-friend
 item_index: '02'
 item_name: Faithful Friend
+keywords:
+  - Magic
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:faithful-friend
+  - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:faithful-friend
 scdc:
-  - 1.1.1:13.1.8.1:02
+  - 1.1.1:13.2.8.1:02
 source: mcdm.heroes.v1
-type: feature/trait/conduit/1st-level-feature
+target: Self
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Faithful Friend

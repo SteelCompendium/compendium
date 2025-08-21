@@ -22,7 +22,7 @@ You nearly lost your life at sea, but then you heard the voice. Someone-or somet
 
 *You summon a wave of water to batter your foe.*
 
-| **Magic, Ranged, Strike** |               **Main Action** |
+| **Magic, Ranged, Strike** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Ranged 10**          | **🎯 One creature or object** |
 

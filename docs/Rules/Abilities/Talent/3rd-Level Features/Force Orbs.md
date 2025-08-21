@@ -1,20 +1,29 @@
 ---
+action_type: Main action
 class: talent
 cost: 7 Clarity
 cost_amount: 7
 cost_resource: Clarity
+distance: Self; see below
 feature_type: ability
 file_basename: Force Orbs
 file_dpath: Talent/3rd-Level Features
+flavor: Spheres of solid psionic energy float around you.
 item_id: force-orbs-7-clarity
 item_index: '01'
 item_name: Force Orbs (7 Clarity)
+keywords:
+  - Psionic
+  - Ranged
+  - Strike
+  - Telekinesis
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:force-orbs-7-clarity
 scdc:
   - 1.1.1:13.2.1.6:01
 source: mcdm.heroes.v1
+target: Self
 type: feature/ability/talent/3rd-level-feature
 ---
 
@@ -22,7 +31,7 @@ type: feature/ability/talent/3rd-level-feature
 
 *Spheres of solid psionic energy float around you.*
 
-| **Psionic, Ranged, Strike, Telekinesis** | **Main Action** |
+| **Psionic, Ranged, Strike, Telekinesis** | **Main action** |
 | ---------------------------------------- | --------------: |
 | **📏 Self; see below**                   |     **🎯 Self** |
 

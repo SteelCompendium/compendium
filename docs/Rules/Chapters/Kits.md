@@ -30,6 +30,7 @@ The description of equipment in your kit is limited to broad categories, leaving
 
 You can wear armor and wield weapons that aren't part of your kit, but if you do, you don't get your kit's bonuses.
 
+<!-- -->
 > **Customizing Equipment Appearances**
 >
 > You should absolutely feel free to describe your equipment in a way that makes sense for the story of your game and hero. For instance, if your hero uses a weapon in the whip category as part of their kit, they could use a leather whip, a spiked chain, or a dagger tied to a knotted rope. A hero who wears heavy armor might wear a suit of chain mail, plate armor, or heavy wooden planks tied together. Your choices for equipment aren't limited just to the examples in this book.
@@ -148,6 +149,7 @@ For details on the ability format, see [Abilities](#page-83-0) in [Chapter 5: Cl
 
 This section details each kit, whose bonuses and benefits are summarized in the Kits table.
 
+<!-- -->
 > **Improvised Weapons**
 >
 > Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee free strike, the sword counts as an improvised weapon.
@@ -500,9 +502,9 @@ You wear light armor and wield a shield and a light weapon.
 
 ##### Signature Ability
 
-###### Shock and Awe
+###### Raider's Awe
 
-*You execute a brutal strike that leaves your foe reeling.*
+*You execute a brutal strike that leaves your foe reeling. (Previously known as "Shock and Awe")*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
@@ -944,4 +946,3 @@ The rules of the game expect that heroes always have access to their equipment. 
 | Sword and Board  | Medium, shield | Medium             | +9                  | -     | +1        | +2/+2/+2     | -             | -              | -               | +1        |
 | Warrior Priest   | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | -             | -              | -               | -         |
 | Whirlwind        | None           | Whip               | -                   | +3    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
-|                  |                |                    |                     |       |           |              |               |                |                 |           |

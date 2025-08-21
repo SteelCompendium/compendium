@@ -18,6 +18,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **As a fury, you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness-and neither do you.**
 
+<!-- -->
 > "DEATH!"
 >
 > **Khorva**
@@ -62,6 +63,7 @@ Your primordial aspect is your subclass, and your choice of aspect determines ma
 
 Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called ferocity.
 
+<!-- -->
 > **Where's My Maneuver?**
 >
 > Since most other classes get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the fury?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the fury has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
@@ -127,7 +129,7 @@ Some Growing Ferocity benefits can be applied only if you are a specific level o
 
 Your primordial aspect grants you two features, as shown on the 1st-Level Aspect Features table.
 
-###### 1st-Level Aspect Features Tables
+###### 1st-Level Aspect Features Table
 
 | Aspect     | Feature                        |
 | ---------- | ------------------------------ |
@@ -186,6 +188,8 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 
 ###### Lines of Force
+
+*You redirect the energy of motion.*
 
 | **Magic, Melee** |               **Triggered** |
 | ---------------- | --------------------------: |
@@ -389,9 +393,9 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 *You unleash a howl that hurls your enemies back.*
 
-| **Area, Melee, Weapon**  |               **Main action** |
-| ------------------------ | ----------------------------: |
-| **📏 5x1 line within 1** | **🎯 Each enemy in the area** |
+| **Area, Melee, Weapon**    |               **Main action** |
+| -------------------------- | ----------------------------: |
+| **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
 **Effect:** The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 
@@ -970,6 +974,8 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 **Effect:** If the target is a minion or is winded but isn't a leader or solo creature, they are reduced to 0 Stamina before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
 
 ###### Primordial Rage (11 Ferocity)
+
+*Your ferocity manifests into primordial power.*
 
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |

@@ -1,20 +1,28 @@
 ---
+action_type: Main action
 class: troubadour
 cost: 11 Drama
 cost_amount: 11
 cost_resource: Drama
+distance: Melee 1
 feature_type: ability
 file_basename: Renegotiated Contract
 file_dpath: Troubadour/9th-Level Features
+flavor: No, no. You don't die until the sequel.
 item_id: renegotiated-contract-11-drama
 item_index: '03'
 item_name: Renegotiated Contract (11 Drama)
+keywords:
+  - Melee
+  - Strike
+  - Weapon
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:renegotiated-contract-11-drama
 scdc:
   - 1.1.1:13.2.3.7:03
 source: mcdm.heroes.v1
+target: One creature
 type: feature/ability/troubadour/9th-level-feature
 ---
 

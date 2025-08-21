@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Drama Outside of Combat
 file_dpath: Troubadour/1st-Level Features
 item_id: drama-outside-of-combat
-item_index: '18'
+item_index: '06'
 item_name: Drama Outside of Combat
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:drama-outside-of-combat
 scdc:
-  - 1.1.1:13.1.3.1:18
+  - 1.1.1:13.1.3.1:06
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/1st-level-feature
 ---
@@ -21,6 +21,7 @@ Though you can't gain drama outside of combat, you can use your heroic abilities
 
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama equal to your Victories.
 
+<!-- -->
 > **The Auteur Troubadour**
 >
 > Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
