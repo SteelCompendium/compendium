@@ -52,10 +52,10 @@
   <input id="width-input"
          type="text"
          inputmode="decimal"
-         placeholder="61em"
+         placeholder="120em"
          pattern="^\s*(none|full|(\d+(\.\d+)?)(em|rem|px|%))\s*$"
          title="Use: 61em, 1200px, 90%, or 'none'/'full'">
-  <small>Examples: <code>61em</code>, <code>1200px</code>, <code>90%</code>, <code>none</code></small>
+  <small>Examples: <code>100em</code>, <code>1200px</code>, <code>90%</code>, <code>none</code></small>
   <div style="margin-top:.5rem;">
     <button id="width-apply" type="button">Apply</button>
     <button id="width-reset" type="button">Reset</button>

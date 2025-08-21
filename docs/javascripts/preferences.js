@@ -33,6 +33,7 @@
         let v = String(raw).trim().toLowerCase();
         if (v === "full") v = "none";
         if (v === "none") return v;
+        if (v === "default") return "";
         if (/^\d+(\.\d+)?(em|rem|px|%)$/.test(v)) return v;
         if (/^\d+(\.\d+)?$/.test(v)) return v + "em";  // default unit
         return null;
@@ -71,12 +72,12 @@
         if (!input || !applyBtn || !resetBtn) return;
 
         // Initialize field
-        input.value = saved.width || "61em";
+        input.value = saved.width || "120em";
 
         function doApply() {
             const norm = normalizeWidth(input.value);
             if (!norm) {
-                input.setCustomValidity("Enter a value like 61em, 1200px, 90%, or 'none'");
+                input.setCustomValidity("Enter a value like 61em, 1200px, 90%, 'none', or 'default'");
                 input.reportValidity();
                 return;
             }
@@ -94,8 +95,8 @@
 
         // Reset to theme default
         resetBtn.addEventListener("click", () => {
-            input.value = "61em";
-            saved.width = "61em";
+            input.value = "100%";
+            saved.width = "100%";
             applyWidth(saved.width);
             save(saved);
         });
