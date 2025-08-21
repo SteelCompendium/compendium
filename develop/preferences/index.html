@@ -266,6 +266,19 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Preferences
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -277,6 +290,42 @@
   
 
       </a>
+      
+        
+
+
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+    
+    <label class="md-nav__title" for="__toc">
+        <span class="md-nav__icon md-icon"></span>
+        Table of contents
+    </label>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#preferences">Preferences</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#font">Font</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#page-width">Page width</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+    
+</nav>
       
     </li>
   
@@ -67489,6 +67538,20 @@
     <li class="md-nav__item">
         <a class="md-nav__link" href="#preferences">Preferences</a>
         
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#font">Font</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#page-width">Page width</a>
+        
+    </li>
+    
+</ul>
+        
     </li>
     
 </ul>
@@ -67509,7 +67572,9 @@
 <!--Removing the auto-injected h1 element7-->
 <!---->
 <h1 id="preferences">Preferences<a class="headerlink" href="#preferences" title="Permanent link">&para;</a></h1>
+<h2 id="font">Font<a class="headerlink" href="#font" title="Permanent link">&para;</a></h2>
 <div class="font-prefs">
+<p>
 <label for="font-large">Large headers (H1–H2):</label>
 <select id="font-large">
 <option value='"Beaufort W01 Heavy", var(--md-text-font), serif'>Beaufort W01 Heavy (default)</option>
@@ -67518,7 +67583,9 @@
 <option value='"Inter", var(--md-text-font), sans-serif'>Inter</option>
 <option value='"system-ui", var(--md-text-font), serif'>System UI</option>
 </select>
+</p>
 
+<p>
 <label for="font-small">Small headers (H3–H6):</label>
 <select id="font-small">
 <option value='"Test Newzald", var(--md-text-font), serif'>Test Newzald (Default)</option>
@@ -67527,7 +67594,9 @@
 <option value='"Inter", var(--md-text-font), sans-serif'>Inter</option>
 <option value='"system-ui", var(--md-text-font), serif'>System UI</option>
 </select>
+</p>
 
+<p>
 <label for="font-text">Body text:</label>
 <select id="font-text">
 <option value='"BerlingskeSlab-DBd", Georgia, "Times New Roman", serif'>Berlingske Slab (Default)</option>
@@ -67535,13 +67604,27 @@
 <option value='"Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "Noto Sans", sans-serif'>Inter</option>
 <option value='-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "Noto Sans", sans-serif'>System UI</option>
 </select>
+</p>
 
+<p>
 <label for="font-code">Code:</label>
 <select id="font-code">
 <option value='"JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace'>JetBrains Mono (Default)</option>
 <option value='"Fira Code", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace'>Fira Code</option>
 <option value='ui-monospace, SFMono-Regular, Menlo, Consolas, monospace'>System Monospace</option>
 </select>
+</p>
+</div>
+
+<h2 id="page-width">Page width<a class="headerlink" href="#page-width" title="Permanent link">&para;</a></h2>
+<div class="width-prefs">
+  <label for="width-range">Max width:</label>
+  <input id="width-range" type="range" min="40" max="120" step="1" value="61">
+  <output id="width-value">61em</output>
+
+  <label style="display:block; margin-top:.5rem;">
+    <input id="width-full" type="checkbox"> Full width (no max)
+  </label>
 </div>
 
 
