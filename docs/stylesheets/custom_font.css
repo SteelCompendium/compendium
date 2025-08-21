@@ -5,7 +5,9 @@
 
 /* Set sensible defaults (these variables are what the theme reads) */
 :root {
-    --md-text-font: "Inter";
+    --md-large-header-font: "Beaufort W01 Heavy";
+    --md-small-header-font: "Test Newzald";
+    --md-text-font: "BerlingskeSlab-DBd";
     --md-code-font: "JetBrains Mono";
 }
 
@@ -20,7 +22,7 @@
 }
 
 body {
-    font-family: "BerlingskeSlab-DBd";
+    font-family: var(--md-text-font);
 }
 
 @font-face {
@@ -45,18 +47,18 @@ body {
 
 /* Headers */
 .md-typeset h1 {
-    font-family: "Beaufort W01 Heavy";
+    font-family: var(--md-large-header-font);
     font-size: 5em;
     text-transform: uppercase;
     margin: 0 0 .25em;
 }
 .md-typeset h2 {
-    font-family: "Beaufort W01 Heavy";
+    font-family: var(--md-large-header-font);
     font-size: 3em;
     text-transform: uppercase;
 }
 .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
-    font-family: "Test Newzald";
+    font-family: var(--md-small-header-font);
 }
 .md-typeset h3 {
     border-bottom: 1px solid var(--md-default-fg-color--lightest);
