@@ -13,3 +13,6 @@ th:empty {
 .md-grid {
     max-width: var(--md-max_width);
 }
+
+/* Keeps preferences from getting funky */
+.width-prefs { position: sticky; top: 4rem; padding: .5rem; background: var(--md-default-bg-color); z-index: 3; }
