@@ -15,11 +15,13 @@
         });
     }
 
-    function applyWidth(width) {
-        if (!width) return;
+    function applyWidth(value) {
         const r = document.documentElement.style;
-        // allow "none" for truly full width, otherwise expect a CSS length (e.g. "976px" or "70rem")
-        r.setProperty(WIDTH_VAR, width);
+        if (!value || value === "default") {
+            r.removeProperty(WIDTH_VAR);       // <- restores the theme’s own width
+        } else {
+            r.setProperty(WIDTH_VAR, value);   // e.g. "70em", "1200px", "90%", "none"
+        }
     }
 
     function save(prefs) {
