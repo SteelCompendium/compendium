@@ -35,7 +35,7 @@
         let v = String(raw).trim().toLowerCase();
         if (v === "full") v = "none";
         if (v === "none") return v;
-        if (v === "default") return "";
+        if (v === "default") return v;
         if (/^\d+(\.\d+)?(em|rem|px|%)$/.test(v)) return v;
         if (/^\d+(\.\d+)?$/.test(v)) return v + "em";  // default unit
         return null;
