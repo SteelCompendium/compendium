@@ -6,7 +6,7 @@ ancestry:
 ev: '144'
 file_basename: Count Rhodar von Glauer
 file_dpath: Monsters/Count Rhodar Von Glauer/Statblocks
-free_strike: 0
+free_strike: 10
 intuition: 2
 item_id: count-rhodar-von-glauer
 item_index: '287'
@@ -23,19 +23,19 @@ scdc:
   - 1.1.1:2:287
 size: 1M
 source: mcdm.monsters.v1
-speed: 1
-stability: 1
-stamina: '26503'
+speed: 12
+stability: 3
+stamina: '650'
 type: monster
 ---
 
 ###### Count Rhodar von Glauer
 
-|              Undead, Vampire               |                   -                    |        Level 10        |          Solo           |         EV 144         |
-| :----------------------------------------: | :------------------------------------: | :--------------------: | :---------------------: | :--------------------: |
-|              **1M**<br/> Size              |            **1**<br/> Speed            | **26503**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover, teleport**<br/> Movement |           -            | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|             **+3**<br/> Might              |          **+5**<br/> Agility           |   **+2**<br/> Reason   |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
+|              Undead, Vampire               |                   -                    |       Level 10       |          Solo           |         EV 144          |
+| :----------------------------------------: | :------------------------------------: | :------------------: | :---------------------: | :---------------------: |
+|              **1M**<br/> Size              |           **12**<br/> Speed            | **650**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|             **+3**<br/> Might              |          **+5**<br/> Agility           |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**

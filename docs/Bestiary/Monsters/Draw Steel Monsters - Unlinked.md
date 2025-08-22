@@ -22401,11 +22401,11 @@ At the start of Rhodar's turn, you can spend Malice to activate one of the follo
 
 **<span class="steel-compendium-statblock">Count Rhodar von Glauer</span>**
 
-|             Undead, Vampire              |                  -                   |       Level 10       |         Solo          |        EV 144        |
-| :--------------------------------------: | :----------------------------------: | :------------------: | :-------------------: | :------------------: |
-|              **1M**<br>Size              |            **1**<br>Speed            | **26503**<br>Stamina |  **1**<br>Stability   | **0**<br>Free Strike |
-| **Corruption 10, poison 10**<br>Immunity | **Fly, hover, teleport**<br>Movement |          -           | **-**<br>With Captain | **-**<br>Weaknesses  |
-|             **+3**<br>Might              |          **+5**<br>Agility           |   **+2**<br>Reason   |  **+2**<br>Intuition  |  **+3**<br>Presence  |
+|             Undead, Vampire              |                  -                   |      Level 10      |         Solo          |        EV 144         |
+| :--------------------------------------: | :----------------------------------: | :----------------: | :-------------------: | :-------------------: |
+|              **1M**<br>Size              |           **12**<br>Speed            | **650**<br>Stamina |  **3**<br>Stability   | **10**<br>Free Strike |
+| **Corruption 10, poison 10**<br>Immunity | **Fly, hover, teleport**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weaknesses  |
+|             **+3**<br>Might              |          **+5**<br>Agility           |  **+2**<br>Reason  |  **+2**<br>Intuition  |  **+3**<br>Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**
