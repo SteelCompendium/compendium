@@ -4,12 +4,6 @@ th:empty {
     value: remove;
 }
 
-/* Maximum space for text block */
-:root {
-    /* default page width (Material ≈ 61rem by default) */
-    --md-max_width: 100%;
-}
-
 .md-grid {
     max-width: var(--md-max_width);
 }
