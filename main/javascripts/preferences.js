@@ -74,7 +74,7 @@
         if (!input || !applyBtn || !resetBtn) return;
 
         // Initialize field
-        input.value = saved.width || "120em";
+        input.value = saved.width || "100%";
 
         function doApply() {
             const norm = normalizeWidth(input.value);
