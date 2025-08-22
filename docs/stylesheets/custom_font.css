@@ -1,3 +1,16 @@
+/*Load font options*/
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap");
+
+/* Set sensible defaults (these variables are what the theme reads) */
+:root {
+    --md-large-header-font: "Beaufort W01 Heavy";
+    --md-small-header-font: "Test Newzald";
+    --md-text-font: "BerlingskeSlab-DBd";
+    --md-code-font: "JetBrains Mono";
+}
+
 @font-face {
     font-family: "BerlingskeSlab-DBd";
     src: url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.eot");
@@ -9,7 +22,7 @@
 }
 
 body {
-    font-family: "BerlingskeSlab-DBd";
+    font-family: var(--md-text-font);
 }
 
 @font-face {
@@ -34,18 +47,18 @@ body {
 
 /* Headers */
 .md-typeset h1 {
-    font-family: "Beaufort W01 Heavy";
+    font-family: var(--md-large-header-font);
     font-size: 5em;
     text-transform: uppercase;
     margin: 0 0 .25em;
 }
 .md-typeset h2 {
-    font-family: "Beaufort W01 Heavy";
+    font-family: var(--md-large-header-font);
     font-size: 3em;
     text-transform: uppercase;
 }
 .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
-    font-family: "Test Newzald";
+    font-family: var(--md-small-header-font);
 }
 .md-typeset h3 {
     border-bottom: 1px solid var(--md-default-fg-color--lightest);

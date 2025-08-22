@@ -5,6 +5,14 @@ th:empty {
 }
 
 /* Maximum space for text block */
-.md-grid {
-    max-width: 100%;
+:root {
+    /* default page width (Material ≈ 61rem by default) */
+    --md-max_width: 100%;
 }
+
+.md-grid {
+    max-width: var(--md-max_width);
+}
+
+/* Keeps preferences from getting funky */
+.width-prefs { position: sticky; top: 4rem; padding: .5rem; background: var(--md-default-bg-color); z-index: 3; }
