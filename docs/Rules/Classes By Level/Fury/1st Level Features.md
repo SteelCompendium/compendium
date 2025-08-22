@@ -2,12 +2,12 @@
 file_basename: 1st Level Features
 file_dpath: Classes By Level/Fury
 item_id: 1st-level-features
-item_index: '53'
+item_index: '54'
 item_name: 1st-Level Features
 scc:
   - mcdm.heroes.v1:class.level:1st-level-features
 scdc:
-  - 1.1.1:2.1:53
+  - 1.1.1:2.1:54
 source: mcdm.heroes.v1
 type: class/level
 ---
@@ -144,9 +144,9 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 
 *In your anger, you revert to a more bestial form.*
 
-| **-**            |    **Triggered** |
-| ---------------- | ---------------: |
-| **📏 Ranged 10** | **🎯 One enemy** |
+| **-**       | **Triggered** |
+| ----------- | ------------: |
+| **📏 Self** |   **🎯 Self** |
 
 **Trigger:** You lose Stamina and are not dying.
 
@@ -363,6 +363,12 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 | **Area, Melee, Weapon**    |               **Main action** |
 | -------------------------- | ----------------------------: |
 | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
+
+**Power Roll + Might:**
+
+- **≤11:** 6 damage; push 2
+- **12-16:** 9 damage; push 4
+- **17+:** 13 damage; push 6
 
 **Effect:** The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 

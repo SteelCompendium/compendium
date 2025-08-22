@@ -2,12 +2,12 @@
 file_basename: 2nd Level Aspect Ability
 file_dpath: Classes By Level/Fury
 item_id: 2nd-level-aspect-ability
-item_index: '51'
+item_index: '52'
 item_name: 2nd-Level Aspect Ability
 scc:
   - mcdm.heroes.v1:class.level:2nd-level-aspect-ability
 scdc:
-  - 1.1.1:2.1:51
+  - 1.1.1:2.1:52
 source: mcdm.heroes.v1
 type: class/level
 ---
@@ -84,9 +84,9 @@ Choose one of the following abilities.
 
 ##### 2nd-Level Stormwight Ability
 
-Choose one of the following abilities. | |
+Choose one of the following abilities.
 
-###### Apex Predator
+###### Apex Predator (5 Ferocity)
 
 *I will hunt you down.*
 

@@ -2,12 +2,12 @@
 file_basename: 6th Level Features
 file_dpath: Classes By Level/Talent
 item_id: 6th-level-features
-item_index: '96'
+item_index: '97'
 item_name: 6th-Level Features
 scc:
   - mcdm.heroes.v1:class.level:6th-level-features
 scdc:
-  - 1.1.1:2.1:96
+  - 1.1.1:2.1:97
 source: mcdm.heroes.v1
 type: class/level
 ---
@@ -22,7 +22,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional clarity to apply a psi boost to it and enhance its effects. A psi boost's effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a psi boost to it and enhance its effects. A psi boost's effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
 
 ##### Dynamic Power (1 Clarity)
 

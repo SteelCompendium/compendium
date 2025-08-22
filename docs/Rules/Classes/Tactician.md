@@ -389,12 +389,11 @@ Your tactical doctrine grants you a feature, as shown on the 2nd-Level Doctrine 
 
 ###### 2nd-Level Doctrine Features Table
 
-| 2nd-Level Doctrine Features |                      |
-| --------------------------- | -------------------- |
-| Doctrine                    | Feature              |
-| Insurgent                   | Infiltration Tactics |
-| Mastermind                  | Goaded               |
-| Vanguard                    | Melee Superiority    |
+| Doctrine   | Feature              |
+| ---------- | -------------------- |
+| Insurgent  | Infiltration Tactics |
+| Mastermind | Goaded               |
+| Vanguard   | Melee Superiority    |
 
 ##### Goaded
 

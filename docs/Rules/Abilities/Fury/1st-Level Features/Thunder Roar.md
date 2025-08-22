@@ -34,4 +34,10 @@ type: feature/ability/fury/1st-level-feature
 | -------------------------- | ----------------------------: |
 | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
+**Power Roll + Might:**
+
+- **≤11:** 6 damage; push 2
+- **12-16:** 9 damage; push 4
+- **17+:** 13 damage; push 6
+
 **Effect:** The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.

@@ -13,7 +13,7 @@ type: index
 | [Brutal Slam](../Brutal%20Slam)                                               |            | 1     | ability      | Main action   | Melee 1             | One creature or object               |
 | [Ferocity in Combat](../Ferocity%20in%20Combat)                               |            | 1     | trait        |               |                     |                                      |
 | [Ferocity Outside of Combat](../Ferocity%20Outside%20of%20Combat)             |            | 1     | trait        |               |                     |                                      |
-| [Furious Change](../Furious%20Change)                                         |            | 1     | ability      | Triggered     | Ranged 10           | One enemy                            |
+| [Furious Change](../Furious%20Change)                                         |            | 1     | ability      | Triggered     | Self                | Self                                 |
 | [Hit and Run](../Hit%20and%20Run)                                             |            | 1     | ability      | Main action   | Melee 1             | One creature or object               |
 | [Impaled](../Impaled)                                                         |            | 1     | ability      | Main action   | Melee 1             | One creature of your size or smaller |
 | [Kit](../Kit)                                                                 |            | 1     | trait        |               |                     |                                      |

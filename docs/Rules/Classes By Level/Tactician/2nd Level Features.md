@@ -2,12 +2,12 @@
 file_basename: 2nd Level Features
 file_dpath: Classes By Level/Tactician
 item_id: 2nd-level-features
-item_index: '65'
+item_index: '66'
 item_name: 2nd-Level Features
 scc:
   - mcdm.heroes.v1:class.level:2nd-level-features
 scdc:
-  - 1.1.1:2.1:65
+  - 1.1.1:2.1:66
 source: mcdm.heroes.v1
 type: class/level
 ---
@@ -26,12 +26,11 @@ Your tactical doctrine grants you a feature, as shown on the 2nd-Level Doctrine 
 
 ###### 2nd-Level Doctrine Features Table
 
-| 2nd-Level Doctrine Features |                      |
-| --------------------------- | -------------------- |
-| Doctrine                    | Feature              |
-| Insurgent                   | Infiltration Tactics |
-| Mastermind                  | Goaded               |
-| Vanguard                    | Melee Superiority    |
+| Doctrine   | Feature              |
+| ---------- | -------------------- |
+| Insurgent  | Infiltration Tactics |
+| Mastermind | Goaded               |
+| Vanguard   | Melee Superiority    |
 
 ##### Goaded
 

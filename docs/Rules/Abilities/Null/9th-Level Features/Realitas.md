@@ -21,7 +21,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.null.9th-level-feature:realitas-11-discipline
 scdc:
-  - 1.1.1:13.2.6.6:06
+  - 1.1.1:13.2.6.7:06
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/null/9th-level-feature

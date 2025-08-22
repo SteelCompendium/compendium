@@ -19,7 +19,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.null.9th-level-feature:arrestor-cycle-11-discipline
 scdc:
-  - 1.1.1:13.2.6.6:03
+  - 1.1.1:13.2.6.7:03
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/null/9th-level-feature

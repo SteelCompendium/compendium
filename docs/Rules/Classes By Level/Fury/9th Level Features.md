@@ -2,12 +2,12 @@
 file_basename: 9th Level Features
 file_dpath: Classes By Level/Fury
 item_id: 9th-level-features
-item_index: '44'
+item_index: '45'
 item_name: 9th-Level Features
 scc:
   - mcdm.heroes.v1:class.level:9th-level-features
 scdc:
-  - 1.1.1:2.1:44
+  - 1.1.1:2.1:45
 source: mcdm.heroes.v1
 type: class/level
 ---

@@ -116,9 +116,8 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Knowledge Domain Piety and Effect
 
-**Piety:** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
-
-**Prayer Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
+- **Piety:** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
+- **Prayer Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
 
 ###### Life Domain Piety and Effect
 
@@ -943,9 +942,9 @@ You have the following ability.
 
 *You project an illusory aura that makes you and allies harder to notice.*
 
-| **Magic**     |                          **Maneuver** |
-| ------------- | ------------------------------------: |
-| **📏 3 aura** | **🎯 Self and each ally in the area** |
+| **Area, Magic** |                          **Maneuver** |
+| --------------- | ------------------------------------: |
+| **📏 3 aura**   | **🎯 Self and each ally in the area** |
 
 **Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
@@ -1280,7 +1279,7 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Storm      | Thunderstruck                |
 | Sun        | Light of the Burning Sun     |
 | Trickery   | Trinity of Trickery          |
-| War        | Your Triumphs are Remembered |
+| War        | Your Triumphs Are Remembered |
 
 ##### Blessing of Iron
 

@@ -2,12 +2,12 @@
 file_basename: Stormwight Kits
 file_dpath: Classes By Level/Fury
 item_id: stormwight-kits
-item_index: '50'
+item_index: '51'
 item_name: Stormwight Kits
 scc:
   - mcdm.heroes.v1:class.level:stormwight-kits
 scdc:
-  - 1.1.1:2.1:50
+  - 1.1.1:2.1:51
 source: mcdm.heroes.v1
 type: class/level
 ---
@@ -284,7 +284,7 @@ Your primordial damage type is lightning.
 
 As your ferocity grows, you gain benefits as noted on the Vuken Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-###### Vulken Growing Ferocity Table
+###### Vuken Growing Ferocity Table
 
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

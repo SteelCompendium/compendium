@@ -65,9 +65,9 @@ You have the following ability.
 
 *You project an illusory aura that makes you and allies harder to notice.*
 
-| **Magic**     |                          **Maneuver** |
-| ------------- | ------------------------------------: |
-| **📏 3 aura** | **🎯 Self and each ally in the area** |
+| **Area, Magic** |                          **Maneuver** |
+| --------------- | ------------------------------------: |
+| **📏 3 aura**   | **🎯 Self and each ally in the area** |
 
 **Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 

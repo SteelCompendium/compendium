@@ -1176,20 +1176,20 @@ You gain a domain feature from your domain, as shown on the 4th-Level Censor Dom
 
 ###### 4th-Level Censor Domain Features Table
 
-| Domain     | Feature                     |     |
-| ---------- | --------------------------- | --- |
-| Creation   | Improved Hands of the Maker |     |
-| Death      | Seance                      |     |
-| Fate       | Oracular Warning            |     |
-| Knowledge  | Saint's Epiphany            |     |
-| Life       | Blessing of Life            |     |
-| Love       | Invocation of the Heart     |     |
-| Nature     | Wode Road                   |     |
-| Protection | Impervious Touch            |     |
-| Storm      | Windwalk                    |     |
-| Sun        | Light of Revelation         |     |
-| Trickery   | Blessing of Secrets         |     |
-| War        | Improved Sanctified Weapon  |     |
+| Domain     | Feature                     |
+| ---------- | --------------------------- |
+| Creation   | Improved Hands of the Maker |
+| Death      | Seance                      |
+| Fate       | Oracular Warning            |
+| Knowledge  | Saint's Epiphany            |
+| Life       | Blessing of Life            |
+| Love       | Invocation of the Heart     |
+| Nature     | Wode Road                   |
+| Protection | Impervious Touch            |
+| Storm      | Windwalk                    |
+| Sun        | Light of Revelation         |
+| Trickery   | Blessing of Secrets         |
+| War        | Improved Sanctified Weapon  |
 
 ##### Blessing of Life
 
@@ -1203,9 +1203,9 @@ You have the following ability.
 
 *You project an illusory aura that makes you and allies harder to notice.*
 
-| **Magic**     |                          **Maneuver** |
-| ------------- | ------------------------------------: |
-| **📏 3 aura** | **🎯 Self and each ally in the area** |
+| **Area, Magic** |                          **Maneuver** |
+| --------------- | ------------------------------------: |
+| **📏 3 aura**   | **🎯 Self and each ally in the area** |
 
 **Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
@@ -1506,8 +1506,6 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 ##### Font of Grace
 
 Each time you use your My Life for Yours ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this wrath, it is lost. Additionally, the target of My Life for Yours gains 10 temporary Stamina.
-
-ing the st
 
 ##### Gods' Library
 
@@ -1921,9 +1919,8 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Knowledge Domain Piety and Effect
 
-**Piety:** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
-
-**Prayer Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
+- **Piety:** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
+- **Prayer Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
 
 ###### Life Domain Piety and Effect
 
@@ -2748,9 +2745,9 @@ You have the following ability.
 
 *You project an illusory aura that makes you and allies harder to notice.*
 
-| **Magic**     |                          **Maneuver** |
-| ------------- | ------------------------------------: |
-| **📏 3 aura** | **🎯 Self and each ally in the area** |
+| **Area, Magic** |                          **Maneuver** |
+| --------------- | ------------------------------------: |
+| **📏 3 aura**   | **🎯 Self and each ally in the area** |
 
 **Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
@@ -3085,7 +3082,7 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Storm      | Thunderstruck                |
 | Sun        | Light of the Burning Sun     |
 | Trickery   | Trinity of Trickery          |
-| War        | Your Triumphs are Remembered |
+| War        | Your Triumphs Are Remembered |
 
 ##### Blessing of Iron
 
@@ -4116,7 +4113,6 @@ You can revert back to your true form as a maneuver. You can't enter an animal f
 | Giant octopus         | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br/> with your melee free strike. Whenever you obtain a tier 2 or tier 3 outcome on<br/> a melee free strike, you can automatically grab the target. You can have up to<br/> eight creatures grabbed. |
 | Rhinoceros            | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee free strike as part of the Charge action, that<br/> strike gains an edge.                                                                                                                                                                                   |
 | King terror lizard    | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your melee free strike is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                |
-|                       |       |                   |               |      |                 |                    |                                                                                                                                                                                                                                                                                       |
 
 ##### There Is No Space Between
 
@@ -5037,9 +5033,9 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 
 *In your anger, you revert to a more bestial form.*
 
-| **-**            |    **Triggered** |
-| ---------------- | ---------------: |
-| **📏 Ranged 10** | **🎯 One enemy** |
+| **-**       | **Triggered** |
+| ----------- | ------------: |
+| **📏 Self** |   **🎯 Self** |
 
 **Trigger:** You lose Stamina and are not dying.
 
@@ -5257,6 +5253,12 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 | -------------------------- | ----------------------------: |
 | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
+**Power Roll + Might:**
+
+- **≤11:** 6 damage; push 2
+- **12-16:** 9 damage; push 4
+- **17+:** 13 damage; push 6
+
 **Effect:** The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 
 ###### To the Uttermost End (5 Ferocity)
@@ -5281,7 +5283,7 @@ As a 2nd-level fury, you gain the following features.
 
 #### Perk
 
-You gain one crafting, exploration, or intrigue perk of your choice. See [Chapter 7: Perks](#dead-link)
+You gain one crafting, exploration, or intrigue perk of your choice. See [Chapter 7: Perks](#dead-link).
 
 #### 2nd-Level Aspect Feature
 
@@ -5379,9 +5381,9 @@ Choose one of the following abilities.
 
 ##### 2nd-Level Stormwight Ability
 
-Choose one of the following abilities. | |
+Choose one of the following abilities.
 
-###### Apex Predator
+###### Apex Predator (5 Ferocity)
 
 *I will hunt you down.*
 
@@ -6291,7 +6293,7 @@ Your primordial damage type is lightning.
 
 As your ferocity grows, you gain benefits as noted on the Vuken Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-###### Vulken Growing Ferocity Table
+###### Vuken Growing Ferocity Table
 
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6975,6 +6977,8 @@ The first time each combat round that an enemy in the area of your Null Field ab
 
 You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
+### 5th-Level Features
+
 As a 5th-level null, you gain the following features.
 
 #### 5th-Level Tradition Feature
@@ -7313,7 +7317,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 
 **Trigger:** The target takes damage from another creature's ability while in the area of your Null Field ability.
 
-**Effect:** The target takes half the damage, and if the triggering crea ture has I < AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+**Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.
 
 ### 9th-Level Features
 
@@ -9010,12 +9014,11 @@ Your tactical doctrine grants you a feature, as shown on the 2nd-Level Doctrine 
 
 ###### 2nd-Level Doctrine Features Table
 
-| 2nd-Level Doctrine Features |                      |
-| --------------------------- | -------------------- |
-| Doctrine                    | Feature              |
-| Insurgent                   | Infiltration Tactics |
-| Mastermind                  | Goaded               |
-| Vanguard                    | Melee Superiority    |
+| Doctrine   | Feature              |
+| ---------- | -------------------- |
+| Insurgent  | Infiltration Tactics |
+| Mastermind | Goaded               |
+| Vanguard   | Melee Superiority    |
 
 ##### Goaded
 
@@ -10588,7 +10591,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional clarity to apply a psi boost to it and enhance its effects. A psi boost's effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a psi boost to it and enhance its effects. A psi boost's effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
 
 ##### Dynamic Power (1 Clarity)
 

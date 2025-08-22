@@ -2,17 +2,17 @@
 class: 'null'
 feature_type: trait
 file_basename: Instant Action
-file_dpath: Null/4th-Level Features
+file_dpath: Null/5th-Level Features
 item_id: instant-action
-item_index: '07'
+item_index: '03'
 item_name: Instant Action
-level: 4
+level: 5
 scc:
-  - mcdm.heroes.v1:feature.trait.null.4th-level-feature:instant-action
+  - mcdm.heroes.v1:feature.trait.null.5th-level-feature:instant-action
 scdc:
-  - 1.1.1:13.1.6.9:07
+  - 1.1.1:13.1.6.5:03
 source: mcdm.heroes.v1
-type: feature/trait/null/4th-level-feature
+type: feature/trait/null/5th-level-feature
 ---
 
 #### Instant Action

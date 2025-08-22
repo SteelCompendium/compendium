@@ -104,4 +104,4 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 
 **Trigger:** The target takes damage from another creature's ability while in the area of your Null Field ability.
 
-**Effect:** The target takes half the damage, and if the triggering crea ture has I < AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+**Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.

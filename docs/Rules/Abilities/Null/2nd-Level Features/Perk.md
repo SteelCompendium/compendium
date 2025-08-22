@@ -10,7 +10,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.null.2nd-level-feature:perk
 scdc:
-  - 1.1.1:13.1.6.5:02
+  - 1.1.1:13.1.6.6:02
 source: mcdm.heroes.v1
 type: feature/trait/null/2nd-level-feature
 ---

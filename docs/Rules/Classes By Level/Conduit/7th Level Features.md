@@ -47,7 +47,7 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Storm      | Thunderstruck                |
 | Sun        | Light of the Burning Sun     |
 | Trickery   | Trinity of Trickery          |
-| War        | Your Triumphs are Remembered |
+| War        | Your Triumphs Are Remembered |
 
 ##### Blessing of Iron
 

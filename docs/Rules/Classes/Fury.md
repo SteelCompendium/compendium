@@ -177,9 +177,9 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 
 *In your anger, you revert to a more bestial form.*
 
-| **-**            |    **Triggered** |
-| ---------------- | ---------------: |
-| **📏 Ranged 10** | **🎯 One enemy** |
+| **-**       | **Triggered** |
+| ----------- | ------------: |
+| **📏 Self** |   **🎯 Self** |
 
 **Trigger:** You lose Stamina and are not dying.
 
@@ -397,6 +397,12 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 | -------------------------- | ----------------------------: |
 | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
+**Power Roll + Might:**
+
+- **≤11:** 6 damage; push 2
+- **12-16:** 9 damage; push 4
+- **17+:** 13 damage; push 6
+
 **Effect:** The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 
 ###### To the Uttermost End (5 Ferocity)
@@ -421,7 +427,7 @@ As a 2nd-level fury, you gain the following features.
 
 #### Perk
 
-You gain one crafting, exploration, or intrigue perk of your choice. See [Chapter 7: Perks](#dead-link)
+You gain one crafting, exploration, or intrigue perk of your choice. See [Chapter 7: Perks](#dead-link).
 
 #### 2nd-Level Aspect Feature
 
@@ -519,9 +525,9 @@ Choose one of the following abilities.
 
 ##### 2nd-Level Stormwight Ability
 
-Choose one of the following abilities. | |
+Choose one of the following abilities.
 
-###### Apex Predator
+###### Apex Predator (5 Ferocity)
 
 *I will hunt you down.*
 
@@ -1431,7 +1437,7 @@ Your primordial damage type is lightning.
 
 As your ferocity grows, you gain benefits as noted on the Vuken Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-###### Vulken Growing Ferocity Table
+###### Vuken Growing Ferocity Table
 
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

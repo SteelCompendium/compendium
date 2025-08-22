@@ -38,20 +38,20 @@ You gain a domain feature from your domain, as shown on the 4th-Level Censor Dom
 
 ###### 4th-Level Censor Domain Features Table
 
-| Domain     | Feature                     |     |
-| ---------- | --------------------------- | --- |
-| Creation   | Improved Hands of the Maker |     |
-| Death      | Seance                      |     |
-| Fate       | Oracular Warning            |     |
-| Knowledge  | Saint's Epiphany            |     |
-| Life       | Blessing of Life            |     |
-| Love       | Invocation of the Heart     |     |
-| Nature     | Wode Road                   |     |
-| Protection | Impervious Touch            |     |
-| Storm      | Windwalk                    |     |
-| Sun        | Light of Revelation         |     |
-| Trickery   | Blessing of Secrets         |     |
-| War        | Improved Sanctified Weapon  |     |
+| Domain     | Feature                     |
+| ---------- | --------------------------- |
+| Creation   | Improved Hands of the Maker |
+| Death      | Seance                      |
+| Fate       | Oracular Warning            |
+| Knowledge  | Saint's Epiphany            |
+| Life       | Blessing of Life            |
+| Love       | Invocation of the Heart     |
+| Nature     | Wode Road                   |
+| Protection | Impervious Touch            |
+| Storm      | Windwalk                    |
+| Sun        | Light of Revelation         |
+| Trickery   | Blessing of Secrets         |
+| War        | Improved Sanctified Weapon  |
 
 ##### Blessing of Life
 
@@ -65,9 +65,9 @@ You have the following ability.
 
 *You project an illusory aura that makes you and allies harder to notice.*
 
-| **Magic**     |                          **Maneuver** |
-| ------------- | ------------------------------------: |
-| **📏 3 aura** | **🎯 Self and each ally in the area** |
+| **Area, Magic** |                          **Maneuver** |
+| --------------- | ------------------------------------: |
+| **📏 3 aura**   | **🎯 Self and each ally in the area** |
 
 **Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 

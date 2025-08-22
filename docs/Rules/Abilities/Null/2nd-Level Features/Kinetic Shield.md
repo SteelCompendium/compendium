@@ -18,7 +18,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.null.2nd-level-feature:kinetic-shield-5-discipline
 scdc:
-  - 1.1.1:13.2.6.4:05
+  - 1.1.1:13.2.6.5:05
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/null/2nd-level-feature

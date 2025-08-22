@@ -10,7 +10,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.null.2nd-level-feature:inertial-sink
 scdc:
-  - 1.1.1:13.1.6.5:04
+  - 1.1.1:13.1.6.6:04
 source: mcdm.heroes.v1
 type: feature/trait/null/2nd-level-feature
 ---

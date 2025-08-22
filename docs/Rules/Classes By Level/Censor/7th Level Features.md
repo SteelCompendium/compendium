@@ -67,8 +67,6 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 Each time you use your My Life for Yours ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this wrath, it is lost. Additionally, the target of My Life for Yours gains 10 temporary Stamina.
 
-ing the st
-
 ##### Gods' Library
 
 You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see [Chapter 12: Downtime Projects](#page-307-2)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.

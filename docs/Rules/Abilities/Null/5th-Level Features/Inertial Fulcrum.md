@@ -2,17 +2,17 @@
 class: 'null'
 feature_type: trait
 file_basename: Inertial Fulcrum
-file_dpath: Null/4th-Level Features
+file_dpath: Null/5th-Level Features
 item_id: inertial-fulcrum
 item_index: '02'
 item_name: Inertial Fulcrum
-level: 4
+level: 5
 scc:
-  - mcdm.heroes.v1:feature.trait.null.4th-level-feature:inertial-fulcrum
+  - mcdm.heroes.v1:feature.trait.null.5th-level-feature:inertial-fulcrum
 scdc:
-  - 1.1.1:13.1.6.9:02
+  - 1.1.1:13.1.6.5:02
 source: mcdm.heroes.v1
-type: feature/trait/null/4th-level-feature
+type: feature/trait/null/5th-level-feature
 ---
 
 #### Inertial Fulcrum

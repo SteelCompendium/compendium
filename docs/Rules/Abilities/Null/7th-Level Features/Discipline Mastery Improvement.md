@@ -10,7 +10,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.null.7th-level-feature:discipline-mastery-improvement
 scdc:
-  - 1.1.1:13.1.6.8:03
+  - 1.1.1:13.1.6.9:03
 source: mcdm.heroes.v1
 type: feature/trait/null/7th-level-feature
 ---
