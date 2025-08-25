@@ -10,7 +10,7 @@ file_basename: Choke
 file_dpath: Talent/1st-Level Features
 flavor: You crush a foe in a telekinetic grip.
 item_id: choke-3-clarity
-item_index: '22'
+item_index: '23'
 item_name: Choke (3 Clarity)
 keywords:
   - Psionic
@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:choke-3-clarity
 scdc:
-  - 1.1.1:13.2.1.1:22
+  - 1.1.1:13.2.1.1:23
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/talent/1st-level-feature

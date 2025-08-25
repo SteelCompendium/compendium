@@ -6,11 +6,11 @@ item_id: stand-up
 item_index: '03'
 item_name: Stand Up
 scc:
-  - mcdm.heroes.v1:common\_ability.maneuver:stand-up
+  - mcdm.heroes.v1:common-ability.maneuver:stand-up
 scdc:
   - 1.1.1:14.3:03
 source: mcdm.heroes.v1
-type: common\_ability/maneuver
+type: common-ability/maneuver
 ---
 
 #### Stand Up

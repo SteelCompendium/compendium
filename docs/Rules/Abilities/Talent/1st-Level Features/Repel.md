@@ -7,7 +7,7 @@ file_basename: Repel
 file_dpath: Talent/1st-Level Features
 flavor: They aren't going anywhere, but you might!
 item_id: repel
-item_index: '17'
+item_index: '18'
 item_name: Repel
 keywords:
   - Psionic
@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:repel
 scdc:
-  - 1.1.1:13.2.1.1:17
+  - 1.1.1:13.2.1.1:18
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/talent/1st-level-feature

@@ -7,7 +7,7 @@ file_basename: Again
 file_dpath: Talent/1st-Level Features
 flavor: You step back a split second to see if things play out a little differently.
 item_id: again
-item_index: '13'
+item_index: '14'
 item_name: Again
 keywords:
   - Psionic
@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:again
 scdc:
-  - 1.1.1:13.2.1.1:13
+  - 1.1.1:13.2.1.1:14
 source: mcdm.heroes.v1
 target: Self or one creature
 type: feature/ability/talent/1st-level-feature

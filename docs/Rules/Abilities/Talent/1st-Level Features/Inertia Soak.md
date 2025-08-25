@@ -10,7 +10,7 @@ file_basename: Inertia Soak
 file_dpath: Talent/1st-Level Features
 flavor: Your psionic energy surrounds the target and pushes everything else away from them.
 item_id: inertia-soak-5-clarity
-item_index: '12'
+item_index: '13'
 item_name: Inertia Soak (5 Clarity)
 keywords:
   - Psionic
@@ -20,7 +20,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:inertia-soak-5-clarity
 scdc:
-  - 1.1.1:13.2.1.1:12
+  - 1.1.1:13.2.1.1:13
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/talent/1st-level-feature

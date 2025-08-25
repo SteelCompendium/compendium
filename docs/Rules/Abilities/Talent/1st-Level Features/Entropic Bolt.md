@@ -7,7 +7,7 @@ file_basename: Entropic Bolt
 file_dpath: Talent/1st-Level Features
 flavor: You advance an enemy's age for a moment.
 item_id: entropic-bolt
-item_index: '15'
+item_index: '16'
 item_name: Entropic Bolt
 keywords:
   - Chronopathy
@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:entropic-bolt
 scdc:
-  - 1.1.1:13.2.1.1:15
+  - 1.1.1:13.2.1.1:16
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/talent/1st-level-feature

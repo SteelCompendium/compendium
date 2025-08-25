@@ -7,7 +7,7 @@ file_basename: Kinetic Pulse
 file_dpath: Talent/1st-Level Features
 flavor: The force of your mind hurls enemies backward.
 item_id: kinetic-pulse
-item_index: '14'
+item_index: '15'
 item_name: Kinetic Pulse
 keywords:
   - Area
@@ -17,7 +17,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:kinetic-pulse
 scdc:
-  - 1.1.1:13.2.1.1:14
+  - 1.1.1:13.2.1.1:15
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/talent/1st-level-feature

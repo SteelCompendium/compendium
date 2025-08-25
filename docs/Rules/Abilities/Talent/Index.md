@@ -33,6 +33,7 @@ type: index
 | [Iron](../1st-Level%20Features/Iron)                                                     | 5 Clarity  | 1     | ability      | Maneuver    | Ranged 10           | Self or one ally                      |
 | [Kinetic Grip](../1st-Level%20Features/Kinetic%20Grip)                                   |            | 1     | ability      | Main action | Ranged 10           | One creature or object                |
 | [Kinetic Pulse](../1st-Level%20Features/Kinetic%20Pulse)                                 |            | 1     | ability      | Main action | 1 burst             | Each enemy in the area                |
+| [Materialize](../1st-Level%20Features/Materialize)                                       |            | 1     | ability      | Main action | Ranged 10           | One creature or object                |
 | [Mind Spike](../1st-Level%20Features/Mind%20Spike)                                       |            | 1     | ability      | Main action | Ranged 10           | One creature                          |
 | [Minor Telekinesis](../1st-Level%20Features/Minor%20Telekinesis)                         |            | 1     | ability      | Maneuver    | Ranged 10           | Self or one size 1 creature or object |
 | [Optic Blast](../1st-Level%20Features/Optic%20Blast)                                     |            | 1     | ability      | Main action | Ranged 10           | One creature or object                |

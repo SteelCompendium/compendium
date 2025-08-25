@@ -10,7 +10,7 @@ file_basename: Awe
 file_dpath: Talent/1st-Level Features
 flavor: You project psionic energy out to a creature and take on a new visage in their mind.
 item_id: awe-3-clarity
-item_index: '16'
+item_index: '17'
 item_name: Awe (3 Clarity)
 keywords:
   - Psionic
@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:awe-3-clarity
 scdc:
-  - 1.1.1:13.2.1.1:16
+  - 1.1.1:13.2.1.1:17
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/talent/1st-level-feature

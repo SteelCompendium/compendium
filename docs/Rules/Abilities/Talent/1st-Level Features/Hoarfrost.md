@@ -7,7 +7,7 @@ file_basename: Hoarfrost
 file_dpath: Talent/1st-Level Features
 flavor: You blast a foe with a pulse of cold energy.
 item_id: hoarfrost
-item_index: '05'
+item_index: '06'
 item_name: Hoarfrost
 keywords:
   - Cryokinesis
@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:hoarfrost
 scdc:
-  - 1.1.1:13.2.1.1:05
+  - 1.1.1:13.2.1.1:06
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/talent/1st-level-feature

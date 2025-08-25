@@ -68,7 +68,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 *No, this isn't right. That foe was over there!*
 
-| **Area, Magic** |                 **No action** |
+| **Area, Magic** |                  **Maneuver** |
 | --------------- | ----------------------------: |
 | **📏 4 burst**  | **🎯 Each enemy in the area** |
 

@@ -6,11 +6,11 @@ item_id: knockback
 item_index: '05'
 item_name: Knockback
 scc:
-  - mcdm.heroes.v1:common\_ability.maneuver:knockback
+  - mcdm.heroes.v1:common-ability.maneuver:knockback
 scdc:
   - 1.1.1:14.3:05
 source: mcdm.heroes.v1
-type: common\_ability/maneuver
+type: common-ability/maneuver
 ---
 
 #### Knockback

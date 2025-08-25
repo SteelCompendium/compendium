@@ -6,11 +6,11 @@ item_id: disengage
 item_index: '01'
 item_name: Disengage
 scc:
-  - mcdm.heroes.v1:common\_ability.move\_action:disengage
+  - mcdm.heroes.v1:common-ability.move-action:disengage
 scdc:
   - 1.1.1:14.2:01
 source: mcdm.heroes.v1
-type: common\_ability/move\_action
+type: common-ability/move-action
 ---
 
 #### Disengage

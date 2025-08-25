@@ -1,5 +1,5 @@
 ---
-action_type: No action
+action_type: Maneuver
 class: troubadour
 cost: 7 Drama
 cost_amount: 7
@@ -29,7 +29,7 @@ type: feature/ability/troubadour/3rd-level-feature
 
 *No, this isn't right. That foe was over there!*
 
-| **Area, Magic** |                 **No action** |
+| **Area, Magic** |                  **Maneuver** |
 | --------------- | ----------------------------: |
 | **📏 4 burst**  | **🎯 Each enemy in the area** |
 

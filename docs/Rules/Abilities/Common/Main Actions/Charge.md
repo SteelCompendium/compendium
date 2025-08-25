@@ -6,11 +6,11 @@ item_id: charge
 item_index: '03'
 item_name: Charge
 scc:
-  - mcdm.heroes.v1:common\_ability.main\_action:charge
+  - mcdm.heroes.v1:common-ability.main-action:charge
 scdc:
   - 1.1.1:14.1:03
 source: mcdm.heroes.v1
-type: common\_ability/main\_action
+type: common-ability/main-action
 ---
 
 #### Charge

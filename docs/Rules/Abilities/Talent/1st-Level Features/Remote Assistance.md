@@ -7,7 +7,7 @@ file_basename: Remote Assistance
 file_dpath: Talent/1st-Level Features
 flavor: An ally gains the benefit of your intellect.
 item_id: remote-assistance
-item_index: '21'
+item_index: '22'
 item_name: Remote Assistance
 keywords:
   - Psionic
@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:remote-assistance
 scdc:
-  - 1.1.1:13.2.1.1:21
+  - 1.1.1:13.2.1.1:22
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/talent/1st-level-feature

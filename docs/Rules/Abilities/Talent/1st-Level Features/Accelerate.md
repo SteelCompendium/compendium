@@ -7,7 +7,7 @@ file_basename: Accelerate
 file_dpath: Talent/1st-Level Features
 flavor: To your ally, it seems as though the world has slowed down.
 item_id: accelerate
-item_index: '11'
+item_index: '12'
 item_name: Accelerate
 keywords:
   - Psionic
@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:accelerate
 scdc:
-  - 1.1.1:13.2.1.1:11
+  - 1.1.1:13.2.1.1:12
 source: mcdm.heroes.v1
 target: Self or one creature
 type: feature/ability/talent/1st-level-feature

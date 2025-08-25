@@ -6,11 +6,11 @@ item_id: hide
 item_index: 09
 item_name: Hide
 scc:
-  - mcdm.heroes.v1:common\_ability.maneuver:hide
+  - mcdm.heroes.v1:common-ability.maneuver:hide
 scdc:
   - 1.1.1:14.3:09
 source: mcdm.heroes.v1
-type: common\_ability/maneuver
+type: common-ability/maneuver
 ---
 
 #### Hide
