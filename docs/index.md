@@ -24,6 +24,11 @@ This site is backed by a markdown conversion of the PDFs and can be found here:
 instead the data in markdown, json, and yaml formats are available in github.  See the 
 [list of Steel Compendium data repositories](https://steelcompendium.io/#draw-steel-data) for available formats.
 
-Special thanks to Youngy, bnb4444, pfstrack, and many others for their help finding bugs and errors!
+Special thanks to all those that helped finding bugs and errors!
 
+- Youngy 
+- pfstrack
+- bnb4444
 - ectoseamus
+- Cal
+- Many More!
