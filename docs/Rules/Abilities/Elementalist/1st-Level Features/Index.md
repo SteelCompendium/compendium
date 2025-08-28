@@ -7,7 +7,6 @@ type: index
 
 | File Name                                                                             | Cost      | Level | Feature Type | Action Type | Distance         | Target                   |
 | ------------------------------------------------------------------------------------- | --------- | ----- | ------------ | ----------- | ---------------- | ------------------------ |
-| [1st Level Specialization Feature](../1st%20Level%20Specialization%20Feature)         |           | 1     | trait        |             |                  |                          |
 | [Afflict a Bountiful Decay](../Afflict%20a%20Bountiful%20Decay)                       |           | 1     | ability      | Main action | Ranged 10        | One creature             |
 | [Behold the Mystery](../Behold%20the%20Mystery)                                       | 3 Essence | 1     | ability      | Main action | 3 cube within 10 | Each enemy in the area   |
 | [Bifurcated Incineration](../Bifurcated%20Incineration)                               |           | 1     | ability      | Main action | Ranged 10        | Two creatures or objects |

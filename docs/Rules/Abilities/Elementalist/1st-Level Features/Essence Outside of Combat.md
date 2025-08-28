@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Essence Outside of Combat
 file_dpath: Elementalist/1st-Level Features
 item_id: essence-outside-of-combat
-item_index: '16'
+item_index: '15'
 item_name: Essence Outside of Combat
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:essence-outside-of-combat
 scdc:
-  - 1.1.1:13.1.9.1:16
+  - 1.1.1:13.1.9.1:15
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

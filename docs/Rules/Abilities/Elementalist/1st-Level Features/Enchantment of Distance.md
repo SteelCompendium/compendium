@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Enchantment of Distance
 file_dpath: Elementalist/1st-Level Features
 item_id: enchantment-of-distance
-item_index: '18'
+item_index: '17'
 item_name: Enchantment of Distance
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:enchantment-of-distance
 scdc:
-  - 1.1.1:13.1.9.1:18
+  - 1.1.1:13.1.9.1:17
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

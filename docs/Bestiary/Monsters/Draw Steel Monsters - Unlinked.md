@@ -896,7 +896,7 @@ Held: As an especially potent defense, the thing might be possessed by an enemy.
 
 This sort of encounter is all about getting in, grabbing an item, and then getting out. Guards protecting a thing are typically leaders, or other creatures with the brute or defender role. But you might instead have a hidden ambusher guarding the thing! Devious! Harriers and mounts make wonderful additions to these encounters, since they can chase after heroes who manage to obtain the thing. Likewise, controllers who can change or modify terrain, hexers who can slow down heroes, or minions who can clog up hallways can make fleeing with the thing difficult.
 
-#### Map Advice
+##### Map Advice
 
 The placement of the thing or the creature carrying it is important. Make sure the thing isn't simply hanging out in the middle of a wide-open space. Place it somewhere on a map where it's defended by hazards and choke points-and definitely not near an escape route! You'll also want to pick a big map for this type of encounter, since escaping with the thing is part of the challenge and small maps require less movement to achieve success.
 

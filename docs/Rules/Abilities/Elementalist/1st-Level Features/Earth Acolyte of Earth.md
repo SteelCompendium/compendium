@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Earth Acolyte of Earth
 file_dpath: Elementalist/1st-Level Features
 item_id: earth-acolyte-of-earth
-item_index: '17'
+item_index: '16'
 item_name: 'Earth: Acolyte of Earth'
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:earth-acolyte-of-earth
 scdc:
-  - 1.1.1:13.1.9.1:17
+  - 1.1.1:13.1.9.1:16
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

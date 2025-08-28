@@ -16,7 +16,6 @@ type: index
 | [Master of Void](../10th-Level%20Features/Master%20of%20Void)                                              |            | 10    | trait        |             |                   |                                   |
 | [Perk](../10th-Level%20Features/Perk)                                                                      |            | 10    | trait        |             |                   |                                   |
 | [Skill](../10th-Level%20Features/Skill)                                                                    |            | 10    | trait        |             |                   |                                   |
-| [1st Level Specialization Feature](../1st-Level%20Features/1st%20Level%20Specialization%20Feature)         |            | 1     | trait        |             |                   |                                   |
 | [Afflict a Bountiful Decay](../1st-Level%20Features/Afflict%20a%20Bountiful%20Decay)                       |            | 1     | ability      | Main action | Ranged 10         | One creature                      |
 | [Behold the Mystery](../1st-Level%20Features/Behold%20the%20Mystery)                                       | 3 Essence  | 1     | ability      | Main action | 3 cube within 10  | Each enemy in the area            |
 | [Bifurcated Incineration](../1st-Level%20Features/Bifurcated%20Incineration)                               |            | 1     | ability      | Main action | Ranged 10         | Two creatures or objects          |

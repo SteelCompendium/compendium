@@ -7614,7 +7614,7 @@ You have the following ability.
 
 Your elemental specialization grants you a feature, as shown on the 1st-Level Elemental Specialization Features table.
 
-#### 1st-Level Elemental Specialization Features Table
+###### 1st-Level Elemental Specialization Features Table
 
 | Specialization | Feature                    |
 | -------------- | -------------------------- |
