@@ -6,6 +6,13 @@ _This is still a work in progress.  Sorry for the inconvenience._
 
 Steel Compendium Rules is a structured collection of data from the Draw Steel Heroes book.
 
+## Known Issues
+
+- Features that grant Abilities (A Beyonding of Vision, Covenant of the Heart, Disciple of the Green, etc) are missing ([#53](https://github.com/SteelCompendium/data-gen/issues/53))
+- Broken Links
+
+## Sections
+
 - [[Draw Steel Heroes - Unlinked|Draw Steel Heroes]] - Full Heroes book without injected links.
 
 Sections have also been broken out for convenience:
