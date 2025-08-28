@@ -82,6 +82,18 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
+###### No Escape (11 Focus)
+
+*Nothing will stop you from reaching your foe.*
+
+| **Charge, Melee, Strike, Weapon** |     **Main action** |
+| --------------------------------- | ------------------: |
+| **📏 Melee 1**                    | **🎯 One creature** |
+
+**Effect:** You mark the target.
+
+**Power Roll + Might:**
+
 - **≤11:** 11 + M damage
 - **12-16:** 16 + M damage
 - **17+:** 21 + M damage

@@ -46,7 +46,7 @@ type: monster
 > **Power Roll + 2:**
 >
 > - **≤11:** 1 poison damage
-> - **12–16:** 2 poison damage; the pollywog can shift 1 square
+> - **12-16:** 2 poison damage; the pollywog can shift 1 square
 > - **17+:** 3 poison damage; the pollywog shifts up to 3 squares
 
 <!-- -->

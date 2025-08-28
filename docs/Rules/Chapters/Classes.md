@@ -1797,9 +1797,7 @@ You gain one skill of your choice.
 
 You are the ultimate representation of your god's justice in the timescape. Whenever you use your Judgment ability, you can use a free triggered action to use a conduit domain effect (see [Domain Piety and Effects](#page-110-0) in the [Conduit](#page-108-0) section) associated with your chosen domain, or a domain you access with virtue (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your conduit level, use your censor level instead.
 
-Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must
-
-answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
+Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
 While you rest in their presence, your god might also give you priority targets to enact justice upon. You and your allies each have a double edge on power rolls made against such targets. If you attempt to open a portal to your deity again before you have defeated your priority targets, you suffer your god's wrath, as determined by the Director.
 
@@ -8141,9 +8139,9 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 The first time each combat round that you deal damage incorporating 1 or more surges, you gain 2 insight instead of 1.
 
-As a 5th-level shadow, you gain the following features.
-
 ### 5th-Level Features
+
+As a 5th-level shadow, you gain the following features.
 
 #### 5th-Level College Feature
 
@@ -8856,7 +8854,9 @@ While a creature marked by you is within your line of effect, you and allies wit
 - The ability deals extra damage equal to twice your Reason score.
 - The creature dealing the damage can spend a Recovery.
 - The creature dealing the damage can shift up to a number of squares equal to your Reason score.
-- If you damage a creature marked by you with a melee ability, the creature is taunted by you until the end of their next turn. You can't gain more than one benefit from the same trigger.
+- If you damage a creature marked by you with a melee ability, the creature is taunted by you until the end of their next turn.
+
+You can't gain more than one benefit from the same trigger.
 
 #### Strike Now
 
@@ -9098,7 +9098,9 @@ Choose one of the following abilities.
 | --------------- | -------------------: |
 | **📏 Ranged 5** | **🎯 Two creatures** |
 
-**Effect:** Each target is marked by you, and you gain two surges. Mark Benefit: Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.
+**Effect:** Each target is marked by you, and you gain two surges.
+
+**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.
 
 ##### 2nd-Level Vanguard Ability
 
@@ -9613,6 +9615,18 @@ Choose one of the following abilities.
 ##### 9th-Level Vanguard Abilities
 
 Choose one of the following abilities.
+
+###### No Escape (11 Focus)
+
+*Nothing will stop you from reaching your foe.*
+
+| **Charge, Melee, Strike, Weapon** |     **Main action** |
+| --------------------------------- | ------------------: |
+| **📏 Melee 1**                    | **🎯 One creature** |
+
+**Effect:** You mark the target.
+
+**Power Roll + Might:**
 
 - **≤11:** 11 + M damage
 - **12-16:** 16 + M damage
@@ -10705,7 +10719,7 @@ Choose one of the following abilities.
 
 **Strained:** The forced movement ignores stability. You take 2d6 damage and are weakened (save ends).
 
-#### 6th-Level Telepathy Abilities
+##### 6th-Level Telepathy Abilities
 
 Choose one of the following abilities.
 
@@ -10891,7 +10905,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 
-**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-yearold). Additionally, you are weakened and slowed (save ends).
+**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).
 
 ###### Steel (11 Clarity)
 
@@ -11049,7 +11063,7 @@ The first time each combat round that a creature is force moved, you gain 3 clar
 
 #### Omnisensory
 
-You have a +10 bonus to the distance of your ranged abilities. Addition ally, you don't need line of effect to a target of a ranged ability if the target is a creature capable of thought who you have previously had line of effect to.
+You have a +10 bonus to the distance of your ranged abilities. Additionally, you don't need line of effect to a target of a ranged ability if the target is a creature capable of thought who you have previously had line of effect to.
 
 #### Perk
 
@@ -12028,7 +12042,7 @@ Choose one of the following abilities.
 
 - **≤11:** 2 psychic damage; P < WEAK, frightened (save ends)
 - **12-16:** 5 psychic damage; P < AVERAGE, frightened (save ends)
-- **17+:** 7 damage; P < STRONG, frightened (save ends)
+- **17+:** 7 psychic damage; P < STRONG, frightened (save ends)
 
 ###### You're All My Understudies (9 Drama)
 

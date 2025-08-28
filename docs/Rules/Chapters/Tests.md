@@ -387,7 +387,7 @@ Rewards for tests made with skills from this group typically include helping ano
 
 Consequences for tests made with intrigue skills include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
 
-###### Intrigue Skill Table
+###### Intrigue Skills Table
 
 | Skill          | Use                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------------------- |

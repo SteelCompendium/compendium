@@ -231,7 +231,9 @@ While a creature marked by you is within your line of effect, you and allies wit
 - The ability deals extra damage equal to twice your Reason score.
 - The creature dealing the damage can spend a Recovery.
 - The creature dealing the damage can shift up to a number of squares equal to your Reason score.
-- If you damage a creature marked by you with a melee ability, the creature is taunted by you until the end of their next turn. You can't gain more than one benefit from the same trigger.
+- If you damage a creature marked by you with a melee ability, the creature is taunted by you until the end of their next turn.
+
+You can't gain more than one benefit from the same trigger.
 
 #### Strike Now
 
@@ -473,7 +475,9 @@ Choose one of the following abilities.
 | --------------- | -------------------: |
 | **📏 Ranged 5** | **🎯 Two creatures** |
 
-**Effect:** Each target is marked by you, and you gain two surges. Mark Benefit: Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.
+**Effect:** Each target is marked by you, and you gain two surges.
+
+**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.
 
 ##### 2nd-Level Vanguard Ability
 
@@ -988,6 +992,18 @@ Choose one of the following abilities.
 ##### 9th-Level Vanguard Abilities
 
 Choose one of the following abilities.
+
+###### No Escape (11 Focus)
+
+*Nothing will stop you from reaching your foe.*
+
+| **Charge, Melee, Strike, Weapon** |     **Main action** |
+| --------------------------------- | ------------------: |
+| **📏 Melee 1**                    | **🎯 One creature** |
+
+**Effect:** You mark the target.
+
+**Power Roll + Might:**
 
 - **≤11:** 11 + M damage
 - **12-16:** 16 + M damage

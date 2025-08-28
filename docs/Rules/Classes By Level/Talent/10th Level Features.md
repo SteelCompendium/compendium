@@ -26,7 +26,7 @@ The first time each combat round that a creature is force moved, you gain 3 clar
 
 #### Omnisensory
 
-You have a +10 bonus to the distance of your ranged abilities. Addition ally, you don't need line of effect to a target of a ranged ability if the target is a creature capable of thought who you have previously had line of effect to.
+You have a +10 bonus to the distance of your ranged abilities. Additionally, you don't need line of effect to a target of a ranged ability if the target is a creature capable of thought who you have previously had line of effect to.
 
 #### Perk
 

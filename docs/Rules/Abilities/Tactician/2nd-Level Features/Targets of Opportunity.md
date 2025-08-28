@@ -32,4 +32,6 @@ type: feature/ability/tactician/2nd-level-feature
 | --------------- | -------------------: |
 | **📏 Ranged 5** | **🎯 Two creatures** |
 
-**Effect:** Each target is marked by you, and you gain two surges. Mark Benefit: Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.
+**Effect:** Each target is marked by you, and you gain two surges.
+
+**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.

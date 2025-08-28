@@ -47,7 +47,7 @@ type: monster
 > **Power Roll + 2:**
 >
 > - **≤11:** 2 poison damage
-> - **12–16:** 4 poison damage
+> - **12-16:** 4 poison damage
 > - **17+:** 5 poison damage
 >
 > **Effect:** The dart gains an edge on this ability against any target who has less than full Stamina.

@@ -160,9 +160,9 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 > **End Effect:** At the end of each of his turns, Ajax can take 20 damage to end up to two effects on him that can be ended by a saving throw. This damage can't be reduced in any way.
 
 <!-- -->
-> 🗡 **Blade of the Gol King**
+> 🗡 **Blade of the Gol King (Signature Ability)**
 >
-> | **Charge, Magic, Melee, Strike, Weapon** |           **Signature Ability** |
+> | **Charge, Magic, Melee, Strike, Weapon** |                 **Main Action** |
 > | ---------------------------------------- | ------------------------------: |
 > | **📏 Melee 1**                           | **🎯 Two creatures or objects** |
 >

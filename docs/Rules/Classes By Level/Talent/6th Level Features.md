@@ -136,7 +136,7 @@ Choose one of the following abilities.
 
 **Strained:** The forced movement ignores stability. You take 2d6 damage and are weakened (save ends).
 
-#### 6th-Level Telepathy Abilities
+##### 6th-Level Telepathy Abilities
 
 Choose one of the following abilities.
 

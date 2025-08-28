@@ -682,9 +682,9 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 The first time each combat round that you deal damage incorporating 1 or more surges, you gain 2 insight instead of 1.
 
-As a 5th-level shadow, you gain the following features.
-
 ### 5th-Level Features
+
+As a 5th-level shadow, you gain the following features.
 
 #### 5th-Level College Feature
 

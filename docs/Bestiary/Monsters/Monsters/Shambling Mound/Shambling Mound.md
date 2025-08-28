@@ -159,6 +159,8 @@ At the start of a shambling mound's turn, you can spend Malice to activate one o
 >
 > **Trigger:** A creature within distance willingly moves.
 >
+> **Power Roll + 4:**
+>
 > - **≤11:** 7 damage; M < 2 restrained (EoT)
 > - **12-16:** 12 damage; M < 3 restrained (EoT)
 > - **17+:** 15 damage; M < 4 restrained (EoT)

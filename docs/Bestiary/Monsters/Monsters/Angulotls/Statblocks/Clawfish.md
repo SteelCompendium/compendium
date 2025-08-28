@@ -47,7 +47,7 @@ type: monster
 > **Power Roll + 2:**
 >
 > - **≤11:** 2 damage
-> - **12–16:** 4 damage
+> - **12-16:** 4 damage
 > - **17+:** 5 damage; grabbed
 >
 > **Effect:** Any target grabbed this way takes 2 lightning damage at the start of each of their turns.

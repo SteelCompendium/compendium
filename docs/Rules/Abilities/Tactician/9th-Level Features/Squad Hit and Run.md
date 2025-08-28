@@ -10,7 +10,7 @@ file_basename: Squad Hit and Run
 file_dpath: Tactician/9th-Level Features
 flavor: I had to pry this secret from the shadow colleges.
 item_id: squad-hit-and-run-11-focus
-item_index: '05'
+item_index: '06'
 item_name: Squad! Hit and Run! (11 Focus)
 keywords:
   - Ranged
@@ -18,7 +18,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:squad-hit-and-run-11-focus
 scdc:
-  - 1.1.1:13.2.4.7:05
+  - 1.1.1:13.2.4.7:06
 source: mcdm.heroes.v1
 target: Self and two allies
 type: feature/ability/tactician/9th-level-feature

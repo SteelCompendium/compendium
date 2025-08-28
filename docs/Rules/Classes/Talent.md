@@ -1045,7 +1045,7 @@ Choose one of the following abilities.
 
 **Strained:** The forced movement ignores stability. You take 2d6 damage and are weakened (save ends).
 
-#### 6th-Level Telepathy Abilities
+##### 6th-Level Telepathy Abilities
 
 Choose one of the following abilities.
 
@@ -1231,7 +1231,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 
-**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-yearold). Additionally, you are weakened and slowed (save ends).
+**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).
 
 ###### Steel (11 Clarity)
 
@@ -1389,7 +1389,7 @@ The first time each combat round that a creature is force moved, you gain 3 clar
 
 #### Omnisensory
 
-You have a +10 bonus to the distance of your ranged abilities. Addition ally, you don't need line of effect to a target of a ranged ability if the target is a creature capable of thought who you have previously had line of effect to.
+You have a +10 bonus to the distance of your ranged abilities. Additionally, you don't need line of effect to a target of a ranged ability if the target is a creature capable of thought who you have previously had line of effect to.
 
 #### Perk
 

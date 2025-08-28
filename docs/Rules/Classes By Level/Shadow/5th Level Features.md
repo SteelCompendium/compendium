@@ -14,6 +14,8 @@ type: class/level
 
 ### 5th-Level Features
 
+As a 5th-level shadow, you gain the following features.
+
 #### 5th-Level College Feature
 
 Your shadow college grants you a feature, as shown on the 5th-Level College Features table.
