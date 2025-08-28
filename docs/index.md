@@ -25,3 +25,5 @@ instead the data in markdown, json, and yaml formats are available in github.  S
 [list of Steel Compendium data repositories](https://steelcompendium.io/#draw-steel-data) for available formats.
 
 Special thanks to Youngy, bnb4444, pfstrack, and many others for their help finding bugs and errors!
+
+- ectoseamus
