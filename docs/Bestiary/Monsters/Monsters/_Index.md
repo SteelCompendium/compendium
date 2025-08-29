@@ -115,6 +115,8 @@ type: index
 | [Meteor Dragon Malice](../Dragons/Features/Meteor%20Dragon%20Malice)                                 |
 | [Omen Dragon Malice](../Dragons/Features/Omen%20Dragon%20Malice)                                     |
 | [Thorn Dragon Malice](../Dragons/Features/Thorn%20Dragon%20Malice)                                   |
+| [Crucible Dragon](../Dragons/Statblocks/Crucible%20Dragon)                                           |
+| [Gloom Dragon](../Dragons/Statblocks/Gloom%20Dragon)                                                 |
 | [Meteor Dragon](../Dragons/Statblocks/Meteor%20Dragon)                                               |
 | [Omen Dragon](../Dragons/Statblocks/Omen%20Dragon)                                                   |
 | [Thorn Dragon](../Dragons/Statblocks/Thorn%20Dragon)                                                 |

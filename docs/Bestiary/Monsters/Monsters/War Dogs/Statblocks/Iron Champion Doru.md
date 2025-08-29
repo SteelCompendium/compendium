@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 0
 intuition: 4
 item_id: iron-champion-doru
-item_index: '377'
+item_index: '379'
 item_name: Iron Champion Doru
 level: 10
 might: 5
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:iron-champion-doru
 scdc:
-  - 1.1.1:2:377
+  - 1.1.1:2:379
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

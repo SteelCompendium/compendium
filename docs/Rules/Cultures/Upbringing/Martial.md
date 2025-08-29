@@ -8,7 +8,7 @@ item_name: Martial
 scc:
   - mcdm.heroes.v1:culture\_benefit.upbringing:martial
 scdc:
-  - 1.1.1:16.3:01
+  - 1.1.1:17.3:01
 source: mcdm.heroes.v1
 type: culture\_benefit/upbringing
 ---
