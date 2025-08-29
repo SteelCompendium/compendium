@@ -12,6 +12,7 @@ keywords:
   - Melee
   - Strike
   - Weapon
+kit: Dual Wielder
 scc:
   - mcdm.heroes.v1:kit-ability.dual-wielder:double-strike
 scdc:

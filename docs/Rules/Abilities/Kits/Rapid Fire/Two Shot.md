@@ -12,6 +12,7 @@ keywords:
   - Ranged
   - Strike
   - Weapon
+kit: Rapid Fire
 scc:
   - mcdm.heroes.v1:kit-ability.rapid-fire:two-shot
 scdc:

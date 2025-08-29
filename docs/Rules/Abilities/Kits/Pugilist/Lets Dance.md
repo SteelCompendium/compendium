@@ -12,6 +12,7 @@ keywords:
   - Melee
   - Strike
   - Weapon
+kit: Pugilist
 scc:
   - mcdm.heroes.v1:kit-ability.pugilist:lets-dance
 scdc:

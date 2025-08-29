@@ -12,6 +12,7 @@ keywords:
   - Ranged
   - Strike
   - Weapon
+kit: Ranger
 scc:
   - mcdm.heroes.v1:kit-ability.ranger:hamstring-shot
 scdc:

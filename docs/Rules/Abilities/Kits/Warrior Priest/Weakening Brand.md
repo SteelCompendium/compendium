@@ -13,6 +13,7 @@ keywords:
   - Melee
   - Strike
   - Weapon
+kit: Warrior Priest
 scc:
   - mcdm.heroes.v1:kit-ability.warrior-priest:weakening-brand
 scdc:

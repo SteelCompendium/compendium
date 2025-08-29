@@ -12,6 +12,7 @@ keywords:
   - Melee
   - Strike
   - Weapon
+kit: Panther
 scc:
   - mcdm.heroes.v1:kit-ability.panther:devastating-rush
 scdc:

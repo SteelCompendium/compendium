@@ -13,6 +13,7 @@ keywords:
   - Ranged
   - Strike
   - Weapon
+kit: Cloak and Dagger
 scc:
   - mcdm.heroes.v1:kit-ability.cloak-and-dagger:fade
 scdc:

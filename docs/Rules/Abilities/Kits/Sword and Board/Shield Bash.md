@@ -12,6 +12,7 @@ keywords:
   - Melee
   - Strike
   - Weapon
+kit: Sword and Board
 scc:
   - mcdm.heroes.v1:kit-ability.sword-and-board:shield-bash
 scdc:

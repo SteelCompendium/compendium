@@ -12,6 +12,7 @@ keywords:
   - Melee
   - Strike
   - Weapon
+kit: Stick and Robe
 scc:
   - mcdm.heroes.v1:kit-ability.stick-and-robe:where-i-want-you
 scdc:

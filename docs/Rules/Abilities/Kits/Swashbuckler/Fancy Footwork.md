@@ -12,6 +12,7 @@ keywords:
   - Melee
   - Strike
   - Weapon
+kit: Swashbuckler
 scc:
   - mcdm.heroes.v1:kit-ability.swashbuckler:fancy-footwork
 scdc:

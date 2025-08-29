@@ -12,6 +12,7 @@ keywords:
   - Ranged
   - Strike
   - Weapon
+kit: Sniper
 scc:
   - mcdm.heroes.v1:kit-ability.sniper:patient-shot
 scdc:

@@ -13,6 +13,7 @@ keywords:
   - Ranged
   - Strike
   - Weapon
+kit: Arcane Archer
 scc:
   - mcdm.heroes.v1:kit-ability.arcane-archer:exploding-arrow
 scdc:

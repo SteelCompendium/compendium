@@ -12,6 +12,7 @@ keywords:
   - Melee
   - Strike
   - Weapon
+kit: Whirlwind
 scc:
   - mcdm.heroes.v1:kit-ability.whirlwind:extension-of-my-arm
 scdc:

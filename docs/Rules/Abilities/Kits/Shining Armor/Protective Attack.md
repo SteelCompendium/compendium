@@ -12,6 +12,7 @@ keywords:
   - Melee
   - Strike
   - Weapon
+kit: Shining Armor
 scc:
   - mcdm.heroes.v1:kit-ability.shining-armor:protective-attack
 scdc:
