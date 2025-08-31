@@ -31,4 +31,4 @@ Special thanks to all those that helped finding bugs and errors!
 - bnb4444
 - ectoseamus
 - Cal
-- and many More!
+- and many more!
