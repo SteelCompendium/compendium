@@ -2,12 +2,12 @@
 file_basename: High Elf Malice
 file_dpath: Monsters/Elves High/Features
 item_id: high-elf-malice-malice-features
-item_index: '11'
+item_index: '14'
 item_name: High Elf Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:high-elf-malice-malice-features
 scdc:
-  - 1.1.1:2.2:11
+  - 1.1.1:2.2:14
 source: mcdm.monsters.v1
 type: monster/feature
 ---
@@ -22,7 +22,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > Until the end of the round, whenever a high elf uses a magic ability, they can use it as if they were occupying the square of another high elf on the encounter map to whom they have line of effect.
 
 <!-- -->
-> 🔳 \*\*Gift From an Accursed Tome (5 Malice)
+> 🔳 **Gift From an Accursed Tome (5 Malice)**
 >
 > | **Area, Magic**            |               **Main action** |
 > | -------------------------- | ----------------------------: |

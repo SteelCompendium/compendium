@@ -1,18 +1,18 @@
 ---
-file_basename: Orc Malice Malice Features
+file_basename: Orc Malice
 file_dpath: Monsters/Orcs/Features
 item_id: orc-malice-malice-features
-item_index: '13'
-item_name: Orc Malice Malice Features
+item_index: '16'
+item_name: Orc Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:orc-malice-malice-features
 scdc:
-  - 1.1.1:2.2:13
+  - 1.1.1:2.2:16
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Orc Malice Malice Features
+###### Orc Malice (Malice Features)
 
 At the start of any orc's turn, you can spend Malice to activate one of the following features.
 

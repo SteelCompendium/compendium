@@ -5775,25 +5775,6 @@ Not every devil in the Seven Cities wants to ruthlessly ascend the hierarchy. So
 
 Most devils speak Anjal and Caelian, among other languages. The more powerful a devil, the more languages they learn in order to more easily make ironclad contracts with a wide variety of people and cultures. Outside of rare circumstances, devils are always willing to negotiate, ever desiring to twist a situation in their favor.
 
-**<span class="steel-compendium-malice">Devil Malice (Malice Features)</span>**
-
-At the start of any devil's turn, you can spend Malice to activate one of the following features.
-
-<!-- -->
-> 👤 **Bureaucratic Tape (3 Malice)**
->
-> One devil acting this turn uses a signature ability against an adjacent creature. On a tier 3 outcome, the target of the ability has a double bane on strikes (save ends).
-
-<!-- -->
-> ⭐️ **Underhanded Tactics (5+ Malice)**
->
-> One or two devils can teleport to a space adjacent to one or more creatures who aren't hidden and make a free strike. For each 2 additional Malice spent on this feature, one additional devil can teleport.
-
-<!-- -->
-> 🌀 **Read the Small Print (7 Malice)**
->
-> Each enemy in the encounter is subject to a bad deal proposed by the devils. An enemy must choose between having damage weakness 5 or taking a bane on power rolls. The bad deal lasts until the end of the encounter.
-
 <!-- -->
 > **Devil Temptations**
 >
@@ -5812,6 +5793,25 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > **Treasures:** G'Allios Visiting Card, Thief of Joy
 >
 > **Wealth:** Each hero can earn 1 wealth in exchange for a small favor
+
+**<span class="steel-compendium-malice">Devil Malice (Malice Features)</span>**
+
+At the start of any devil's turn, you can spend Malice to activate one of the following features.
+
+<!-- -->
+> 👤 **Bureaucratic Tape (3 Malice)**
+>
+> One devil acting this turn uses a signature ability against an adjacent creature. On a tier 3 outcome, the target of the ability has a double bane on strikes (save ends).
+
+<!-- -->
+> ⭐️ **Underhanded Tactics (5+ Malice)**
+>
+> One or two devils can teleport to a space adjacent to one or more creatures who aren't hidden and make a free strike. For each 2 additional Malice spent on this feature, one additional devil can teleport.
+
+<!-- -->
+> 🌀 **Read the Small Print (7 Malice)**
+>
+> Each enemy in the encounter is subject to a bad deal proposed by the devils. An enemy must choose between having damage weakness 5 or taking a bane on power rolls. The bad deal lasts until the end of the encounter.
 
 **<span class="steel-compendium-statblock">Devil Clerk</span>**
 
@@ -8826,7 +8826,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > Until the end of the round, whenever a high elf uses a magic ability, they can use it as if they were occupying the square of another high elf on the encounter map to whom they have line of effect.
 
 <!-- -->
-> 🔳 \*\*Gift From an Accursed Tome (5 Malice)
+> 🔳 **Gift From an Accursed Tome (5 Malice)**
 >
 > | **Area, Magic**            |               **Main action** |
 > | -------------------------- | ----------------------------: |
@@ -10089,10 +10089,10 @@ At the start of any wode elf's turn, you can spend Malice to activate
 > 🌀 **Vines Everywhere (7 Malice)**
 >
 > Vines rapidly grow across the entire encounter map. Each enemy in the encounter makes an **Agility test**.
-
-- **≤11:** 8 damage; restrained (save ends)
-- **12-16:** Restrained (EoT)
-- **17+:** No effect.
+>
+> - **≤11:** 8 damage; restrained (save ends)
+> - **12-16:** Restrained (EoT)
+> - **17+:** No effect.
 
 **<span class="steel-compendium-statblock">Wode Elf Lookout</span>**
 
@@ -15549,7 +15549,7 @@ Most lizardfolk speak Caelian and their own dialect of Khamish.
 At the start of any lizardfolk's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
-> **Net Trap (3 Malice)**
+> 🔳 **Net Trap (3 Malice)**
 >
 > | **Area, Ranged, Weapon** |   **Maneuver** |
 > | ------------------------ | -------------: |
@@ -17046,7 +17046,7 @@ Orcs rely on giant bipedal lizards called scyzas to carry them over great distan
 
 Most orcs speak Caelian and Kalliak.
 
-**<span class="steel-compendium-malice">Orc Malice Malice Features</span>**
+**<span class="steel-compendium-malice">Orc Malice (Malice Features)</span>**
 
 At the start of any orc's turn, you can spend Malice to activate one of the following features.
 
@@ -26450,7 +26450,7 @@ A wyvern's infamous temper is easily provoked, particularly if their eggs or hat
 
 Wyverns are unable to speak. However, a clever hero carrying a feast of fresh meat might be able to reason with one.
 
-**<span class="steel-compendium-malice">Wyvern Malice Malice Features</span>**
+**<span class="steel-compendium-malice">Wyvern Malice (Malice Features)</span>**
 
 At the start of any wyvern's turn, you can spend Malice to activate one of the following features.
 
