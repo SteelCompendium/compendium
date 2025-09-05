@@ -8,5 +8,5 @@ Steel Compendium Bestiary is a structured collection of data from the Draw Steel
 
 ## Known Issues
 
-- Monster Basics Section is missing data ([#52](https://github.com/SteelCompendium/data-gen/issues/52))
+- Unordered Chapters
 - Broken Links
