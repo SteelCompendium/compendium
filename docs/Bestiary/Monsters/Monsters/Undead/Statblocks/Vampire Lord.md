@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |                    -                     |       Level 7        |         Leader          |         EV 36          |
 | :--------------------------------------: | :--------------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |            **12**<br/> Speed             | **200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -102,22 +102,23 @@ type: monster
 >
 > **Effect:** The vampire turns to mist, filling the area. Until the end of the round, the vampire can't move or be targeted by abilities, but they can use Crimson Embrace against a target in the area. The vampire reforms in an unoccupied space in the area at the end of the round.
 
-☠️ **Sacrifice (Villain Action 3)**
-
-| **Magic, Ranged** |                   **-** |
-| ----------------- | ----------------------: |
-| **📏 Ranged 20**  | **🎯 Each chosen ally** |
-
-**Effect:** Each target is marked for sacrifice. At the end of the round, each target who isn't dead or destroyed takes 50 corruption damage. The vampire then uses the following ability.
-
-**Wave of Blood:**
-
-| **Area, Magic** |                         **-** |
-| --------------- | ----------------------------: |
-| **📏 20 burst** | **🎯 Each enemy in the area** |
-
-**Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action
-
-- **≤11:** 11 corruption damage
-- **12-16:** 8 corruption damage
-- **17+:** 2 corruption damage
+<!-- -->
+> ☠️ **Sacrifice (Villain Action 3)**
+>
+> | **Magic, Ranged** |                   **-** |
+> | ----------------- | ----------------------: |
+> | **📏 Ranged 20**  | **🎯 Each chosen ally** |
+>
+> **Effect:** Each target is marked for sacrifice. At the end of the round, each target who isn't dead or destroyed takes 50 corruption damage. The vampire then uses the following ability.
+>
+> **Wave of Blood:**
+>
+> | **Area, Magic** |                         **-** |
+> | --------------- | ----------------------------: |
+> | **📏 20 burst** | **🎯 Each enemy in the area** |
+>
+> **Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action
+>
+> - **≤11:** 11 corruption damage
+> - **12-16:** 8 corruption damage
+> - **17+:** 2 corruption damage

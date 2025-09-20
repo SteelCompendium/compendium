@@ -132,7 +132,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |             Undead, Soulless             |            -            |      Level 1       |             Minion Harrier              | EV 3 for four minions  |
 | :--------------------------------------: | :---------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |             **1T**<br/> Size             |    **6**<br/> Speed     | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             |   **+2**<br/> Agility   | **-5**<br/> Reason |          **-1**<br/> Intuition          |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -160,7 +160,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |             Undead, Soulless             |          -          |      Level 1       |               Minion Artillery                | EV 3 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **3**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             | **+2**<br/> Agility | **-2**<br/> Reason |             **0**<br/> Intuition              |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -188,7 +188,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |             Undead, Soulless             |          -          |      Level 1       |                   Minion Brute                   | EV 3 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **4**<br/> Speed   | **5**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             | **-2**<br/> Agility | **-5**<br/> Reason |              **-2**<br/> Intuition               |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -214,7 +214,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |              -               |      Level 1       |             Minion Ambusher             | EV 3 for four minions  |
 | :--------------------------------------: | :--------------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **4**<br/> Stamina |          **1**<br/> Stability           | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-5**<br/> Might             |     **+1**<br/> Agility      | **0**<br/> Reason  |          **0**<br/> Intuition           |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -240,7 +240,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |          -          |       Level 1       |      Horde Harrier      |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **7**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             | **+2**<br/> Agility | **-2**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -280,7 +280,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |             Undead, Soulless             |          -          |       Level 1       |     Horde Artillery     |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             | **+2**<br/> Agility | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -323,7 +323,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |              -               |       Level 1       |       Horde Hexer       |          EV 3          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **10**<br/> Stamina |  **1**<br/> Stability   | **1**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-5**<br/> Might             |     **+1**<br/> Agility      | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -360,7 +360,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |          -          |       Level 1       |       Horde Hexer       |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -397,7 +397,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |            -            |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :--------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **7**<br/> Speed     | **15**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -447,7 +447,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |             Undead, Soulless             |          -          |       Level 1       |       Horde Brute       |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **20**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             | **+1**<br/> Agility | **-5**<br/> Reason  |  **-2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -490,7 +490,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |              -               |       Level 1       |         Leader          |         EV 12          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **6**<br/> Speed       | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 3, poison 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 3, poison 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             |     **+2**<br/> Agility      |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -618,7 +618,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |             Undead, Soulless             |          -          |      Level 4       |                   Minion Brute                   | EV 6 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **9**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             | **-1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -646,7 +646,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |            -            |      Level 4       |                  Minion Harrier                  | EV 6 for four minions  |
 | :--------------------------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **7**<br/> Speed     | **8**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             |   **+2**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -679,7 +679,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |             Undead, Soulless             |          -          |      Level 4       |                 Minion Artillery                  | EV 6 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **7**<br/> Stamina |               **0**<br/> Stability                | **3**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             | **+3**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->
@@ -707,7 +707,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |          -          |       Level 4       |     Horde Defender      |          EV 6          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **2**<br/> Size              |  **6**<br/> Speed   | **35**<br/> Stamina |  **2**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             | **+1**<br/> Agility |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -757,7 +757,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |             Undead, Soulless             |          -          |       Level 4        |       Elite Brute       |         EV 24          |
 | :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |             **3**<br/> Size              |  **6**<br/> Speed   | **140**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             | **-1**<br/> Agility |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -796,11 +796,11 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 
 ###### Mummy
 
-|              Mummy, Undead               |          -          |       Level 4       |       Horde Brute       |            EV 6            |
-| :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|             **1M**<br/> Size             |  **5**<br/> Speed   | **50**<br/> Stamina |  **2**<br/> Stability   |   **3**<br/> Free Strike   |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Fire 5**<br/> Weaknesses |
-|            **+3**<br/> Might             | **-1**<br/> Agility | **+1**<br/> Reason  |  **+3**<br/> Intuition  |    **0**<br/> Presence     |
+|              Mummy, Undead               |          -          |       Level 4       |       Horde Brute       |           EV 6           |
+| :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|             **1M**<br/> Size             |  **5**<br/> Speed   | **50**<br/> Stamina |  **2**<br/> Stability   |  **3**<br/> Free Strike  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Fire 5**<br/> Weakness |
+|            **+3**<br/> Might             | **-1**<br/> Agility | **+1**<br/> Reason  |  **+3**<br/> Intuition  |   **0**<br/> Presence    |
 
 <!-- -->
 > 🗡 **Accursed Bindings (Signature Ability)**
@@ -848,7 +848,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |             Undead, Vampire              |            -            |       Level 4       |      Horde Harrier      |          EV 6          |
 | :--------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **5**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             |   **+3**<br/> Agility   | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -887,7 +887,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |              -               |       Level 4       |       Horde Hexer       |          EV 6          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **8**<br/> Speed       | **25**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             |     **+2**<br/> Agility      | **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -932,11 +932,11 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 
 ###### Mummy Lord
 
-|              Mummy, Undead               |          -          |       Level 4        |         Leader          |           EV 24            |
-| :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :------------------------: |
-|             **1M**<br/> Size             |  **6**<br/> Speed   | **155**<br/> Stamina |  **4**<br/> Stability   |   **6**<br/> Free Strike   |
-| **Corruption 6, poison 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Fire 5**<br/> Weaknesses |
-|            **+4**<br/> Might             | **0**<br/> Agility  |  **+2**<br/> Reason  |  **+4**<br/> Intuition  |    **+2**<br/> Presence    |
+|              Mummy, Undead               |          -          |       Level 4        |         Leader          |          EV 24           |
+| :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :----------------------: |
+|             **1M**<br/> Size             |  **6**<br/> Speed   | **155**<br/> Stamina |  **4**<br/> Stability   |  **6**<br/> Free Strike  |
+| **Corruption 6, poison 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Fire 5**<br/> Weakness |
+|            **+4**<br/> Might             | **0**<br/> Agility  |  **+2**<br/> Reason  |  **+4**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Accursed Slam (Signature Ability)**
@@ -1070,7 +1070,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |             Undead, Vampire              |            -            |       Level 7       |             Minion Harrier              | EV 9 for four minions  |
 | :--------------------------------------: | :---------------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **6**<br/> Speed     | **12**<br/> Stamina |          **0**<br/> Stability           | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             |   **+1**<br/> Agility   | **-3**<br/> Reason  |          **+1**<br/> Intuition          |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -1098,7 +1098,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |              -               |       Level 7       |                 Minion Hexer                  | EV 9 for four minions  |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **10**<br/> Stamina |             **1**<br/> Stability              | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-3**<br/> Might             |     **+4**<br/> Agility      | **-5**<br/> Reason  |             **+1**<br/> Intuition             |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -1123,11 +1123,11 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 
 ###### Mummy Rotwrap
 
-|              Mummy, Undead               |          -          |       Level 7       |                   Minion Brute                   |   EV 9 for four minions    |
-| :--------------------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :------------------------: |
-|             **1M**<br/> Size             |  **5**<br/> Speed   | **15**<br/> Stamina |               **1**<br/> Stability               |   **4**<br/> Free Strike   |
-| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to melee distance**<br/> With Captain | **Fire 5**<br/> Weaknesses |
-|            **+4**<br/> Might             | **-2**<br/> Agility | **-2**<br/> Reason  |              **+1**<br/> Intuition               |    **-2**<br/> Presence    |
+|              Mummy, Undead               |          -          |       Level 7       |                   Minion Brute                   |  EV 9 for four minions   |
+| :--------------------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :----------------------: |
+|             **1M**<br/> Size             |  **5**<br/> Speed   | **15**<br/> Stamina |               **1**<br/> Stability               |  **4**<br/> Free Strike  |
+| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to melee distance**<br/> With Captain | **Fire 5**<br/> Weakness |
+|            **+4**<br/> Might             | **-2**<br/> Agility | **-2**<br/> Reason  |              **+1**<br/> Intuition               |   **-2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Fetid Wrappings (Signature Ability)**
@@ -1149,7 +1149,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |                -                |       Level 7       |    Horde Controller     |          EV 9          |
 | :--------------------------------------: | :-----------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **3**<br/> Size              |        **6**<br/> Speed         | **64**<br/> Stamina |  **3**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Burrow, climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Burrow, climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             |       **+1**<br/> Agility       | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -1202,7 +1202,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |              -               |       Level 7       |    Horde Controller     |          EV 9          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **2**<br/> Size              |       **6**<br/> Speed       | **40**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             |     **+4**<br/> Agility      | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1245,7 +1245,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |          -          |       Level 7       |       Horde Hexer       |          EV 9          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **40**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -1288,7 +1288,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |             Undead, Soulless             |          -          |       Level 7       |     Horde Artillery     |          EV 9          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **4**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             | **-2**<br/> Agility | **-4**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -1333,7 +1333,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |             Undead, Vampire              |            -            |       Level 7       |       Horde Hexer       |          EV 9          |
 | :--------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **6**<br/> Speed     | **40**<br/> Stamina |  **3**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             |   **+2**<br/> Agility   | **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1387,7 +1387,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |                    -                     |       Level 7        |         Leader          |         EV 36          |
 | :--------------------------------------: | :--------------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |            **12**<br/> Speed             | **200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -1456,25 +1456,26 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 >
 > **Effect:** The vampire turns to mist, filling the area. Until the end of the round, the vampire can't move or be targeted by abilities, but they can use Crimson Embrace against a target in the area. The vampire reforms in an unoccupied space in the area at the end of the round.
 
-☠️ **Sacrifice (Villain Action 3)**
-
-| **Magic, Ranged** |                   **-** |
-| ----------------- | ----------------------: |
-| **📏 Ranged 20**  | **🎯 Each chosen ally** |
-
-**Effect:** Each target is marked for sacrifice. At the end of the round, each target who isn't dead or destroyed takes 50 corruption damage. The vampire then uses the following ability.
-
-**Wave of Blood:**
-
-| **Area, Magic** |                         **-** |
-| --------------- | ----------------------------: |
-| **📏 20 burst** | **🎯 Each enemy in the area** |
-
-**Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action
-
-- **≤11:** 11 corruption damage
-- **12-16:** 8 corruption damage
-- **17+:** 2 corruption damage
+<!-- -->
+> ☠️ **Sacrifice (Villain Action 3)**
+>
+> | **Magic, Ranged** |                   **-** |
+> | ----------------- | ----------------------: |
+> | **📏 Ranged 20**  | **🎯 Each chosen ally** |
+>
+> **Effect:** Each target is marked for sacrifice. At the end of the round, each target who isn't dead or destroyed takes 50 corruption damage. The vampire then uses the following ability.
+>
+> **Wave of Blood:**
+>
+> | **Area, Magic** |                         **-** |
+> | --------------- | ----------------------------: |
+> | **📏 20 burst** | **🎯 Each enemy in the area** |
+>
+> **Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action
+>
+> - **≤11:** 11 corruption damage
+> - **12-16:** 8 corruption damage
+> - **17+:** 2 corruption damage
 
 ###### Vampires and Sunlight
 
@@ -1530,7 +1531,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |              Undead, Soulless              |          -          |      Level 10       |                   Minion Brute                   | EV 12 for four minions |
 | :----------------------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |              **3**<br/> Size               |  **4**<br/> Speed   | **17**<br/> Stamina |               **5**<br/> Stability               | **5**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+5**<br/> Might              | **-3**<br/> Agility | **-3**<br/> Reason  |              **+1**<br/> Intuition               |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -1556,7 +1557,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |              Undead, Soulless              |          -          |      Level 10       |                Minion Defender                | EV 12 for four minions |
 | :----------------------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |              **1L**<br/> Size              |  **5**<br/> Speed   | **17**<br/> Stamina |             **2**<br/> Stability              | **4**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+3**<br/> Might              | **+5**<br/> Agility | **-2**<br/> Reason  |             **+4**<br/> Intuition             |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -1587,7 +1588,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |                   Undead                   |              -               |      Level 10       |             Minion Harrier              | EV 12 for four minions |
 | :----------------------------------------: | :--------------------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |              **1M**<br/> Size              |       **7**<br/> Speed       | **15**<br/> Stamina |          **1**<br/> Stability           | **4**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |             **-2**<br/> Might              |     **+3**<br/> Agility      | **+1**<br/> Reason  |          **+1**<br/> Intuition          |  **+5**<br/> Presence  |
 
 <!-- -->
@@ -1615,7 +1616,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |              Undead, Soulless              |            -            |      Level 10       |    Horde Controller     |         EV 12          |
 | :----------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **3**<br/> Size               |    **6**<br/> Speed     | **55**<br/> Stamina |  **5**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+5**<br/> Might              |   **-2**<br/> Agility   | **-2**<br/> Reason  |  **+3**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -1655,7 +1656,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |              Undead, Soulless              |              -               |      Level 10       |       Horde Hexer       |         EV 12          |
 | :----------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **1M**<br/> Size              |       **6**<br/> Speed       | **55**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |              **0**<br/> Might              |     **+1**<br/> Agility      | **+5**<br/> Reason  |  **+3**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
