@@ -15,6 +15,20 @@ update push="true":
         # Copy all content over
         cp -R * "${compendium_dir}/docs"
 
+        # "Fix" this index links to work in this mkdocs structure
+        find "${compendium_dir}/docs" -type f -name '_Index.md' -print0 |
+        while IFS= read -r -d '' f; do
+              sed -i -E 's|\]\((.+)\)|](../\1)|g' "$f"
+              sed -i -E 's|File Name|File Name   |g' "$f"
+              sed -i -E 's/^\| (\-+)/| \1---/g' "$f"
+        done
+        find "${compendium_dir}/docs" -type f -name 'Index.md' -print0 |
+        while IFS= read -r -d '' f; do
+            sed -i -E 's|\]\((.+)\)|](../\1)|g' "$f"
+            sed -i -E 's|File Name|File Name   |g' "$f"
+            sed -i -E 's/^\| (\-+)/| \1---/g' "$f"
+        done
+
         # Clean out the extras
         rm -rf "${compendium_dir}/docs/.github" || true
         rm -rf "${compendium_dir}/docs/LICENSE" || true
