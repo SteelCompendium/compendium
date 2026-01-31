@@ -6,7 +6,7 @@ update push="true":
 
     dir="$(mktemp -d)"
     echo >&2 "[INFO] Grabbing compendium markdown..."
-    git clone git@github.com:SteelCompendium/data-md.git "$dir"
+    git clone git@github.com:SteelCompendium/data-md-linked.git "$dir"
     (
         compendium_dir="$(pwd)"
         cd "$dir"
@@ -16,17 +16,20 @@ update push="true":
         cp -R * "${compendium_dir}/docs"
 
         # "Fix" this index links to work in this mkdocs structure
-        find "${compendium_dir}/docs" -type f -name '_Index.md' -print0 |
+        echo >&2 "[INFO] Updating markdown links in index files for mkdocs"
+        find "${compendium_dir}/docs" -type f \( -name 'Index.md' -o -name '_Index.md' \) -print0 |
         while IFS= read -r -d '' f; do
               sed -i -E 's|\]\((.+)\)|](../\1)|g' "$f"
               sed -i -E 's|File Name|File Name   |g' "$f"
               sed -i -E 's/^\| (\-+)/| \1---/g' "$f"
         done
-        find "${compendium_dir}/docs" -type f -name 'Index.md' -print0 |
+
+        # replace placeholder text with actuals
+        echo >&2 "[INFO] Updating markdown links for mkdocs"
+        find "${compendium_dir}/docs" -type f -name '*.md' -print0 |
         while IFS= read -r -d '' f; do
-            sed -i -E 's|\]\((.+)\)|](../\1)|g' "$f"
-            sed -i -E 's|File Name|File Name   |g' "$f"
-            sed -i -E 's/^\| (\-+)/| \1---/g' "$f"
+            sed -i -E 's|\{REL_PATH_PREFIX\}|../|g' "$f"
+            sed -i -E 's|\{REL_PATH_SUFFIX\}||g' "$f"
         done
 
         # Clean out the extras
