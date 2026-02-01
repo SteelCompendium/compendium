@@ -10,10 +10,5 @@
     "aliases": [
       "latest"
     ]
-  },
-  {
-    "version": "develop",
-    "title": "develop",
-    "aliases": []
   }
 ]
