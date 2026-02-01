@@ -1,0 +1,12 @@
+/* The tables used to display abilities should not have headers to avoid sorttable tables */
+th:empty {
+    display: none;
+    value: remove;
+}
+
+.md-grid {
+    max-width: var(--md-max_width);
+}
+
+/* Keeps preferences from getting funky */
+.width-prefs { position: sticky; top: 4rem; padding: .5rem; background: var(--md-default-bg-color); z-index: 3; }
