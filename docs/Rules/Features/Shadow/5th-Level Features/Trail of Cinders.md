@@ -21,4 +21,4 @@ type: feature/trait/shadow/5th-level-feature
 
 Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash Teleport ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to teleport. The creature appears in an unoccupied space adjacent to the space into which you teleported. If no such space exists, they can't teleport with you.
+Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) ability to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D). The creature appears in an unoccupied space adjacent to the space into which you [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D). If no such space exists, they can't [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) with you.

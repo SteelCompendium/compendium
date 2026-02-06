@@ -52,4 +52,4 @@ Choose one of the following abilities.
 > - **12-16:** 5 poison damage
 > - **17+:** 7 poison damage
 >
-> **Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is weakened (save ends).
+> **Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends).

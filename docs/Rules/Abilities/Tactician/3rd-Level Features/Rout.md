@@ -32,4 +32,4 @@ type: feature/ability/tactician/3rd-level-feature
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is frightened of the creature who dealt the damage (save ends).
+**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of the creature who dealt the damage (save ends).

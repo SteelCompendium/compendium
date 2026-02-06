@@ -14,7 +14,7 @@ type: class/tactician/level
 
 ### 9th-Level Features
 
-As a 9th-level tactician, you gain the following features.
+As a 9th-level [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Grandmaster of Arms
 
@@ -52,9 +52,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** R < WEAK, dazed (save ends)
-> - **12-16:** R < AVERAGE, dazed (save ends)
-> - **17+:** R < STRONG, dazed (save ends)
+> - **≤11:** R < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** R < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** R < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 ##### 9th-Level Mastermind Abilities
 

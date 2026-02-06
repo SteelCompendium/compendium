@@ -41,4 +41,4 @@ type: feature/ability/null/1st-level-feature
 - **12-16:** 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
 - **17+:** 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 
-**Effect:** A target who goes out of phase is slowed, has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+**Effect:** A target who goes out of phase is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.

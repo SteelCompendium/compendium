@@ -35,6 +35,6 @@ type: feature/ability/shadow/8th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 11 corruption damage; A < WEAK, restrained (save ends)
-- **12-16:** 16 corruption damage; A < AVERAGE, restrained (save ends)
-- **17+:** 21 corruption damage; A < STRONG, restrained (save ends)
+- **≤11:** 11 corruption damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 16 corruption damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 21 corruption damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)

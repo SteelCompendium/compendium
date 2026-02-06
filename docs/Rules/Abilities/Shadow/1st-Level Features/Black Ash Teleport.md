@@ -30,6 +30,6 @@ type: feature/ability/shadow/1st-level-feature
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You teleport up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+**Effect:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
 
-**Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
+**Spend 1+ Insight:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) 1 additional square for each insight spent.

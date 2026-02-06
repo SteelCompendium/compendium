@@ -38,40 +38,40 @@ If no aid is forthcoming folks assume this is because the gods and saints are al
 
 Most religions in Orden organize themselves into hierarchies and build temples or cathedrals, but some religions are little more than traditions handed down from shaman to shaman, or wise-woman to wise-daughter. Some religions are secret!
 
-Because the gods are forbidden from acting directly upon the world, churches and temples in Orden are consecrated to saints, or heroes. There are no temples to Ord or churches of Cavall. Instead, there is the Church of Zarok the Law-Giver and the Church of Saint Llewellyn the Valiant. Everyone knows which god these heroes and saints serve, it's common knowledge. A human in Vasloria might call out to Cavall for aid in times of need but they know that, should Cavall choose to help, it will be by sending one of his saints.
+Because the gods are forbidden from acting directly upon the world, churches and temples in Orden are consecrated to saints, or heroes. There are no temples to Ord or churches of Cavall. Instead, there is the Church of Zarok the Law-Giver and the Church of Saint Llewellyn the Valiant. Everyone knows which god these heroes and saints serve, it's common knowledge. A [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) in Vasloria might call out to Cavall for aid in times of need but they know that, should Cavall choose to help, it will be by sending one of his saints.
 
 The most popular saints and heroes can have several churches meaning distinct organizations—devoted to them, each with their own rituals. In Corwell, there is the Church of Saint Llewellyn the Valiant, but there is also the smaller Church of Saint Llewellyn the Charitable with only a few temples.
 
 Usually, these churches recognize each other as expressing different, equally valid teachings of the same saint, but occasionally churches compete to see which among them is the "true" church. The saints don't discourage this, so they must, in some sense, approve.
 
-There are churches dedicated to nature or knowledge or the sun, with no clear moral or ethical component to them. There are evil churches, churches devoted to dark saints and tyrant gods. But the saints and heroes listed here each have churches that, however esoteric their teachings (usually referred to as the "speech" or "words" of the saint or hero) expect their clergy to go forth into the world and perform good deeds—tend to the sick, ease pain, perform birth, death, and union rituals. These churches all have acolytes and abbots, censors and conduits. It is not so much that Grole the One-Handed was, in life, principally concerned with the spiritual wellbeing of his *people*, but rather that this is what people expect of *churches*. So, as a religion grows, it soon conforms to the expectations of the people such that even the church of Khorvath Who Slew A Thousand has conduits who heal the sick and tend to the souls of their people.
+There are churches dedicated to nature or knowledge or the sun, with no clear moral or ethical component to them. There are evil churches, churches devoted to dark saints and tyrant gods. But the saints and heroes listed here each have churches that, however esoteric their teachings (usually referred to as the "speech" or "words" of the saint or hero) expect their clergy to go forth into the world and perform good deeds—tend to the sick, ease pain, perform birth, death, and union rituals. These churches all have acolytes and abbots, [censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) and [conduits](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D). It is not so much that Grole the One-Handed was, in life, principally concerned with the spiritual wellbeing of his *people*, but rather that this is what people expect of *churches*. So, as a religion grows, it soon conforms to the expectations of the people such that even the church of Khorvath Who Slew A Thousand has [conduits](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) who heal the sick and tend to the souls of their people.
 
 <!-- -->
 > **How To Use This Chapter**
 >
 > *Draw Steel* isn't about religion any more than it is about language or treasure, but understanding how religion works in a day-to-day sense can help make the game world feel more real. The people in Orden aren't any more religious than the people of Earth were in the premodern era. It is a factor in their lives, but not the only factor—and for some people, not a very important one.
 >
-> Obviously, conduit and censor players can use this chapter to choose a saint, each saint's entry also lists which domains they represent. But each god also has a list of domains, so an enterprising player could just invent a new saint, hero, or herald choosing two domains from a god's list.
+> Obviously, [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) and [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) players can use this chapter to choose a saint, each saint's entry also lists which domains they represent. But each god also has a list of domains, so an enterprising player could just invent a new saint, hero, or herald choosing two domains from a god's list.
 >
 > But any player might wonder, "Does my character follow the teachings of any saint or god?" Think about the people you know in the real world who wear religious or quasi-religious talismans every day. A symbol on a necklace, a sticker on their car, a tattoo. Normal people often carry religious talismans, your character in *Draw Steel* might not be particularly religious, but they might still carry a religious talisman just because it's a family tradition or to remind themselves of the religious instruction they received in church as a child.
 >
-> We wrote a lot of words in this chapter because we wanted to give characters from all ancestries a few choices when it comes to saints and heroes. But your character can ignore all of this if you think religion isn't a big part of their life.
+> We wrote a lot of words in this chapter because we wanted to give characters from all [ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Ancestries%7BREL_PATH_SUFFIX%7D) a few choices when it comes to saints and heroes. But your character can ignore all of this if you think religion isn't a big part of their life.
 
 ### Interspecies Worship
 
-Elves, dwarves, and orcs revere their own creator gods. Val, Ord, and Kul respectively. Humans, uniquely, worship many gods. The difference between the Innumerable Younger Gods of the humans and the Elder Gods who created the other speaking peoples is not well understood.
+Elves, [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), and [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) revere their own creator gods. Val, Ord, and Kul respectively. [Humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), uniquely, worship many gods. The difference between the Innumerable Younger Gods of the [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) and the Elder Gods who created the other speaking peoples is not well understood.
 
-Dwarves mostly venerate dwarf heroes, humans mostly worship human saints, and so on... But this is just a side effect of the fact that members of the same ancestry share the same culture and language and self-assemble along those lines. Any sufficiently large city, regardless of which species founded it, has churches and temples to gods of many species because cities attract people of many different species.
+[Dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) mostly venerate [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) heroes, [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) mostly worship [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) saints, and so on... But this is just a side effect of the fact that members of the same ancestry share the same culture and language and self-assemble along those lines. Any sufficiently large city, regardless of which species founded it, has churches and temples to gods of many species because cities attract people of many different species.
 
 Each culture's pantheon reflects the mores and folkways of the people who live there. In far northern Vanigar, villains in folktales often gain their power by tricking others through clever wordplay. Riddles. Though they are villains, they are clever, and this earns them some respect even from their enemies. So the Vanigar pantheon includes Holkatya, a trickster god.
 
 Whereas Vasloria has no folk tradition of trickster figures, and so has no trickster god. Instead, villains in Vaslorian folktales tend to be people who seek quick ways to power in order to avoid honest work. So Vasloria has the dark god Cyrvis who teaches that magic can subvert fate and make you master of not only your destiny, but also the world. This also reveals the common Vaslorian's attitude toward magic.
 
-The gods of each pantheon tell you what the people of that region value, and what they fear, disapprove of, or distrust. The Vaslorian pantheon is wholly different from the pantheon of Vanigar which is different from the pantheon of Rioja. The gods and saints can hear their worshippers anywhere in the timescape and even small cities can have temples to distant gods of other peoples and regions. All it takes is one dedicated conduit to establish a church of their saint or hero in some distant land.
+The gods of each pantheon tell you what the people of that region value, and what they fear, disapprove of, or distrust. The Vaslorian pantheon is wholly different from the pantheon of Vanigar which is different from the pantheon of Rioja. The gods and saints can hear their worshippers anywhere in the timescape and even small cities can have temples to distant gods of other peoples and regions. All it takes is one dedicated [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) to establish a church of their saint or hero in some distant land.
 
 For instance, the High City of Dalrath, a small barony in northern Aendrim, has a temple to Sektahre the Boatman, a saint of Khemhara, a distant desert region. The people of Dalrath do not find this strange. The priestess of Sektahre does all the same things any native curate would do: perform rituals, heal the sick, and otherwise tend to the spiritual and physical wellbeing of the locals without asking much in return. Some people may be suspicious of a stranger peddling their religion far from home, but yet more people consider the presence of such a priestess a sign that their city must be very important indeed.
 
-Because of all these gods and saints, religion in Orden is a very à la carte affair. There are human heroes in the elf pantheon. There are dwarf saints in many human pantheons. Elder or younger, the gods do not care much about their followers' biology. If you devote your life to the teachings of a god and do good works in their name, you can expect to be rewarded regardless of your ancestry. And, though the Age of Saints is long past, most folk believe it is still possible for a mortal to ascend to sainthood or herodom, even in this late age.
+Because of all these gods and saints, religion in Orden is a very à la carte affair. There are [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) heroes in the elf pantheon. There are [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) saints in many [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) pantheons. Elder or younger, the gods do not care much about their followers' biology. If you devote your life to the teachings of a god and do good works in their name, you can expect to be rewarded regardless of your ancestry. And, though the Age of Saints is long past, most folk believe it is still possible for a mortal to ascend to sainthood or herodom, even in this late age.
 
 Lastly, though rulers across the land instinctively believe the gods are paying more attention to them because they are queens or dukes or the heads of a powerful wizard order or guild... there is no evidence of this. As far as theologists can tell, the gods seem to view every soul as equally worthy. Many of the tales of saints and heroes feature characters of enormous divine power battling over the soul of a normal person with no station or power or inheritance.
 
@@ -89,31 +89,31 @@ Among the people of Vasloria, there are the gods Nikros the Tyrant and Cyrvis th
 
 ### Afterlife in Orden
 
-Folk in Orden believe that most, maybe all, living things have a soul, which is the source of personality, creativity, and memory. The loss of one's soul, either through bargaining with a devil, or being consumed by a demon or otherwise trapped by a warlock, results in slowly losing your personality, your distinctiveness—even memory.
+Folk in Orden believe that most, maybe all, living things have a soul, which is the source of personality, creativity, and memory. The loss of one's soul, either through bargaining with a [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D), or being consumed by a demon or otherwise trapped by a warlock, results in slowly losing your personality, your distinctiveness—even memory.
 
 However, there is no popular idea that everyone's soul is immortal and persists forever after death. Most people believe their soul dissipates after death and becomes one with creation. When asked where the soul goes after death, the elf sage responded by blowing out a candle and asking, "Where did the fire go?"
 
 In some cultures, exceptions are made for those mortals who lived an especially virtuous life.
 
-Much the same way the humans of Vanigar believe the bravest among them live on after death drinking and telling tales at the vigbordh—the wartable—most elves believe that should they live a life of sufficient meaning, should they do great deeds and embody Val's ethos, they earn the right to join Val in Arcadia after death. There they will live in a timeless faerie world, "the world that should have been."
+Much the same way the [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) of Vanigar believe the bravest among them live on after death drinking and telling tales at the vigbordh—the wartable—most elves believe that should they live a life of sufficient meaning, should they do great deeds and embody Val's ethos, they earn the right to join Val in Arcadia after death. There they will live in a timeless faerie world, "the world that should have been."
 
-Most dwarves believe that those members of each generation who best distinguish themselves earn the right to live forever in Ord's memory. This, they believe, is where their heroes go after death. Uniquely among the speaking peoples, the dwarves believe their god is watching them, watching the world. Ord cannot act, but he judges and remembers.
+Most [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) believe that those members of each generation who best distinguish themselves earn the right to live forever in Ord's memory. This, they believe, is where their heroes go after death. Uniquely among the speaking peoples, the [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) believe their god is watching them, watching the world. Ord cannot act, but he judges and remembers.
 
-Some people in Orden, like the hakaan and the orcs believe their ancestors watch over them, although there is no agreement whether their ancestor's souls are watching over them, or just their memory. Or something in between. Sages differ. This belief among the orcs and hakaan is more of an attitude, an assumption, than a religion.
+Some people in Orden, like the [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) and the [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) believe their ancestors watch over them, although there is no agreement whether their ancestor's souls are watching over them, or just their memory. Or something in between. Sages differ. This belief among the [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) and [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) is more of an attitude, an assumption, than a religion.
 
 ### Conduits and Censors
 
-"Conduit" and "censor" are not titles within any church—they are jobs or ranks. An abbot, rector, even a bishop may be, or may have been, a conduit or a censor. Conduits and censors are those members of the church expected to go out into the world and actively, sometimes very actively, represent their saint's ethos. It is for this purpose conduits and censors are given access to powerful prayers.
+"[Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D)" and "[censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D)" are not titles within any church—they are jobs or ranks. An abbot, rector, even a bishop may be, or may have been, a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) or a [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D). [Conduits](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) and [censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) are those members of the church expected to go out into the world and actively, sometimes very actively, represent their saint's ethos. It is for this purpose [conduits](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) and [censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) are given access to powerful prayers.
 
-Any sufficiently large organization has conduits and censors just like they have shadows and wizards. The thieves' guild needs healers, just as the church needs spies! A conduit who works for the thieves' guild still serves their saint which implicitly means the church approves of the guild's activities and the two organizations are at least pointing in the same direction if not actively allied.
+Any sufficiently large organization has [conduits](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) and [censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) just like they have [shadows](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) and wizards. The thieves' guild needs healers, just as the church needs spies! A [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) who works for the thieves' guild still serves their saint which implicitly means the church approves of the guild's activities and the two organizations are at least pointing in the same direction if not actively allied.
 
-Churches have bureaucracy just like any organization and while some prelates, abbots, bishops, or hierarchs are conduits, many are not. They are normal people who serve the church in administrative, political, or bureaucratic roles. While they know the same minor orisons every acolyte and abbot know, they do not go out into the world righting wrongs, and so do not gain access to the powers of the conduit or censor.
+Churches have bureaucracy just like any organization and while some prelates, abbots, bishops, or hierarchs are [conduits](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), many are not. They are normal people who serve the church in administrative, political, or bureaucratic roles. While they know the same minor orisons every acolyte and abbot know, they do not go out into the world righting wrongs, and so do not gain access to the powers of the [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) or [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D).
 
 The prayers acolytes perform in churches are little more than magical rituals. They say the right words, make the right gestures, touch the appropriate fetish or talisman, and wounds close, curses are lifted, blessings bestowed. There's no direct connection in these examples between the acolyte and their god or saint. Though, even a lowly acolyte can expect to find their prayers fall on deaf ears if they fail to uphold the tenets of their faith.
 
-Should the acolyte continue in their studies and deeds and earn the rank of conduit or censor, they gain access to greater prayers granted them by their saint. As they advance in their faith they call upon their saint more directly, and they begin to form a personal relationship with their saint. It is a feeling that develops whereby the conduit learns the... mood, for lack of a better term, of their saint or hero.
+Should the acolyte continue in their studies and deeds and earn the rank of [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) or [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), they gain access to greater prayers granted them by their saint. As they advance in their faith they call upon their saint more directly, and they begin to form a personal relationship with their saint. It is a feeling that develops whereby the [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) learns the... mood, for lack of a better term, of their saint or hero.
 
-As they gain experience, a conduit or censor may even enter into dialogue with their saint. When they call upon their saint for power in battle, their saint personally answers them. They might literally be on first-name terms. At even higher levels, conduits begin to get a sense of the greater power behind the saint or legendary hero: their god, who begins answering prayers directly. They become, in effect, little mini-saints. The pathway from high-level conduit or censor to saint is now obscure, but was once well-known. In earlier ages of the world, it was expected that certain holy heroes who had served their god and saint well would—should appropriately dramatic circumstances reveal themselves—be elevated to sainthood.
+As they gain experience, a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) or [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) may even enter into dialogue with their saint. When they call upon their saint for power in battle, their saint personally answers them. They might literally be on first-name terms. At even higher levels, [conduits](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) begin to get a sense of the greater power behind the saint or legendary hero: their god, who begins answering prayers directly. They become, in effect, little mini-saints. The pathway from high-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) or [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) to saint is now obscure, but was once well-known. In earlier ages of the world, it was expected that certain holy heroes who had served their god and saint well would—should appropriately dramatic circumstances reveal themselves—be elevated to sainthood.
 
 The Deities and Domains table and the Saints and Domains table summarize each of the gods and saints mentioned in this chapter and their available domains.
 
@@ -187,9 +187,9 @@ A Sea of Suns, also known as the Composer.
 
 Credited with inventing harmony, it is said that after she discovered the power of blending many voices into one, the elves sang for an entire century uninterrupted1. The harmonics so complicated they created new beings like faeries, dryads, and the elgenwights.
 
-The Composer discovered, or invented, the power of music to manipulate reality. Her troubadours, it was said, could return the dead to life. "In the music, you can live forever." Legend has it she was at the battle of Kalas Valiar when the first Army of Night besieged its walls. When their corruption engines weakened the impenetrable walls, she stood alone on the parapets and sang. For forty days did her voice bolster the walls, stemming the flood of evil. Her song ended only when her life was taken by A Heart Trapped in Amber, the sorcerer-assassin of the star elves.
+The Composer discovered, or invented, the power of music to manipulate reality. Her [troubadours](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), it was said, could return the dead to life. "In the music, you can live forever." Legend has it she was at the battle of Kalas Valiar when the first Army of Night besieged its walls. When their corruption engines [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) the impenetrable walls, she stood alone on the parapets and sang. For forty days did her voice bolster the walls, stemming the flood of evil. Her song ended only when her life was taken by A Heart Trapped in Amber, the sorcerer-assassin of the star elves.
 
-*1. If this story wasn't invented by the dwarves or humans, it must at least have passed through one of their cultures. The celestials did not reckon time the way younger species do and would not have said "for an entire century."*
+*1. If this story wasn't invented by the [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) or [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), it must at least have passed through one of their cultures. The celestials did not reckon time the way younger species do and would not have said "for an entire century."*
 
 ##### The Taste of Morning
 
@@ -205,7 +205,7 @@ He canonized the idea that knowledge, truth, was a kind of beauty. The Library o
 
 **Domains:** Life, Protection
 
-Ripples of Honey on a Shore of Gold, also known as Warkiller, the Diplomat, was both scholar, sage, and soldier. She served as emissary between the humans and the dragons when the former sought war against the latter. For many years she brokered peace, but she could not stem the tides of war forever.
+Ripples of Honey on a Shore of Gold, also known as Warkiller, the Diplomat, was both scholar, sage, and soldier. She served as emissary between the [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) and the dragons when the former sought war against the latter. For many years she brokered peace, but she could not stem the tides of war forever.
 
 In the end, her efforts failed, and the elder dragons live no more in this world. Like Val, the Diplomat hated war so much, after her failure she sought to pen a new codex. A work so powerful it would bind the world. The Codex Pax Universalis would banish the concept of war from Orden. Alas, in the end she realized there was only one way to finish her great work, and she was not willing to take that final step.
 
@@ -229,21 +229,21 @@ Though she was mighty in warlore, she could not be everywhere. In the end, she s
 
 **Domains:** Nature, Protection
 
-Illwyv li Orchiax, the Moonknight, Marshall of the Gloaming, Manslayer. When humans first arrived in Orden—it is said—they were welcomed by the other speaking peoples. But they were unlike the other creations in the world. While the dwarves cut rock for the ore within, humans cut down trees simply because they were in the way. Other ancestries had their own territories and homelands, but humans sought constant expansion into even the most inhospitable territories.
+Illwyv li Orchiax, the Moonknight, Marshall of the Gloaming, Manslayer. When [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) first arrived in Orden—it is said—they were welcomed by the other speaking peoples. But they were unlike the other creations in the world. While the [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) cut rock for the ore within, [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) cut down trees simply because they were in the way. Other [ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Ancestries%7BREL_PATH_SUFFIX%7D) had their own territories and homelands, but [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) sought constant expansion into even the most inhospitable territories.
 
-Illwyv it was who first realized the folly of treating with these creatures. A great hunter of the Quercus Court, she gathered her band of elite Helriath Harriers and made war on the humans who would kill the wode.
+Illwyv it was who first realized the folly of treating with these creatures. A great hunter of the Quercus Court, she gathered her band of elite Helriath Harriers and made war on the [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) who would kill the wode.
 
 ### Ord
 
 **Domains:** Creation, Knowledge, Protection, Sun, War
 
-Ord, the Maker, the Engineer, is the patron of the dwarves. Ord, along with his siblings Aan, Eth, and Kul, created Orden. These four saw the world as a dynamic expression of their philosophies.
+Ord, the Maker, the Engineer, is the patron of the [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D). Ord, along with his siblings Aan, Eth, and Kul, created Orden. These four saw the world as a dynamic expression of their philosophies.
 
-Ord values integrity, honor, faithfulness to an ideal. Courage in battle and fair play. Treating your opponent honorably, Ord teaches, is an expression of your own worthiness. Ord is associated with permanence, which some elder dwarves take to mean a kind of slavish devotion to tradition. But Ord teaches permanence is the quality of reliability, of steadfastness. Young dwarves who chafe at the stale and stifling traditions of their elders remind the greybeards that Ord is the Maker. He expects his children to create marvels, to bring forth new discoveries, new insights. To remake the world anew each generation.
+Ord values integrity, honor, faithfulness to an ideal. Courage in battle and fair play. Treating your opponent honorably, Ord teaches, is an expression of your own worthiness. Ord is associated with permanence, which some elder [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) take to mean a kind of slavish devotion to tradition. But Ord teaches permanence is the quality of reliability, of steadfastness. Young [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) who chafe at the stale and stifling traditions of their elders remind the greybeards that Ord is the Maker. He expects his children to create marvels, to bring forth new discoveries, new insights. To remake the world anew each generation.
 
 #### Heroes of the Dwarves
 
-The following heroes are venerated by many dwarves and others who follow Ord.
+The following heroes are venerated by many [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) and others who follow Ord.
 
 ##### Zarok the Law-Giver
 
@@ -251,9 +251,9 @@ The following heroes are venerated by many dwarves and others who follow Ord.
 
 Zarok the Law-Giver. Zarok the Teacher. Zarok who is Justice.
 
-The first, great hero of the dwarves, Zarok was a noted general, diplomat, and poet. In his time each dwarf city-state had its own laws which were mostly just lists of offenses with punishments listed next to them. There was no consistency from one city to another and no underlying theory of law. The strong ruled, the rest obeyed.
+The first, great hero of the [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), Zarok was a noted general, diplomat, and poet. In his time each [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) city-state had its own laws which were mostly just lists of offenses with punishments listed next to them. There was no consistency from one city to another and no underlying theory of law. The strong ruled, the rest obeyed.
 
-It was after Zarok retired from his career as a warmaster and became the ambassador to the elves that he undertook a study of how different cultures express the idea of justice. He surveyed the various traditions of elves, humans, and orcs and wrote *The Conversations*-a series of fictional dialogues in which two characters, deliberately chosen from dwarf theater so as to be familiar to his audience, debate the question: "What are the characteristics of a just society?"
+It was after Zarok retired from his career as a warmaster and became the ambassador to the elves that he undertook a study of how different cultures express the idea of justice. He surveyed the various traditions of elves, [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), and [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) and wrote *The Conversations*-a series of fictional dialogues in which two characters, deliberately chosen from [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) theater so as to be familiar to his audience, debate the question: "What are the characteristics of a just society?"
 
 *The Conversations* marks the beginning of legal theory in Orden. It sought not only to state what a just society was, but to prove it ethically through a series of logical statements. Most of the work concerns itself with the proper, ethical uses of political power. The adversarial system of legal representation is his.
 
@@ -269,7 +269,7 @@ Valak-koth the Seeker, the Delver, the Unquenchable Fire, Koth Who Brought Light
 
 She would run, heedless of danger, into the dark caves below and wherever she pointed, marvels were found: metals, gems, fantastic ores. Caves as big as nations. It was Valak-koth it was who first discovered aerithyst, the Sungem, a crystal mineral which glows upon contact with living things.
 
-Valak-koth teaches bravery in the face of the unknown, the virtue of curiosity, to seek endlessly and quest for knowledge, not to fear the darkness. To bring light into dark places. Valak-koth it was who first discovered the World Below, the Dark Under All, though it was not recognized as a separate manifold until after her death. After her death, the original Sungem she found refused to dim. It was enshrined in her temple-tomb, now lost along with the ancient stone dwarf city of Kas Koriar.
+Valak-koth teaches bravery in the face of the unknown, the virtue of curiosity, to seek endlessly and quest for knowledge, not to fear the darkness. To bring light into dark places. Valak-koth it was who first discovered the World Below, the Dark Under All, though it was not recognized as a separate manifold until after her death. After her death, the original Sungem she found refused to dim. It was enshrined in her temple-tomb, now lost along with the ancient stone [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) city of Kas Koriar.
 
 ##### Stakros the Engineer
 
@@ -277,7 +277,7 @@ Valak-koth teaches bravery in the face of the unknown, the virtue of curiosity, 
 
 Stakros the Engineer, the Machine Mind, the Operator, founder of the Order of Fabrication.
 
-Stakros it was—*not* a steel dwarf—who forged the first strife-engine, a great war-walker manned by thirty dwarves. At the battle of Kalas Mithral, the war-walker grappled with the legion of yllindyr the star elves summoned to defeat the walls of the steel dwarf capital.
+Stakros it was—*not* a steel dwarf—who forged the first strife-engine, a great war-walker manned by thirty [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D). At the battle of Kalas Mithral, the war-walker grappled with the legion of yllindyr the star elves summoned to defeat the walls of the steel dwarf capital.
 
 After the war, Stakros turned his talents to peaceful pursuits. He forged the first magma diver, designed to withstand enormous temperatures and pressures, all the while protecting the operator within. Inside his marvel Stakros personally dove into the great volcano Oxor-myr, returning with marvelous ores never before seen in Orden. His design soon evolved into a variety of armored frames to suit a variety of purposes.
 
@@ -289,21 +289,21 @@ Stakros teaches the value of knowledge for knowledge's sake, and the power of th
 
 Kul, Father of Flames, Lord of the Forge, the Cleansing Fire who put fire and magma within the world at its creation.
 
-He saw his sibling gods creating their own children and placing them within the world, and so followed suit, creating the orcs, the last of the original five speaking peoples.
+He saw his sibling gods creating their own children and placing them within the world, and so followed suit, creating the [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D), the last of the original five speaking peoples.
 
 Kul's fire is the fire that destroys, but it is also the fire that creates, the fire of the forge, the fire that makes meat safe to eat, the fire that cauterizes wounds. Kul teaches that action is the defining characteristic of being. Kul's heroes are not philosophers or poets, but warriors and hunters.
 
-Uniquely among the Elder Creator Gods, Kul does not desire worship finds it distasteful. Orcs still call out to Kul in desperate times as "Kul Who Once Spoke." But in those moments, they do not call out for aid—only that Kul witness them, and that they might prove worthy of his attention.
+Uniquely among the Elder Creator Gods, Kul does not desire worship finds it distasteful. [Orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) still call out to Kul in desperate times as "Kul Who Once Spoke." But in those moments, they do not call out for aid—only that Kul witness them, and that they might prove worthy of his attention.
 
 #### Heroes of the Orcs
 
-The following heroes are venerated by many orcs and others who follow Kul.
+The following heroes are venerated by many [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) and others who follow Kul.
 
 ##### Khorvath Who Slew a Thousand
 
 **Domains:** Sun, War
 
-When Khorvath, warleader for the Lightning orc clan set out with her warband of bloodrunners, they numbered less than fifty. When they finally arrived at the Heliopolis, seat of the pharaoh of Khemhara, they had grown to over two thousand orcs from over thirty orc clans, all eager for battle. Legends later swelled that number to ten thousand.
+When Khorvath, warleader for the Lightning [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) clan set out with her warband of bloodrunners, they numbered less than fifty. When they finally arrived at the Heliopolis, seat of the pharaoh of Khemhara, they had grown to over two thousand [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) from over thirty [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) clans, all eager for battle. Legends later swelled that number to ten thousand.
 
 Upon their arrival, the bloodrunners found their prospective employer embattled and surrounded by enemies, the pharaoh's brother having raised rebellion against him. Principally due to Khorvath's help, the pharaoh's brother was killed and his army defeated. But the pharaoh died in the battle, and Khorvath found herself and her warband without a patron in an alien land surrounded by enemies fighting a war of succession.
 
@@ -323,7 +323,7 @@ Success was a double edged sword. The more victories they earned in battle, the 
 
 "We have nothing to fear," Khorvath said. "These people fight for pride, or a bounty. We're fighting for our lives. All it takes is one good punch in the nose and they retreat." And indeed this proved true for many weeks.
 
-Eventually three of the desert tribes allied themselves and this was a coalition that could take a few bloody noses without giving up. They cornered the bloodrunners in a ravine that led to a mountain pass. It was possible to navigate the narrow pass, but only two or three orcs at a time. It would take hours to retreat that way. And the three tribes blocked their way out.
+Eventually three of the desert tribes allied themselves and this was a coalition that could take a few bloody noses without giving up. They cornered the bloodrunners in a ravine that led to a mountain pass. It was possible to navigate the narrow pass, but only two or three [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) at a time. It would take hours to retreat that way. And the three tribes blocked their way out.
 
 Khorvath saw the way. She unwound her mother's hand wraps from her forearms and wrapped them around her own fists. The brown stains on the knuckles made Khorvath proud.
 
@@ -333,17 +333,17 @@ Death Captain Voyrik, eyes wide, whispered Khorvath's name.
 
 Khorvath removed her torque of leadership and handed it to Voyrik. "When you arrive home, give this to my son." She looked at the torque in Voyrik's hands. "Tell him my last thoughts were of him. And that it is my wish that this torque inspire him to great deeds."
 
-The tale of Khorvath's Thirty is still popular among the orcs, though everyone listening understands the "three days of war" is pure fiction, as none of the thirty survived. It is nonetheless broadly taken as true.
+The tale of Khorvath's Thirty is still popular among the [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D), though everyone listening understands the "three days of war" is pure fiction, as none of the thirty survived. It is nonetheless broadly taken as true.
 
 Khorvath's Thirty bought the bloodrunners the time they needed to escape through the pass, and onward unimpeded.
 
-By the time they reached the eastern side of the Myr, Khorvath's name was already a legend, and many bloodrunners wore her clan fetish as their talisman. Scaling the slopes of the Myr was not easy but as the orcs descended down the western face, through the clouds, and saw the endless sea of green that was the Great Wode, they cried out together "Cekana! Cekana!" *The trees! The trees!*
+By the time they reached the eastern side of the Myr, Khorvath's name was already a legend, and many bloodrunners wore her clan fetish as their talisman. Scaling the slopes of the Myr was not easy but as the [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) descended down the western face, through the clouds, and saw the endless sea of green that was the Great Wode, they cried out together "Cekana! Cekana!" *The trees! The trees!*
 
-The ten thousand were not home, but they were home free. For this was territory held by their allies. The church of Khorvath Who Slew a Thousand spread quickly and now all orcs invoke her name whenever faced with a seemingly impossible task.
+The ten thousand were not home, but they were home free. For this was territory held by their allies. The church of Khorvath Who Slew a Thousand spread quickly and now all [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) invoke her name whenever faced with a seemingly impossible task.
 
-Khorvath, like most orc heroes, teaches the virtue of endurance. That great problems are often just many tiny problems in disguise and that by fighting each day as it comes, great battles can be won.
+Khorvath, like most [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) heroes, teaches the virtue of endurance. That great problems are often just many tiny problems in disguise and that by fighting each day as it comes, great battles can be won.
 
-Khorvath Who Slew a Thousand would probably prefer to be remembered as she was in life—Khorvath Who Brought Ten Thousand Home, but even as one of the chief orc heroes, she has little influence over the way the people choose to remember her.
+Khorvath Who Slew a Thousand would probably prefer to be remembered as she was in life—Khorvath Who Brought Ten Thousand Home, but even as one of the chief [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) heroes, she has little influence over the way the people choose to remember her.
 
 Voyrik gave his warleader's torque to her son, who grew to lead the Lightning first as warleader, then chieftain. He was a good ruler for the Lightning.
 
@@ -353,11 +353,11 @@ Voyrik gave his warleader's torque to her son, who grew to lead the Lightning fi
 
 Grole the One-Handed, Grole who Slew the Saint of Skulls, lost his left hand at the Battle of Dur Mothe where he stood alone against the horde of deathless and their master, the living saint Morath of Many Tendrils. Grole thought to buy time for his army to escape the flood of death, but when they saw their warleader grappling alone with the Saint of Rot, they reversed their retreat. When Morath lashed out with his greataxe Viscerator and severed Grole's left hand from his arm, Grole's army surged forward, breaking the tide of deathless.
 
-His army watched as Kul's light descended on their wounded leader, and they knew Grole had been chosen by Kul in that moment. At the last, Grole and Morath fought as equals. Orc hero and dark human saint grappled atop the ancient hill. With his one good hand Grole plunged the Green Fire, his grandmother's saber, into Morath's heart, ending the Saint of Many Tendrils.
+His army watched as Kul's light descended on their wounded leader, and they knew Grole had been chosen by Kul in that moment. At the last, Grole and Morath fought as equals. [Orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) hero and dark [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) saint grappled atop the ancient hill. With his one good hand Grole plunged the Green Fire, his grandmother's saber, into Morath's heart, ending the Saint of Many Tendrils.
 
-Grole teaches the extraordinary deeds common people can accomplish if they cast fear from their minds. It was Grole who said, "Even should an orc be pierced by many arrows, they should still be able to perform one last act of revenge."
+Grole teaches the extraordinary deeds common people can accomplish if they cast fear from their minds. It was Grole who said, "Even should an [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) be pierced by many arrows, they should still be able to perform one last act of revenge."
 
-Grole is the orcish hero of those facing impossible decisions. He is favored by most orcish leaders. Grole teaches that, even alone, even against impossible odds, extraordinary victories are possible. Censors of Grole often dip their left hand in ink before battle to symbolize Grole's missing hand.
+Grole is the orcish hero of those facing impossible decisions. He is favored by most orcish leaders. Grole teaches that, even alone, even against impossible odds, extraordinary victories are possible. [Censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) of Grole often dip their left hand in ink before battle to symbolize Grole's missing hand.
 
 ##### Khravila Who Ran Forty Leagues
 
@@ -365,41 +365,41 @@ Grole is the orcish hero of those facing impossible decisions. He is favored by 
 
 Khravila Who Ran Forty Leagues, The Eternal Runner, Khravila The Unstoppable.
 
-On the eve of a war between elves and humans that would certainly result in the death of many orcs caught between the two great powers, Khravila's dying father had been incapable of deciding what should be done. Equally incapable of choosing who should succeed him as chieftain—his son or daughter.
+On the eve of a war between elves and [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) that would certainly result in the death of many [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) caught between the two great powers, Khravila's dying father had been incapable of deciding what should be done. Equally incapable of choosing who should succeed him as chieftain—his son or daughter.
 
 At the moment of his death, when the god-caller rang the bell of souls officially announcing her father's passing to the tribe, Khravila looked at her brother and saw hesitation. Khravila had never known doubt.
 
-She snatched her tribe's oriflamme from her father's dead hands... and ran. For many leagues she ran and the tales of the creatures—manticores, griffins, chimeras—who barred her passage passed into legend. Orc children still delight at the tricks and wordplay Khravila employed to thwart the beasts, avoid fighting, and continue her epic run.
+She snatched her tribe's oriflamme from her father's dead hands... and ran. For many leagues she ran and the tales of the creatures—manticores, griffins, chimeras—who barred her passage passed into legend. [Orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) children still delight at the tricks and wordplay Khravila employed to thwart the beasts, avoid fighting, and continue her epic run.
 
-Less than five hours after her father died, Khravila arrived at the Astragalus Court, forty leagues from home and while many elements of her legend are certainly mythical, the time and distance are well attested. Khravila held forth the oriflamme and announced that, should the elves continue their assault on the humans, there would be war between them and her tribe. "Chose quickly," she said. "My people are right behind me, and eager for battle." They could not have known she was bluffing.
+Less than five hours after her father died, Khravila arrived at the Astragalus Court, forty leagues from home and while many elements of her legend are certainly mythical, the time and distance are well attested. Khravila held forth the oriflamme and announced that, should the elves continue their assault on the [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), there would be war between them and her tribe. "Chose quickly," she said. "My people are right behind me, and eager for battle." They could not have known she was bluffing.
 
-The elves called off their attacks and Khravila brokered peace between them and the humans. When her brother arrived with their kin folk some hours later—itself an impressive feat—Khravila handed him the oriflamme, and collapsed, dead. It was Khravila the chieftain who ran. It was Khravila the Unstoppable who died, a legendary orc hero.
+The elves called off their attacks and Khravila brokered peace between them and the [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D). When her brother arrived with their kin folk some hours later—itself an impressive feat—Khravila handed him the oriflamme, and collapsed, dead. It was Khravila the chieftain who ran. It was Khravila the Unstoppable who died, a legendary [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) hero.
 
-Khravila teaches the virtue of persistence, endurance, and—above all—wits. Not only the wits necessary to foil the tests that barred her way, but to conceive her legendary plan in the first place, and the dedication to pull it off. "Perhaps another orc could have run," her brother said. "But only Khravila could have bluffed."
+Khravila teaches the virtue of persistence, endurance, and—above all—wits. Not only the wits necessary to foil the tests that barred her way, but to conceive her legendary plan in the first place, and the dedication to pull it off. "Perhaps another [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) could have run," her brother said. "But only Khravila could have bluffed."
 
 #### Heroes of the Hakaan
 
-Most hakaan in Orden are animists. They know and respect the four Elder Gods who created the world and believe these gods watch the world and see what happens within it. But the Hakaan do not create churches or formal belief systems around this attitude.
+Most [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) in Orden are animists. They know and respect the four Elder Gods who created the world and believe these gods watch the world and see what happens within it. But the [Hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) do not create churches or formal belief systems around this attitude.
 
-Instead they believe the world is filled with innumerable nature spirits. Each river, tree, stone, has their own spirit, which the hakaan revere. They have no organized religion in the way the other ancestries in this chapter do, though a hakaan brought up in a city, or among another people, would naturally venerate in whatever gods and saints are worshiped by the folk who raised them.
+Instead they believe the world is filled with innumerable nature spirits. Each river, tree, stone, has their own spirit, which the [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) revere. They have no organized religion in the way the other [ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Ancestries%7BREL_PATH_SUFFIX%7D) in this chapter do, though a [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) brought up in a city, or among another people, would naturally venerate in whatever gods and saints are worshiped by the folk who raised them.
 
-The hakaan know they are descended from stone giants, but they do not think of themselves as stone giants. They know their ancestors were tricked by Holkatya, one of the gods of Vanigar, into trading some of their great strength for the doomsight. But while they respect Holkatya, they do not worship her. Nor do they resent her. She's merely a detail of their history.
+The [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) know they are descended from stone giants, but they do not think of themselves as stone giants. They know their ancestors were tricked by Holkatya, one of the gods of Vanigar, into trading some of their great strength for the doomsight. But while they respect Holkatya, they do not worship her. Nor do they resent her. She's merely a detail of their history.
 
-Hakaan conduits and censors venerate hakaan heroes who, after doing great deeds in life, were chosen by the gods to take their place among the stars, becoming constellations. They see the stars at night as a complex map of legendary hakaan heroes, and their own ancestors who watch from above.
+[Hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) [conduits](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) and [censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) venerate [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) heroes who, after doing great deeds in life, were chosen by the gods to take their place among the stars, becoming constellations. They see the stars at night as a complex map of legendary [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) heroes, and their own ancestors who watch from above.
 
 ##### Mahsiti the Weaver
 
 **Domains:** Creation, Knowledge, Trickery
 
-Mahsiti the Weaver was a fresco painter and mathematician of the hakaan who discovered, or invented, a way of drawing very precise geometric shapes following patterns that repeat at any scale. Believing it could be a new way to devise spells, she took to weaving tapestries using lines of thread to better understand the numerical relationships within the patterns.
+Mahsiti the Weaver was a fresco painter and mathematician of the [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) who discovered, or invented, a way of drawing very precise geometric shapes following patterns that repeat at any scale. Believing it could be a new way to devise spells, she took to weaving tapestries using lines of thread to better understand the numerical relationships within the patterns.
 
 It took time to master weaving, but she took to it quickly and produced a series of essays, each a tapestry, proving correct her suspicions. The Tapestries of Mahsiti are a series of thirteen legendary artifacts of varying sizes, one as small as a napkin, one over two hundred feet long. Each has a powerful spell written into it, available for use by anyone who can read the patterns.
 
-One of Mahsiti's weavings, titled *The Shepherd and the Sheep*, was used by her whole clan when war came to them. The hakaan had no doubt they could defend their home but were equally certain there would be enormous loss of life. Mahsiti suggested they use the tapestry, but the people of her clan did not understand. Use it how? It was simply a picture of a tree in a field with many sheep gathered around it.
+One of Mahsiti's weavings, titled *The Shepherd and the Sheep*, was used by her whole clan when war came to them. The [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) had no doubt they could defend their home but were equally certain there would be enormous loss of life. Mahsiti suggested they use the tapestry, but the people of her clan did not understand. Use it how? It was simply a picture of a tree in a field with many sheep gathered around it.
 
 But this image, as Mahsiti showed, was formed out of thousands of repeating geometric patterns. The tapestry had been a gift from Mahsiti to her chieftain who hung it in their great receiving hall. Mahsiti cast the spell within the tapestry—and walked *into* the tapestry. The people were amazed and followed.
 
-When the enemy army arrived, they found the clan's villages empty, and did not notice the tapestry with hundreds of hakaan depicted within. Once the enemy left, Mahsiti finished the spell, and her people emerged, safe.
+When the enemy army arrived, they found the clan's villages empty, and did not notice the tapestry with hundreds of [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) depicted within. Once the enemy left, Mahsiti finished the spell, and her people emerged, safe.
 
 Mahsiti teaches that art and science, creativity and knowledge, are the same thing. Those who follow her teachings believe that the act of creating, of bringing a new idea or work of art into being, is the act of participating in the same process the gods used to create the world.
 
@@ -413,11 +413,11 @@ After receiving the doomsight, Prexaspes turned his attention to the sun itself.
 
 Years later, Prexaspes' tribe was besieged by hobgoblins and all hope was lost. He begged his chieftain to continue fighting—not abandon their homes. The Astronomer promised an eclipse, and though none doubted his calculations, no one could guess how this could help the beleaguered and besieged people.
 
-But the hakaan trusted their sage, and kept up the fight. When the eclipse came, Prexaspes performed his experimental ritual opening a portal to the sun. A line of golden fire erupted from the portal, evaporating many hobgoblins, but this was just a side-effect of the ritual.
+But the [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) trusted their sage, and kept up the fight. When the eclipse came, Prexaspes performed his experimental ritual opening a portal to the sun. A line of golden fire erupted from the portal, evaporating many hobgoblins, but this was just a side-effect of the ritual.
 
 With his people watching, shielding their eyes from the brilliant light, Prexaspes entered the portal, and emerged on the surface of the sun. In that moment, the people knew this was his doom. He was only gone a few moments, but when he emerged from the portal his flesh was solid sunstuff, and he waded into the remaining battalions of hobgoblins, destroying them with rays of heat and purifying flame.
 
-Though he died in the act, Prexaspes saved his people becoming a hero of all hakaan, taking his place among the stars as a new constellation.
+Though he died in the act, Prexaspes saved his people becoming a hero of all [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D), taking his place among the stars as a new constellation.
 
 Prexaspes teaches that nature is a moral good and is worth defending, and that the sun is the source of power for all life on Orden.
 
@@ -435,13 +435,13 @@ The next year, the rains came again. And this time the lake was already near cap
 
 When the first cracks appeared at the base of the dam, Atossa knew her wyrd was before her. She took a piece of the broken dam back to the village to show the elders. They frowned and wondered what Atossa was up to now, but agreed amongst themselves to go up the valley and inspect the dam in person.
 
-Atossa tried to warn them they were walking to their doom, and became even more agitated when the rest of the village followed. When the elders reached the cracked dam, they sounded no alarm. Instead, they argued and debated, "Chewing their beards"-*rish javid*-the hakaan say about elders who argue instead of acting.
+Atossa tried to warn them they were walking to their doom, and became even more agitated when the rest of the village followed. When the elders reached the cracked dam, they sounded no alarm. Instead, they argued and debated, "Chewing their beards"-*rish javid*-the [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) say about elders who argue instead of acting.
 
 Desperate, Atossa climbed to the top of the dam, and dove into the water, swimming down to the bottom of the lake where she could see the stone cracking. Her people were on the other side.
 
 When the crack widened and water began to pour through at incredible pressure, the people panicked and ran. But Atossa was not worried. This was her doom. She knew what to do.
 
-She let the flowing water carry her toward the widening crack until her body slammed against the stone, blocking the water. The hakaan are famed for being able to hold their breath, but though her people ran as quickly as they could, there was no way Atossa could block the water long enough.
+She let the flowing water carry her toward the widening crack until her body slammed against the stone, blocking the water. The [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) are famed for being able to hold their breath, but though her people ran as quickly as they could, there was no way Atossa could block the water long enough.
 
 When the dam eventually burst and washed away the village, the people were not there. Atossa had bought them the time to run to safety. They walked among the ruins and found her crushed body among the rubble. They knew they would see her again.
 
@@ -451,21 +451,21 @@ Atossa teaches that it is not for the shepherd to judge the flock—only to prot
 
 ### Devil Gods
 
-Devil heroes in Orden usually serve the gods and saints of the culture in which they were raised. Few devils in Orden are from the Seven Cities, most are descended from devils who were stranded on Orden hundreds or thousands of years ago. Devils who are from the Seven Cities have their own unique pantheon.
+[Devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) heroes in Orden usually serve the gods and saints of the culture in which they were raised. Few [devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) in Orden are from the Seven Cities, most are descended from [devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) who were stranded on Orden hundreds or thousands of years ago. [Devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) who are from the Seven Cities have their own unique pantheon.
 
-The Seven Cities have saints just like humans in Orden do but in place of gods, these saints serve the seven Archdukes of Hell, also known as Archdevils or the Lords of Hell. Unlike the gods of Orden, the Lords of Hell are corporeal. Giant figures, 30 feet tall, who each sit upon the throne of their city, projecting their consciousness out into the world, dealing with politics, sorcery, and treachery, manifesting avatars when necessary. They are, effectively, the Gods of Hell.
+The Seven Cities have saints just like [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) in Orden do but in place of gods, these saints serve the seven Archdukes of Hell, also known as Archdevils or the Lords of Hell. Unlike the gods of Orden, the Lords of Hell are corporeal. Giant figures, 30 feet tall, who each sit upon the throne of their city, projecting their consciousness out into the world, dealing with politics, sorcery, and treachery, manifesting avatars when necessary. They are, effectively, the Gods of Hell.
 
-Like the other gods of the timescape, the Lords of Hell are too busy to attend to every petition and request and so employ saints just like other gods. Religion in Hell is superficially similar to religion among the peoples of Orden. There are churches and rites and rituals, but devils tend to view attending church and performing the expected rituals at the appropriate times as akin to paying taxes. Annoying but necessary.
+Like the other gods of the timescape, the Lords of Hell are too busy to attend to every petition and request and so employ saints just like other gods. Religion in Hell is superficially similar to religion among the peoples of Orden. There are churches and rites and rituals, but [devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) tend to view attending church and performing the expected rituals at the appropriate times as akin to paying taxes. Annoying but necessary.
 
 #### Saints of Hell
 
-Like Orden, there are dozens of saints in Hell, some obscure. These three are some of the most popular and the most likely saints for a conduit or censor to follow.
+Like Orden, there are dozens of saints in Hell, some obscure. These three are some of the most popular and the most likely saints for a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) or [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) to follow.
 
 #### Thellasko the Great Designer
 
 **Domains:** Knowledge, War
 
-Thellasko the Great Designer, the Game Master, Saint of Strategy did not invent war—humans in Orden hold that honor. Thellasko invented war simulation. Creating what were effectively games to train cadets and lieutenants at the wartable to ensure victory on the field.
+Thellasko the Great Designer, the Game Master, Saint of Strategy did not invent war—[humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) in Orden hold that honor. Thellasko invented war simulation. Creating what were effectively games to train cadets and lieutenants at the wartable to ensure victory on the field.
 
 Thellasko served in Dispater's army, rising to the rank of major general. He retired with honors after the Battle of the River Rhye, intending to take what he had learned on the field and write a book about the proper way to conduct a war.
 
@@ -527,13 +527,13 @@ Kuryalka features in many folktales in Hell, including "Of the Childe Whomst Kep
 
 ### Human Gods of Vasloria
 
-Like all the Innumerable Younger Gods, the gods of Vasloria embody the attitudes of the people who live in that region. This includes the humans, polder, and draconians of Vasloria.
+Like all the Innumerable Younger Gods, the gods of Vasloria embody the attitudes of the people who live in that region. This includes the [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D), and draconians of Vasloria.
 
 Vasloria is a polytheistic, preindustrial, pre-Enlightenment, feudal culture. Its people have many superstitions and prejudices, some of which are reflected in the teachings of their gods. Adûn, for instance, teaches that hard physical labor is a moral good and people who work hard every day are honest. Most people in Vasloria, especially Aendrim where Adûn's faith is most popular, believe this to one extent or another.
 
 Some of them take it more seriously than others though. People in the most distant villages tend to believe it more literally, while people in the cities are perfectly aware than one may work and work and be a villain. And this is true of most of the beliefs presented in this chapter. Some people take it very seriously; some not so much.
 
-Like all peoples of Orden, the people of Vasloria are well aware there are other gods. They do not particularly think their gods are *better*, just, "These are the local ones who matter to us." A priest of Cavall who journeyed far from Corwell and found themselves in the distant desert land Khemhara could still act as a conduit of Saint Llewellyn the Valiant, but they would look around the Heliopolis and see the animal-headed gods of the Khemharans and the astonishing feats of masonry and astronomy the Khemharans achieved and think: "Well. Obviously the gods of Vasloria aren't that big a deal here, but these gods certainly are!" The peoples of each region of Orden prefer their own gods because they understand them best, not because they think they are "more powerful."
+Like all peoples of Orden, the people of Vasloria are well aware there are other gods. They do not particularly think their gods are *better*, just, "These are the local ones who matter to us." A priest of Cavall who journeyed far from Corwell and found themselves in the distant desert land Khemhara could still act as a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) of Saint Llewellyn the Valiant, but they would look around the Heliopolis and see the animal-headed gods of the Khemharans and the astonishing feats of masonry and astronomy the Khemharans achieved and think: "Well. Obviously the gods of Vasloria aren't that big a deal here, but these gods certainly are!" The peoples of each region of Orden prefer their own gods because they understand them best, not because they think they are "more powerful."
 
 #### Adûn
 
@@ -553,7 +553,7 @@ Adûn and Cavall are brothers and the line between them is not a sharply defined
 
 **Domains:** Love, Protection
 
-Gaed the Confessor, son of Malgen, son of Germoc, was the abbot of a small monastery dedicated to Saint Anthony—Shield of the North—in eastern Aendrim during the rule of the tyrant Baron Kaveran. Kaveran was a secret censor of the church of Saint Pallad, winning the baronial throne though a combination of treachery and good strategic battle principles. Once on the throne, he threw off the black cloth covering the device on his shield, revealing himself to be a servant of Pallad, Saint of Nikros.
+Gaed the Confessor, son of Malgen, son of Germoc, was the abbot of a small monastery dedicated to Saint Anthony—Shield of the North—in eastern Aendrim during the rule of the tyrant Baron Kaveran. Kaveran was a secret [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) of the church of Saint Pallad, winning the baronial throne though a combination of treachery and good strategic battle principles. Once on the throne, he threw off the black cloth covering the device on his shield, revealing himself to be a servant of Pallad, Saint of Nikros.
 
 Kaveran sought to consolidate his rule by extinguishing the church of Saint Anthony, Shield of the North specifically, and worship of Adûn generally. In this, he almost succeeded. Gaed's monastery was small, his province obscure. But as he refused to renounce his faith, his monastery attracted more and more refugees, making it harder and harder for Kaveran to deal with him without causing a revolt.
 
@@ -571,7 +571,7 @@ Gaed teaches the virtue of being true to one's principles even—especially—wh
 
 **Domains:** Creation, Life
 
-Gryffyn the Stout was an infant dwarf when his parents' cart was waylaid by bandits who killed his mother and father, stole all their wares, and set fire to the cart. They were unaware of the child nestled within.
+Gryffyn the Stout was an infant [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) when his parents' cart was waylaid by bandits who killed his mother and father, stole all their wares, and set fire to the cart. They were unaware of the child nestled within.
 
 A nearby farmer saw the flames and rode out to investigate. When she arrived, she could hear the bawling of the dwarf babe. Though wreathed in flame, the infant's skin was too hardy to feel the heat. In the horse's pack were a pair of tongs the farmer used to extract the child without harming herself, and she took the baby dwarf home to her husband.
 
@@ -599,7 +599,7 @@ Cavall believes that mortals cannot live where injustice thrives. To followers o
 
 A watchhouse chaplain is almost certainly a priest of Cavall. A rector serving a small town may be welcome on the town council, but would consider passing judgment on a fellow citizen a breach of duty. The maxim of the church of Saint Gwiddon the Vigilant translates as: "To watch, report, but not to judge." The law, Cavall says, belongs to mortals.
 
-Censors of Cavall, on the other hand, have no such motto. The nobility often sponsor knights of Cavall to roam the countryside and dispense justice in remote wilderness areas where the noble's influence cannot reach.
+[Censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) of Cavall, on the other hand, have no such motto. The nobility often sponsor knights of Cavall to roam the countryside and dispense justice in remote wilderness areas where the noble's influence cannot reach.
 
 Brother to Adûn and patron of the country of Corwell, Cavall also believes that people, no matter how vile, can be bettered. "Let the law judge," said Saint Llewellyn, "Let us forgive."
 
@@ -655,7 +655,7 @@ Saint Llewellyn is Cavall's greatest saint. He teaches that the greatest loyalty
 
 The Red Sun hobgoblins seemed unstoppable. The baron began to think he might need to evacuate the entire barony, else allow his people to be slaughtered. His greatest knights perished against the Red Sun, who wielded some magic that granted them invulnerability.
 
-Then the loremaster came. Zür the wizard, dwarf and master of the Tower of Enchantment arrived. Seeing the need, he opened his tomes and researched what might the hobgoblins might wield. He presented himself to the baron's court with a solution. The Red Sun had found an ancient spring dedicated to a Gol demon-god. The Red Sun hobgoblins had bathed in the spring and awoken the blessing of the demon within and, having bathed in the river, they were now invulnerable.
+Then the loremaster came. Zür the wizard, [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) and master of the Tower of Enchantment arrived. Seeing the need, he opened his tomes and researched what might the hobgoblins might wield. He presented himself to the baron's court with a solution. The Red Sun had found an ancient spring dedicated to a Gol demon-god. The Red Sun hobgoblins had bathed in the spring and awoken the blessing of the demon within and, having bathed in the river, they were now invulnerable.
 
 Zür believed he could remove the enchantment and rob the Red Sun of their power. But the way to the spring was dangerous and he had no guard. The baron was at a loss, his greatest knights were almost all dead, thanks to the Red Sun.
 
@@ -669,15 +669,15 @@ Gwenllian swore to defend the dwarf against all who might come for as long as it
 
 Arriving at the spring which ran red, Zür prepared his weaving. "You understand," he said coating his hands in a rare powder, "that once we begin, we cannot stop, no matter how horrible the fiends the demon sends at us."
 
-Well-versed in the faith of Ord and the dwarves, Gwenllian responded. "Work your ritual, loremaster. And I will make your life worthy of a god's memory."
+Well-versed in the faith of Ord and the [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), Gwenllian responded. "Work your ritual, loremaster. And I will make your life worthy of a god's memory."
 
 For ten days and nine nights, Zür spoke his weaving and lighting sprang from his fingertips as he grappled with the demon of the spring. And horrors came as he did so.
 
 Creatures unseen in Orden, assemblages of organs, teeth, and claws. Animals with too many legs or too few heads. The dead came, trees that walked whose branches dripped blood came. The tale of all
 
-detailed in the Lay of Lady Gwenllian. And while the endurance of the dwarves is well documented, Lady Gwenllian did not falter, did not rest.
+detailed in the Lay of Lady Gwenllian. And while the endurance of the [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) is well documented, Lady Gwenllian did not falter, did not rest.
 
-On the seventh day did a group from the Barony come to tell the dwarf the Red Sun had been defeated. Zür hesitated, but Lady Gwenllian did not. Exhausted, spent, she could not be fooled. She saw through the demon's guise and the men who were not men erupted in tentacles and spines.
+On the seventh day did a group from the Barony come to tell the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) the Red Sun had been defeated. Zür hesitated, but Lady Gwenllian did not. Exhausted, spent, she could not be fooled. She saw through the demon's guise and the men who were not men erupted in tentacles and spines.
 
 Lady Gwenllian dispatched them all.
 
@@ -693,17 +693,17 @@ Gwenllian is the saint of those who stand watch, of all those who must carry a b
 
 Salorna believes that nature is a moral good. That to behave in a manner not in accord with the natural balance (she would never use the word "order") is to commit offense against the gods.
 
-Salorna teaches that humans are a product of nature, so then a tilled farm is as much a natural phenomenon as a forest. Indeed, tilling the land is a form of caring for it. But she also teaches balance in all things. A land of farms and no trees would be just as unnatural to her as a land of all trees and no people.
+Salorna teaches that [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) are a product of nature, so then a tilled farm is as much a natural phenomenon as a forest. Indeed, tilling the land is a form of caring for it. But she also teaches balance in all things. A land of farms and no trees would be just as unnatural to her as a land of all trees and no people.
 
 Felling a tree for lumber is natural. People need lumber to make homes for shelter. This is proper and good. Felling a tree because it's in the way of a road is mere convenience and therefore a moral wrong. Salorna curses a straight road.
 
 Killing for food is likewise natural. People need to eat and the pig knows this as well as the person. Killing for sport is a moral wrong, however. It is unnatural, Salorna says.
 
-A wheel that harnesses the power of the river is a beautiful thing. Humans and river physically connected. A dam that blocks the river is a desecration.
+A wheel that harnesses the power of the river is a beautiful thing. [Humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) and river physically connected. A dam that blocks the river is a desecration.
 
-Some of Salorna's priests are conduits; some are mages of the green. Both seek to preserve the balance and respect for nature. Because much of Vasloria is covered in elven forest, Salorna's druids are also often diplomats to the elves.
+Some of Salorna's priests are [conduits](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D); some are mages of the green. Both seek to preserve the balance and respect for nature. Because much of Vasloria is covered in elven forest, Salorna's druids are also often diplomats to the elves.
 
-Salorna has few censors, but not none! Favoring light armor and ranged weapons, her censors are often mistaken for rangers. They seek to punish those who hunt for sport, or those who would defile the natural order.
+Salorna has few [censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), but not none! Favoring light armor and ranged weapons, her [censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) are often mistaken for rangers. They seek to punish those who hunt for sport, or those who would defile the natural order.
 
 ##### Draighen the Warden
 
@@ -711,13 +711,13 @@ Salorna has few censors, but not none! Favoring light armor and ranged weapons, 
 
 Saint Draighen the Warden, the Ranger, Draighen of the Wood was known in her life for her mastery of the elf haunted wodes which she could cross without incident. Draighen it was who first treated with the derwic, whom even the wode elves had not seen in many ages of the world.
 
-The awakened trees were happy to hear news of the world and while it was impossible for her to satiate their endless curiosity ("How fare the steel dwarves?"), Draighen provided many services for them. Chief among those—locating the Stone of Hyllc a large flagstone infused with magic, which the derwic used as a kind of altar for communing with their creator. Many traditions had the derwic forsworn after the loss of their symbolic meeting-stone, and they were sore grateful to the human who took their problems as her own.
+The awakened trees were happy to hear news of the world and while it was impossible for her to satiate their endless curiosity ("How fare the steel [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D)?"), Draighen provided many services for them. Chief among those—locating the Stone of Hyllc a large flagstone infused with magic, which the derwic used as a kind of altar for communing with their creator. Many traditions had the derwic forsworn after the loss of their symbolic meeting-stone, and they were sore grateful to the [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) who took their problems as her own.
 
 Years later, a fire threatened to engulf the local wode, and the elves within refused all aid. Their stoic refusal to prevent their own extinction infuriated Draighen, whom they already resented because of her special relationship with the walking trees.
 
-Draighen proposed a trick the humans-"the men of farm and field" used when fire threaten to burn their crops after a drought. "Starve the fire," she proposed. The elves, initially curious, rejected her idea as soon as they understood it. "Cut down the trees?!" they exclaimed, and exiled the human.
+Draighen proposed a trick the [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D)-"the men of farm and field" used when fire threaten to burn their crops after a drought. "Starve the fire," she proposed. The elves, initially curious, rejected her idea as soon as they understood it. "Cut down the trees?!" they exclaimed, and exiled the [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D).
 
-Refusing to give up on the elves, even after they chose to die with their forest, Draighen went to the derwic, who immediately praised her plan and were eager to help. The elves of the wode were astonished when Draighen returned with a dozen derwic who immediately began uprooting a line of trees ten miles long and a thousand feet wide. What would have taken the elves or humans many days even working together, the derwic did in an hour. The fire reached the edge of the break the walking trees had made... and died out.
+Refusing to give up on the elves, even after they chose to die with their forest, Draighen went to the derwic, who immediately praised her plan and were eager to help. The elves of the wode were astonished when Draighen returned with a dozen derwic who immediately began uprooting a line of trees ten miles long and a thousand feet wide. What would have taken the elves or [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) many days even working together, the derwic did in an hour. The fire reached the edge of the break the walking trees had made... and died out.
 
 When the elves remarked upon this, taking the derwic to task for their actions, Hurolathornindrascyl, derwic's chief, looked at Draighen in confusion and then pointed to the sea of uprooted trees. "They would have moved on their own if they could! We just helped them along."
 
@@ -747,7 +747,7 @@ Her mother raced to her mother's corpse. And Eriarwen called out.
 
 Eriarwen did not scream or cry, nor call out for aid or even mercy. She did not call to Viras, nor any of her saints. She called out to Salorna the Summer Storm and demanded the Woodland Mistress act.
 
-Eriarwen felt a growing heat and joy in her heart, and, feeling like she could fly, she suddenly saw the world through a million eyes all at once, and where she had stood, a humanoid figure composed entirely of bees filled the space. Eriarwen the Swarm exploded in a cloud of bees and each bee was Eriarwen. She sped across the countryside from one village to the next, stinging every animal affected by the Red Blight, and the villagers watched as the woodland creatures, their own pets and livestock, returned to normal. Good as new! None knew then that it was Eriarwen who saved them, but all knew it must be a member of her family. Who else?
+Eriarwen felt a growing heat and joy in her heart, and, feeling like she could [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), she suddenly saw the world through a million eyes all at once, and where she had stood, a humanoid figure composed entirely of bees filled the space. Eriarwen the Swarm exploded in a cloud of bees and each bee was Eriarwen. She sped across the countryside from one village to the next, stinging every animal affected by the Red Blight, and the villagers watched as the woodland creatures, their own pets and livestock, returned to normal. Good as new! None knew then that it was Eriarwen who saved them, but all knew it must be a member of her family. Who else?
 
 But Eriarwen was just getting started. Returning to her grandmother's corpse, the swarm coalesced and Eriarwen emerged, a young woman again. But her hair was flame and lightning crackled where she walked.
 
@@ -765,7 +765,7 @@ Eriarwen returned to herself, and though she was now an immortal saint, she sens
 
 Eriarwen smiled, and knew the task before her. She conjured lightning from her fingertip, and her grandmother was renewed. Mothers and daughters reunited.
 
-Eriarwen teaches that nature holds the power to destroy—that Mother Nature is also the fury of a hurricane. She preaches revenge against those who would pervert the natural world. And that those who seek to preserve the balance between humans and nature must be willing to take violent action if necessary.
+Eriarwen teaches that nature holds the power to destroy—that Mother Nature is also the [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D) of a hurricane. She preaches revenge against those who would pervert the natural world. And that those who seek to preserve the balance between [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) and nature must be willing to take violent action if necessary.
 
 #### Evil Gods
 
@@ -785,7 +785,7 @@ Though he and Cyrvis are brothers, Nikros hates Cyrvis because Cyrvis is feeble 
 
 Like Cyrvis, his priests worship in secret. Like Cyrvis, folk hate followers of Nikros, while sometimes secretly admiring them. Bullies always have their sycophants.
 
-Nikros's censors take what they want, ignore the law heedless of consequence, and teach that all folk should live thus. To subjugate one's will to the law, or the community, or the family, is to be weak! Weakness is a disease and it must be eradicated!
+Nikros's [censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) take what they want, ignore the law heedless of consequence, and teach that all folk should live thus. To subjugate one's will to the law, or the community, or the family, is to be weak! Weakness is a disease and it must be eradicated!
 
 ##### Pentalion the Paladin
 
@@ -847,13 +847,13 @@ Only a handful of those who dwell on Orden have ever heard of these figures, or 
 
 #### Lords of Law and Chaos
 
-The Space Gods do not concern themselves overmuch with what humans call "ethics." They embody older principles—order, chaos, balance. Each faction thinks their fundamental principles are morality. The universe needs stability, predictability, say the Lords of Law. The only constant is change, say the Lords of Chaos. The truth lies between, say the Lords of Balance.
+The Space Gods do not concern themselves overmuch with what [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) call "ethics." They embody older principles—order, chaos, balance. Each faction thinks their fundamental principles are morality. The universe needs stability, predictability, say the Lords of Law. The only constant is change, say the Lords of Chaos. The truth lies between, say the Lords of Balance.
 
 #### Heralds of the Space Gods
 
 Whether it is a tradition or some real limitation, each Space God has, instead of saints, a single herald—a mortal chosen to be the voice of the Space God and communicate with their worshippers where the god themself cannot due to their alien mind.
 
-These heralds function much the same way as saints. They grant conduits and censors power in battle, but without the moral expectations of Orden's gods. The Space Gods themselves are more capricious, but their heralds often arrive in person to aid their followers and take an active interest in the mortal affairs of the timescape.
+These heralds function much the same way as saints. They grant [conduits](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) and [censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) power in battle, but without the moral expectations of Orden's gods. The Space Gods themselves are more capricious, but their heralds often arrive in person to aid their followers and take an active interest in the mortal affairs of the timescape.
 
 #### Religion in the Timescape
 
@@ -869,7 +869,7 @@ The closest analog to worship in Orden to be found in the upper worlds would be 
 
 The Queen of Suns. A living nebula. Desperate ships in need sometimes find themselves enveloped within Nebular, their systems repairing, their injuries healing.
 
-She is a stellar nursery leaving a trail of infant stars in her wake. Hers is the Engine of Law transforming darkness into light, chaos into order. She is the most popular god among the memonek and the senior god among the Lords of Law insofar as their hierarchy can be discerned by mortal minds.
+She is a stellar nursery leaving a trail of infant stars in her wake. Hers is the Engine of Law transforming darkness into light, chaos into order. She is the most popular god among the [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) and the senior god among the Lords of Law insofar as their hierarchy can be discerned by mortal minds.
 
 She is the goddess of creation and for some of her followers, life itself, as her children's energies feed all life on all worlds. Her priests teach that life is the opposite of entropy, and the natural byproduct of her solar incubator.
 
@@ -895,9 +895,9 @@ Her instincts were precise and correct. The resulting chemonuclear reaction gene
 
 There was only one place to lead them. The surface of Cassiar Prime was a boiling sea of plasma condensate powerful enough to rip planets apart. "It should make short work of these drones," Captain Kalisdrossa thought.
 
-Sword-1 plunged into the fermionic sea, the hull boiling away moments before impact. A million drone-sprites followed into oblivion. Commander Oruth-phor howled his fury into empty space and ordered his ship to envelop the UNISOL capital ship, literally swallow it whole. Grotenhulk the Evolver understood the command and knew it was suicide, but the ship was compelled to obey.
+Sword-1 plunged into the fermionic sea, the hull boiling away moments before impact. A million drone-sprites followed into oblivion. Commander Oruth-phor howled his [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D) into empty space and ordered his ship to envelop the UNISOL capital ship, literally swallow it whole. Grotenhulk the Evolver understood the command and knew it was suicide, but the ship was compelled to obey.
 
-Watching the great maw of the living changeship open to swallow an entire flagship struck terror into every memonek in the fleet.
+Watching the great maw of the living changeship open to swallow an entire flagship struck terror into every [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) in the fleet.
 
 Then, crackling across every signal unit, a voice. "COME FORTH LADY MAGNETAR, CHOSEN OF THE MOTHER OF STARS." And out of the blue plasma sea that was the surface of the star Cassiar Prime arose a figure, humanoid, made of solid boiling plasma.
 
@@ -907,7 +907,7 @@ Lady Magnetar flew across the void of space at lightning speed, evaporating prot
 
 She punched a hole right through the hullskin of the changeship and battled her way, deck by deck, toward the heart of the beast. Though a thousand protean soldiers stood in her way, none could touch her or slow her relentless progress.
 
-The memonek officers and soldiers of UNISOL watched the bleeding changeship convulse, then explode as brilliant shafts of blue light tore the ship apart. Ending the Battle of Cassiar IV.
+The [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) officers and soldiers of UNISOL watched the [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) changeship convulse, then explode as brilliant shafts of blue light tore the ship apart. Ending the Battle of Cassiar IV.
 
 Lady Magnetar is the Herald of Nebulon the Star Mother aiding those who fight in the cause of light and life and order. She is invoked whenever a great sacrifice must be made. "Lady Magnetar, let my sacrifice not be in vain."
 
@@ -949,7 +949,7 @@ Was there a way out? Could the impossible course on the star chart be trusted? I
 
 "There is a way" her brother said, but pulling away from the protean ship would require disabling all the safety circuits preventing the star-engine from going into overload. It might damn them all, but for at least a moment, the ship would have enough power to rip itself away from its parasitic attacker.
 
-Cho'kassa ordered her clan to hold the bridge and seal the door behind her, and she fled alone to the engine room. She picked up a protean rifle as she ran, and though she could hear the battle between the memonek and proteans raging, her path was mercifully clear of enemies.
+Cho'kassa ordered her clan to hold the bridge and seal the door behind her, and she fled alone to the engine room. She picked up a protean rifle as she ran, and though she could hear the battle between the [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) and proteans raging, her path was mercifully clear of enemies.
 
 Finally facing the great star-engine of the UNISOL ship, Cho'kassa punched in the override codes, and used her recovered rifle to blast the shielding off the star core. Bathed in brilliant yellow light that was killing her second by second, Cho'kassa leapt off the gangplank across the safety gap, and into the star core itself.
 
@@ -957,11 +957,11 @@ Others thought this a strange way to end one's life. But Cho'kassa had seen the 
 
 Now part of the ship itself, Cho'kassa could see the relationship between time and space. The Wave Pilot appeared before her, an enigmatic figure made of gold-green light, and conveyed without words the secret. The dark star, Procellon Beta, warped space and time around it, and that was why the plotted chart that appeared on the bridge could not be understood.
 
-The energies of the wounded star-engine ripped through the ship killing the memonek and proteans onboard, but did not breach the door to the bridge. Cho'kassa piloted her new body with her family nestled safely inside through the course the wave pilot had set.
+The energies of the wounded star-engine ripped through the ship killing the [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) and proteans onboard, but did not breach the door to the bridge. Cho'kassa piloted her new body with her family nestled safely inside through the course the wave pilot had set.
 
 The harrowing, twisting path brought the ship close to the horizon of the dark star, through an inverted waveform, and they emerged weeks before they set out. Cho'kassa followed the course until it brought them to the UNISOL ship well before the events that led to the capture of her people.
 
-With her clan manning the blaster turrets, Cho'kassa destroyed the memonek ship. Erasing the timeline in which they had originally been captured.
+With her clan manning the blaster turrets, Cho'kassa destroyed the [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) ship. Erasing the timeline in which they had originally been captured.
 
 "What just happened?" one kuran'zoi asked. "How can we be here, now?"
 

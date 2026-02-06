@@ -14,7 +14,7 @@ type: class/troubadour/level
 
 ### 2nd-Level Features
 
-As a 2nd-level troubadour, you gain the following features.
+As a 2nd-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Appeal to the Muses
 
@@ -52,7 +52,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 #### 2nd-Level Class Act Ability
 
-Your troubadour class act grants your choice of one of two heroic abilities.
+Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Auteur Ability
 

@@ -18,4 +18,4 @@ type: feature/trait/null/9th-level-feature
 
 #### I Am the Weapon
 
-Your Stamina increases by 21 and you can't be made bleeding even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
+Your Stamina increases by 21 and you can't be made [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.

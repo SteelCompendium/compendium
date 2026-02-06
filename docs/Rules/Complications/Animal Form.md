@@ -16,7 +16,7 @@ type: complication
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to burrow or fly, or to automatically climb or swim at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](%7BREL_PATH_PREFIX%7DRules/Movement/Burrow%7BREL_PATH_SUFFIX%7D) or [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), or to automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 

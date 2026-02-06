@@ -17,7 +17,7 @@ type: title/1st-echelon
 
 *I have learned much. It might be your courage that inspires others. Watch your opponent's shield as well as their sword. And above all, stand fast, and do not yield.*
 
-**Prerequisite:** You fight alongside three or more dwarves.
+**Prerequisite:** You fight alongside three or more [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D).
 
 **Effect:** Choose one of the following benefits:
 

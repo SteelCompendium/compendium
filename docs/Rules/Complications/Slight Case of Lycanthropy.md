@@ -20,4 +20,4 @@ Maybe you were bitten as a child, or maybe it's a family curse. Either way, you 
 
 **Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee free strike against the nearest creature if you can. You can shift up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
 
-**Special:** You can't take this complication if you are a fury with the stormwight primordial aspect.
+**Special:** You can't take this complication if you are a [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D) with the stormwight primordial aspect.

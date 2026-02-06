@@ -28,8 +28,8 @@ type: treasure/leveled/weapon
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically grab the target. A target grabbed in this way takes a bane when using the Escape Grab maneuver.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically grab the target. A target [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) in this way takes a bane when using the Escape Grab maneuver.
 
-**5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target grabbed by a strike using the net takes 8 fire damage each time they attempt to escape using the Escape Grab maneuver.
+**5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) by a strike using the net takes 8 fire damage each time they attempt to escape using the Escape Grab maneuver.
 
-**9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a grabbed creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a free strike with another weapon against a target grabbed using the net.
+**9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a free strike with another weapon against a target [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) using the net.

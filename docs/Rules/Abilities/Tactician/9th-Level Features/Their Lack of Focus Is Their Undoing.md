@@ -39,6 +39,6 @@ type: feature/ability/tactician/9th-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** R < WEAK, dazed (save ends)
-- **12-16:** R < AVERAGE, dazed (save ends)
-- **17+:** R < STRONG, dazed (save ends)
+- **≤11:** R < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** R < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** R < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)

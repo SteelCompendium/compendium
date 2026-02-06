@@ -37,6 +37,6 @@ type: feature/ability/conduit/6th-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 8 + I damage; A < WEAK, prone and restrained (save ends)
-- **12-16:** 12 + I damage; A < AVERAGE, prone and restrained (save ends)
-- **17+:** 16 + I damage; A < STRONG, prone and restrained (save ends)
+- **≤11:** 8 + I damage; A < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 12 + I damage; A < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 16 + I damage; A < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)

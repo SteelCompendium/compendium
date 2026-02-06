@@ -37,9 +37,9 @@ type: feature/ability/talent/3rd-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 6 + P damage; P < WEAK, dazed (save ends)
-- **12-16:** 10 + P damage; P < AVERAGE, dazed (save ends)
-- **17+:** 14 + P damage; P < STRONG, dazed (save ends)
+- **≤11:** 6 + P damage; P < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 10 + P damage; P < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 14 + P damage; P < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 **Effect:** The target takes a bane on Presence tests until the end of the encounter.
 

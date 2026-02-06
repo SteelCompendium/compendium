@@ -14,7 +14,7 @@ type: class/shadow/level
 
 ### 3rd-Level Features
 
-As a 3rd-level shadow, you gain the following features.
+As a 3rd-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Careful Observation
 
@@ -61,7 +61,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 > - **12-16:** 13 + A damage
 > - **17+:** 18 + A damage
 >
-> **Effect:** The target is taunted by a willing ally within 5 squares of you until the end of the target's next turn.
+> **Effect:** The target is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by a willing ally within 5 squares of you until the end of the target's next turn.
 
 <!-- -->
 > ###### Pinning Shot (7 Insight)
@@ -74,9 +74,9 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + A damage; A < WEAK, restrained (save ends)
-> - **12-16:** 12 + A damage; A < AVERAGE, restrained (save ends)
-> - **17+:** 16 + A damage; A < STRONG, restrained (save ends)
+> - **≤11:** 8 + A damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 12 + A damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 16 + A damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Staggering Blow (7 Insight)
@@ -89,6 +89,6 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A damage; M < WEAK, slowed (save ends)
-> - **12-16:** 11 + A damage; M < AVERAGE, prone and can't stand (save ends)
-> - **17+:** 16 + A damage; M < STRONG, prone and can't stand (save ends)
+> - **≤11:** 7 + A damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 11 + A damage; M < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
+> - **17+:** 16 + A damage; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)

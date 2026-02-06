@@ -63,7 +63,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 > | ----------------------------- | ----------------------: |
 > | **📏 Ranged 10**              | **🎯 Self or one ally** |
 >
-> **Effect:** The target is teleported to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
+> **Effect:** The target is [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
 >
 > **Power Roll + Reason:**
 >
@@ -82,6 +82,6 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 5 + R fire damage; A < WEAK, restrained (save ends)
-> - **12-16:** 9 + R fire damage; A < AVERAGE, restrained (save ends)
-> - **17+:** 12 + R fire damage; A < STRONG, restrained (save ends)
+> - **≤11:** 5 + R fire damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 12 + R fire damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)

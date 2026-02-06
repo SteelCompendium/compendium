@@ -36,6 +36,6 @@ type: feature/ability/conduit/4th-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 4 corruption damage; I < WEAK, prone and can't stand (save ends)
-- **12-16:** 7 corruption damage; I < AVERAGE, prone and can't stand (save ends)
-- **17+:** 11 corruption damage; I < STRONG, prone and can't stand (save ends)
+- **≤11:** 4 corruption damage; I < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
+- **12-16:** 7 corruption damage; I < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
+- **17+:** 11 corruption damage; I < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)

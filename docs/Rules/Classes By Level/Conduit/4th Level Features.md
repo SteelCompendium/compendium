@@ -14,7 +14,7 @@ type: class/conduit/level
 
 ### 4th-Level Features
 
-As a 4th-level conduit, you gain the following features.
+As a 4th-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Blessed Domain
 
@@ -34,7 +34,7 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 #### 4th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level Conduit Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) Domain Features table.
 
 ###### 4th-Level Conduit Domain Features Table
 
@@ -108,8 +108,8 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ###### Windwalk
 
-While you have 5 or more Victories, you can fly. If you can already fly, you have a +2 bonus to speed while flying instead.
+While you have 5 or more Victories, you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D). If you can already [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), you have a +2 bonus to speed while flying instead.
 
 ###### Wode Road
 
-As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to teleport yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).

@@ -18,7 +18,7 @@ The ritual of Dracogenesis that grants the power to create a generation of drago
 
 The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
 
-Knighthood was a title carried by every member of that first generation of dragon knights. Within the Dragon Phalanx were shadows, censors, tacticians, and elementalists. Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
+Knighthood was a title carried by every member of that first generation of dragon knights. Within the Dragon Phalanx were [shadows](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), [censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), [tacticians](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), and [elementalists](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
 
 Then Ajax came.
 
@@ -28,15 +28,15 @@ The cloaked figure at the back of the inn stood up. As they did so, their hood s
 
 A tall, broad draconian stepped into the light. He was old, his scales battle-scarred. He rested one clawed hand on the pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat, expressionless look was more terrifying than any threatening glower.
 
-The three human bandits took a step back. One of the dwarves just sneered—then, sensing his human compatriots' reluctance, turned to look at them. "What's this?" the lead dwarf growled.
+The three [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) bandits took a step back. One of the [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) just sneered—then, sensing his [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) compatriots' reluctance, turned to look at them. "What's this?" the lead [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) growled.
 
 Looking at the dragon knight, another bandit added quickly, "We didn't know there was one of you here."
 
-The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead dwarf. "Think of the *bounty*," the dwarf hissed to the humans, but he kept his eye on the draconian. "We'll all be *rich*."
+The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D). "Think of the *bounty*," the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) hissed to the [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), but he kept his eye on the draconian. "We'll all be *rich*."
 
-The two dwarves surveyed the tavern. The people were now all facing them. A few had stood up. They weren't afraid anymore.
+The two [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) surveyed the tavern. The people were now all facing them. A few had stood up. They weren't afraid anymore.
 
-"We'll be *back*," the lead dwarf said, and the group of them backed out of the inn, sheathing their shortswords before they turned and left.
+"We'll be *back*," the lead [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) said, and the group of them backed out of the inn, sheathing their shortswords before they turned and left.
 
 As one, the people in the tavern turned to look with undisguised awe at the dragon knight. He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
 
@@ -164,4 +164,4 @@ As a maneuver, you can recite the following oath. Until the start of your next t
 
 ##### Wings (2 Points)
 
-You possess wings powerful enough to take you airborne. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to fly at 3rd level or lower, you have damage weakness 5.
+You possess wings powerful enough to take you airborne. While using your wings to [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) at 3rd level or lower, you have damage weakness 5.

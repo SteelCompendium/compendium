@@ -17,6 +17,6 @@ type: title/3rd-echelon
 
 *Hi! Remember me?*
 
-**Prerequisite:** You die at the hands of your greatest foe, that foe still lives, and you aren't a revenant.
+**Prerequisite:** You die at the hands of your greatest foe, that foe still lives, and you aren't a [revenant](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D).
 
-**Effect:** You are restored to life. You gain the Tough But Withered signature trait from the revenant ancestry.
+**Effect:** You are restored to life. You gain the Tough But Withered signature trait from the [revenant](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D) ancestry.

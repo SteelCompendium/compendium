@@ -14,4 +14,4 @@ type: condition
 
 ##### Taunted
 
-A creature who is taunted has a double bane on ability rolls for any ability that doesn't target the creature who taunted them, as long as they have line of effect to that creature. If a creature gains the taunted condition from one source while already taunted by a different source, the new condition replaces the old one.
+A creature who is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) has a double bane on ability rolls for any ability that doesn't target the creature who [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) them, as long as they have line of effect to that creature. If a creature gains the [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) condition from one source while already [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by a different source, the new condition replaces the old one.

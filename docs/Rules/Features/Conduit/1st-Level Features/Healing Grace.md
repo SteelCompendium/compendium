@@ -35,5 +35,5 @@ You have the following ability, which you can use once on your turn.
 >
 > - You can target one additional ally within distance.
 > - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
-> - A prone target can stand up.
+> - A [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target can stand up.
 > - A target can spend 1 additional Recovery.

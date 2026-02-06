@@ -14,7 +14,7 @@ type: kit
 
 #### Whirlwind
 
-The Whirlwind kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
+The [Whirlwind](%7BREL_PATH_PREFIX%7DRules/Kits/Whirlwind%7BREL_PATH_SUFFIX%7D) kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
 
 ##### Equipment
 

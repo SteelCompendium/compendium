@@ -37,6 +37,6 @@ type: feature/ability/null/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; I < WEAK, dazed and slowed (save ends)
-- **12-16:** 5 + A damage; I < AVERAGE, dazed and slowed (save ends)
-- **17+:** 7 + A damage; I < STRONG, dazed and slowed (save ends)
+- **≤11:** 4 + A damage; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 5 + A damage; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 7 + A damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)

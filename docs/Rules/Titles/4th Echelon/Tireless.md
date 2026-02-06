@@ -17,10 +17,10 @@ type: title/4th-echelon
 
 *To reach Giant's Foot by dawn, we'll have to run every step of the way. Let's get moving.*
 
-**Prerequisite:** You have the Unstoppable title, and you make or assist on a test as part of a montage test that obtains a full success.
+**Prerequisite:** You have the \[Unstoppable\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd Echelon/Unstoppable) title, and you make or assist on a test as part of a montage test that obtains a full success.
 
 **Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Bounce Back Fast:* Whenever you rest for 8 hours or more, you can gain the benefit of a respite. Once you use this benefit, you can't use it again until you have taken a regular respite.
 - *Reserves of Strength:* Your recovery value is half your Stamina
-- *Undying:* You can't be affected by the bleeding condition.
+- *Undying:* You can't be affected by the [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) condition.

@@ -39,8 +39,8 @@ type: feature/ability/tactician/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 4 + M damage; R < WEAK, weakened (save ends)
-- **12-16:** 6 + M damage; R < AVERAGE, weakened (save ends)
-- **17+:** 10 + M damage; R < STRONG, weakened (save ends)
+- **≤11:** 4 + M damage; R < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 6 + M damage; R < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 10 + M damage; R < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 
 **Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.

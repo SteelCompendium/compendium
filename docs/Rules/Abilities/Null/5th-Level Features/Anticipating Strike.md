@@ -39,8 +39,8 @@ type: feature/ability/null/5th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 7 + A damage; I < WEAK, restrained (save ends)
-- **12-16:** 10 + A damage; I < AVERAGE, restrained (save ends)
-- **17+:** 13 + A damage; I < STRONG, restrained (save ends)
+- **≤11:** 7 + A damage; I < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 10 + A damage; I < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 13 + A damage; I < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 
 **Effect:** This strike resolves before the triggering movement or main action.

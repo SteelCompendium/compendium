@@ -32,4 +32,4 @@ type: treasure/leveled/implement
 
 **5th Level:** The implement's damage bonus increases to +2. Additionally, whenever you deal 20 or more rolled damage with a magic or psionic ability to a creature whose senses you are using, that creature is weakend until the end of their next turn.
 
-**9th Level:** The implement's damage bonus increases to +3. Additionally, whenever you deal 30 or more rolled damage with a magic or psionic ability to a creature whose senses you are using, that creature is dazed until the end of their next turn.
+**9th Level:** The implement's damage bonus increases to +3. Additionally, whenever you deal 30 or more rolled damage with a magic or psionic ability to a creature whose senses you are using, that creature is [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) until the end of their next turn.

@@ -14,11 +14,11 @@ type: class/shadow/level
 
 ### 5th-Level Features
 
-As a 5th-level shadow, you gain the following features.
+As a 5th-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 5th-Level College Feature
 
-Your shadow college grants you a feature, as shown on the 5th-Level College Features table.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants you a feature, as shown on the 5th-Level College Features table.
 
 ###### 5th-Level College Features Table
 
@@ -38,7 +38,7 @@ If the creature is the same size as you, you can disguise yourself as them using
 
 Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash Teleport ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to teleport. The creature appears in an unoccupied space adjacent to the space into which you teleported. If no such space exists, they can't teleport with you.
+Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) ability to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D). The creature appears in an unoccupied space adjacent to the space into which you [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D). If no such space exists, they can't [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) with you.
 
 ##### Volatile Reagents
 
@@ -106,8 +106,8 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 10 + A damage; P < WEAK, dazed (save ends)
-> - **12-16:** 15 + A damage; P < AVERAGE, dazed (save ends)
-> - **17+:** 21 + A damage; P < STRONG, dazed (save ends)
+> - **≤11:** 10 + A damage; P < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 15 + A damage; P < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 21 + A damage; P < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** The target can't communicate with anyone until the end of the encounter.

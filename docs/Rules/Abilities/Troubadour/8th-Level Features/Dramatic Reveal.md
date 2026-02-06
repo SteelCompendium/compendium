@@ -32,4 +32,4 @@ type: feature/ability/troubadour/8th-level-feature
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to teleport an ally within distance of that ability into the creature's space in a plume of rose petals. You or the teleported ally can then make a melee free strike.
+**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) ally can then make a melee free strike.

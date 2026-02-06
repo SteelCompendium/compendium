@@ -14,11 +14,11 @@ type: class/troubadour/level
 
 ### 3rd-Level Features
 
-As a 3rd-level troubadour, you gain the following features.
+As a 3rd-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 3rd-Level Class Act Feature
 
-Your troubadour class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
+Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
 
 ###### 3rd-Level Class Act Features Table
 
@@ -60,7 +60,7 @@ You have the following performance abilities, which are usable with your Routine
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of bleeding until the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) until the end of their turn.
 
 #### 7-Drama Ability
 
@@ -94,9 +94,9 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 fire damage; A < WEAK, weakened (save ends)
-> - **12-16:** 7 fire damage; A < AVERAGE, weakened (save ends)
-> - **17+:** 10 fire damage; A < STRONG, weakened (save ends)
+> - **≤11:** 5 fire damage; A < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 7 fire damage; A < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 10 fire damage; A < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** Each ally in the area can shift up to 2 squares.
 

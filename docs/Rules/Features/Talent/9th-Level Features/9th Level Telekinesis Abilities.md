@@ -56,4 +56,4 @@ Choose one of the following abilities.
 >
 > **Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
 >
-> **Strained:** You are weakened (save ends). If you scored a critical hit with this ability, you die.
+> **Strained:** You are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends). If you scored a critical hit with this ability, you die.

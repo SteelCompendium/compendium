@@ -16,7 +16,7 @@ type: class
 
 The power of the gods flows through you! As a vessel for divine power, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
-**As a conduit, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
+**As a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
 
 <!-- -->
 > "The gods judge our actions, and our inaction."
@@ -63,7 +63,7 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 ### 1st-Level Features
 
-As a conduit, you gain the following features.
+As a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Deity and Domains
 
@@ -122,7 +122,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Life Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
-- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are prone. Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
+- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
 
 ###### Love Domain Piety and Effect
 
@@ -152,7 +152,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Trickery Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
-- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your conduit level.
+- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) level.
 
 ###### War Domain Piety and Effect
 
@@ -161,7 +161,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 #### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level Conduit Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
@@ -215,7 +215,7 @@ You have the following ability.
 > | ----------- | --------------: |
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ##### Grave Speech
 
@@ -290,7 +290,7 @@ You have the following ability, which you can use once on your turn.
 >
 > - You can target one additional ally within distance.
 > - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
-> - A prone target can stand up.
+> - A [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target can stand up.
 > - A target can spend 1 additional Recovery.
 
 #### Ray of Wrath
@@ -466,7 +466,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 3 holy damage
 > - **17+:** 5 holy damage
 >
-> **Effect:** You can teleport yourself and each ally in the area to unoccupied spaces in the area.
+> **Effect:** You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) yourself and each ally in the area to unoccupied spaces in the area.
 
 <!-- -->
 > ###### Sacrificial Offer
@@ -579,9 +579,9 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; A < WEAK, prone
-> - **12-16:** 6 + I holy damage; A < AVERAGE, prone
-> - **17+:** 9 + I holy damage; A < STRONG, prone and can't stand (save ends)
+> - **≤11:** 3 + I holy damage; A < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 6 + I holy damage; A < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 9 + I holy damage; A < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
 
 <!-- -->
 > ###### Violence Will Not Aid Thee (3 Piety)
@@ -630,9 +630,9 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 6 + I holy damage; I < WEAK, frightened (save ends)
-> - **12-16:** 9 + I holy damage; I < AVERAGE, frightened (save ends)
-> - **17+:** 13 + I holy damage; I < STRONG, frightened (save ends)
+> - **≤11:** 6 + I holy damage; I < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 13 + I holy damage; I < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Faith Is Our Armor (5 Piety)
@@ -660,11 +660,11 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 > | --------------- | ---------------------------: |
 > | **📏 4 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.
+> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
 
 ### 2nd-Level Features
 
-As a 2nd-level conduit, you gain the following features.
+As a 2nd-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### The Lists of Heaven
 
@@ -680,7 +680,7 @@ You gain the 1st-level domain feature and ability to choose a skill for the doma
 
 #### 2nd-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level Conduit Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) Domain Abilities table.
 
 ###### 2nd-Level Conduit Domain Abilities Table
 
@@ -778,9 +778,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 2 damage; A < WEAK, restrained (save ends)
-> - **12-16:** 3 damage; A < AVERAGE, restrained (save ends)
-> - **17+:** 7 damage; A < STRONG, restrained (save ends)
+> - **≤11:** 2 damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 3 damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 7 damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Our Hearts Your Strength (5 Piety)
@@ -854,7 +854,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ### 3rd-Level Features
 
-As a 3rd-level conduit, you gain the following features.
+As a 3rd-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Minor Miracle
 
@@ -877,11 +877,11 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 6 psychic damage; I < WEAK, frightened (save ends)
-> - **12-16:** 9 psychic damage; I < AVERAGE, frightened (save ends)
-> - **17+:** 13 psychic damage; I < STRONG, frightened (save ends)
+> - **≤11:** 6 psychic damage; I < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 9 psychic damage; I < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 13 psychic damage; I < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** Each target is frightened of you or a creature you choose within distance.
+> **Effect:** Each target is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you or a creature you choose within distance.
 
 <!-- -->
 > ###### Saint's Raiment (7 Piety)
@@ -930,7 +930,7 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 
 ### 4th-Level Features
 
-As a 4th-level conduit, you gain the following features.
+As a 4th-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Blessed Domain
 
@@ -950,7 +950,7 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 #### 4th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level Conduit Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) Domain Features table.
 
 ###### 4th-Level Conduit Domain Features Table
 
@@ -1024,15 +1024,15 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ###### Windwalk
 
-While you have 5 or more Victories, you can fly. If you can already fly, you have a +2 bonus to speed while flying instead.
+While you have 5 or more Victories, you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D). If you can already [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), you have a +2 bonus to speed while flying instead.
 
 ###### Wode Road
 
-As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to teleport yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
 
 ### 5th-Level Features
 
-As a 5th-level conduit, you gain the following features.
+As a 5th-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 5th-Level Domain Feature
 
@@ -1070,9 +1070,9 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 4 corruption damage; I < WEAK, prone and can't stand (save ends)
-> - **12-16:** 7 corruption damage; I < AVERAGE, prone and can't stand (save ends)
-> - **17+:** 11 corruption damage; I < STRONG, prone and can't stand (save ends)
+> - **≤11:** 4 corruption damage; I < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
+> - **12-16:** 7 corruption damage; I < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
+> - **17+:** 11 corruption damage; I < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
 
 <!-- -->
 > ###### Sanctuary (9 Piety)
@@ -1098,7 +1098,7 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 
 ### 6th-Level Features
 
-As a 6th-level conduit, you gain the following features.
+As a 6th-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Burgeoning Saint
 
@@ -1115,7 +1115,7 @@ You gain one crafting, lore, or supernatural perk of your choice.
 
 #### 6th-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 6th-Level Conduit Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 6th-Level [Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) Domain Abilities table.
 
 ###### 6th-Level Conduit Domain Abilities Table
 
@@ -1156,9 +1156,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 8 + I damage; A < WEAK, prone and restrained (save ends)
-> - **12-16:** 12 + I damage; A < AVERAGE, prone and restrained (save ends)
-> - **17+:** 16 + I damage; A < STRONG, prone and restrained (save ends)
+> - **≤11:** 8 + I damage; A < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 12 + I damage; A < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 16 + I damage; A < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Blessing of the Midday Sun (9 Piety)
@@ -1266,7 +1266,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | --------------- | ------------------------------------: |
 > | **📏 4 burst**  | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if prone.
+> **Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
 
 <!-- -->
 > ###### Spirit Stampede (9 Piety)
@@ -1279,9 +1279,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 5 damage; M < WEAK, prone and can't stand (save ends)
-> - **12-16:** 8 damage; M < AVERAGE, prone and can't stand (save ends)
-> - **17+:** 11 damage; M < STRONG, prone and can't stand (save ends)
+> - **≤11:** 5 damage; M < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
+> - **12-16:** 8 damage; M < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
+> - **17+:** 11 damage; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
 
 <!-- -->
 > ###### Your Story Ends Here (9 Piety)
@@ -1294,15 +1294,15 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 9 + I corruption damage; R < WEAK, weakened (save ends)
-> - **12-16:** 14 + I corruption damage; R < AVERAGE, weakened (save ends)
-> - **17+:** 19 + I corruption damage; R < STRONG, weakened (save ends)
+> - **≤11:** 9 + I corruption damage; R < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 19 + I corruption damage; R < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** If this damage kills the target, you and each ally within distance can spend a Recovery.
 
 ### 7th-Level Features
 
-As a 7th-level conduit, you gain the following features.
+As a 7th-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 
@@ -1318,7 +1318,7 @@ You gain one skill of your choice.
 
 #### 7th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level Conduit Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) Domain Features table.
 
 ###### 7th-Level Conduit Domain Features Table
 
@@ -1354,7 +1354,7 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -1419,7 +1419,7 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 ### 8th-Level Features
 
-As an 8th-level conduit, you gain the following features.
+As an 8th-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -1442,7 +1442,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 > | ----------------- | ----------------------: |
 > | **📏 Ranged 10**  | **🎯 Self or one ally** |
 >
-> **Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are prone. Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
+> **Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
 
 <!-- -->
 > ###### Blessing of Steel (11 Piety)
@@ -1485,7 +1485,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 
 ### 9th-Level Features
 
-As a 9th-level conduit, you gain the following features.
+As a 9th-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Faith's Sword
 
@@ -1497,7 +1497,7 @@ Your god elevates the power flowing through you. Your characteristic scores are 
 
 #### 9th-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level Conduit Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level [Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) Domain Abilities table.
 
 ###### 9th-Level Conduit Domain Abilities Table
 
@@ -1558,7 +1558,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  |  **🎯 Special** |
 >
-> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can fly, stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
+> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
 >
 > On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.
 >
@@ -1613,7 +1613,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | ----------------- | -----------------: |
 > | **📏 Ranged 10**  | **🎯 Four allies** |
 >
-> **Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are prone.
+> **Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
 
 <!-- -->
 > ###### Righteous Phalanx (11 Piety)
@@ -1652,11 +1652,11 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 10 + I damage; A < WEAK, restrained (save ends)
-> - **12-16:** 15 + I damage; A < AVERAGE, restrained (save ends)
-> - **17+:** 21 + I damage; A < STRONG, restrained (save ends)
+> - **≤11:** 10 + I damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 15 + I damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 21 + I damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While restrained this way, the target takes 10 damage at the start of each of your turns.
+> **Effect:** While [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way, the target takes 10 damage at the start of each of your turns.
 
 <!-- -->
 > ###### Word of Final Redemption (11 Piety)
@@ -1682,15 +1682,15 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 10 + I corruption damage; A < WEAK, weakened (save ends)
-> - **12-16:** 15 + I corruption damage; A < AVERAGE, weakened (save ends)
-> - **17+:** 21 + I corruption damage; A < STRONG, weakened (save ends)
+> - **≤11:** 10 + I corruption damage; A < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 21 + I corruption damage; A < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While weakened this way, the target has damage weakness 10.
+> **Effect:** While [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) this way, the target has damage weakness 10.
 
 ### 10th-Level Features
 
-As a 10th-level conduit, you gain the following features.
+As a 10th-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Avatar
 
@@ -1706,7 +1706,7 @@ Your Intuition score increases to 5. Additionally, you can increase one of your 
 
 You have an epic resource called divine power. Each time you finish a respite, you gain divine power equal to the XP you gain. You can spend divine power on your abilities as if it were piety.
 
-Additionally, you can spend divine power as if it were piety to use any conduit abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a conduit ability you don't have that usually costs no piety, you must spend 1 divine power to use it.
+Additionally, you can spend divine power as if it were piety to use any [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) ability you don't have that usually costs no piety, you must spend 1 divine power to use it.
 
 Divine power remains until you spend it.
 

@@ -14,7 +14,7 @@ type: class/conduit/level
 
 ### 2nd-Level Features
 
-As a 2nd-level conduit, you gain the following features.
+As a 2nd-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### The Lists of Heaven
 
@@ -30,7 +30,7 @@ You gain the 1st-level domain feature and ability to choose a skill for the doma
 
 #### 2nd-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level Conduit Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) Domain Abilities table.
 
 ###### 2nd-Level Conduit Domain Abilities Table
 
@@ -128,9 +128,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 2 damage; A < WEAK, restrained (save ends)
-> - **12-16:** 3 damage; A < AVERAGE, restrained (save ends)
-> - **17+:** 7 damage; A < STRONG, restrained (save ends)
+> - **≤11:** 2 damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 3 damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 7 damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Our Hearts Your Strength (5 Piety)

@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 3rd-Level Features
 
-As a 3rd-level elementalist, you gain the following features.
+As a 3rd-level [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 3rd-Level Specialization Feature
 

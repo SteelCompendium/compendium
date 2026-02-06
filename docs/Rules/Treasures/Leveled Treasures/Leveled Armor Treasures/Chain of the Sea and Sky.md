@@ -28,7 +28,7 @@ type: treasure/leveled/armor
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina, you can automatically swim at full speed while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
+**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina, you can automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
 
 **5th Level:** The armor's bonus to Stamina increases to +12, and you have cold immunity 5. Additionally, whenever you fall, you can extend your arms (no action required) to unfurl a thick membrane between your arms and your body, slowing your fall and allowing you to glide. While gliding this way, you move downward at 1 square per round, and you can glide up to 6 squares horizontally as a free maneuver once during each of your turns.
 

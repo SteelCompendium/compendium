@@ -28,7 +28,7 @@ type: treasure/trinkets/3rd-echelon
 
 **Project Goal:** 450
 
-**Effect:** You must be a null to wear this ring. While you do so, the area of your Null Field ability increases by 1.
+**Effect:** You must be a [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) to wear this ring. While you do so, the area of your Null Field ability increases by 1.
 
 Additionally, you have the following ability.
 
@@ -44,7 +44,7 @@ Additionally, you have the following ability.
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** 3 psychic damage
-> - **12-16:** 5 psychic damage; I < AVERAGE, slowed (save ends)
-> - **17+:** 8 psychic damage; I < STRONG, slowed (save ends)
+> - **12-16:** 5 psychic damage; I < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 8 psychic damage; I < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While slowed in this way, the target takes a bane on magic or psionic abilities.
+> **Effect:** While [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) in this way, the target takes a bane on magic or psionic abilities.

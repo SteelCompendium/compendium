@@ -20,6 +20,6 @@ type: feature/trait/conduit/10th-level-feature
 
 You have an epic resource called divine power. Each time you finish a respite, you gain divine power equal to the XP you gain. You can spend divine power on your abilities as if it were piety.
 
-Additionally, you can spend divine power as if it were piety to use any conduit abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a conduit ability you don't have that usually costs no piety, you must spend 1 divine power to use it.
+Additionally, you can spend divine power as if it were piety to use any [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) ability you don't have that usually costs no piety, you must spend 1 divine power to use it.
 
 Divine power remains until you spend it.

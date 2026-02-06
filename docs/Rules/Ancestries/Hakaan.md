@@ -14,17 +14,17 @@ type: ancestry
 
 ## Hakaan
 
-In spite of their friendly, outgoing nature, the rare presence of a hakaan in human society is considered a harbinger. An omen of dark times.
+In spite of their friendly, outgoing nature, the rare presence of a [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) in [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) society is considered a harbinger. An omen of dark times.
 
 Descended from a tribe of giants in upper Vanigar, the original Haka'an tribe made a bargain with Holkatya the Vanigar trickster god. They traded some of their gigantic size and strength for the ability to see the future.
 
-But Holkatya betrayed them, and the only future a hakaan is allowed to see is the moment and nature of their own death. These visions are never of some mundane tragedy. No hakaan ever received a vision of dying from choking on a grape. This Doomsight is always momentous. Always dramatic.
+But Holkatya betrayed them, and the only future a [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) is allowed to see is the moment and nature of their own death. These visions are never of some mundane tragedy. No [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) ever received a vision of dying from choking on a grape. This Doomsight is always momentous. Always dramatic.
 
-The Doomsight can happen at any moment. It does not come for all or even most hakaan, but when it comes, it is considered an act of overwhelming hubris to ignore it. Trying to escape the Doomsight means a painful, tragic death, and cursing your family to live with shame.
+The Doomsight can happen at any moment. It does not come for all or even most [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D), but when it comes, it is considered an act of overwhelming hubris to ignore it. Trying to escape the Doomsight means a painful, tragic death, and cursing your family to live with shame.
 
-But the only hakaan the average human meets is one trying to fulfill their doom. The human superstition—that the arrival of one or more hakaan in human lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many hakaan experience the Doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
+But the only [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) the average [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) meets is one trying to fulfill their doom. The [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) superstition—that the arrival of one or more [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) in [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) experience the Doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
 
-Humans in Vanigar have their own word for this concept of a personal fate. "Wyrd." Traditional hakaan sometimes refer to the Doomsight as "wyrdken."
+[Humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) in Vanigar have their own word for this concept of a personal fate. "Wyrd." Traditional [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) sometimes refer to the Doomsight as "wyrdken."
 
 ### On Hakaan
 
@@ -42,7 +42,7 @@ As the giant forced the maw open, glowing tentacles writhed out of it, wrapping 
 
 John knew what the giant did not—the tendrils drained life, sapped energy. The living portal would gain the strength it needed to defeat the giant by drinking his own life force.
 
-But the arrival of the giant changed the equation. John saw a new solution. The hakaan risked his life to buy them options, and Sir John of Tor would not let the giant risk his life in vain.
+But the arrival of the giant changed the equation. John saw a new solution. The [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) risked his life to buy them options, and Sir John of Tor would not let the giant risk his life in vain.
 
 Kicking the styrich back gave John room to move, and he dashed toward Embers. A shout, and a thrust into the soulraker's back, and the demons surrounding Embers turned to face Sir John.
 
@@ -50,17 +50,17 @@ He had to focus so intently on the demons who now surrounded him, he wasn't even
 
 Dispatching a chimeron, John saw Embers emerge from the other side of the egress demon with Dazar in her arms. John couldn't tell if Dazar was conscious. He might even be dead. Who knew what lurked on the other side of that living portal to the Abyssal Waste?
 
-The hakaan struggled against the living gateway to that blasted world. One leg buckled and the stone warrior fell to one knee. The door would take him just as it took their dwarf conduit.
+The [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) struggled against the living gateway to that blasted world. One leg buckled and the stone warrior fell to one knee. The door would take him just as it took their [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D).
 
 Then, rising behind the egress demon, the high theocron, his battlestaff glowing.
 
-"Back!" Dazar conduit of Zarok, Law-Giver shouted, smashing at the flesh of the living doorway with his battlestaff. "To hell!" He swung again.
+"Back!" Dazar [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) of Zarok, Law-Giver shouted, smashing at the flesh of the living doorway with his battlestaff. "To hell!" He swung again.
 
 The doorway quivered and bled, and the giant stood up. "Yes!" He called out. "YES!"
 
 John and Embers joined the fight. The gamble, unspoken, was that the summoned demons would evaporate if their living portal were destroyed. It paid off.
 
-They only had a moment before the demons swarmed them, but a moment was all it took before the hakaan shouted and finally ripped the bloody egress demon apart with his bare hands.
+They only had a moment before the demons swarmed them, but a moment was all it took before the [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) shouted and finally ripped the bloody egress demon apart with his bare hands.
 
 The demons in midstride all turned inside out, leaving bubbling, steaming pools of organs, eyeballs, and teeth on the ground. Leaving four heroes gasping from the fight.
 
@@ -90,7 +90,7 @@ The giant smiled "Fear? At a meeting of friends? Ah these must be treacherous ti
 
 The giant shook his head. "Following my brother. He hurtles headlong to meet his doom, which I deem is bound up in this matter of this Sky Tyrant."
 
-"Ajax," Dazar said. And the hakaan could hear the darkness in his voice.
+"Ajax," Dazar said. And the [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) could hear the darkness in his voice.
 
 "Aye. I did not understand why his path and yours seemed coincident, but now I think it has something to do with the thing they all seek, his demons."
 
@@ -98,11 +98,11 @@ John looked at Embers. "One of the Eleven Who Shall Not Be Named," she said. "Th
 
 The giant nodded solemnly. "You are lorewise. My trust in you was well-placed. I am Ardashir," he placed one palm on his forehead, the other over his heart, and bowed his head once. "It would be my pleasure to journey with you awhile. Stalwart allies are rare and precious in these times." He grinned. "Good company even more so."
 
-"No armor, no sword or staff," Dazar noticed. "Hakaan do not use weapons?"
+"No armor, no sword or staff," Dazar noticed. "[Hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) do not use weapons?"
 
 "Many do!" Ardashir said. "I do not. I left the hills of my people long ago to pursue a different path. A path of order and discipline. It is my birthright perhaps."
 
-"He's a null," Embers explained. "They eschew all weapons and implements of war. It is part of their creed, as I understand it."
+"He's a [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D)," Embers explained. "They eschew all weapons and implements of war. It is part of their creed, as I understand it."
 
 "Strength alone might serve," Dazar nodded, "when the strength is such as yours."
 
@@ -112,7 +112,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 
 ### Hakaan Traits
 
-Hakaan heroes have access to the following traits.
+[Hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
 
 #### Signature Trait: Big!
 
@@ -140,7 +140,7 @@ Whenever you force move a creature or object, the forced movement distance gains
 
 ##### Great Fortitude (2 Points)
 
-Your hearty constitution prevents you from losing strength. You can't be made weakened.
+Your hearty constitution prevents you from losing strength. You can't be made [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D).
 
 ##### Stand Tough (1 Point)
 

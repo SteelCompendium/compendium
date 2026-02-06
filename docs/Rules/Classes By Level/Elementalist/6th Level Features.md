@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 6th-Level Features
 
-As a 6th-level elementalist, you gain the following features.
+As a 6th-level [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -44,7 +44,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 > | ------------------------------------ | ----------------------: |
 > | **📏 Ranged 10**                     | **🎯 Self or one ally** |
 >
-> **Effect:** The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
+> **Effect:** The target has a +3 bonus to speed, they can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
 >
 > **Persistent 1:** The effect lasts until the start of your next turn.
 
@@ -59,7 +59,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 >
 > **Effect:** Until the start of your next turn, the target has the following benefits:
 >
-> - Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become restrained until the effect ends.
+> - Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) until the effect ends.
 > - They have fire immunity 10.
 > - Their strikes deal extra fire damage equal to twice your Reason score.
 > - When the target force moves a creature or object, the forced movement distance gains a +2 bonus.
@@ -78,11 +78,11 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** You teleport the target up to 4 squares.
-> - **12-16:** You teleport the target up to 6 squares.
-> - **17+:** You teleport the target up to 8 squares.
+> - **≤11:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 4 squares.
+> - **12-16:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 6 squares.
+> - **17+:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 8 squares.
 >
-> **Effect:** If the target is teleported to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is difficult terrain.
+> **Effect:** If the target is [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is difficult terrain.
 
 <!-- -->
 > ###### The Wode Remembers and Returns (9 Essence)

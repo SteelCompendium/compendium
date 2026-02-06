@@ -37,8 +37,8 @@ type: feature/ability/censor/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 6 + M holy damage; grabbed
-- **12-16:** 9 + M holy damage; grabbed
-- **17+:** 13 + M holy damage; grabbed
+- **≤11:** 6 + M holy damage; [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+- **12-16:** 9 + M holy damage; [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+- **17+:** 13 + M holy damage; [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
 
-**Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+**Effect:** If the target makes a strike against a creature while [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.

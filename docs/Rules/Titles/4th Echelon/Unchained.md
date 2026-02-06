@@ -21,6 +21,6 @@ type: title/4th-echelon
 
 **Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
-- *Bye-Bye:* You can use a maneuver to teleport yourself and each willing ally within 5 squares of you to new positions within 10 squares of your original starting point. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
+- *Bye-Bye:* You can use a maneuver to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) yourself and each willing ally within 5 squares of you to new positions within 10 squares of your original starting point. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Laughs at Locks:* Whenever you make a test to open a lock or break a restraint, you don't need any tools and you automatically obtain a tier 3 outcome.
-- *Slippery:* You can't be grabbed against your will.
+- *Slippery:* You can't be [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) against your will.

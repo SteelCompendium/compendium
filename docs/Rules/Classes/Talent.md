@@ -14,9 +14,9 @@ type: class
 
 ## Talent
 
-Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a talent's abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
+Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D)'s abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
 
-**As a talent, you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and talents who use too much power too quickly pay a deadly price.**
+**As a [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and [talents](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) who use too much power too quickly pay a deadly price.**
 
 <!-- -->
 > "I've seen what you can do! There is NO LIMIT to your power! All you have to do... is BELIEVE!"
@@ -62,11 +62,11 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 ### 1st-Level Features
 
-As a 1st-level talent, you gain the following features.
+As a 1st-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Talent Tradition
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many talent traditions:
+Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) traditions:
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
 - **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
@@ -77,7 +77,7 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a talent tradition from the following options: chronopathy, telekinesis, or telepathy. Your talent tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other talent traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
 
 #### Clarity and Strain
 
@@ -176,7 +176,7 @@ You know the Mindspeech language (see Languages in Orden in Chapter 4: Backgroun
 
 #### 1st-Level Tradition Features
 
-Your talent tradition grants you two features, as shown on the 1st-Level Tradition Features table.
+Your [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
 
 ###### 1st-Level Tradition Features Table
 
@@ -292,7 +292,7 @@ You have the following ability.
 
 #### Talent Abilities
 
-You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different talent traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
+You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
 
 ##### Signature Abilities
 
@@ -309,9 +309,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 + P corruption damage; P < WEAK, slowed (save ends)
-> - **12-16:** 3 + P corruption damage; P < AVERAGE, slowed (save ends)
-> - **17+:** 5 + P corruption damage; P < STRONG, slowed (save ends)
+> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 >
@@ -328,11 +328,11 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R cold damage; M < WEAK, slowed (EoT)
-> - **12-16:** 4 + R cold damage; M < AVERAGE, slowed (EoT)
-> - **17+:** 6 + R cold damage; M < STRONG, slowed (EoT)
+> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
+> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
+> - **17+:** 6 + R cold damage; M < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
 >
-> **Strained:** You are slowed until the end of your next turn. Additionally, a target slowed by this ability is restrained instead.
+> **Strained:** You are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of your next turn. Additionally, a target [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) by this ability is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) instead.
 
 <!-- -->
 > ###### Incinerate
@@ -366,7 +366,7 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > - **≤11:** Slide 2 + R
 > - **12-16:** Slide 4 + R
-> - **17+:** Slide 6 + R; prone
+> - **17+:** Slide 6 + R; [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
 >
 > **Strained:** You must vertical push the target instead of sliding them.
 
@@ -385,7 +385,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 5 psychic damage; push 1
 > - **17+:** 7 psychic damage; push 2
 >
-> **Strained:** The size of the burst increases by 2, and you are bleeding until the start of your next turn.
+> **Strained:** The size of the burst increases by 2, and you are [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) until the start of your next turn.
 
 <!-- -->
 > ###### Materialize
@@ -417,9 +417,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; M < WEAK, prone
-> - **12-16:** 4 + R damage; M < AVERAGE, prone
-> - **17+:** 6 + R damage; M < STRONG, prone
+> - **≤11:** 2 + R damage; M < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 4 + R damage; M < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 6 + R damage; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
 >
 > **Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.
 >
@@ -465,9 +465,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 3 + P psychic damage; I < WEAK, frightened (save ends)
-> - **12-16:** 6 + P psychic damage; I < AVERAGE, frightened (save ends)
-> - **17+:** 9 + P psychic damage; I < STRONG, frightened (save ends)
+> - **≤11:** 3 + P psychic damage; I < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 9 + P psychic damage; I < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Choke (3 Clarity)
@@ -480,11 +480,11 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 3 + R damage; M < WEAK, slowed (save ends)
-> - **12-16:** 5 + R damage; M < AVERAGE, slowed (save ends)
-> - **17+:** 8 + R damage; M < STRONG, restrained (save ends)
+> - **≤11:** 3 + R damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 + R damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 8 + R damage; M < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** You can vertical pull the target up to 2 squares. If the target is made restrained by this ability, this forced movement ignores their stability.
+> **Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) by this ability, this forced movement ignores their stability.
 
 <!-- -->
 > ###### Precognition (3 Clarity)
@@ -529,7 +529,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 >
 > **Effect:** The target uses an ability with a base Heroic Resource cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 >
-> **Strained:** You take 1d6 damage and are slowed (save ends).
+> **Strained:** You take 1d6 damage and are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends).
 
 <!-- -->
 > ###### Inertia Soak (5 Clarity)
@@ -542,7 +542,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 >
 > **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
 >
-> **Strained:** You are weakened (save ends). While you are weakened this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
+> **Strained:** You are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends). While you are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
 
 <!-- -->
 > ###### Iron (5 Clarity)
@@ -572,7 +572,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 
 ### 2nd-Level Features
 
-As a 2nd-level talent, you gain the following features.
+As a 2nd-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -580,7 +580,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 #### 2nd-Level Tradition Feature
 
-Your talent tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
@@ -604,7 +604,7 @@ Whenever you land after a fall, or if any falling creature lands within 2 square
 
 #### 2nd-Level Tradition Ability
 
-Your talent tradition grants your choice of one of two heroic abilities.
+Your [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Chronopathy Ability
 
@@ -625,7 +625,7 @@ Choose one of the following abilities.
 > - **12-16:** You target three creatures, one of which can be you.
 > - **17+:** You target four creatures, one of which can be you.
 >
-> **Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made dazed, and they can use an additional maneuver on their turn. If a target is already dazed, that condition ends for them.
+> **Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D), and they can use an additional maneuver on their turn. If a target is already [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D), that condition ends for them.
 >
 > **Strained:** Your speed is halved until the end of the encounter.
 
@@ -640,9 +640,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is slowed (save ends).
-> - **12-16:** The target is slowed (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
-> - **17+:** The target is slowed (save ends), or if P < STRONG, the target's speed is 0 (save ends).
+> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends).
+> - **12-16:** The target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
+> - **17+:** The target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 >
 > **Effect:** A target can't use triggered actions while their speed is reduced this way.
 >
@@ -667,7 +667,7 @@ Choose one of the following abilities.
 > - **12-16:** 6 damage; vertical push 4
 > - **17+:** 9 damage; vertical push 6
 >
-> **Strained:** The size of the burst increases by 1, and you are weakened until the end of your turn.
+> **Strained:** The size of the burst increases by 1, and you are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) until the end of your turn.
 
 <!-- -->
 > ###### Levity and Gravity (5 Clarity)
@@ -680,9 +680,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 + R damage; M < WEAK, prone
-> - **12-16:** 10 + R damage; M < AVERAGE, prone
-> - **17+:** 14 + R damage; M < STRONG, prone and can't stand (save ends)
+> - **≤11:** 6 + R damage; M < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 10 + R damage; M < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 14 + R damage; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
 >
 > **Strained:** You take half the damage the target takes.
 
@@ -701,9 +701,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 + R psychic damage; I < WEAK, slowed (save ends)
-> - **12-16:** 10 + R psychic damage; I < AVERAGE, weakened (save ends)
-> - **17+:** 14 + R psychic damage; I < STRONG, dazed (save ends)
+> - **≤11:** 6 + R psychic damage; I < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 14 + R psychic damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Strained:** You start crying, and you can't use triggered actions or make free strikes until the end of the target's next turn.
 
@@ -724,11 +724,11 @@ Choose one of the following abilities.
 >
 > **Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
 >
-> **Strained:** You take 1d6 damage and are weakened until the end of your turn.
+> **Strained:** You take 1d6 damage and are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) until the end of your turn.
 
 ### 3rd-Level Features
 
-As a 3rd-level talent, you gain the following features.
+As a 3rd-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Scan
 
@@ -749,9 +749,9 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 3 + P corruption damage; P < WEAK, weakened (save ends)
-> - **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are weakened (save ends)
-> - **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are weakened (save ends)
+> - **≤11:** 3 + P corruption damage; P < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 >
@@ -776,7 +776,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 > - **12-16:** 3 damage
 > - **17+:** 5 damage
 >
-> **Strained:** You create five orbs, and you are weakened while you have any orbs active.
+> **Strained:** You create five orbs, and you are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) while you have any orbs active.
 
 <!-- -->
 > ###### Reflector Field (7 Clarity)
@@ -802,9 +802,9 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 6 + P damage; P < WEAK, dazed (save ends)
-> - **12-16:** 10 + P damage; P < AVERAGE, dazed (save ends)
-> - **17+:** 14 + P damage; P < STRONG, dazed (save ends)
+> - **≤11:** 6 + P damage; P < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 10 + P damage; P < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 14 + P damage; P < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** The target takes a bane on Presence tests until the end of the encounter.
 >
@@ -812,7 +812,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 ### 4th-Level Features
 
-As a 4th-level talent, you gain the following features.
+As a 4th-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 
@@ -820,7 +820,7 @@ Your Reason and Presence scores each increase to 3.
 
 #### Mind Projection
 
-As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and prone, and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
+As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
 
 Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.
 
@@ -840,17 +840,17 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 #### Suspensor Field
 
-You can fly. While flying, your stability is reduced to 0 and can't be increased. If you can already fly, you have a +2 bonus to speed while flying instead.
+You can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D). While flying, your stability is reduced to 0 and can't be increased. If you can already [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), you have a +2 bonus to speed while flying instead.
 
 If you are strained while flying and are force moved, the forced movement distance gains a +2 bonus.
 
 ### 5th-Level Features
 
-As a 5th-level talent, you gain the following features.
+As a 5th-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 5th-Level Tradition Features
 
-Your talent tradition grants you two features, as shown on the 5th-Level Tradition Features table.
+Your [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
@@ -899,7 +899,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 >
 > **Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 >
-> **Strained:** The target gains 2 surges. You are weakened and slowed (save ends).
+> **Strained:** The target gains 2 surges. You are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends).
 
 <!-- -->
 > ###### Hypersonic (9 Clarity)
@@ -910,7 +910,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 > | -------------------------------------- | ----------------------------: |
 > | **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
 >
-> **Effect:** You teleport to a square on the opposite side of the area before making the power roll.
+> **Effect:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to a square on the opposite side of the area before making the power roll.
 >
 > **Power Roll + Reason:**
 >
@@ -918,7 +918,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 > - **12-16:** 18 sonic damage
 > - **17+:** 24 sonic damage
 >
-> **Strained:** If you obtain a tier 2 outcome or better, you are slowed until the end of your turn and each target is slowed until the end of their turn.
+> **Strained:** If you obtain a tier 2 outcome or better, you are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of your turn and each target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of their turn.
 
 <!-- -->
 > ###### Mind Snare (9 Clarity)
@@ -931,13 +931,13 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 10 + R psychic damage; R < WEAK, slowed (save ends)
-> - **12-16:** 14 + R psychic damage; R < AVERAGE, slowed (save ends)
-> - **17+:** 20 + R psychic damage; R < STRONG, slowed (save ends)
+> - **≤11:** 10 + R psychic damage; R < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 20 + R psychic damage; R < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While slowed this way, the target takes 3 psychic damage for each square they willingly leave.
+> **Effect:** While [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way, the target takes 3 psychic damage for each square they willingly leave.
 >
-> **Strained:** While slowed this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are slowed this way.
+> **Strained:** While [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way.
 
 <!-- -->
 > ###### Soulbound (9 Clarity)
@@ -960,7 +960,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 
 ### 6th-Level Features
 
-As a 6th-level talent, you gain the following features.
+As a 6th-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -1000,7 +1000,7 @@ If the ability has any power roll, that roll gains an edge.
 
 #### 6th-Level Tradition Ability
 
-Your talent tradition grants your choice of one of two heroic abilities.
+Your [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronopathy Abilities
 
@@ -1015,9 +1015,9 @@ Choose one of the following abilities.
 > | ------------------------------- | ---------------: |
 > | **📏 Melee 2**                  | **🎯 One enemy** |
 >
-> **Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked prone.
+> **Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
 >
-> **Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are weakened (save ends).
+> **Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends).
 >
 > **Power Roll + Presence:**
 >
@@ -1034,17 +1034,17 @@ Choose one of the following abilities.
 > | -------------------------------------- | ------------------------------------------: |
 > | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 >
-> **Effect:** The area is frozen in time until the start of your next turn. Each object in the area is restrained and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
+> **Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
 >
 > Make a power roll that targets each enemy in the area.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** P < WEAK, the target is slowed until the effect ends
+> - **≤11:** P < WEAK, the target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the effect ends
 > - **12-16:** P < AVERAGE, the target's speed is 0 until the effect ends
-> - **17+:** P < STRONG, the target is restrained until the effect ends
+> - **17+:** P < STRONG, the target is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) until the effect ends
 >
-> **Strained:** Any creature or object force moved in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects restrained in the area can be force moved. You are restrained until the effect ends.
+> **Strained:** Any creature or object force moved in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) in the area can be force moved. You are [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) until the effect ends.
 
 ##### 6th-Level Telekinesis Abilities
 
@@ -1082,9 +1082,9 @@ Choose one of the following abilities.
 >
 > - **≤11:** Slide 4 + R; M < WEAK, the forced movement is vertical
 > - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is vertical
-> - **17+:** Slide 12 + R; prone; M < STRONG, the forced movement is vertical
+> - **17+:** Slide 12 + R; [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D); M < STRONG, the forced movement is vertical
 >
-> **Strained:** The forced movement ignores stability. You take 2d6 damage and are weakened (save ends).
+> **Strained:** The forced movement ignores stability. You take 2d6 damage and are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends).
 
 ##### 6th-Level Telepathy Abilities
 
@@ -1128,7 +1128,7 @@ Choose one of the following abilities.
 
 ### 7th-Level Features
 
-As a 7th-level talent, you gain the following features.
+As a 7th-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Ancestral Memory
 
@@ -1152,7 +1152,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level talent, you gain the following features.
+As an 8th-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -1160,7 +1160,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Tradition Features
 
-Your talent tradition grants you two features, as shown on the 8th-Level Tradition Features table.
+Your [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition grants you two features, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
@@ -1187,13 +1187,13 @@ You have the following ability.
 > | ----------------- | ---------------------------: |
 > | **📏 3 burst**    | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can fly until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target's stability is reduced to 0 and can't be increased.
+> **Effect:** Each target can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target's stability is reduced to 0 and can't be increased.
 >
 > **Spend 5 Clarity:** The effects last for 1 hour instead.
 
 ##### Low Gravity
 
-Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while prone.
+Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
 
 ##### Mindlink
 
@@ -1214,7 +1214,7 @@ You have the following ability.
 >
 > **Trigger:** The target takes damage.
 >
-> **Effect:** The target is teleported to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+> **Effect:** The target is [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
 >
 > **Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target.
 
@@ -1237,9 +1237,9 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 10 + P damage; P < WEAK, weakened (save ends)
-> - **12-16:** 14 + P damage; P < AVERAGE, weakened (save ends)
-> - **17+:** 20 + P damage; P < STRONG, weakened and slowed (save ends)
+> - **≤11:** 10 + P damage; P < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 14 + P damage; P < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 20 + P damage; P < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** This ability gains an edge against a target with a soul (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
 >
@@ -1279,7 +1279,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 > - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 > - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 >
-> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).
+> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-year-old). Additionally, you are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends).
 
 <!-- -->
 > ###### Steel (11 Clarity)
@@ -1290,13 +1290,13 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 > | ---------------------------------- | ----------------------: |
 > | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 >
-> **Effect:** The target has damage immunity 5 and can't be made slowed or weakened until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.
+> **Effect:** The target has damage immunity 5 and can't be made [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) or [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.
 >
 > **Strained:** You can't use maneuvers (save ends).
 
 ### 9th-Level Features
 
-As a 9th-level talent, you gain the following features.
+As a 9th-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Fortress of Perfect Thought
 
@@ -1306,11 +1306,11 @@ Your mind is an impenetrable palace that shields you from danger. You gain the f
 - You have psychic immunity 10.
 - Creatures can't read your thoughts unless you allow them to.
 - Your Reason and Intuition are treated as 2 higher for the purpose of resisting the potency of abilities.
-- You can't be made taunted or frightened.
+- You can't be made [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) or [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D).
 
 #### 9th-Level Tradition Ability
 
-Your talent tradition grants your choice of one of two heroic abilities.
+Your [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronopathy Abilities
 
@@ -1331,9 +1331,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 corruption damage; slowed (save ends)
-> - **12-16:** 6 corruption damage; slowed (save ends)
-> - **17+:** 10 corruption damage; slowed (save ends)
+> - **≤11:** 4 corruption damage; [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 6 corruption damage; [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 10 corruption damage; [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Borrow From the Future (11 Clarity)
@@ -1386,7 +1386,7 @@ Choose one of the following abilities.
 >
 > **Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
 >
-> **Strained:** You are weakened (save ends). If you scored a critical hit with this ability, you die.
+> **Strained:** You are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends). If you scored a critical hit with this ability, you die.
 
 ##### 9th-Level Telepathy Abilities
 
@@ -1424,15 +1424,15 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** R < WEAK, frightened (save ends)
-> - **12-16:** R < AVERAGE, frightened (save ends)
-> - **17+:** R < STRONG, frightened (save ends)
+> - **≤11:** R < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** R < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** R < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Strained:** You can't use this ability if doing so would cause you to have negative clarity.
 
 ### 10th-Level Features
 
-As a 10th-level talent, you gain the following features.
+As a 10th-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 

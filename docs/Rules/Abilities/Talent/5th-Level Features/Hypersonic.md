@@ -35,7 +35,7 @@ type: feature/ability/talent/5th-level-feature
 | -------------------------------------- | ----------------------------: |
 | **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
 
-**Effect:** You teleport to a square on the opposite side of the area before making the power roll.
+**Effect:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to a square on the opposite side of the area before making the power roll.
 
 **Power Roll + Reason:**
 
@@ -43,4 +43,4 @@ type: feature/ability/talent/5th-level-feature
 - **12-16:** 18 sonic damage
 - **17+:** 24 sonic damage
 
-**Strained:** If you obtain a tier 2 outcome or better, you are slowed until the end of your turn and each target is slowed until the end of their turn.
+**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of your turn and each target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of their turn.

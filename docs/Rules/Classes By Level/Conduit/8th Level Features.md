@@ -14,7 +14,7 @@ type: class/conduit/level
 
 ### 8th-Level Features
 
-As an 8th-level conduit, you gain the following features.
+As an 8th-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -37,7 +37,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 > | ----------------- | ----------------------: |
 > | **📏 Ranged 10**  | **🎯 Self or one ally** |
 >
-> **Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are prone. Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
+> **Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
 
 <!-- -->
 > ###### Blessing of Steel (11 Piety)

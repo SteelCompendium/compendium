@@ -14,7 +14,7 @@ type: class/shadow/level
 
 ### 6th-Level Features
 
-As a 6th-level shadow, you gain the following features.
+As a 6th-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -24,7 +24,7 @@ You gain one perk of your choice.
 
 As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
-- You can automatically climb at full speed while moving.
+- You can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving.
 - Enemies' spaces don't count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
 - If you end your turn with cover or concealment from another creature, you are automatically hidden from that creature.
 - You gain 1 surge at the start of each of your turns.
@@ -34,7 +34,7 @@ As a maneuver, you lose control of yourself, becoming a shadow creature dripping
 
 #### 6th-Level College Ability
 
-Your shadow college grants your choice of one of two heroic abilities.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Black Ash Abilities
 
@@ -66,7 +66,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 4 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+> **Effect:** Each target can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 
@@ -101,7 +101,7 @@ Choose one of the following abilities.
 > **Power Roll + Agility:**
 >
 > - **≤11:** The creature's speed is increased by 2 until the end of the encounter.
-> - **12-16:** The creature can fly until the end of the encounter.
+> - **12-16:** The creature can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) until the end of the encounter.
 > - **17+:** The creature turns invisible until the end of their next turn.
 
 ##### 6th-Level Harlequin Mask Abilities

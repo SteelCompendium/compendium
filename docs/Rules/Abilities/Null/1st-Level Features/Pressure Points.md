@@ -35,6 +35,6 @@ type: feature/ability/null/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; A < WEAK, weakened (save ends)
-- **12-16:** 7 + A damage; A < AVERAGE, weakened (save ends)
-- **17+:** 9 + A damage; A < STRONG, weakened (save ends)
+- **≤11:** 4 + A damage; A < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 7 + A damage; A < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 9 + A damage; A < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)

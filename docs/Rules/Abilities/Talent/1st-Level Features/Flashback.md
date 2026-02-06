@@ -36,4 +36,4 @@ type: feature/ability/talent/1st-level-feature
 
 **Effect:** The target uses an ability with a base Heroic Resource cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 
-**Strained:** You take 1d6 damage and are slowed (save ends).
+**Strained:** You take 1d6 damage and are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends).

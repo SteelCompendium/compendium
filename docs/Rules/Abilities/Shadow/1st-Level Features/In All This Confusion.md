@@ -32,6 +32,6 @@ type: feature/ability/shadow/1st-level-feature
 
 **Trigger:** You take damage.
 
-**Effect:** You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.
+**Effect:** You take half the damage, then can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 4 squares after the triggering effect resolves.
 
-**Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
+**Spend 1+ Insight:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) 1 additional square for each insight spent.

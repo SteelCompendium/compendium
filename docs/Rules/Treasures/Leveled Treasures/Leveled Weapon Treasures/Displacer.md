@@ -28,8 +28,8 @@ type: treasure/leveled/weapon
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to teleport you and that creature, letting you trade places provided you both fit into each other's spaces.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) you and that creature, letting you trade places provided you both fit into each other's spaces.
 
 **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to trade places with that creature or any creature within 4 squares of them, provided you both fit into each other's spaces.
 
-**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to trade places with that creature or any creature within 8 squares of them, provided you both fit into each other's spaces. Additionally, you can cause the creature you traded places with to be weakened until the end of their next turn, or you can spend a Recovery.
+**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to trade places with that creature or any creature within 8 squares of them, provided you both fit into each other's spaces. Additionally, you can cause the creature you traded places with to be [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) until the end of their next turn, or you can spend a Recovery.

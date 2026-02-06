@@ -14,7 +14,7 @@ type: kit
 
 #### Ranger
 
-The Ranger kit outfits you with medium armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.
+The [Ranger](%7BREL_PATH_PREFIX%7DRules/Kits/Ranger%7BREL_PATH_SUFFIX%7D) kit outfits you with medium armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.
 
 ##### Equipment
 
@@ -46,6 +46,6 @@ You wear medium armor and wield a bow and a medium weapon.
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 3 + M or A damage; A < WEAK, slowed (save ends)
-- **12-16:** 5 + M or A damage; A < AVERAGE, slowed (save ends)
-- **17+:** 7 + M or A damage; A < STRONG, slowed (save ends)
+- **≤11:** 3 + M or A damage; A < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 7 + M or A damage; A < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)

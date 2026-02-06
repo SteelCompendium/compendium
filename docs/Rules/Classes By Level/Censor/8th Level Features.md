@@ -14,7 +14,7 @@ type: class/censor/level
 
 ### 8th-Level Features
 
-As an 8th-level censor, you gain the following features.
+As an 8th-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -22,7 +22,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Order Feature
 
-Your censor order grants you a feature, as shown on the 8th-Level Order Features table.
+Your [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) order grants you a feature, as shown on the 8th-Level Order Features table.
 
 ###### 8th-Level Order Features Table
 
@@ -59,11 +59,11 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 9 + M damage; I < WEAK, weakened (save ends)
-> - **12-16:** 13 + M damage; I < AVERAGE, weakened (save ends)
-> - **17+:** 18 + M damage; I < STRONG, weakened (save ends)
+> - **≤11:** 9 + M damage; I < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 13 + M damage; I < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 18 + M damage; I < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** At the end of each of your turns, a target weakened this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target weakened this way can't be targeted by their allies' abilities.
+> **Effect:** At the end of each of your turns, a target [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) this way can't be targeted by their allies' abilities.
 
 <!-- -->
 > ###### Hand of the Gods (11 Wrath)
@@ -93,11 +93,11 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 9 + M damage; I < WEAK, dazed (save ends)
-> - **12-16:** 13 + M damage; I < AVERAGE, dazed (save ends)
-> - **17+:** 18 + M damage; I < STRONG, dazed (save ends)
+> - **≤11:** 9 + M damage; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 13 + M damage; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 18 + M damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** At the end of each of your turns, a target dazed this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
+> **Effect:** At the end of each of your turns, a target [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
 
 <!-- -->
 > ###### Your Allies Turn on You! (11 Wrath)
@@ -110,8 +110,8 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; I < WEAK, slowed (save ends)
-> - **12-16:** 9 + P damage; I < AVERAGE, slowed (save ends)
-> - **17+:** 12 + P damage; I < STRONG, slowed (save ends)
+> - **≤11:** 5 + P damage; I < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 9 + P damage; I < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 12 + P damage; I < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While the target is slowed this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is slowed this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
+> **Effect:** While the target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.

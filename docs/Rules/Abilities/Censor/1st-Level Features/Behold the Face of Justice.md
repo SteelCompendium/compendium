@@ -38,8 +38,8 @@ type: feature/ability/censor/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is frightened of you (save ends)
-- **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is frightened of you (save ends)
-- **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is frightened of you (save ends)
+- **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends)
+- **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends)
+- **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends)
 
-**Effect:** Each enemy frightened this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
+**Effect:** Each enemy [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.

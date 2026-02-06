@@ -14,7 +14,7 @@ type: class/tactician/level
 
 ### 1st-Level Features
 
-As a 1st-level tactician, you gain the following features.
+As a 1st-level [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Tactical Doctrine
 
@@ -42,12 +42,12 @@ You lose any remaining focus at the end of the encounter.
 
 Though you can't gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the tactician, but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), but they might appear in future products.)
 
 <!-- -->
 > **Tactician Abilities Explained**
 >
-> Many of the tactician's abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The tactician is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The tactician can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the tactician's abilities are the actual commands they give their friends!
+> Many of the [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D)'s abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D) is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D) can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D)'s abilities are the actual commands they give their friends!
 
 #### 1st-Level Doctrine Feature
 
@@ -129,7 +129,7 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 >
 > **Effect:** At any time during the target's movement, one ally can make a free strike against them.
 >
-> **Spend 1 Focus:** If the target has R < AVERAGE, they are slowed (EoT).
+> **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT).
 
 <!-- -->
 > ###### Parry
@@ -148,11 +148,11 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 
 #### Field Arsenal
 
-You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* Shining Armor, Sniper.)
+You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* Shining Armor, [Sniper](%7BREL_PATH_PREFIX%7DRules/Kits/Sniper%7BREL_PATH_SUFFIX%7D).)
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 
-For example, if you take the Shining Armor and Sniper kits, you gain the following benefits overall:
+For example, if you take the Shining Armor and [Sniper](%7BREL_PATH_PREFIX%7DRules/Kits/Sniper%7BREL_PATH_SUFFIX%7D) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
 - Stability Bonus: +1
@@ -163,7 +163,7 @@ For example, if you take the Shining Armor and Sniper kits, you gain the followi
 - Disengage Bonus: +1
 - You can use the Patient Shot and Protective Attack signature abilities.
 
-Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the Martial Artist kit, which gives a melee weapon damage bonus of +2/+2/+2, and the Mountain kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the Mountain kit's damage bonus, then the Battle Grace signature ability from the Martial Artist kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the Mountain kit to deal 3/6/13 damage.
+Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the Martial Artist kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](%7BREL_PATH_PREFIX%7DRules/Kits/Mountain%7BREL_PATH_SUFFIX%7D) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](%7BREL_PATH_PREFIX%7DRules/Kits/Mountain%7BREL_PATH_SUFFIX%7D) kit's damage bonus, then the Battle Grace signature ability from the Martial Artist kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](%7BREL_PATH_PREFIX%7DRules/Kits/Mountain%7BREL_PATH_SUFFIX%7D) kit to deal 3/6/13 damage.
 
 #### Mark
 
@@ -178,16 +178,16 @@ You know how to focus the attention of your allies as you push them toward victo
 > | ---------------- | ------------------: |
 > | **📏 Ranged 10** | **🎯 One creature** |
 >
-> **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another tactician marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
+> **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
 >
-> You can initially mark only one creature using this ability, though other tactician abilities allow you to mark additional creatures at the same time. The mastermind tactical doctrine's Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
+> You can initially mark only one creature using this ability, though other [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D) abilities allow you to mark additional creatures at the same time. The mastermind tactical doctrine's Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
 >
 > While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
 >
 > - The ability deals extra damage equal to twice your Reason score.
 > - The creature dealing the damage can spend a Recovery.
 > - The creature dealing the damage can shift up to a number of squares equal to your Reason score.
-> - If you damage a creature marked by you with a melee ability, the creature is taunted by you until the end of their next turn.
+> - If you damage a creature marked by you with a melee ability, the creature is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by you until the end of their next turn.
 >
 > You can't gain more than one benefit from the same trigger.
 
@@ -250,9 +250,9 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; M < WEAK, dazed (save ends)
-> - **12-16:** 5 + M damage; M < AVERAGE, dazed (save ends)
-> - **17+:** 8 + M damage; M < STRONG, dazed (save ends)
+> - **≤11:** 3 + M damage; M < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 8 + M damage; M < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Inspiring Strike (3 Focus)
@@ -314,9 +314,9 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; R < WEAK, weakened (save ends)
-> - **12-16:** 6 + M damage; R < AVERAGE, weakened (save ends)
-> - **17+:** 10 + M damage; R < STRONG, weakened (save ends)
+> - **≤11:** 4 + M damage; R < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 6 + M damage; R < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 10 + M damage; R < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.
 

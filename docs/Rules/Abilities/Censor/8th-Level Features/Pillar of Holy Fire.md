@@ -36,8 +36,8 @@ type: feature/ability/censor/8th-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 9 + M damage; I < WEAK, dazed (save ends)
-- **12-16:** 13 + M damage; I < AVERAGE, dazed (save ends)
-- **17+:** 18 + M damage; I < STRONG, dazed (save ends)
+- **≤11:** 9 + M damage; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 13 + M damage; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 18 + M damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 
-**Effect:** At the end of each of your turns, a target dazed this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
+**Effect:** At the end of each of your turns, a target [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.

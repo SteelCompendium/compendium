@@ -32,4 +32,4 @@ type: treasure/leveled/armor
 
 **5th Level:** The shield's bonus to Stamina increases to +6. When you cause the shield to roar, you target one creature or object within 3 squares and push that target up to 4 squares.
 
-**9th Level:** The shield's bonus to Stamina increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you push that target up to 5 squares, and the target is slowed until the end of their next turn.
+**9th Level:** The shield's bonus to Stamina increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you push that target up to 5 squares, and the target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of their next turn.

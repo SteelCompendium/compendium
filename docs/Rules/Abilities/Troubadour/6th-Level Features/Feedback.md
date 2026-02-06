@@ -34,10 +34,10 @@ type: feature/ability/troubadour/6th-level-feature
 | ----------------------------- | ----------------------------: |
 | **📏 Three 3 cubes within 1** | **🎯 Each enemy in the area** |
 
-**Effect:** A prone target ignores this ability.
+**Effect:** A [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target ignores this ability.
 
 **Power Roll + Presence:**
 
-- **≤11:** 7 sonic damage; P < WEAK, prone
-- **12-16:** 10 sonic damage; P < AVERAGE, prone
-- **17+:** 13 sonic damage; P < STRONG, prone
+- **≤11:** 7 sonic damage; P < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+- **12-16:** 10 sonic damage; P < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+- **17+:** 13 sonic damage; P < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)

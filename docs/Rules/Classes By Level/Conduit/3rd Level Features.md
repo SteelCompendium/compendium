@@ -14,7 +14,7 @@ type: class/conduit/level
 
 ### 3rd-Level Features
 
-As a 3rd-level conduit, you gain the following features.
+As a 3rd-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Minor Miracle
 
@@ -37,11 +37,11 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 6 psychic damage; I < WEAK, frightened (save ends)
-> - **12-16:** 9 psychic damage; I < AVERAGE, frightened (save ends)
-> - **17+:** 13 psychic damage; I < STRONG, frightened (save ends)
+> - **≤11:** 6 psychic damage; I < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 9 psychic damage; I < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 13 psychic damage; I < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** Each target is frightened of you or a creature you choose within distance.
+> **Effect:** Each target is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you or a creature you choose within distance.
 
 <!-- -->
 > ###### Saint's Raiment (7 Piety)

@@ -14,20 +14,20 @@ type: movement
 
 ###### Climbing Other Creatures
 
-You can attempt to climb a creature whose size is greater than yours. If the creature is willing, you can climb them without any trouble. If the creature is unwilling, you make the following test:
+You can attempt to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a creature whose size is greater than yours. If the creature is willing, you can \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) them without any trouble. If the creature is unwilling, you make the following test:
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fail to climb the creature, and they can make a free strike against you.
-- **12-16:** You fail to climb the creature.
-- **17+:** You climb the creature.
+- **≤11:** You fail to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the creature, and they can make a free strike against you.
+- **12-16:** You fail to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the creature.
+- **17+:** You \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the creature.
 
-While you climb or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
+While you \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing prone as usual (see [Falling](#page-283-3) below).
-- **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land prone.
+- **≤11:** You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) as usual (see [Falling](#page-283-3) below).
+- **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
 - **17+:** You continue to hold on to the creature.
 
-If you are knocked prone while climbing or riding a creature, you fall and land prone in an adjacent space of your choice, taking damage as usual from the fall.
+If you are knocked [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) while climbing or riding a creature, you fall and land [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) in an adjacent space of your choice, taking damage as usual from the fall.

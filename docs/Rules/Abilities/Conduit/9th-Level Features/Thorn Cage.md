@@ -37,8 +37,8 @@ type: feature/ability/conduit/9th-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 10 + I damage; A < WEAK, restrained (save ends)
-- **12-16:** 15 + I damage; A < AVERAGE, restrained (save ends)
-- **17+:** 21 + I damage; A < STRONG, restrained (save ends)
+- **≤11:** 10 + I damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 15 + I damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 21 + I damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 
-**Effect:** While restrained this way, the target takes 10 damage at the start of each of your turns.
+**Effect:** While [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way, the target takes 10 damage at the start of each of your turns.

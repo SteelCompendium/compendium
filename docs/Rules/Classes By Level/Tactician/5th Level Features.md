@@ -14,7 +14,7 @@ type: class/tactician/level
 
 ### 5th-Level Features
 
-As a 5th-level tactician, you gain the following features.
+As a 5th-level [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 5th-Level Doctrine Features
 
@@ -93,7 +93,7 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 > | -------------- | ------------------------------------: |
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they are prone.
+> **Effect:** Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they are [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
 
 <!-- -->
 > ###### You've Still Got Something Left (9 Focus)

@@ -22,5 +22,5 @@ type: title/2nd-echelon
 **Effect:** Choose one of the following benefits:
 
 - *Foresight:* You don't take a bane when using abilities against creatures with concealment.
-- *Rogue Talent:* Choose one triggered action that the talent class has access to at 1st level. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend clarity, you can't do so unless you have the Clarity class feature.
+- *Rogue Talent:* Choose one triggered action that the [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) class has access to at 1st level. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend clarity, you can't do so unless you have the Clarity class feature.
 - *Telepathy:* As a maneuver, you communicate telepathically with a creature within 10 squares who understands a language you know. The creature can respond telepathically as part of the same maneuver.

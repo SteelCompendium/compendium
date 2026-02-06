@@ -36,8 +36,8 @@ type: feature/ability/fury/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 4 + M damage; M < WEAK, bleeding and weakened (save ends)
-- **12-16:** 6 + M damage; M < AVERAGE, bleeding and weakened (save ends)
-- **17+:** 10 + M damage; M < STRONG, bleeding and weakened (save ends)
+- **≤11:** 4 + M damage; M < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 6 + M damage; M < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 10 + M damage; M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 
 **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.

@@ -40,6 +40,6 @@ type: feature/ability/talent/6th-level-feature
 
 - **≤11:** Slide 4 + R; M < WEAK, the forced movement is vertical
 - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is vertical
-- **17+:** Slide 12 + R; prone; M < STRONG, the forced movement is vertical
+- **17+:** Slide 12 + R; [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D); M < STRONG, the forced movement is vertical
 
-**Strained:** The forced movement ignores stability. You take 2d6 damage and are weakened (save ends).
+**Strained:** The forced movement ignores stability. You take 2d6 damage and are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends).

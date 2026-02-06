@@ -14,15 +14,15 @@ type: class/null/level
 
 ### 9th-Level Features
 
-As a 9th-level null, you gain the following features.
+As a 9th-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### I Am the Weapon
 
-Your Stamina increases by 21 and you can't be made bleeding even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
+Your Stamina increases by 21 and you can't be made [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
 
 #### 9th-Level Tradition Ability
 
-Your null tradition grants your choice of one of two heroic abilities.
+Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronokinetic Abilities
 
@@ -92,11 +92,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 8 + I cold damage; M < WEAK, restrained (save ends)
-> - **12-16:** 11 + I cold damage; M < AVERAGE, restrained (save ends)
-> - **17+:** 15 + I cold damage; M < STRONG, restrained (save ends)
+> - **≤11:** 8 + I cold damage; M < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 15 + I cold damage; M < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While restrained this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while restrained this way, any potency associated with the damage is reduced by 2.
+> **Effect:** While [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way, any potency associated with the damage is reduced by 2.
 
 ##### 9th-Level Metakinetic Abilities
 
@@ -126,8 +126,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A psychic damage; I < WEAK, dazed
-> - **12-16:** 10 + A psychic damage; I < AVERAGE, dazed
-> - **17+:** 13 + A psychic damage; I < STRONG, dazed
+> - **≤11:** 7 + A psychic damage; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 13 + A psychic damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
 >
-> **Effect:** While dazed this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
+> **Effect:** While [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.

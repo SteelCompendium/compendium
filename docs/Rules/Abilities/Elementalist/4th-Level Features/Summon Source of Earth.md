@@ -41,11 +41,11 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 
 **Source of Earth**
 
-|       Elemental       |            -             |       Level 8       |          BRUTE          |          EV -          |
-| :-------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
-|    **2**<br/> Size    |     **6**<br/> Speed     | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunities | **Burrow**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|   **+3**<br/> Might   |   **+1**<br/> Agility    | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
+|       Elemental       |                                              -                                              |       Level 8       |          BRUTE          |          EV -          |
+| :-------------------: | :-----------------------------------------------------------------------------------------: | :-----------------: | :---------------------: | :--------------------: |
+|    **2**<br/> Size    |                                      **6**<br/> Speed                                       | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
+| **-**<br/> Immunities | **[Burrow](%7BREL_PATH_PREFIX%7DRules/Movement/Burrow%7BREL_PATH_SUFFIX%7D)**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **+3**<br/> Might   |                                     **+1**<br/> Agility                                     | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
 > **Earthwalk**

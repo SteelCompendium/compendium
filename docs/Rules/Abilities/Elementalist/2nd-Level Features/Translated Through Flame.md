@@ -35,7 +35,7 @@ type: feature/ability/elementalist/2nd-level-feature
 | ----------------------------- | ----------------------: |
 | **📏 Ranged 10**              | **🎯 Self or one ally** |
 
-**Effect:** The target is teleported to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
+**Effect:** The target is [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
 
 **Power Roll + Reason:**
 

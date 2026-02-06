@@ -14,11 +14,11 @@ type: class/censor/level
 
 ### 3rd-Level Features
 
-As a 3rd-level censor, you gain the following features.
+As a 3rd-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Look On My Work and Despair
 
-Your judgment has grown in divine power, instilling fear in those you condemn. Whenever you use your Judgment ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are frightened of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use Judgment as a free triggered action, if the new target has P < STRONG, they are frightened of you (save ends). If the target is already frightened of you, they instead take holy damage equal to twice your Presence score.
+Your judgment has grown in divine power, instilling fear in those you condemn. Whenever you use your Judgment ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use Judgment as a free triggered action, if the new target has P < STRONG, they are [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends). If the target is already [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you, they instead take holy damage equal to twice your Presence score.
 
 #### 7-Wrath Ability
 

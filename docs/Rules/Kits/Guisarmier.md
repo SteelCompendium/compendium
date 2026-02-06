@@ -14,7 +14,7 @@ type: kit
 
 #### Guisarmier
 
-The Guisarmier kit is for those who want to use a polearm for extended reach while remaining protected by sturdy armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
+The [Guisarmier](%7BREL_PATH_PREFIX%7DRules/Kits/Guisarmier%7BREL_PATH_SUFFIX%7D) kit is for those who want to use a polearm for extended reach while remaining protected by sturdy armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
 
 ##### Equipment
 

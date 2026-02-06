@@ -50,4 +50,4 @@ Choose one of the following abilities.
 > - **12-16:** You gain 15 temporary Stamina.
 > - **17+:** You gain 20 temporary Stamina.
 >
-> **Effect:** While you have temporary Stamina from this ability, you can't be made bleeding even while dying.
+> **Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) even while dying.

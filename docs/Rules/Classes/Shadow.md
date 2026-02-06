@@ -16,7 +16,7 @@ type: class
 
 Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or shadow-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
 
-**As a shadow, you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
+**As a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
 
 "Whenever there is doubt, there is no doubt." **Motto of the College of Black Ash**
 
@@ -60,19 +60,19 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 ### 1st-Level Features
 
-As a 1st-level shadow, you gain the following features.
+As a 1st-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Shadow College
 
-Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
-You graduated from a shadow college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
+You graduated from a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
-- College of Black Ash: The College of Black Ash founded the art of being a shadow. Its graduates are unmatched in mobility, using sorcery to teleport around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
+- College of Black Ash: The College of Black Ash founded the art of being a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D). Its graduates are unmatched in mobility, using sorcery to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
 - College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the Alchemy skill.
 - College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the Lie skill.
 
-Your shadow college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
 
 #### Insight
 
@@ -92,11 +92,11 @@ You lose any remaining insight at the end of the encounter.
 
 Although you can't gain insight outside of combat, you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash Teleport, you can use it as if you had spent an amount of insight equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can use it as if you had spent an amount of insight equal to your Victories.
 
 #### 1st-Level College Features
 
-Your shadow college grants you one or two features, as shown on the 1st-Level College Features table.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants you one or two features, as shown on the 1st-Level College Features table.
 
 ###### 1st-Level College Features Table
 
@@ -119,9 +119,9 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You teleport up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+> **Effect:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
 >
-> **Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) 1 additional square for each insight spent.
 
 ##### Coat the Blade
 
@@ -165,7 +165,7 @@ You always carry a supply of smoke bombs to use for distractions and easy getawa
 
 #### College Triggered Action
 
-Your shadow college grants you a triggered action, as shown on the College Triggered Actions table.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants you a triggered action, as shown on the College Triggered Actions table.
 
 ###### College Triggered Actions Table
 
@@ -214,9 +214,9 @@ Your shadow college grants you a triggered action, as shown on the College Trigg
 >
 > **Trigger:** You take damage.
 >
-> **Effect:** You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.
+> **Effect:** You take half the damage, then can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 4 squares after the triggering effect resolves.
 >
-> **Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) 1 additional square for each insight spent.
 
 #### Hesitation Is Weakness
 
@@ -260,7 +260,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 3 + A damage
 > - **12-16:** 5 + A damage
-> - **17+:** 8 + A damage; I < STRONG, prone
+> - **17+:** 8 + A damage; I < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
 >
 > **Effect:** One ally within 5 squares of the target gains 1 surge.
 
@@ -351,9 +351,9 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, bleeding (save ends)
-> - **12-16:** 6 + A damage; A < AVERAGE, bleeding (save ends)
-> - **17+:** 10 + A damage; A < STRONG, bleeding (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 10 + A damage; A < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Get In Get Out (3 Insight)
@@ -451,7 +451,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 ### 2nd-Level Features
 
-As a 2nd-level shadow, you gain the following features.
+As a 2nd-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -459,7 +459,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level College Feature
 
-Your shadow college grants you a feature, as shown on the 2nd-Level College Features table.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants you a feature, as shown on the 2nd-Level College Features table.
 
 ###### 2nd-Level College Features Table
 
@@ -471,7 +471,7 @@ Your shadow college grants you a feature, as shown on the 2nd-Level College Feat
 
 ##### Burning Ash
 
-The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to teleport away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
+The ash you leave behind burns your foes. The first time on a turn that you use a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) ability to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
 
 ##### Friend!
 
@@ -485,7 +485,7 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 
 #### 2nd-Level College Ability
 
-Your shadow college grants your choice of one of two heroic abilities.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Black Ash Ability
 
@@ -502,9 +502,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 + A damage; you can teleport the target 1 square
-> - **12-16:** 10 + A damage; you can teleport the target up to 3 squares
-> - **17+:** 14 + A damage; you can teleport the target up to 5 squares
+> - **≤11:** 6 + A damage; you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target 1 square
+> - **12-16:** 10 + A damage; you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 3 squares
+> - **17+:** 14 + A damage; you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 5 squares
 
 <!-- -->
 > ###### Too Slow (5 Insight)
@@ -517,7 +517,7 @@ Choose one of the following abilities.
 >
 > **Trigger:** You use your In All This Confusion ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can spend a Recovery.
 
 ##### 2nd-Level Caustic Alchemy Ability
 
@@ -555,7 +555,7 @@ Choose one of the following abilities.
 > - **12-16:** 5 poison damage
 > - **17+:** 7 poison damage
 >
-> **Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is weakened (save ends).
+> **Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends).
 
 ##### 2nd-Level Harlequin Mask Ability
 
@@ -589,11 +589,11 @@ Choose one of the following abilities.
 >
 > **Trigger:** Another creature targets you with a strike.
 >
-> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
+> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
 
 ### 3rd-Level Features
 
-As a 3rd-level shadow, you gain the following features.
+As a 3rd-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Careful Observation
 
@@ -640,7 +640,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 > - **12-16:** 13 + A damage
 > - **17+:** 18 + A damage
 >
-> **Effect:** The target is taunted by a willing ally within 5 squares of you until the end of the target's next turn.
+> **Effect:** The target is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by a willing ally within 5 squares of you until the end of the target's next turn.
 
 <!-- -->
 > ###### Pinning Shot (7 Insight)
@@ -653,9 +653,9 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + A damage; A < WEAK, restrained (save ends)
-> - **12-16:** 12 + A damage; A < AVERAGE, restrained (save ends)
-> - **17+:** 16 + A damage; A < STRONG, restrained (save ends)
+> - **≤11:** 8 + A damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 12 + A damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 16 + A damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Staggering Blow (7 Insight)
@@ -668,13 +668,13 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A damage; M < WEAK, slowed (save ends)
-> - **12-16:** 11 + A damage; M < AVERAGE, prone and can't stand (save ends)
-> - **17+:** 16 + A damage; M < STRONG, prone and can't stand (save ends)
+> - **≤11:** 7 + A damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 11 + A damage; M < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
+> - **17+:** 16 + A damage; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
 
 ### 4th-Level Features
 
-As a 4th-level shadow, you gain the following features.
+As a 4th-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 
@@ -717,11 +717,11 @@ The first time each combat round that you deal damage incorporating 1 or more su
 
 ### 5th-Level Features
 
-As a 5th-level shadow, you gain the following features.
+As a 5th-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 5th-Level College Feature
 
-Your shadow college grants you a feature, as shown on the 5th-Level College Features table.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants you a feature, as shown on the 5th-Level College Features table.
 
 ###### 5th-Level College Features Table
 
@@ -741,7 +741,7 @@ If the creature is the same size as you, you can disguise yourself as them using
 
 Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash Teleport ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to teleport. The creature appears in an unoccupied space adjacent to the space into which you teleported. If no such space exists, they can't teleport with you.
+Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) ability to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D). The creature appears in an unoccupied space adjacent to the space into which you [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D). If no such space exists, they can't [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) with you.
 
 ##### Volatile Reagents
 
@@ -809,15 +809,15 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 10 + A damage; P < WEAK, dazed (save ends)
-> - **12-16:** 15 + A damage; P < AVERAGE, dazed (save ends)
-> - **17+:** 21 + A damage; P < STRONG, dazed (save ends)
+> - **≤11:** 10 + A damage; P < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 15 + A damage; P < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 21 + A damage; P < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** The target can't communicate with anyone until the end of the encounter.
 
 ### 6th-Level Features
 
-As a 6th-level shadow, you gain the following features.
+As a 6th-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -827,7 +827,7 @@ You gain one perk of your choice.
 
 As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
-- You can automatically climb at full speed while moving.
+- You can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving.
 - Enemies' spaces don't count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
 - If you end your turn with cover or concealment from another creature, you are automatically hidden from that creature.
 - You gain 1 surge at the start of each of your turns.
@@ -837,7 +837,7 @@ As a maneuver, you lose control of yourself, becoming a shadow creature dripping
 
 #### 6th-Level College Ability
 
-Your shadow college grants your choice of one of two heroic abilities.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Black Ash Abilities
 
@@ -869,7 +869,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 4 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+> **Effect:** Each target can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 
@@ -904,7 +904,7 @@ Choose one of the following abilities.
 > **Power Roll + Agility:**
 >
 > - **≤11:** The creature's speed is increased by 2 until the end of the encounter.
-> - **12-16:** The creature can fly until the end of the encounter.
+> - **12-16:** The creature can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) until the end of the encounter.
 > - **17+:** The creature turns invisible until the end of their next turn.
 
 ##### 6th-Level Harlequin Mask Abilities
@@ -941,7 +941,7 @@ Choose one of the following abilities.
 
 ### 7th-Level Features
 
-As a 7th-level shadow, you gain the following features.
+As a 7th-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 
@@ -965,7 +965,7 @@ Whenever you communicate, you can throw your voice so that it seems to originate
 
 ### 8th-Level Features
 
-As an 8th-level shadow, you gain the following features.
+As an 8th-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -973,7 +973,7 @@ You gain one perk of your choice.
 
 #### 8th-Level College Feature
 
-Your shadow college grants you a feature, as shown on the 8th-Level College Features table.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants you a feature, as shown on the 8th-Level College Features table.
 
 ###### 8th-Level College Features Table
 
@@ -985,7 +985,7 @@ Your shadow college grants you a feature, as shown on the 8th-Level College Feat
 
 ##### Cinder Step
 
-Whenever you willingly move, you can teleport. When you teleport this way, it counts as using a shadow ability for the purpose of using your Burning Ash and Trail of Cinders features.
+Whenever you willingly move, you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D). When you [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) this way, it counts as using a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) ability for the purpose of using your Burning Ash and Trail of Cinders features.
 
 ##### Parkour
 
@@ -1042,9 +1042,9 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 11 corruption damage; A < WEAK, restrained (save ends)
-> - **12-16:** 16 corruption damage; A < AVERAGE, restrained (save ends)
-> - **17+:** 21 corruption damage; A < STRONG, restrained (save ends)
+> - **≤11:** 11 corruption damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 16 corruption damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 21 corruption damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Speed of Shadows (11 Insight)
@@ -1068,13 +1068,13 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 12 damage; M < WEAK, slowed (save ends)
-> - **12-16:** 18 damage; M < AVERAGE, slowed (save ends)
-> - **17+:** 24 damage; M < STRONG, slowed (save ends)
+> - **≤11:** 12 damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 18 damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 24 damage; M < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 ### 9th-Level Features
 
-As a 9th-level shadow, you gain the following features.
+As a 9th-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Gloom Squad
 
@@ -1084,7 +1084,7 @@ Outside of combat, you can have one clone active for every 2 Victories you have.
 
 #### 9th-Level College Ability
 
-Your shadow college grants your choice of one of two heroic abilities.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Black Ash Abilities
 
@@ -1103,9 +1103,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** An enemy takes 6 damage; an ally can teleport up to 3 squares.
-> - **12-16:** An enemy takes 10 damage; an ally can teleport up to 5 squares.
-> - **17+:** An enemy takes 14 damage; an ally can teleport up to 7 squares.
+> - **≤11:** An enemy takes 6 damage; an ally can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 3 squares.
+> - **12-16:** An enemy takes 10 damage; an ally can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 5 squares.
+> - **17+:** An enemy takes 14 damage; an ally can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 7 squares.
 
 <!-- -->
 > ###### Demon Door (11 Insight)
@@ -1122,7 +1122,7 @@ Choose one of the following abilities.
 > - **12-16:** 18 + A corruption damage; push 5
 > - **17+:** 25 + A corruption damage; push 7
 >
-> **Effect:** On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
+> **Effect:** On a critical hit, the target is [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) by the demon and pulled through the portal before it closes, never to be seen again.
 
 ##### 9th-Level Caustic Alchemy Abilities
 
@@ -1196,7 +1196,7 @@ Choose one of the following abilities.
 
 ### 10th-Level Features
 
-As a 10th-level shadow, you gain the following features.
+As a 10th-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 
@@ -1222,7 +1222,7 @@ You can target three creatures simultaneously with your Careful Observation abil
 
 You gain full control over the shadow creature you become with your Umbral Form feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
 
-While you are in your umbral form, you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can teleport to unoccupied spaces of your choice within that location. Each creature who teleports this way is invisible for 1 hour or until they use an ability.
+While you are in your umbral form, you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to unoccupied spaces of your choice within that location. Each creature who teleports this way is invisible for 1 hour or until they use an ability.
 
 #### Subterfuge
 

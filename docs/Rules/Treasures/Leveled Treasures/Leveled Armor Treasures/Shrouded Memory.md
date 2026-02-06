@@ -30,6 +30,6 @@ type: treasure/leveled/armor
 
 **1st Level:** You gain a +6 bonus to Stamina while you wear this armor. Additionally, you gain an edge on tests made to lie about or conceal your identity.
 
-**5th Level:** The armor's bonus to Stamina increases to +12. Additionally, whenever you take damage, you can use a triggered action to teleport up to 5 squares. If you do, you create an illusion of you dying in your previous space, which fades at the end of your next turn.
+**5th Level:** The armor's bonus to Stamina increases to +12. Additionally, whenever you take damage, you can use a triggered action to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 5 squares. If you do, you create an illusion of you dying in your previous space, which fades at the end of your next turn.
 
-**9th Level:** The armor's bonus to Stamina increases to +21. Whenever you use the armor's triggered action to teleport, you can teleport up to a number of squares equal to the damage taken (minimum 5 squares). Additionally, if a creature dealt you the triggering damage, you become invisible to that creature until the end of your next turn.
+**9th Level:** The armor's bonus to Stamina increases to +21. Whenever you use the armor's triggered action to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to a number of squares equal to the damage taken (minimum 5 squares). Additionally, if a creature dealt you the triggering damage, you become invisible to that creature until the end of your next turn.

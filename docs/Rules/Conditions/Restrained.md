@@ -14,6 +14,6 @@ type: condition
 
 ##### Restrained
 
-A creature who is restrained has speed 0, can't use the Stand Up maneuver, and can't be force moved. A restrained creature takes a bane on ability rolls and on Might and Agility tests, and abilities used against them gain an edge.
+A creature who is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) has speed 0, can't use the Stand Up maneuver, and can't be force moved. A [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) creature takes a bane on ability rolls and on Might and Agility tests, and abilities used against them gain an edge.
 
-If a creature teleports while restrained, that condition ends.
+If a creature teleports while [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D), that condition ends.

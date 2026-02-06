@@ -14,17 +14,17 @@ type: class/null/level
 
 ### 1st-Level Features
 
-As a 1st-level null, you gain the following features.
+As a 1st-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Null Tradition
 
-Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a null tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
+Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
 
 - **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.
 - **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.
 - **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.
 
-Your null tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
+Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
 
 #### Discipline
 
@@ -42,7 +42,7 @@ You lose any remaining discipline at the end of the encounter.
 
 Though you can't gain discipline outside of combat, you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the null, but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), but they might appear in future products.)
 
 #### Null Field
 
@@ -88,7 +88,7 @@ Your instincts for danger let you predict attacks before they happen.
 
 #### Discipline Mastery
 
-As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
+As you advance in your chosen [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
 
 Some Discipline Mastery benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
@@ -237,9 +237,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, grabbed
-> - **12-16:** 7 + A damage; A < AVERAGE, grabbed
-> - **17+:** 9 + A damage; A < STRONG, grabbed
+> - **≤11:** 4 + A damage; A < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 9 + A damage; A < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
 
 <!-- -->
 > ###### Kinetic Strike
@@ -252,9 +252,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; taunted (EoT)
-> - **12-16:** 5 + A damage; taunted (EoT), slide 1
-> - **17+:** 6 + A damage; taunted (EoT), slide 2
+> - **≤11:** 4 + A damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT)
+> - **12-16:** 5 + A damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT), slide 1
+> - **17+:** 6 + A damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT), slide 2
 
 <!-- -->
 > ###### Magnetic Strike
@@ -286,7 +286,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + A damage; push 4
 > - **17+:** 8 + A damage; push 6
 >
-> **Effect:** Before the push is resolved, you teleport the target to a square adjacent to you and opposite the one they started in. If the target can't be teleported this way, you can't push them.
+> **Effect:** Before the push is resolved, you [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) this way, you can't push them.
 
 <!-- -->
 > ###### Pressure Points
@@ -299,9 +299,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, weakened (save ends)
-> - **12-16:** 7 + A damage; A < AVERAGE, weakened (save ends)
-> - **17+:** 9 + A damage; A < STRONG, weakened (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 9 + A damage; A < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 
 ##### Heroic Abilities
 
@@ -367,9 +367,9 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; I < WEAK, dazed and slowed (save ends)
-> - **12-16:** 5 + A damage; I < AVERAGE, dazed and slowed (save ends)
-> - **17+:** 7 + A damage; I < STRONG, dazed and slowed (save ends)
+> - **≤11:** 4 + A damage; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 + A damage; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 7 + A damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 ###### 5-Discipline Ability
 
@@ -386,11 +386,11 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + **A** psychic damage; M < WEAK, weakened (save ends)
-> - **12-16:** 12 + **A** psychic damage; M < AVERAGE, weakened (save ends)
-> - **17+:** 16 + **A** psychic damage; M < STRONG, weakened (save ends)
+> - **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While weakened this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
+> **Effect:** While [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
 
 <!-- -->
 > ###### Impart Force (5 Discipline)
@@ -424,7 +424,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
 > - **17+:** 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 >
-> **Effect:** A target who goes out of phase is slowed, has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+> **Effect:** A target who goes out of phase is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
 
 <!-- -->
 > ###### A Squad Unto Myself (5 Discipline)

@@ -14,7 +14,7 @@ type: ancestry
 
 ## Wode Elf
 
-Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among humans for snatching children who wander too far into the woods. Humans *should* fear the trees.
+Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) for snatching children who wander too far into the woods. [Humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) *should* fear the trees.
 
 The wode elves' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at urban warfare.
 
@@ -34,7 +34,7 @@ Then, only a few feet from them, a half-dozen figures melded out of the backgrou
 
 Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back toward them by two more wode elves, his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
 
-The elves were tall, taller than an adult human, but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
+The elves were tall, taller than an adult [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
 
 "Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a wode elf with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
 
@@ -142,6 +142,6 @@ You have the following signature ability. Signature abilities can be used at wil
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 2 + M or A damage; A < WEAK, slowed (save ends)
-- **12-16:** 3 + M or A damage; A < AVERAGE, slowed (save ends)
-- **17+:** 5 + M or A damage; A < STRONG, restrained (save ends)
+- **≤11:** 2 + M or A damage; A < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 5 + M or A damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)

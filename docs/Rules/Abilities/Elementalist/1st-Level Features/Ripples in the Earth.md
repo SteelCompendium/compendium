@@ -38,6 +38,6 @@ type: feature/ability/elementalist/1st-level-feature
 
 - **≤11:** 3 damage
 - **12-16:** 5 damage
-- **17+:** 8 damage; M < STRONG, prone
+- **17+:** 8 damage; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
 
 **Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.

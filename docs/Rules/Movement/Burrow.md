@@ -14,13 +14,13 @@ type: movement
 
 ##### Burrow
 
-A creature who has "burrow" in their speed entry, or who gains the temporary ability to burrow, can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them burrow says otherwise. Similarly, a burrowing creature doesn't leave a tunnel unless the rules say so.
+A creature who has "burrow" in their speed entry, or who gains the temporary ability to [burrow](%7BREL_PATH_PREFIX%7DRules/Movement/Burrow%7BREL_PATH_SUFFIX%7D), can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them [burrow](%7BREL_PATH_PREFIX%7DRules/Movement/Burrow%7BREL_PATH_SUFFIX%7D) says otherwise. Similarly, a burrowing creature doesn't leave a tunnel unless the rules say so.
 
 ###### Dig Maneuver
 
 It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the Dig maneuver, a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
 
-When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their size. If a burrowing creature has a creature who is not unconscious grabbed, they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
+When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their size. If a burrowing creature has a creature who is not unconscious [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
 
 ###### Targeting Burrowing Creatures
 
@@ -36,7 +36,7 @@ You can't gain the benefit of high ground (see below) against creatures who are 
 
 If you are on the ground and adjacent to a creature who is beneath the ground while burrowing, you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
 
-If a creature who can't burrow wants to dig into the ground, they can use the following ability provided their speed is 2 or more.
+If a creature who can't [burrow](%7BREL_PATH_PREFIX%7DRules/Movement/Burrow%7BREL_PATH_SUFFIX%7D) wants to dig into the ground, they can use the following ability provided their speed is 2 or more.
 
 ###### Claw Dirt
 
@@ -46,8 +46,8 @@ If a creature who can't burrow wants to dig into the ground, they can use the fo
 
 **Power Roll + Might:**
 
-- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are slowed and weakened (EoT).
-- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are slowed (EoT).
+- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (EoT).
+- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT).
 - **17+:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through.
 
 ###### Burrowing Forced Movement

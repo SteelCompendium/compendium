@@ -84,7 +84,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 3 holy damage
 > - **17+:** 5 holy damage
 >
-> **Effect:** You can teleport yourself and each ally in the area to unoccupied spaces in the area.
+> **Effect:** You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) yourself and each ally in the area to unoccupied spaces in the area.
 
 <!-- -->
 > ###### Sacrificial Offer

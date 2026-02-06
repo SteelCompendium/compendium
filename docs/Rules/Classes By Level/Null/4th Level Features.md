@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 4th-Level Features
 
-As a 4th-level null, you gain the following features.
+As a 4th-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 

@@ -250,7 +250,7 @@ You have the following ability.
 >
 > **Effect:** Choose one of the following effects:
 >
-> - You teleport a size 1S or smaller object adjacent to you into an unoccupied space adjacent to you.
+> - You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) a size 1S or smaller object adjacent to you into an unoccupied space adjacent to you.
 > - Until the start of your next turn, a part of your body shoots a shower of harmless noisy sparks that light up each square adjacent to you.
 > - You ignite or snuff out (your choice) every mundane light source of 1L or smaller adjacent to you.
 > - You transform up to 1 pound of edible food you touch to make it taste delicious or disgusting.

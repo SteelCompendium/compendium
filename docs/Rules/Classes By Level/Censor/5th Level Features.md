@@ -14,11 +14,11 @@ type: class/censor/level
 
 ### 5th-Level Features
 
-As a 5th-level censor, you gain the following features.
+As a 5th-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 5th-Level Order Feature
 
-Your censor order grants you a feature, as shown on the 5th-Level Order Features table.
+Your [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) order grants you a feature, as shown on the 5th-Level Order Features table.
 
 ###### 5th-Level Order Features Table
 
@@ -55,7 +55,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 > | ---------------- | ----------------------: |
 > | **📏 Ranged 10** | **🎯 Self or one ally** |
 >
-> **Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up. The target then gains 2 surges, can shift up to their speed while ignoring difficult terrain, and can use a strike signature ability as a free triggered action.
+> **Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target can stand up. The target then gains 2 surges, can shift up to their speed while ignoring difficult terrain, and can use a strike signature ability as a free triggered action.
 
 <!-- -->
 > ###### Orison of Victory (9 Wrath)
@@ -72,7 +72,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 > - **12-16:** Each target gains 2 surges.
 > - **17+:** Each target gains 3 surges.
 >
-> **Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+> **Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target can stand up.
 
 <!-- -->
 > ###### Righteous Judgment (9 Wrath)

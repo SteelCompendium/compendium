@@ -35,9 +35,9 @@ type: feature/ability/talent/1st-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 + R damage; M < WEAK, prone
-- **12-16:** 4 + R damage; M < AVERAGE, prone
-- **17+:** 6 + R damage; M < STRONG, prone
+- **≤11:** 2 + R damage; M < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+- **12-16:** 4 + R damage; M < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+- **17+:** 6 + R damage; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
 
 **Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.
 

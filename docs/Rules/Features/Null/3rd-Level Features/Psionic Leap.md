@@ -18,4 +18,4 @@ type: feature/trait/null/3rd-level-feature
 
 #### Psionic Leap
 
-You can long jump and high jump a distance equal to twice your Agility score without needing to make a test.
+You can long [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) and high [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) a distance equal to twice your Agility score without needing to make a test.

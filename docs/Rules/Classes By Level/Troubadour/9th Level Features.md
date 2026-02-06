@@ -14,17 +14,17 @@ type: class/troubadour/level
 
 ### 9th-Level Features
 
-As a 9th-level troubadour, you gain the following features.
+As a 9th-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Roar of the Crowd
 
-You are empowered by your audience, near and far. You can't be made frightened, and if you are prone, you can stand up as a free maneuver.
+You are empowered by your audience, near and far. You can't be made [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D), and if you are [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D), you can stand up as a free maneuver.
 
 Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your Scene Partner feature + either your Victories or the number of players in your game (whichever is higher).
 
 #### 9th-Level Class Act Ability
 
-Your troubadour class act grants your choice of one of two heroic abilities.
+Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Auteur Abilities
 
@@ -56,7 +56,7 @@ Choose one of the following abilities.
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  | **🎯 One ally** |
 >
-> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer slowed or weakened if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) or [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
 
 ##### 9th-Level Duelist Abilities
 
@@ -75,7 +75,7 @@ Choose one of the following abilities.
 >
 > - **≤11:** 15 + A damage
 > - **12-16:** 21 + A damage
-> - **17+:** 28 + A damage; M < STRONG, bleeding (save ends)
+> - **17+:** 28 + A damage; M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.
 

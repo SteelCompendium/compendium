@@ -14,7 +14,7 @@ type: class/fury/level
 
 ### 6th-Level Features
 
-As a 6th-level fury, you gain the following features.
+As a 6th-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Marauder of the Primordial Chaos
 
@@ -24,7 +24,7 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 
 #### Primordial Portal
 
-As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to teleport yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to teleport back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
 
 (Exploring Quintessence is possible from your island, but continued safety is not guaranteed.)
 
@@ -49,7 +49,7 @@ Choose one of the following abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You jump up to your maximum jump distance and make one power roll that targets each creature adjacent to the space where you land.
+> **Effect:** You [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) up to your maximum [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) distance and make one power roll that targets each creature adjacent to the space where you land.
 >
 > **Power Roll + Might:**
 >
@@ -104,11 +104,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; P < WEAK, frightened (save ends)
-> - **12-16:** 6 + M damage; P < AVERAGE, frightened (save ends)
-> - **17+:** 10 + M damage; P < STRONG, frightened (save ends)
+> - **≤11:** 4 + M damage; P < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 6 + M damage; P < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 10 + M damage; P < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are frightened of you (save ends).
+> **Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends).
 
 ##### 6th-Level Stormwight Abilities
 
@@ -125,11 +125,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 8 damage; M < WEAK, grabbed
-> - **12-16:** 13 damage; M < AVERAGE, grabbed
-> - **17+:** 17 damage; M < STRONG, grabbed
+> - **≤11:** 8 damage; M < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 13 damage; M < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 17 damage; M < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
 >
-> **Effect:** You can shift up to 4 squares, bringing the target with you. While grabbed this way, the target takes damage equal to twice your Might score at the start of each of your turns.
+> **Effect:** You can shift up to 4 squares, bringing the target with you. While [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
 
 <!-- -->
 > ###### Riders on the Storm (9 Ferocity)
@@ -140,6 +140,6 @@ Choose one of the following abilities.
 > | --------------- | -------------------------------: |
 > | **📏 3 aura**   | **🎯 Each creature in the area** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can fly while the aura is active. Each ally target who starts or ends their turn in the area can also fly until the start of their next turn or until the effect ends.
+> **Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) until the start of their next turn or until the effect ends.
 >
 > **Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a primordial storm that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.

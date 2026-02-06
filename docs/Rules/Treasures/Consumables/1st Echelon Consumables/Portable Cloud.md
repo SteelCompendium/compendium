@@ -32,8 +32,8 @@ type: treasure/consumable/1st-echelon
 
 Enterprising mages within various thieves' guilds have developed variations of the Portable Cloud. Each variation has a secondary item prerequisite and a project goal of 45.
 
-**Noxious Cloud:** Filled with a green or putrid yellow haze, this sphere spreads a choking, foul-smelling mist when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 poison damage. Additionally, any creature is weakened while in the fog.
+**Noxious Cloud:** Filled with a green or putrid yellow haze, this sphere spreads a choking, foul-smelling mist when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 poison damage. Additionally, any creature is [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) while in the fog.
 
-**Item Prerequisite:** An ounce of undead flesh. **Thunderhead Cloud:** Small lightning bolts arc around the black cloud in this sphere, which creates a 3 cube of cloud and lightning when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 lightning damage. Additionally, any creature is slowed while in the cloud.
+**Item Prerequisite:** An ounce of undead flesh. **Thunderhead Cloud:** Small lightning bolts arc around the black cloud in this sphere, which creates a 3 cube of cloud and lightning when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 lightning damage. Additionally, any creature is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) while in the cloud.
 
 **Item Prerequisite:** A spool of copper wire.

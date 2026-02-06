@@ -28,8 +28,8 @@ type: treasure/leveled/armor
 
 **Project Goal:** 450
 
-**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the Grab maneuver against that enemy. You can have any number of enemies grabbed in this way.
+**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the Grab maneuver against that enemy. You can have any number of enemies [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) in this way.
 
-**5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the Escape Grab maneuver while grabbed this way takes a bane on the test.
+**5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the Escape Grab maneuver while [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) this way takes a bane on the test.
 
-**9th Level:** The shield's bonus to Stamina increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has grabbed up to 5 squares.
+**9th Level:** The shield's bonus to Stamina increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) up to 5 squares.

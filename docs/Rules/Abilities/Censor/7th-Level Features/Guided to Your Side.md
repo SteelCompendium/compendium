@@ -31,4 +31,4 @@ type: feature/ability/censor/7th-level-feature
 | ----------------- | ------------------------: |
 | **📏 Ranged 10**  | **🎯 Self and each ally** |
 
-**Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+**Effect:** Each target is [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.

@@ -14,9 +14,9 @@ type: ancestry
 
 ## Memonek
 
-The native denizens of Axiom, the Plane of Uttermost Law, memonek dwell in a land with lakes and trees and birds and flowers. But on this alien world, the lakes are seas of mercury, the birds glitter with wings of glass stretched gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
+The native denizens of Axiom, the Plane of Uttermost Law, [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) dwell in a land with lakes and trees and birds and flowers. But on this alien world, the lakes are seas of mercury, the birds glitter with wings of glass stretched gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
 
-The minds of memonek are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called emotion.
+The minds of [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called emotion.
 
 ### On Memonek
 
@@ -30,13 +30,13 @@ Vithyaranu, Count of the ALAV *Revile* paced back and forth, his cloak billowing
 
 "Listen, whether you like it or not, whether I like it or not, I'm in charge of this mission. Either you tell me what's going on, or I have no choice. I *have* to conclude you're a danger to the team and cut you loose."
 
-Revile stopped and turned to look at the rest of the party, recovering from their wounds. The memonek's white porcelain chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle, fragile.
+Revile stopped and turned to look at the rest of the party, recovering from their wounds. The [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D)'s white porcelain chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle, fragile.
 
 Count Revile took a deep breath. "We call it *velloparatha*," he said. "In your tongue it would be... worldsick. Or world-sickness? It is a thing that happens... to my people... when they come to your world. It is an illness of... of feeling. Emotion."
 
 "Are you going mad?" John asked, his voice quiet. He wanted to give the count a chance to answer privately.
 
-The memonek smiled ruefully. "It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger. A *grasshopper* the dwarf called it. I thought I had never seen a thing so perfect and beautiful. That was awe. As powerful as I have ever felt. In the battle today, anger. Just as powerful.
+The [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) smiled ruefully. "It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger. A *grasshopper* the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) called it. I thought I had never seen a thing so perfect and beautiful. That was awe. As powerful as I have ever felt. In the battle today, anger. Just as powerful.
 
 "I thought I could resist it. When I arrived here and felt no different I thought perhaps worldsickness was a legend. But it is a slow process, this illness. These insidious emotions."
 
@@ -48,7 +48,7 @@ Count Revile shook his head. "Not like this. We are creatures of reason, we of A
 
 "At yourself ? Why? What did you...?"
 
-"John," the memonek said, and now it was his turn to whisper. "I was afraid. Afraid of... of being wounded, of failing you, failing my friends. Of dying. And out of that fear came... enormous anger. At myself. Anger that I was so weak so... useless. Anger so... strong, so powerful... I forgot who I was."
+"John," the [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) said, and now it was his turn to whisper. "I was afraid. Afraid of... of being wounded, of failing you, failing my friends. Of dying. And out of that fear came... enormous anger. At myself. Anger that I was so weak so... useless. Anger so... strong, so powerful... I forgot who I was."
 
 John chuckled. "That's just..." He smiled broadly. "That's just normal. We all feel that way."
 
@@ -96,15 +96,15 @@ Count Revile hefted the starcore. "I have responsibilities to keep. I will retur
 
 John offered his hand. Revile shook it and then held it.
 
-"If there are many like you in this world of gods and sorcery," the noble memonek star captain said, "then your victory over evil is assured."
+"If there are many like you in this world of gods and sorcery," the noble [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) star captain said, "then your victory over evil is assured."
 
-"I don't know about many," John said, extricating his hand. He looked at the dwarf, elf, and hakaan.
+"I don't know about many," John said, extricating his hand. He looked at the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), elf, and [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D).
 
 "But there might be enough."
 
 ### Memonek Traits
 
-Memonek heroes have access to the following traits.
+[Memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
 
 #### Signature Trait: Fall Lightly
 
@@ -132,7 +132,7 @@ You can push your body to move at incredible speeds. Your speed is 7.
 
 ##### Nonstop (2 Points)
 
-Your connection to Axiom allows you to regulate your movement. You can't be made slowed.
+Your connection to Axiom allows you to regulate your movement. You can't be made [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D).
 
 ##### Systematic Mind (1 Point)
 

@@ -28,4 +28,4 @@ type: treasure/trinkets/3rd-echelon
 
 **Project Goal:** 450
 
-**Effect:** Once per turn, you can use a maneuver to teleport up to 3 squares. Additionally, when targeted by any other effect that causes you to teleport, you can teleport up to 3 additional squares.
+**Effect:** Once per turn, you can use a maneuver to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 3 additional squares.

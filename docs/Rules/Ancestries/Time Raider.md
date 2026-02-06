@@ -34,7 +34,7 @@ Up close, she could see the fine stitching along Lycaon's cheeks and forehead, t
 
 The taxiarch smiled to himself, nodded with respect at the woman's epithets. He placed his foot on a low piece of rubble, once part of the wall of the stone church, and leaned his arm on his knee. He was not dressed as the other war dogs. No black leather for him. He wore a gold breastplate with the embossed head of a ram molded into it, a white cape over his back. Gold greaves and red leather boots and gloves. The other war dogs only had patches of hair but his was long and blond.
 
-He struck a casual, jaunty pose. "Where is your worldship?" he said in a more reasonable voice. "Or came you here in a single-seater *starskimmer*?" At this, the alien's crystal eyes went wide, betraying surprise. "You see?" the taxiarch said, impressed with himself. "I am not a primitive like these peasants, who hounded you because you are alien." He nodded at the folk of the small town watching from the stables some distance away. "I am Ajax's elite. Better than his chosen. I was *made* for victory." Indeed, Taxiarch Lycaon looked almost fully human. Handsome and fit like a statue from Phaedros, which his model had almost certainly been inspired by. Unless you looked closely, there was no sign he was a product of the body banks. "If you agree to *lead me* to your vessel, I will let you go free."
+He struck a casual, jaunty pose. "Where is your worldship?" he said in a more reasonable voice. "Or came you here in a single-seater *starskimmer*?" At this, the alien's crystal eyes went wide, betraying surprise. "You see?" the taxiarch said, impressed with himself. "I am not a primitive like these peasants, who hounded you because you are alien." He nodded at the folk of the small town watching from the stables some distance away. "I am Ajax's elite. Better than his chosen. I was *made* for victory." Indeed, Taxiarch Lycaon looked almost fully [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D). Handsome and fit like a statue from Phaedros, which his model had almost certainly been inspired by. Unless you looked closely, there was no sign he was a product of the body banks. "If you agree to *lead me* to your vessel, I will let you go free."
 
 The alien sighed. "'Blaap blaap blaap,'" she said. "You should hear yourself. Like barking *thrazz*, you sound to me. Who holds your leash I wonder? For surely a microbrain such as you could not command any more than these rabble." She nodded her head at the other twenty or so war dogs.
 
@@ -58,23 +58,23 @@ Slowly everyone assembled could make out the sounds of a conversation, quiet wit
 
 "Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
-Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A human in working battle plate. A dwarf with his battle-staff tipped with an hourglass. An orc with a huge battleaxe casually resting on her shoulder. A polder with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. An unarmed hakaan towering over everyone. And a dragon knight. Of all the motley band, it was the dragon knight who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
+Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) in working battle plate. A [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) with his battle-staff tipped with an hourglass. An [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) with a huge battleaxe casually resting on her shoulder. A [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. An unarmed [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) towering over everyone. And a dragon knight. Of all the motley band, it was the dragon knight who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
 
 The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the taxiarch bellowed "Hold fast!" and they held their ground, uncertainty over the unknown threat of a band of heroes battling in each of them against the certain fear of their commander.
 
-The hakaan looked around and saw a clump of villagers watching the scene from a distance, gathered around what looked like some stables. He waved. "Hello!" he said, smiling.
+The [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) looked around and saw a clump of villagers watching the scene from a distance, gathered around what looked like some stables. He waved. "Hello!" he said, smiling.
 
 One of the villagers waved back before being shushed.
 
 John looked at the taxiarch and immediately read the situation. It was a clear enough picture.
 
-There was something about the war dogs. They loved Ajax's cruelty—reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional—could be reasoned with, but he was an orc.
+There was something about the war dogs. They loved Ajax's cruelty—reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional—could be reasoned with, but he was an [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D).
 
 Not the war dogs—they were fanatics.
 
 "What's this?" the taxiarch called out with a hungry grin. "Allies of the alien?" He was projecting confidence. Trying to muster his wary soldiers.
 
-"Allies of all those who suffer, and seek justice," the dwarf announced. Sir John ignored the war dog, tilted his head toward the alien. "Embers?"
+"Allies of all those who suffer, and seek justice," the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) announced. Sir John ignored the war dog, tilted his head toward the alien. "Embers?"
 
 "A kuran'zoi," the high elf said, and the alien held her head up with pride. "A time raider from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear."
 
@@ -86,9 +86,9 @@ John knew what came next, but he wasn't an assassin. He had his own part to play
 
 "She goes free," John commanded, his voice steel, "or you die here." He could feel the muscles tightening in his comrades, the whole company like a steel spring wound tight.
 
-Lycaon cocked his head at Sir John and took a few foolish steps toward the tactician. He was just out of reach. But close enough.
+Lycaon cocked his head at Sir John and took a few foolish steps toward the [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D). He was just out of reach. But close enough.
 
-"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, polder, dwarf, and dragon knight. "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
+"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D), [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), and dragon knight. "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
@@ -96,19 +96,19 @@ Ember's eyes flashed into a starfield. The time raider's chains dissolved into s
 
 The time raider's right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
 
-John felt his skin tighten as Dazar warded him, and from the sun's shadow cast by Taxiarch Lycaon the polder Jackson Bootblack emerged, a rapier in each hand, and no one saw him move from where he'd been a moment before.
+John felt his skin tighten as Dazar warded him, and from the sun's shadow cast by Taxiarch Lycaon the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) Jackson Bootblack emerged, a rapier in each hand, and no one saw him move from where he'd been a moment before.
 
-The hakaan burst into action and sped past him like a blur.
+The [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) burst into action and sped past him like a blur.
 
 At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in his heart—the clarion call of the last Storm Knight!
 
-At the sound, the orc dashed forward into a knot of war dog commandos, her axe already hewing about her.
+At the sound, the [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) dashed forward into a knot of war dog commandos, her axe already hewing about her.
 
 John hadn't hesitated, he'd already drawn his sword and falchion. "All right, you patchwork son of a bitch." He charged Lycaon who fumbled with the shortsword on his belt.
 
 ### Time Raider Traits
 
-Time raider heroes have access to the following traits.
+Time [raider](%7BREL_PATH_PREFIX%7DRules/Kits/Raider%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
 
 #### Signature Trait: Psychic Scar
 
@@ -132,7 +132,7 @@ Your unique physiology enhances your movement. You gain an edge on tests that us
 
 ##### Four-Armed Martial Arts (2 Points)
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures grabbed at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) at a time.
 
 ##### Psionic Gift (2 Points)
 
@@ -150,7 +150,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 - **≤11:** 2 + R, I, or P damage;
 - **12-16:** 5 + R, I, or P damage; push 1
-- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, prone
+- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
 
 ###### Psionic Bolt
 
@@ -178,4 +178,4 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Unstoppable Mind (2 Points)
 
-Your mind allows you to maintain your focus in any situation. You can't be made dazed.
+Your mind allows you to maintain your focus in any situation. You can't be made [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D).

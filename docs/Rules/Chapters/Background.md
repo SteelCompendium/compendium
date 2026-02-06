@@ -30,25 +30,25 @@ For our purposes, a hero's culture represents people, not a place. Yes, you migh
 
 Directors can use the rules in this section to build cultures that players can choose for their characters. Players can use these rules to build a unique culture or modify an existing culture for their character, working with the Director to find the right place for that culture within the world of the campaign.
 
-In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly humans. The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily wode elves. However, you can always choose to be from one of these cultures and take a different ancestry. A dwarf raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a dwarf raised in the dwarf thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
+In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily wode elves. However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) raised in the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
 
-You can build your culture one aspect at a time, or you can use the following tables if you want to assess sample cultures or make your own culture quickly. To create an archetypical culture for a hero who grew up surrounded mostly by other members of their ancestry, use or modify the aspect options on the Typical Ancestry Cultures table. (Revenants are missing from this table because they don't gain their ancestry until after they die.) If you'd rather quickly create a culture based on a cultural archetype, such as a noble house or a pirate crew, use the Archetypical Cultures table, then add a language that fits the culture's concept.
+You can build your culture one aspect at a time, or you can use the following tables if you want to assess sample cultures or make your own culture quickly. To create an archetypical culture for a hero who grew up surrounded mostly by other members of their ancestry, use or modify the aspect options on the Typical Ancestry Cultures table. ([Revenants](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D) are missing from this table because they don't gain their ancestry until after they die.) If you'd rather quickly create a culture based on a cultural archetype, such as a noble house or a pirate crew, use the Archetypical Cultures table, then add a language that fits the culture's concept.
 
 ###### Typical Ancestry Cultures Table
 
-| Ancestry      | Language    | Environment | Organization | Upbringing |
-| ------------- | ----------- | ----------- | ------------ | ---------- |
-| Devil         | Anjali      | Urban       | Bureaucratic | Academic   |
-| Dragon knight | Vastariax   | Secluded    | Bureaucratic | Martial    |
-| Dwarf         | Zaliac      | Secluded    | Bureaucratic | Creative   |
-| Wode elf      | Yllyric     | Wilderness  | Bureaucratic | Martial    |
-| High elf      | Hyrallic    | Secluded    | Bureaucratic | Martial    |
-| Hakaan        | Vhoric      | Rural       | Communal     | Labor      |
-| Human         | Vaslorian   | Urban       | Communal     | Labor      |
-| Memonek       | Axiomatic   | Nomadic     | Communal     | Academic   |
-| Orc           | Kalliak     | Wilderness  | Communal     | Creative   |
-| Polder        | Khoursirian | Urban       | Communal     | Creative   |
-| Time raider   | Voll        | Nomadic     | Communal     | Martial    |
+| Ancestry                                                                      | Language    | Environment | Organization | Upbringing |
+| ----------------------------------------------------------------------------- | ----------- | ----------- | ------------ | ---------- |
+| [Devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D)     | Anjali      | Urban       | Bureaucratic | Academic   |
+| Dragon knight                                                                 | Vastariax   | Secluded    | Bureaucratic | Martial    |
+| [Dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D)     | Zaliac      | Secluded    | Bureaucratic | Creative   |
+| Wode elf                                                                      | Yllyric     | Wilderness  | Bureaucratic | Martial    |
+| High elf                                                                      | Hyrallic    | Secluded    | Bureaucratic | Martial    |
+| [Hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D)   | Vhoric      | Rural       | Communal     | Labor      |
+| [Human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D)     | Vaslorian   | Urban       | Communal     | Labor      |
+| [Memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) | Axiomatic   | Nomadic     | Communal     | Academic   |
+| [Orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D)         | Kalliak     | Wilderness  | Communal     | Creative   |
+| [Polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D)   | Khoursirian | Urban       | Communal     | Creative   |
+| Time raider                                                                   | Voll        | Nomadic     | Communal     | Martial    |
 
 ###### Archetypical Cultures Table
 
@@ -125,7 +125,7 @@ An urban culture is always centered in a city. Such a culture might arise within
 
 ##### Wilderness
 
-A wilderness culture doesn't try to tame the terrain in which its people live, whether desert, forest, swamp, tundra, ocean, or more exotic climes. Instead, the folk of such a culture thrive amid nature, taking their sustenance and shelter from the land. A wilderness culture might be a circle of druids protecting a remote wode, a band of brigands hiding out in desert caves, or a camp of orc mercenaries who call the trackless mountains home. People in a wilderness culture learn how to use the land for all they need to live, typically crafting their own tools, clothing, and more.
+A wilderness culture doesn't try to tame the terrain in which its people live, whether desert, forest, swamp, tundra, ocean, or more exotic climes. Instead, the folk of such a culture thrive amid nature, taking their sustenance and shelter from the land. A wilderness culture might be a circle of druids protecting a remote wode, a band of brigands hiding out in desert caves, or a camp of [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) mercenaries who call the trackless mountains home. People in a wilderness culture learn how to use the land for all they need to live, typically crafting their own tools, clothing, and more.
 
 **Skill Options:** One skill from the crafting or exploration skill groups. (*Quick Build:* Endurance.)
 
@@ -198,7 +198,7 @@ Your hero grew up among leaders who rule over others and play the games of polit
 <!-- -->
 > **But I Really Want Alertness**
 >
-> If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the noble upbringing aspect should give a character access to the Alertness skill, given that living among those who covet your power means always being aware of your surroundings.
+> If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the \[noble\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/3rd Echelon/Noble) upbringing aspect should give a character access to the Alertness skill, given that living among those who covet your power means always being aware of your surroundings.
 
 #### Languages in Orden
 
@@ -208,19 +208,19 @@ If your hero knows a language, they can speak, read, write, and understand it.
 
 ##### Caelian Empire
 
-The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago. During the height of this most recent human empire, all humans (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble classes and the well-to-do, Caelian effectively replaced their native language.
+The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago. During the height of this most recent [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) empire, all [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble [classes](%7BREL_PATH_PREFIX%7DRules/Chapters/Classes%7BREL_PATH_SUFFIX%7D) and the well-to-do, Caelian effectively replaced their native language.
 
-Some 1,300 years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most humans in most regions to one extent or another.
+Some 1,300 years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) in most regions to one extent or another.
 
-Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including dwarves, dragon knights, elves, hakaan, orcs, polders, lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
+Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), dragon knights, elves, [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D), [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D), [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
 
 ##### Extant Languages
 
 Folk have been speaking, signing, and writing in Orden for at least thirty thousand years, but most of the world's ancient languages are now dead. Many have been forgotten. Others were spoken by peoples who never developed writing, preventing those languages from being preserved. And many languages that were preserved in writing left no related descendants, so that no one now knows what sounds that writing represented.
 
-The languages on the Languages by Ancestry table are the most common languages actively spoken and signed by significant populations of people in Orden. The Vaslorian Human Languages table shows the dominant languages in that region's human-centric territories. Most languages are associated with a specific ancestry and its culture, but being a member of an ancestry doesn't automatically make you part of the associated culture the language is tied to. For example, if your orc hero was raised in a culture of elves, you probably speak one of the elf languages, and might never have learned Kalliak.
+The languages on the Languages by Ancestry table are the most common languages actively spoken and signed by significant populations of people in Orden. The Vaslorian [Human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) Languages table shows the dominant languages in that region's [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D)-centric territories. Most languages are associated with a specific ancestry and its culture, but being a member of an ancestry doesn't automatically make you part of the associated culture the language is tied to. For example, if your [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) hero was raised in a culture of elves, you probably speak one of the elf languages, and might never have learned Kalliak.
 
-Most languages have colloquial or casual names. For instance, many people in Orden call Kalliak "Orcish" and Hyrallic "Elvish," but any sage knows there are lots of orcish and elf languages, just as there are multiple human languages.
+Most languages have colloquial or casual names. For instance, many people in Orden call Kalliak "Orcish" and Hyrallic "Elvish," but any sage knows there are lots of orcish and elf languages, just as there are multiple [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) languages.
 
 Each extant language has a spoken, signed, and written version. When you learn a language, you know how to speak, sign, and read it.
 
@@ -240,41 +240,41 @@ Each extant language has a spoken, signed, and written version. When you learn a
 
 ###### Languages by Ancestry Table
 
-| Language                | Ancestry                                | Notes                                                                            |
-| ----------------------- | --------------------------------------- | -------------------------------------------------------------------------------- |
-| Anjali                  | Devils, hobgoblins                      | Language of contract law                                                         |
-| Axiomatic               | Memonek                                 | Native language of Axiom, and the common<br/> language of the timescape by trade |
-| Caelian                 | Orden denizens                          | Common language of Orden                                                         |
-| Filliaric               | Angulotls                               |                                                                                  |
-| The First<br/> Language | Elder dragons                           | Language of magic                                                                |
-| Hyrallic                | High elves                              | Language of interspecies diplomacy                                               |
-| Illyvric                | Shadow elves                            |                                                                                  |
-| Kalliak                 | Orcs                                    | Offshoot of Zaliac                                                               |
-| Kethaic                 | Kobolds                                 | Patois of Vastariax and Caelian                                                  |
-| Khelt                   | Bugbears, fey                           | Offshoot of Kheltivari                                                           |
-| Khoursirian             | Polder, humans                          | Distant offshoot of Khamish                                                      |
-| High Kuric              | Bredbeddles, giants,<br/> ogres, trolls |                                                                                  |
-| Low Kuric               | Elementals                              |                                                                                  |
-| Mindspeech              | Voiceless talkers                       | A symbolic language shared among native<br/> telepaths                           |
-| Proto-Ctholl            | Lower demons                            | Incomplete precursor of Tholl                                                    |
-| Szetch                  | Goblins, radenwights                    |                                                                                  |
-| Tholl                   | Higher demons, gnolls                   |                                                                                  |
-| Urollialic              | Olothec                                 |                                                                                  |
-| Variac                  | Olothec, trolls,<br/> voiceless talkers | Common language of the World Below                                               |
-| Vastariax               | Dragons, dragon<br/> knights            |                                                                                  |
-| Vhoric                  | Hakaan                                  | Offshoot of the stone giant dialect of High<br/> Kuric                           |
-| Voll                    | Time raiders                            |                                                                                  |
-| Yllyric                 | Wode elves                              | Language of druids                                                               |
-| Za'hariax               | Overminds                               |                                                                                  |
-| Zaliac                  | Dwarves                                 | Language of engineering                                                          |
+| Language                | Ancestry                                                                                                                                                | Notes                                                                            |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Anjali                  | [Devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D), hobgoblins                                                                  | Language of contract law                                                         |
+| Axiomatic               | [Memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D)                                                                           | Native language of Axiom, and the common<br/> language of the timescape by trade |
+| Caelian                 | Orden denizens                                                                                                                                          | Common language of Orden                                                         |
+| Filliaric               | Angulotls                                                                                                                                               |                                                                                  |
+| The First<br/> Language | Elder dragons                                                                                                                                           | Language of magic                                                                |
+| Hyrallic                | High elves                                                                                                                                              | Language of interspecies diplomacy                                               |
+| Illyvric                | [Shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) elves                                                                          |                                                                                  |
+| Kalliak                 | [Orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D)                                                                                  | Offshoot of Zaliac                                                               |
+| Kethaic                 | Kobolds                                                                                                                                                 | Patois of Vastariax and Caelian                                                  |
+| Khelt                   | Bugbears, fey                                                                                                                                           | Offshoot of Kheltivari                                                           |
+| Khoursirian             | [Polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D), [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) | Distant offshoot of Khamish                                                      |
+| High Kuric              | Bredbeddles, giants,<br/> ogres, trolls                                                                                                                 |                                                                                  |
+| Low Kuric               | Elementals                                                                                                                                              |                                                                                  |
+| Mindspeech              | Voiceless talkers                                                                                                                                       | A symbolic language shared among native<br/> telepaths                           |
+| Proto-Ctholl            | Lower demons                                                                                                                                            | Incomplete precursor of Tholl                                                    |
+| Szetch                  | Goblins, radenwights                                                                                                                                    |                                                                                  |
+| Tholl                   | Higher demons, gnolls                                                                                                                                   |                                                                                  |
+| Urollialic              | Olothec                                                                                                                                                 |                                                                                  |
+| Variac                  | Olothec, trolls,<br/> voiceless talkers                                                                                                                 | Common language of the World Below                                               |
+| Vastariax               | Dragons, dragon<br/> knights                                                                                                                            |                                                                                  |
+| Vhoric                  | [Hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D)                                                                             | Offshoot of the stone giant dialect of High<br/> Kuric                           |
+| Voll                    | Time raiders                                                                                                                                            |                                                                                  |
+| Yllyric                 | Wode elves                                                                                                                                              | Language of druids                                                               |
+| Za'hariax               | Overminds                                                                                                                                               |                                                                                  |
+| Zaliac                  | [Dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D)                                                                             | Language of engineering                                                          |
 
 ##### Language Usage
 
-**Hyrallic** is the primary language of the high elves in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the dwarves. As a result, while anyone who lives near or trades with a human culture probably speaks at least a little Caelian, most nobles across all ancestries make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
+**Hyrallic** is the primary language of the high elves in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D). As a result, while anyone who lives near or trades with a [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) culture probably speaks at least a little Caelian, most nobles across all [ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Ancestries%7BREL_PATH_SUFFIX%7D) make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
 
 **Yllyric** is the cultural language of wode elves, and also the common language among those who defend and protect the natural forests of Orden.
 
-Within any document concerning the workings of machines, masonry, or geology, you are likely to find a healthy supply of jargon using **Zaliac**, the most popular dwarf language. Even when such texts aren't fully written in Zaliac, they use a lot of dwarf language when describing esoteric, complex ideas.
+Within any document concerning the workings of machines, masonry, or geology, you are likely to find a healthy supply of jargon using **Zaliac**, the most popular [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) language. Even when such texts aren't fully written in Zaliac, they use a lot of [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) language when describing esoteric, complex ideas.
 
 Just as Zaliac is used in engineering, contract law isn't written purely in **Anjali**, the dominant language of the Seven Cities of Hell. But a lot of the legal jargon in any contract, as well as some of the language of trial courts, features many Anjali words. People are sticklers for detail in the Seven Cities, and this makes their language popular among lawyers.
 
@@ -312,7 +312,7 @@ Being a hero isn't a job. It's a calling. But before you answered that call, you
 
 ### Career Questions
 
-The careers in this section don't go into great detail about the actual jobs they represent. We assume that you know the basics of what an artisan, a criminal, or a gladiator does for a living. However, each career includes a list of questions you should think about to help you define the specific details of your hero's career. For instance, if you pick the Artisan career, one of the questions is: "What did you create?"
+The careers in this section don't go into great detail about the actual jobs they represent. We assume that you know the basics of what an [artisan](%7BREL_PATH_PREFIX%7DRules/Careers/Artisan%7BREL_PATH_SUFFIX%7D), a [criminal](%7BREL_PATH_PREFIX%7DRules/Careers/Criminal%7BREL_PATH_SUFFIX%7D), or a [gladiator](%7BREL_PATH_PREFIX%7DRules/Careers/Gladiator%7BREL_PATH_SUFFIX%7D) does for a living. However, each career includes a list of questions you should think about to help you define the specific details of your hero's career. For instance, if you pick the [Artisan](%7BREL_PATH_PREFIX%7DRules/Careers/Artisan%7BREL_PATH_SUFFIX%7D) career, one of the questions is: "What did you create?"
 
 You don't need to answer these questions, but doing so can help shape a more complete picture of your hero. And if you do answer them, consider telling your Director the answers so they can think about working those details into the game. Directors already have a lot to juggle, but they certainly can't create dramatic moments from your backstory if you never tell them what that backstory is.
 
@@ -515,7 +515,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One supernatural perk (*Quick Build:* Ritualist.)
+**Perk:** One supernatural perk (*Quick Build:* \[Ritualist\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Supernatural Perks/Ritualist).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -626,7 +626,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* Brawny.)
+**Perk:** One exploration perk (*Quick Build:* \[Brawny\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Exploration Perks/Brawny).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -656,14 +656,14 @@ You gain the following career benefits:
 
 **Perk:** One supernatural perk (*Quick Build:* Arcane Trick.)
 
-| d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                 |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Forgotten Memories:** While practicing a spell, your inexperience caused the magic to backfire and your memories were wiped, leaving you with only fragments of who you once were. Determined to recall your past, you now dedicate yourself to helping others, hoping your actions will spark some remembrance or lead you to a way to reverse the magic.                                                      |
-| 2   | **Magic of Friendship:** As a sign of your status as a star pupil, your mentor gifted you a familiar as a magic pet. Another jealous apprentice captured the familiar and slipped away in the night. Haunted by your pet's absence, you adventure to find your kidnapped friend and prevent others from feeling your loss.                                                                                        |
-| 3   | **Missing Mage:** One day you woke up and the mage you worked for was gone. They didn't take any of their belongings and there was no sign of any foul play-only the scent of sulfur in their bedchamber. You set out on your heroic journey in the aftermath and have been looking for them ever since.                                                                                                          |
-| 4   | **Nightmares Made Flesh:** Your attempts at magic have always been unpredictable. A powerful mage promised to help you gain control. During your training, a terrible nightmare caused your body to flare with magic and pull the monster of your nightmare into the waking world. The horror escaped. You left, seeking to vanquish their vileness.                                                              |
-| 5   | **Otherworldly:** While studying magic, you accidentally sent yourself from your original world to this one. Now you're stranded here, hoping to find ancient texts or powerful magic treasures that might transport you back home. A life of adventure it is!                                                                                                                                                    |
-| 6   | **Ultimate Power:** The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn't until you met an adventuring elementalist that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day. |
+| d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Forgotten Memories:** While practicing a spell, your inexperience caused the magic to backfire and your memories were wiped, leaving you with only fragments of who you once were. Determined to recall your past, you now dedicate yourself to helping others, hoping your actions will spark some remembrance or lead you to a way to reverse the magic.                                                                                                                              |
+| 2   | **Magic of Friendship:** As a sign of your status as a star pupil, your mentor gifted you a familiar as a magic pet. Another jealous apprentice captured the familiar and slipped away in the night. Haunted by your pet's absence, you adventure to find your kidnapped friend and prevent others from feeling your loss.                                                                                                                                                                |
+| 3   | **Missing Mage:** One day you woke up and the mage you worked for was gone. They didn't take any of their belongings and there was no sign of any foul play-only the scent of sulfur in their bedchamber. You set out on your heroic journey in the aftermath and have been looking for them ever since.                                                                                                                                                                                  |
+| 4   | **Nightmares Made Flesh:** Your attempts at magic have always been unpredictable. A powerful mage promised to help you gain control. During your training, a terrible nightmare caused your body to flare with magic and pull the monster of your nightmare into the waking world. The horror escaped. You left, seeking to vanquish their vileness.                                                                                                                                      |
+| 5   | **Otherworldly:** While studying magic, you accidentally sent yourself from your original world to this one. Now you're stranded here, hoping to find ancient texts or powerful magic treasures that might transport you back home. A life of adventure it is!                                                                                                                                                                                                                            |
+| 6   | **Ultimate Power:** The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn't until you met an adventuring [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D) that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day. |
 
 #### Performer
 
@@ -680,7 +680,7 @@ You gain the following career benefits:
 
 **Renown:** +2
 
-**Perk:** One interpersonal perk (*Quick Build:* Harmonizer.)
+**Perk:** One interpersonal perk (*Quick Build:* \[Harmonizer\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Interpersonal Perks/Harmonizer).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -738,7 +738,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One lore perk (*Quick Build:* Expert Sage.)
+**Perk:** One lore perk (*Quick Build:* Expert [Sage](%7BREL_PATH_PREFIX%7DRules/Careers/Sage%7BREL_PATH_SUFFIX%7D).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -788,7 +788,7 @@ You gain the following career benefits:
 
 **Renown:** +1
 
-**Perk:** One exploration perk (*Quick Build:* Teamwork.)
+**Perk:** One exploration perk (*Quick Build:* \[Teamwork\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Exploration Perks/Teamwork).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                               |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

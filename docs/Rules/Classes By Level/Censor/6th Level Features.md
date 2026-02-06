@@ -14,16 +14,16 @@ type: class/censor/level
 
 ### 6th-Level Features
 
-As a 6th-level censor, you gain the following features.
+As a 6th-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Implement of Wrath
 
 Each time you finish a respite, you can choose one hero's weapon, including your own, to channel supernatural power as an implement of your god's wrath. The weapon becomes magic and gains the following benefits until your next respite:
 
 - Strikes with the weapon deal extra holy damage equal to the wielder's highest characteristic score.
-- Any creature struck by the weapon who has holy weakness and has P < STRONG is frightened and weakened (save ends).
+- Any creature struck by the weapon who has holy weakness and has P < STRONG is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends).
 - Any minion targeted by a strike using the weapon dies. That minion's Stamina maximum is removed from the minion Stamina pool before any damage is applied to the rest of the squad.
-- The weapon's wielder can't be made frightened.
+- The weapon's wielder can't be made [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D).
 
 #### Perk
 
@@ -31,7 +31,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### 6th-Level Order Ability
 
-Your censor order grants your choice of one of two heroic abilities.
+Your [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) order grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Exorcist Abilities
 
@@ -80,9 +80,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 3; I < WEAK, dazed (save ends)
-> - **12-16:** Slide 5; I < AVERAGE, dazed (save ends)
-> - **17+:** Slide 7; I < STRONG, dazed (save ends)
+> - **≤11:** Slide 3; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** Slide 5; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** Slide 7; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Edict of Peace (9 Wrath)

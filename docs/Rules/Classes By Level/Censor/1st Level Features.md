@@ -14,17 +14,17 @@ type: class/censor/level
 
 ### 1st-Level Features
 
-As a 1st-level censor, you gain the following features.
+As a 1st-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Censor Order
 
-Censors are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a censor order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
+[Censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
 
 - **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the Read Person skill.
 - **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the Magic skill.
 - **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the Lead skill.
 
-Your censor order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
+Your [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
 
 #### Deity and Domains
 
@@ -34,7 +34,7 @@ After choosing your deity, pick one domain from their portfolio. Your choice of 
 
 #### Wrath
 
-The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you censor those your church deems to be heretics.
+The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) those your church deems to be heretics.
 
 ##### Wrath in Combat
 
@@ -48,7 +48,7 @@ You lose any remaining wrath at the end of the encounter.
 
 Though you can't gain wrath outside of combat, you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the censor, but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), but they might appear in future products.)
 
 #### Judgment
 
@@ -63,7 +63,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 > | ----------------- | ---------------: |
 > | **📏 Ranged 10**  | **🎯 One enemy** |
 >
-> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another censor judges the target.
+> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) judges the target.
 >
 > Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
 >
@@ -74,7 +74,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 > - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 > - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 > - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-> - If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.
+> - If you damage a creature judged by you with a melee ability, the creature is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by you until the end of their next turn.
 >
 > You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
 
@@ -82,7 +82,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 
 The first time on a turn that you use your Judgment ability to judge a creature, you gain the following benefit based on your order:
 
-- **Exorcist:** You can teleport up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
+- **Exorcist:** You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
 - **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
 - **Paragon:** You can vertical pull the judged creature up to a number of squares equal to twice your Presence score.
 
@@ -107,11 +107,11 @@ You channel your will to mend your wounds or the wounds of your allies. You have
 >
 > **Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
 >
-> **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+> **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target can stand up.
 
 #### 1st-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 1st-Level Censor Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
+You gain a domain feature from your domain, as shown on the 1st-Level [Censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
 
 ###### 1st-Level Censor Domain Features Table
 
@@ -167,7 +167,7 @@ You have the following ability.
 > | ----------- | --------------: |
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ##### Grave Speech
 
@@ -274,9 +274,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M holy damage; P < WEAK, slowed (save ends)
-> - **12-16:** 5 + M holy damage; P < AVERAGE, slowed (save ends)
-> - **17+:** 7 + M holy damage; P < STRONG, slowed (save ends)
+> - **≤11:** 2 + M holy damage; P < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 7 + M holy damage; P < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Your Allies Cannot Save You!
@@ -365,9 +365,9 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P holy damage; I < WEAK, dazed (save ends)
-> - **12-16:** 8 + P holy damage; I < AVERAGE, dazed (save ends)
-> - **17+:** 11 + P holy damage; I < STRONG, dazed (save ends)
+> - **≤11:** 5 + P holy damage; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 11 + P holy damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 ###### 5-Wrath Ability
 
@@ -384,11 +384,11 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 6 + M holy damage; grabbed
-> - **12-16:** 9 + M holy damage; grabbed
-> - **17+:** 13 + M holy damage; grabbed
+> - **≤11:** 6 + M holy damage; [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 9 + M holy damage; [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 13 + M holy damage; [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
 >
-> **Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+> **Effect:** If the target makes a strike against a creature while [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
 
 <!-- -->
 > ###### Behold the Face of Justice! (5 Wrath)
@@ -401,11 +401,11 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is frightened of you (save ends)
-> - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is frightened of you (save ends)
-> - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is frightened of you (save ends)
+> - **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends)
+> - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends)
+> - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends)
 >
-> **Effect:** Each enemy frightened this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
+> **Effect:** Each enemy [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
 
 <!-- -->
 > ###### Censored (5 Wrath)

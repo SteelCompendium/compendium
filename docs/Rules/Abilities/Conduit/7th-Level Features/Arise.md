@@ -33,4 +33,4 @@ type: feature/ability/conduit/7th-level-feature
 | ----------------- | ----------------------: |
 | **📏 Ranged 10**  | **🎯 Self or one ally** |
 
-**Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are prone. Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
+**Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.

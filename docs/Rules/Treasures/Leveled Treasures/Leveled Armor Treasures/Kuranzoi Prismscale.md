@@ -28,7 +28,7 @@ type: treasure/leveled/armor
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +6 bonus to Stamina while you wear this armor. Additionally, whenever a creature within 5 squares deals damage to you, you can use a triggered action to capture a moment of time in the armor, making that creature slowed until the end of their next turn.
+**1st Level:** You gain a +6 bonus to Stamina while you wear this armor. Additionally, whenever a creature within 5 squares deals damage to you, you can use a triggered action to capture a moment of time in the armor, making that creature [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of their next turn.
 
 **5th Level:** The armor's bonus to Stamina increases to +12. Additionally, when you capture a moment of time in the armor, the triggering creature also takes corruption damage equal to twice your highest characteristic score.
 

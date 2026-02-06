@@ -18,6 +18,6 @@ As a child, you survived a gnoll attack. But that attack left you with a jagged 
 
 **Benefit:** Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to move up to your speed and make a free strike.
 
-**Drawback:** While you are dazed, if you start your turn adjacent to one or more creatures, you must use your main action to make a melee free strike against an adjacent creature.
+**Drawback:** While you are [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D), if you start your turn adjacent to one or more creatures, you must use your main action to make a melee free strike against an adjacent creature.
 
-**Special:** You can't take this complication if you can't be made dazed.
+**Special:** You can't take this complication if you can't be made [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D).

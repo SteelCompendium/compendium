@@ -86,7 +86,7 @@ Projects don't need an event every time a hero makes a project roll. If they did
 
 ##### Roll for Event
 
-If you want events to be a surprise for you as much as for the other players, then once during any respite when one or more heroes makes a project roll, roll a d6. On a 6, an event occurs. This is a good option if you enjoy coming up with story on the fly during play.
+If you want events to be a surprise for you as much as for the other players, then once during any respite when one or more heroes makes a project roll, roll a d6. On a 6, an event occurs. This is a good option if you enjoy coming up with story on the [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) during play.
 
 ##### Event Milestones
 
@@ -188,7 +188,7 @@ Time spent traveling between locations on the road is cut in half. Access to res
 
 **Project Goal:** 1,500
 
-When you complete this project, you end up with a 3-square-by-3 square teleportation platform activated by a supernatural password. The platform is permanently affixed to the ground in the location where you create it. Any creature with the password can use the teleportation platform to instantly teleport any creatures or objects on the platform to a location they know, including another teleportation platform whose supernatural password they know. You and any creature you designate upon completion of the activity can change the password as a respite activity.
+When you complete this project, you end up with a 3-square-by-3 square teleportation platform activated by a supernatural password. The platform is permanently affixed to the ground in the location where you create it. Any creature with the password can use the teleportation platform to instantly [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) any creatures or objects on the platform to a location they know, including another teleportation platform whose supernatural password they know. You and any creature you designate upon completion of the activity can change the password as a respite activity.
 
 Each time the teleportation platform is used, the chance of it malfunctioning and teleporting creatures or objects on it to a random platform increases by 1 percent (to a maximum of 50 percent). You can restore the platform back to its original condition and reset this chance of malfunction as a respite activity.
 
@@ -231,7 +231,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 <!-- -->
 > **Clothing as Armor Treasures**
 >
-> A hero who has a kit that provides no armor, such as the Martial Artist or Sniper kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as elementalists and nulls, can also benefit from such treasures.
+> A hero who has a kit that provides no armor, such as the Martial Artist or [Sniper](%7BREL_PATH_PREFIX%7DRules/Kits/Sniper%7BREL_PATH_SUFFIX%7D) kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D) and [nulls](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), can also benefit from such treasures.
 
 ###### 1st-Level Armor Enhancement
 
@@ -253,7 +253,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Magic Resistance I:** Your characteristic scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the potencies of magic abilities.
 
-**Nettlebloom:** Whenever you are grabbed by an adjacent creature, your armor sprouts toxic nettles. While that creature has you grabbed, they are weakened.
+**Nettlebloom:** Whenever you are [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) by an adjacent creature, your armor sprouts toxic nettles. While that creature has you [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D), they are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D).
 
 **Phasing I:** Once per turn, you can move through 1 square of solid matter. If you end your turn inside solid matter, you are forced out into the space from which you entered it and you take 5 damage that can't be reduced in any way.
 
@@ -302,7 +302,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 - **12-16:** 12 damage; push 4
 - **17+:** 15 damage; push 5
 
-**Levitating:** On your turn, you can treat up to 5 consecutive squares of movement as flying movement. If you are still in midair at the end of your turn, you fall prone.
+**Levitating:** On your turn, you can treat up to 5 consecutive squares of movement as flying movement. If you are still in midair at the end of your turn, you fall [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
 
 **Magic Resistance II:** Your characteristic scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of magic abilities. This benefit replaces Magic Resistance I.
 
@@ -344,7 +344,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Project Goal:** 150
 
-**Devil's Bargain:** You can fly. Additionally, if an effect would make you prone while flying, you can choose to not go prone by losing Stamina equal to the distance you would have fallen from becoming prone.
+**Devil's Bargain:** You can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D). Additionally, if an effect would make you [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) while flying, you can choose to not go [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) by losing Stamina equal to the distance you would have fallen from becoming [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
 
 **Dragon Soul II:** While you are winded, your head transforms into a dragon's head and you have the following ability.
 
@@ -364,7 +364,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Invulnerable:** When an ability roll made against you obtains a tier 1 outcome, you can ignore its damage and effects.
 
-**Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead teleport that distance.
+**Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) that distance.
 
 **Life:** Whenever you would die, you can spend a Recovery to regain Stamina instead. If you have no Recoveries to spend, you die.
 
@@ -376,7 +376,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Temporal Flux:** Whenever you move out of a square, you can choose to leave an imprint behind that lasts until the end of the encounter, until your imprint takes 20 or more damage, or until you create a new imprint. The square is occupied by your imprint, and you can share that space with it.
 
-On your turn, you can teleport to the imprint's space as a free maneuver. When you are targeted by an ability, you can use a free triggered action to teleport to your imprint, and the power roll for the ability is an automatic tier 1 result.
+On your turn, you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to the imprint's space as a free maneuver. When you are targeted by an ability, you can use a free triggered action to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to your imprint, and the power roll for the ability is an automatic tier 1 result.
 
 **Unbending:** You can't be subjected to forced movement unless you choose to be. Effects that ignore Stability also ignore this enhancement.
 
@@ -399,7 +399,7 @@ On your turn, you can teleport to the imprint's space as a free maneuver. When y
 
 Implements are jewelry, spectacles, orbs, staffs, tomes, wands, weapons, and other objects used by those who channel magic and psionic power to focus that power. You decide what object to imbue when you create an implement treasure, but it must be an object you can carry or wear. You must have a mundane version of the item you plan to imbue when you start this project.
 
-An implement imbued with an enhancement grants you special benefits while it is wielded. Additionally, when an implement receives its 1st-level enhancement, it grants your magic or psionic abilities that deal rolled damage a +1 damage bonus. A 5th-level enhancement increases the bonus to +2, and a 9th-level enhancement increases it to +3. Censors, conduits, elementalists, nulls, talents, and troubadours benefit from using implements more than the other classes in this book.
+An implement imbued with an enhancement grants you special benefits while it is wielded. Additionally, when an implement receives its 1st-level enhancement, it grants your magic or psionic abilities that deal rolled damage a +1 damage bonus. A 5th-level enhancement increases the bonus to +2, and a 9th-level enhancement increases it to +3. [Censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), [conduits](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), [elementalists](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D), [nulls](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), [talents](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), and [troubadours](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) benefit from using implements more than the other [classes](%7BREL_PATH_PREFIX%7DRules/Chapters/Classes%7BREL_PATH_SUFFIX%7D) in this book.
 
 ###### 1st-Level Implement Enhancement
 
@@ -413,13 +413,13 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Berserking:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature must make an opportunity attack against their nearest ally if possible after the ability's effects resolve. This strike deals extra damage equal to the highest of your Reason, Intuition, or Presence scores.
 
-**Displacing I:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, you can teleport that creature up to 2 squares after the ability's effects resolve. If the creature started on a horizontal surface, they must end on a horizontal surface.
+**Displacing I:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) that creature up to 2 squares after the ability's effects resolve. If the creature started on a horizontal surface, they must end on a horizontal surface.
 
 **Elemental:** Whenever you use an ability with the Air, Earth, Fire, Green, Rot, Void, or Water keyword, you can attune this implement to that element until the end of the encounter. While the implement is attuned, you gain an edge on power rolls with that elemental keyword. The implement can be attuned to only one element at a time.
 
 **Forceful I:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 2 squares.
 
-**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically climb at full speed while moving, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
+**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
 
 **Rejuvenating I:** Whenever you use an ability that costs 1 or more of your Heroic Resource, roll a d10. On a 9 or higher, you gain 1 Heroic Resource.
 
@@ -455,9 +455,9 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Celerity:** Immediately after using a magic or psionic ability that requires a main action, you can shift up to 3 squares, or you can use the Escape Grab maneuver as a free maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)).
 
-**Celestine:** As a main action, you conjure up to three stars, which hover in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have line of effect to the enemy, you can also slide them 1 square. Otherwise, the enemy slides 1 square in a random direction.
+**Celestine:** As a main action, you conjure up to three stars, which [hover](%7BREL_PATH_PREFIX%7DRules/Movement/Hover%7BREL_PATH_SUFFIX%7D) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have line of effect to the enemy, you can also slide them 1 square. Otherwise, the enemy slides 1 square in a random direction.
 
-**Displacing II:** When you use the implement's Displacing I enhancement, you can teleport the creature up to 4 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
+**Displacing II:** When you use the implement's Displacing I enhancement, you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the creature up to 4 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
 
 **Erupting I:** Whenever you damage a creature using a magic or psionic ability that targets only a single creature and obtain a tier 3 outcome, each enemy within 2 squares of the creature takes 3 fire damage after the ability's effects resolve.
 
@@ -495,9 +495,9 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Goal:** 150
 
-**Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also weakened (save ends). If the creature is within 10 squares when this weakened effect ends, you can use a free triggered action to make a free strike against them.
+**Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends). If the creature is within 10 squares when this [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) effect ends, you can use a free triggered action to make a free strike against them.
 
-**Displacing III:** When you use the implement's Displacing I enhancement, you can teleport the creature up to 5 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
+**Displacing III:** When you use the implement's Displacing I enhancement, you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the creature up to 5 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
 
 **Erupting II:** The fire damage dealt by the implement's Erupting I enhancement increases to 6.
 
@@ -533,7 +533,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 ###### Unarmed Strike Treasures
 
-A hero who has a kit that uses unarmed strikes, such as the Martial Artist and Pugilist kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as elementalists and nulls, can also benefit from such treasures.
+A hero who has a kit that uses unarmed strikes, such as the Martial Artist and [Pugilist](%7BREL_PATH_PREFIX%7DRules/Kits/Pugilist%7BREL_PATH_SUFFIX%7D) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D) and [nulls](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), can also benefit from such treasures.
 
 ###### 1st-Level Weapon Enhancement
 
@@ -551,7 +551,7 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 
 **Disrupting I:** Whenever you damage an undead using this weapon and leave that undead with 15 Stamina or less, they drop to 0 Stamina.
 
-**Hurling:** Whenever you use a melee ability using this weapon, you can throw the weapon by treating the ability's distance as ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the grabbed or restrained conditions.
+**Hurling:** Whenever you use a melee ability using this weapon, you can throw the weapon by treating the ability's distance as ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) or [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) conditions.
 
 **Merciful:** Whenever you reduce a non-undead creature to 0 Stamina using this weapon, the creature falls unconscious and wakes up 1d6 hours later. A creature with the Heal skill can wake the unconscious creature early with 1 uninterrupted minute of medical treatment. Whenever the creature wakes, they regain 1 Stamina.
 
@@ -561,7 +561,7 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 
 **Vengeance I:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 2 damage.
 
-**Wingbane:** Whenever you damage a flying creature using this weapon, that creature is also bleeding (save ends). While bleeding in this way, the creature takes 1 damage per square they fly. If the creature starts and ends their turn on the same solid surface, the bleeding condition ends.
+**Wingbane:** Whenever you damage a flying creature using this weapon, that creature is also [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends). While [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) in this way, the creature takes 1 damage per square they [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D). If the creature starts and ends their turn on the same solid surface, the [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) condition ends.
 
 ###### 1st-Level Weapon Enhancements Table
 
@@ -602,7 +602,7 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 >
 > **Effect:** The target takes 5 damage.
 >
-> **Chilling II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 cold damage and is slowed (save ends). This replaces the benefit of Chilling I.
+> **Chilling II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 cold damage and is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends). This replaces the benefit of Chilling I.
 >
 > **Devastating:** Whenever you make an ability roll using this weapon, the number you need to roll to score a critical hit is reduced by 1.
 >
@@ -616,9 +616,9 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 >
 > **Silencing:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature also can't use magic abilities until the end of their next turn.
 >
-> **Terrifying II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 4 psychic damage and is frightened (save ends). This replaces the benefit of Terrifying I.
+> **Terrifying II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 4 psychic damage and is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends). This replaces the benefit of Terrifying I.
 >
-> **Thundering II:** Whenever you deal rolled damage to a creature using this weapon, you can push that creature up to 3 squares after the other effects of the ability resolve. If you obtained a tier 3 outcome, the creature is also knocked prone after being pushed. This replaces the benefit of Thundering I.
+> **Thundering II:** Whenever you deal rolled damage to a creature using this weapon, you can push that creature up to 3 squares after the other effects of the ability resolve. If you obtained a tier 3 outcome, the creature is also knocked [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) after being pushed. This replaces the benefit of Thundering I.
 >
 > **Vengeance II:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 4 damage. This replaces the benefit of Vengeance I.
 
@@ -646,13 +646,13 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 
 **Project Goal:** 150
 
-**Chilling III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 9 cold damage and is slowed (save ends). This replaces the benefit of Chilling II.
+**Chilling III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 9 cold damage and is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends). This replaces the benefit of Chilling II.
 
-**Disrupting III:** Whenever you damage an undead using this weapon and leave that undead with 50 Stamina or less, they immediately drop to 0 Stamina. If you instead leave the undead with 100 Stamina or less, they are frightened (save ends). This replaces the benefit of Disrupting II.
+**Disrupting III:** Whenever you damage an undead using this weapon and leave that undead with 50 Stamina or less, they immediately drop to 0 Stamina. If you instead leave the undead with 100 Stamina or less, they are [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends). This replaces the benefit of Disrupting II.
 
-**Draining:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also weakened (save ends). Each time you weaken a creature with this weapon, you gain 1 surge.
+**Draining:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends). Each time you weaken a creature with this weapon, you gain 1 surge.
 
-**Imprisoning:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also restrained (save ends). While restrained in this way, the creature can't use magic or psionic abilities.
+**Imprisoning:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends). While [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) in this way, the creature can't use magic or psionic abilities.
 
 **Nova:** Whenever you damage a creature using this weapon, each enemy adjacent to you takes damage based on the tier outcome of the power roll-2 damage for tier 1, 6 for tier 2, or 10 for tier 3. Additionally, while you are winded, you have the following ability.
 
@@ -671,13 +671,13 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 > - **12-16:** 11 fire damage
 > - **17+:** 16 fire damage
 >
-> **Terrifying III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 psychic damage and is frightened (save ends). This replaces the benefit of Terrifying II.
+> **Terrifying III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 psychic damage and is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends). This replaces the benefit of Terrifying II.
 >
-> **Thundering III:** Whenever you deal rolled damage to a creature using this weapon, you can vertical push that creature up to 5 squares and knock them prone after the other effects of the ability resolve. If the creature takes or deals damage as a result of this movement, they also take 5 thunder damage. This replaces the benefit of Thundering II.
+> **Thundering III:** Whenever you deal rolled damage to a creature using this weapon, you can vertical push that creature up to 5 squares and knock them [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) after the other effects of the ability resolve. If the creature takes or deals damage as a result of this movement, they also take 5 thunder damage. This replaces the benefit of Thundering II.
 >
 > **Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
 >
-> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a bane on the ability to target each enemy in a cube 3 within distance. If your signature ability would usually cause its target to become grabbed or restrained, each target in the area is instead slowed until the end of their next turn.
+> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a bane on the ability to target each enemy in a cube 3 within distance. If your signature ability would usually cause its target to become [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) or [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D), each target in the area is instead [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of their next turn.
 
 ###### 9th-Level Weapon Enhancements
 
@@ -877,7 +877,7 @@ When you seek to learn from a master, you choose the goal you wish to work on as
 
 ##### Acquire Ability
 
-You gain one signature ability of your choice from the master's class (gaining a second signature ability if the master is of the same class as you). If the master is a tactician, you can gain the Strike Now ability instead. You can't gain this benefit again for the same class.
+You gain one signature ability of your choice from the master's class (gaining a second signature ability if the master is of the same class as you). If the master is a [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), you can gain the Strike Now ability instead. You can't gain this benefit again for the same class.
 
 ##### Hone Ability
 
@@ -969,7 +969,7 @@ While undertaking this project, you provide help to people in need, doing odd jo
 | 4   | Before the roll, a sympathetic NPC—perhaps a friend or ally from the community or from the hero's past—offers to assist with the project. The hero gains a +3 bonus to the project roll.                                                                                                                                                                                                                                         |
 | 5   | Before the roll, work on the project unearths a previously lost detail of the community—a lost or hidden section of a settlement, a surprising historical detail, a secret regarding a prominent local, and so forth. The locals take a keen interest in the development, but the revelation threatens to tear the community apart. If the character can't take steps to undo this strife, they take a bane on the project roll. |
 | 6   | After the roll, a seemingly benign action taken by the hero curses them with bad luck. Until they break the curse, all project rolls they make are halved.                                                                                                                                                                                                                                                                       |
-| 7   | After the roll, a saint blesses the hero's work. The hero feels supernaturally rejuvenated, increasing their Recoveries by 1 until the end of their next respite. If the character is a conduit, they also gain an automatic breakthrough on the project.                                                                                                                                                                        |
+| 7   | After the roll, a saint blesses the hero's work. The hero feels supernaturally rejuvenated, increasing their Recoveries by 1 until the end of their next respite. If the character is a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), they also gain an automatic breakthrough on the project.                                                                                                     |
 | 8   | Before the roll, the hero becomes aware of a previously unknown radenwight warren within the community, which has the potential to become a point of tension and conflict. The hero must engage with the radenwights and other locals to create understanding between the two communities or take a bane on the project roll.                                                                                                    |
 | 9   | Before the roll, a local malcontent has turned their focus on the hero and roused the people against them. The hero must either contend with angry locals preventing them from resting (losing the usual benefit of the respite) or find the malcontent and win them over before proceeding.                                                                                                                                     |
 | 10  | Before the roll, a thief, assassin, or other criminal offers to assist the hero. They can offer 50 points toward the completion of the project, as long as the hero looks the other way if they ever cross paths again.                                                                                                                                                                                                          |

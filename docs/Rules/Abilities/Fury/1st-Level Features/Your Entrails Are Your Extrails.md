@@ -36,8 +36,8 @@ type: feature/ability/fury/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M damage; M < WEAK, bleeding (save ends)
-- **12-16:** 5 + M damage; M < AVERAGE, bleeding (save ends)
-- **17+:** 8 + M damage; M < STRONG, bleeding (save ends)
+- **≤11:** 3 + M damage; M < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 5 + M damage; M < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 8 + M damage; M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
 
-**Effect:** While bleeding this way, the target takes damage equal to your Might score at the end of each of your turns.
+**Effect:** While [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) this way, the target takes damage equal to your Might score at the end of each of your turns.

@@ -49,5 +49,5 @@ Choose one of the following abilities.
 > **Power Roll + Agility:**
 >
 > - **≤11:** The creature's speed is increased by 2 until the end of the encounter.
-> - **12-16:** The creature can fly until the end of the encounter.
+> - **12-16:** The creature can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) until the end of the encounter.
 > - **17+:** The creature turns invisible until the end of their next turn.

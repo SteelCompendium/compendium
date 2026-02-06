@@ -14,7 +14,7 @@ type: class/talent/level
 
 ### 3rd-Level Features
 
-As a 3rd-level talent, you gain the following features.
+As a 3rd-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Scan
 
@@ -35,9 +35,9 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 3 + P corruption damage; P < WEAK, weakened (save ends)
-> - **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are weakened (save ends)
-> - **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are weakened (save ends)
+> - **≤11:** 3 + P corruption damage; P < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 >
@@ -62,7 +62,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 > - **12-16:** 3 damage
 > - **17+:** 5 damage
 >
-> **Strained:** You create five orbs, and you are weakened while you have any orbs active.
+> **Strained:** You create five orbs, and you are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) while you have any orbs active.
 
 <!-- -->
 > ###### Reflector Field (7 Clarity)
@@ -88,9 +88,9 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 6 + P damage; P < WEAK, dazed (save ends)
-> - **12-16:** 10 + P damage; P < AVERAGE, dazed (save ends)
-> - **17+:** 14 + P damage; P < STRONG, dazed (save ends)
+> - **≤11:** 6 + P damage; P < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 10 + P damage; P < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 14 + P damage; P < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** The target takes a bane on Presence tests until the end of the encounter.
 >

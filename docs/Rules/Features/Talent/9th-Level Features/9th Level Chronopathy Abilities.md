@@ -35,9 +35,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 corruption damage; slowed (save ends)
-> - **12-16:** 6 corruption damage; slowed (save ends)
-> - **17+:** 10 corruption damage; slowed (save ends)
+> - **≤11:** 4 corruption damage; [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 6 corruption damage; [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 10 corruption damage; [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Borrow From the Future (11 Clarity)

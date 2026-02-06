@@ -14,11 +14,11 @@ type: class/talent/level
 
 ### 5th-Level Features
 
-As a 5th-level talent, you gain the following features.
+As a 5th-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 5th-Level Tradition Features
 
-Your talent tradition grants you two features, as shown on the 5th-Level Tradition Features table.
+Your [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
@@ -67,7 +67,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 >
 > **Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 >
-> **Strained:** The target gains 2 surges. You are weakened and slowed (save ends).
+> **Strained:** The target gains 2 surges. You are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends).
 
 <!-- -->
 > ###### Hypersonic (9 Clarity)
@@ -78,7 +78,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 > | -------------------------------------- | ----------------------------: |
 > | **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
 >
-> **Effect:** You teleport to a square on the opposite side of the area before making the power roll.
+> **Effect:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to a square on the opposite side of the area before making the power roll.
 >
 > **Power Roll + Reason:**
 >
@@ -86,7 +86,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 > - **12-16:** 18 sonic damage
 > - **17+:** 24 sonic damage
 >
-> **Strained:** If you obtain a tier 2 outcome or better, you are slowed until the end of your turn and each target is slowed until the end of their turn.
+> **Strained:** If you obtain a tier 2 outcome or better, you are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of your turn and each target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of their turn.
 
 <!-- -->
 > ###### Mind Snare (9 Clarity)
@@ -99,13 +99,13 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 10 + R psychic damage; R < WEAK, slowed (save ends)
-> - **12-16:** 14 + R psychic damage; R < AVERAGE, slowed (save ends)
-> - **17+:** 20 + R psychic damage; R < STRONG, slowed (save ends)
+> - **≤11:** 10 + R psychic damage; R < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 20 + R psychic damage; R < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While slowed this way, the target takes 3 psychic damage for each square they willingly leave.
+> **Effect:** While [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way, the target takes 3 psychic damage for each square they willingly leave.
 >
-> **Strained:** While slowed this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are slowed this way.
+> **Strained:** While [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way.
 
 <!-- -->
 > ###### Soulbound (9 Clarity)

@@ -14,7 +14,7 @@ type: kit
 
 #### Pugilist
 
-Meant for brawlers and boxers, the Pugilist kit gives you access to a melee fighting style that grants a boost to Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
+Meant for brawlers and boxers, the [Pugilist](%7BREL_PATH_PREFIX%7DRules/Kits/Pugilist%7BREL_PATH_SUFFIX%7D) kit gives you access to a melee fighting style that grants a boost to Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
 
 ##### Equipment
 

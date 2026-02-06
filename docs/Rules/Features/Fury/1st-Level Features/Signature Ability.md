@@ -48,7 +48,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 2 + M damage
 > - **12-16:** 5 + M damage
-> - **17+:** 7 + M damage; A < STRONG, slowed (save ends)
+> - **17+:** 7 + M damage; A < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** You can shift 1 square.
 
@@ -63,9 +63,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M damage; M < WEAK, grabbed
-> - **12-16:** 5 + M damage; M < AVERAGE, grabbed
-> - **17+:** 7 + M damage; M < STRONG, grabbed
+> - **≤11:** 2 + M damage; M < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 7 + M damage; M < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
 
 <!-- -->
 > ###### To the Death!

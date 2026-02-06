@@ -14,11 +14,11 @@ type: ancestry
 
 ## Revenant
 
-The dead walk among us. Some of them are happier about it than others.
+The dead [walk](%7BREL_PATH_PREFIX%7DRules/Movement/Walk%7BREL_PATH_SUFFIX%7D) among us. Some of them are happier about it than others.
 
-Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
+Unlike the necromantic rituals that produce wights and wraiths and zombies, [revenants](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D) rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
 
-These revenants are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
+These [revenants](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D) are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
 
 ### On Revenants
 
@@ -42,7 +42,7 @@ from the outside, looked like an unremarkable section of wall.
 
 "Nonono! How could she... Capital was *nine months ago!*"
 
-"She's a revenant, idiot! She doesn't even need air. She could have walked here! Just... into the water and across the bottom of the sea! Why didn't you say anything?"
+"She's a [revenant](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D), idiot! She doesn't even need air. She could have walked here! Just... into the water and across the bottom of the sea! Why didn't you say anything?"
 
 "I did! You asshole, I just did! I been trying to tell you for-"
 
@@ -78,7 +78,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 
 ### Revenant Traits
 
-Revenant heroes have access to the following traits.
+[Revenant](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
 
 #### Signature Trait: Former Life
 
@@ -88,7 +88,7 @@ Choose the ancestry you were before you died. Your size is that ancestry's size 
 
 Your undead body grants you immunity to cold, corruption, lightning, and poison damage equal to your level, but you have fire weakness 5. You can't suffocate, and you don't need to eat or drink to stay alive.
 
-Additionally, when your Stamina reaches the negative of your winded value, you become inert instead of dying. You fall prone and can't stand. You continue to observe your surroundings, but you can't speak, take main actions, maneuvers, move actions, or triggered actions. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
+Additionally, when your Stamina reaches the negative of your winded value, you become inert instead of dying. You fall [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand. You continue to observe your surroundings, but you can't speak, take main actions, maneuvers, move actions, or triggered actions. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
 
 ##### Purchased Revenant Traits
 
@@ -96,7 +96,7 @@ You have 2 ancestry points to spend on the following traits, or 3 ancestry point
 
 ##### Bloodless (2 Points)
 
-For you, an open wound is indistinguishable from a scratch. You can't be made bleeding even while dying.
+For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) even while dying.
 
 ##### Previous Life: 1 Point (1 Point)
 

@@ -38,6 +38,6 @@ type: feature/ability/elementalist/2nd-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 5 + R fire damage; A < WEAK, restrained (save ends)
-- **12-16:** 9 + R fire damage; A < AVERAGE, restrained (save ends)
-- **17+:** 12 + R fire damage; A < STRONG, restrained (save ends)
+- **≤11:** 5 + R fire damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 12 + R fire damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)

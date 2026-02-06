@@ -28,4 +28,4 @@ type: treasure/consumable/2nd-echelon
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the Charge main action, the target of your strike is gored upon your horns and grabbed. While grabbed this way, the creature is bleeding. You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
+**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the Charge main action, the target of your strike is gored upon your horns and [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D). While [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) this way, the creature is [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D). You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.

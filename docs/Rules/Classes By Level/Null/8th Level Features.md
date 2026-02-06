@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 8th-Level Features
 
-As an 8th-level null, you gain the following features.
+As an 8th-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -22,7 +22,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Tradition Feature
 
-Your null tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
+Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
@@ -76,11 +76,11 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 9 + A damage; push 5; I < WEAK, dazed (save ends)
-> - **12-16:** 13 + A damage; push 7; I < AVERAGE, dazed (save ends)
-> - **17+:** 18 + A damage; push 10; I < STRONG, dazed (save ends)
+> - **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 18 + A damage; push 10; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is dazed this way, they see glimpses of creatures from other parts of the timescape.
+> **Effect:** The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) this way, they see glimpses of creatures from other parts of the timescape.
 
 <!-- -->
 > ###### Scalar Assault (11 Discipline)
@@ -108,4 +108,4 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 >
 > **Trigger:** The target takes damage from another creature's ability while in the area of your Null Field ability.
 >
-> **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+> **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends). While the triggering creature is [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) this way, they take psychic damage equal to your Intuition score whenever they use a main action.

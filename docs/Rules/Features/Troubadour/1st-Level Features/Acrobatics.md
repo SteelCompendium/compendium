@@ -30,4 +30,4 @@ You have the following performance ability, which is usable with your Routines f
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to jump, tumble, or climb as part of their movement before the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D), tumble, or \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) as part of their movement before the end of their turn.

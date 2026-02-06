@@ -34,4 +34,4 @@ type: title/1st-echelon
 > | --------------- | -----------------------------------: |
 > | **📏 3 burst**  | **🎯 Each undead enemy in the area** |
 >
-> **Effect:** Each target takes holy damage equal to your Reason, Intuition, or Presence score (your choice). Additionally, each target who has P < STRONG is frightened (save ends).
+> **Effect:** Each target takes holy damage equal to your Reason, Intuition, or Presence score (your choice). Additionally, each target who has P < STRONG is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends).

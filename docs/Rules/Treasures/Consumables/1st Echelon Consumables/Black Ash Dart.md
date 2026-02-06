@@ -26,10 +26,10 @@ type: treasure/consumable/1st-echelon
 
 **Project Roll Characteristic:** Agility or Intuition
 
-**Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a shadow)
+**Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D))
 
 **Effect:** As a maneuver, you make a ranged free strike using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
 
-- **≤11:** You can teleport the target up to 2 squares.
-- **12-16:** You can teleport the target up to 4 squares.
-- **17+:** You can teleport the target up to 6 squares.
+- **≤11:** You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 2 squares.
+- **12-16:** You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 4 squares.
+- **17+:** You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 6 squares.

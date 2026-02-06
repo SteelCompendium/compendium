@@ -14,7 +14,7 @@ type: class/tactician/level
 
 ### 4th-Level Features
 
-As a 4th-level tactician, you gain the following features.
+As a 4th-level [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 

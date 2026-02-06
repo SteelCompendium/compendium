@@ -36,8 +36,8 @@ type: feature/ability/troubadour/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 6 + A damage; P < WEAK, weakened (save ends)
-- **12-16:** 10 + A damage; P < AVERAGE, weakened (save ends)
-- **17+:** 14 + A damage; P < STRONG, weakened (save ends)
+- **≤11:** 6 + A damage; P < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 10 + A damage; P < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 14 + A damage; P < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 
-**Effect:** You can become bleeding (save ends) to deal an extra 5 corruption damage to the target.
+**Effect:** You can become [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends) to deal an extra 5 corruption damage to the target.

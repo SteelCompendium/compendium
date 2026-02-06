@@ -31,9 +31,9 @@ Choose one of the following heroic abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 cold damage; A < WEAK, slowed (save ends)
-> - **12-16:** 9 cold damage; A < AVERAGE, slowed (save ends)
-> - **17+:** 13 cold damage; A < STRONG, slowed (save ends)
+> - **≤11:** 6 cold damage; A < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 13 cold damage; A < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Heat Sink (5 Discipline)

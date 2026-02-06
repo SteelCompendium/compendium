@@ -40,6 +40,6 @@ type: feature/ability/troubadour/9th-level-feature
 
 - **≤11:** 15 + A damage
 - **12-16:** 21 + A damage
-- **17+:** 28 + A damage; M < STRONG, bleeding (save ends)
+- **17+:** 28 + A damage; M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
 
 **Effect:** This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.

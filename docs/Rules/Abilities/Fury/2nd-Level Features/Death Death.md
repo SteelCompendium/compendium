@@ -36,6 +36,6 @@ type: feature/ability/fury/2nd-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M damage; P < WEAK, dazed and frightened (save ends)
-- **12-16:** 5 + M damage; P < AVERAGE, dazed and frightened (save ends)
-- **17+:** 8 + M damage; P < STRONG, dazed and frightened (save ends)
+- **≤11:** 3 + M damage; P < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 5 + M damage; P < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 8 + M damage; P < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)

@@ -14,7 +14,7 @@ type: class/tactician/level
 
 ### 6th-Level Features
 
-As a 6th-level tactician, you gain the following features.
+As a 6th-level [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Master of Arms
 
@@ -109,9 +109,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** A < WEAK, dazed (save ends)
-> - **12-16:** A < AVERAGE, dazed (save ends)
-> - **17+:** A < STRONG, dazed (save ends)
+> - **≤11:** A < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** A < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** A < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### To Me Squad! (9 Focus)
@@ -128,4 +128,4 @@ Choose one of the following abilities.
 > - **12-16:** 9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a free strike for the charge
 > - **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a free strike for the charge
 >
-> **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are dazed (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
+> **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.

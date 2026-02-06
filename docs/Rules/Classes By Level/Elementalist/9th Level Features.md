@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 9th-Level Features
 
-As a 9th-level elementalist, you gain the following features.
+As a 9th-level [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Grand Wyrding
 
@@ -78,8 +78,8 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 13 + R fire damage; I < WEAK, dazed (save ends)
-> - **12-16:** 18 + R fire damage; I < AVERAGE, dazed (save ends)
-> - **17+:** 25 + R fire damage; I < STRONG, dazed (save ends)
+> - **≤11:** 13 + R fire damage; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 25 + R fire damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** This damage ignores immunity.

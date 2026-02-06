@@ -14,7 +14,7 @@ type: class/fury/level
 
 ### 3rd-Level Features
 
-As a 3rd-level fury, you gain the following features.
+As a 3rd-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 3rd-Level Aspect Feature
 
@@ -30,7 +30,7 @@ Your primordial aspect grants you a feature, as shown on the 3rd-Level Aspect Fe
 
 ##### Immovable Object
 
-You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be grabbed.
+You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D).
 
 Additionally, you have a bonus to stability equal to your Might score.
 
@@ -57,7 +57,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is frightened until the end of their turn.
+> **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) until the end of their turn.
 
 <!-- -->
 > ###### Face the Storm! (7 Ferocity)
@@ -68,7 +68,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is taunted until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy taunted by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
+> **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
 
 <!-- -->
 > ###### Steelbreaker (7 Ferocity)

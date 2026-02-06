@@ -36,4 +36,4 @@ type: feature/ability/talent/1st-level-feature
 
 **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
 
-**Strained:** You are weakened (save ends). While you are weakened this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
+**Strained:** You are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends). While you are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) this way, whenever you are force moved, the forced movement distance gains a +5 bonus.

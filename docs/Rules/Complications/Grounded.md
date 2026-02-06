@@ -16,6 +16,6 @@ type: complication
 
 Once when you were a child, your settlement was in danger and you called out to the earth for aid. That call was answered by a summoning of protective dirt-and-stone walls, and ever since then, you've felt the earth's presence as a friend and protector.
 
-**Benefit:** You have the 1st-level Elementalist Specialization feature Motivate Earth (see [Chapter 5: Classes](#page-83-2)). If you also gain this feature in any other way, the Motivate Earth ability becomes a ranged ability for you with a distance of ranged 5.
+**Benefit:** You have the 1st-level [Elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D) Specialization feature Motivate Earth (see [Chapter 5: Classes](#page-83-2)). If you also gain this feature in any other way, the Motivate Earth ability becomes a ranged ability for you with a distance of ranged 5.
 
 **Drawback:** You attract lightning. Whenever any creature within 2 squares of you takes lightning damage, you take 5 lightning damage that can't be reduced in any way.

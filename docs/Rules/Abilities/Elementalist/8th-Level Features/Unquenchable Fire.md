@@ -37,8 +37,8 @@ type: feature/ability/elementalist/8th-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 13 + R fire damage; I < WEAK, dazed (save ends)
-- **12-16:** 18 + R fire damage; I < AVERAGE, dazed (save ends)
-- **17+:** 25 + R fire damage; I < STRONG, dazed (save ends)
+- **≤11:** 13 + R fire damage; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 25 + R fire damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 **Effect:** This damage ignores immunity.

@@ -35,8 +35,8 @@ type: feature/ability/talent/1st-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 + R cold damage; M < WEAK, slowed (EoT)
-- **12-16:** 4 + R cold damage; M < AVERAGE, slowed (EoT)
-- **17+:** 6 + R cold damage; M < STRONG, slowed (EoT)
+- **≤11:** 2 + R cold damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
+- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
+- **17+:** 6 + R cold damage; M < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
 
-**Strained:** You are slowed until the end of your next turn. Additionally, a target slowed by this ability is restrained instead.
+**Strained:** You are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of your next turn. Additionally, a target [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) by this ability is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) instead.

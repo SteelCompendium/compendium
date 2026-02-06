@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 7th-Level Features
 
-As a 7th-level elementalist, you gain the following features.
+As a 7th-level [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 

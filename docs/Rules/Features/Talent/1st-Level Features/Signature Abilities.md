@@ -31,9 +31,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 + P corruption damage; P < WEAK, slowed (save ends)
-> - **12-16:** 3 + P corruption damage; P < AVERAGE, slowed (save ends)
-> - **17+:** 5 + P corruption damage; P < STRONG, slowed (save ends)
+> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 >
@@ -50,11 +50,11 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R cold damage; M < WEAK, slowed (EoT)
-> - **12-16:** 4 + R cold damage; M < AVERAGE, slowed (EoT)
-> - **17+:** 6 + R cold damage; M < STRONG, slowed (EoT)
+> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
+> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
+> - **17+:** 6 + R cold damage; M < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
 >
-> **Strained:** You are slowed until the end of your next turn. Additionally, a target slowed by this ability is restrained instead.
+> **Strained:** You are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of your next turn. Additionally, a target [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) by this ability is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) instead.
 
 <!-- -->
 > ###### Incinerate
@@ -88,7 +88,7 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > - **≤11:** Slide 2 + R
 > - **12-16:** Slide 4 + R
-> - **17+:** Slide 6 + R; prone
+> - **17+:** Slide 6 + R; [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
 >
 > **Strained:** You must vertical push the target instead of sliding them.
 
@@ -107,7 +107,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 5 psychic damage; push 1
 > - **17+:** 7 psychic damage; push 2
 >
-> **Strained:** The size of the burst increases by 2, and you are bleeding until the start of your next turn.
+> **Strained:** The size of the burst increases by 2, and you are [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) until the start of your next turn.
 
 <!-- -->
 > ###### Materialize
@@ -139,9 +139,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; M < WEAK, prone
-> - **12-16:** 4 + R damage; M < AVERAGE, prone
-> - **17+:** 6 + R damage; M < STRONG, prone
+> - **≤11:** 2 + R damage; M < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 4 + R damage; M < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 6 + R damage; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
 >
 > **Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.
 >

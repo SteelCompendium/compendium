@@ -28,4 +28,4 @@ type: treasure/consumable/1st-echelon
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you rub the balm on your body and feel it tingle across your skin. You immediately end the bleeding and weakened conditions on yourself, and you gain a +2 bonus to speed until the start of your next turn.
+**Effect:** As a maneuver, you rub the balm on your body and feel it tingle across your skin. You immediately end the [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) conditions on yourself, and you gain a +2 bonus to speed until the start of your next turn.

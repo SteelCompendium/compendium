@@ -14,7 +14,7 @@ type: class/tactician/level
 
 ### 8th-Level Features
 
-As an 8th-level tactician, you gain the following features.
+As an 8th-level [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 

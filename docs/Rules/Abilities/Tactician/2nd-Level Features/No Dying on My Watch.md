@@ -41,6 +41,6 @@ type: feature/ability/tactician/2nd-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** R < WEAK, the target is frightened of the triggering ally (save ends)
-- **12-16:** R < AVERAGE, the target is frightened of the triggering ally (save ends)
-- **17+:** R < STRONG, the target is frightened of the triggering ally (save ends)
+- **≤11:** R < WEAK, the target is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of the triggering ally (save ends)
+- **12-16:** R < AVERAGE, the target is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of the triggering ally (save ends)
+- **17+:** R < STRONG, the target is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of the triggering ally (save ends)

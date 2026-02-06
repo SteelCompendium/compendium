@@ -38,4 +38,4 @@ type: feature/ability/censor/5th-level-feature
 - **12-16:** Each target gains 2 surges.
 - **17+:** Each target gains 3 surges.
 
-**Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+**Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target can stand up.

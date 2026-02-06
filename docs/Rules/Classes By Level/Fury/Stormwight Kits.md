@@ -67,7 +67,7 @@ With this stormwight kit, you channel your primordial ferocity into the form of 
 
 ##### Aspect Benefits
 
-Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature grabbed by you.
+Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) by you.
 
 ##### Animal Form: Bear
 
@@ -99,9 +99,9 @@ Your primordial damage type is cold.
 
 **Power Roll + Might:**
 
-- **≤11:** 2 + M damage; M < WEAK, grabbed
-- **12-16:** 5 + M damage; M < AVERAGE, grabbed
-- **17+:** 11 + M damage; M < STRONG, grabbed
+- **≤11:** 2 + M damage; M < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+- **17+:** 11 + M damage; M < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
 
 ##### Growing Ferocity
 
@@ -109,18 +109,18 @@ As your ferocity grows, you gain benefits as noted on the Boren Growing Ferocity
 
 ###### Boren Growing Ferocity Table
 
-| Ferocity        | Benefit                                                                                                                                                                                                                   |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | You can have up to two creatures grabbed at a time. Additionally, whenever you make a strike against a creature you have grabbed, you gain 1 surge.                                                                       |
-| 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                           |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                                     |
-| 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                             |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                                               |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature grabbed, any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
+| Ferocity        | Benefit                                                                                                                                                                                                                                                                                         |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | You can have up to two creatures [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D), you gain 1 surge. |
+| 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                                                                                                 |
+| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                                                                                                           |
+| 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                                                   |
+| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                                                                                                                     |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
 #### Corven
 
-With this stormwight kit, you channel your primordial ferocity into the form of a crow, becoming stealthy and quick. Corven are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
+With this stormwight kit, you channel your primordial ferocity into the form of a crow, becoming stealthy and quick. Corven are tied to the [mountain](%7BREL_PATH_PREFIX%7DRules/Kits/Mountain%7BREL_PATH_SUFFIX%7D) passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
 
 ##### Aspect Benefits
 
@@ -128,11 +128,11 @@ You gain an edge on tests made to hide and sneak. Additionally, whenever you fal
 
 ##### Animal Form: Crow
 
-While you are in your crow form, your size is 1T and you can fly. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your crow form, your size is 1T and you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D). You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Crow
 
-While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can fly.
+While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D).
 
 ##### Primordial Storm: Anabatic Wind
 
@@ -188,11 +188,11 @@ You gain an edge on tests made to hide and sneak. Additionally, you ignore diffi
 
 ##### Animal Form: Rat
 
-While you are in your rat form, your size is 1T and you can automatically climb at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to climb other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your rat form, your size is 1T and you can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Rat
 
-While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically climb at full speed while moving.
+While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving.
 
 ##### Primordial Storm: Rat Flood
 
@@ -277,9 +277,9 @@ Your primordial damage type is lightning.
 
 **Power Roll + Might:**
 
-- **≤11:** 4 + M damage; A < WEAK, prone
-- **12-16:** 7 + M damage; A < AVERAGE, prone
-- **17+:** 9 + M damage; A < STRONG, prone
+- **≤11:** 4 + M damage; A < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+- **12-16:** 7 + M damage; A < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+- **17+:** 9 + M damage; A < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
 
 ##### Growing Ferocity
 
@@ -290,8 +290,8 @@ As your ferocity grows, you gain benefits as noted on the Vuken Growing Ferocity
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | Whenever you use the Knockback maneuver, you can target one additional creature.                                                                                                                                                 |
-| 4               | The first time on a turn that you push a creature or knock a creature prone, you gain 1 surge.                                                                                                                                   |
+| 4               | The first time on a turn that you push a creature or knock a creature [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D), you gain 1 surge.                                                               |
 | 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time on a turn that you push a creature or knock a creature prone, you gain 2 surges.                                                                                                                                  |
+| 8 (4th level)   | The first time on a turn that you push a creature or knock a creature [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D), you gain 2 surges.                                                              |
 | 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Agility score. |

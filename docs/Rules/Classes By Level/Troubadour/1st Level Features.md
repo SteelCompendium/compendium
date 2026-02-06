@@ -14,17 +14,17 @@ type: class/troubadour/level
 
 ### 1st-Level Features
 
-As a 1st-level troubadour, you gain the following features.
+As a 1st-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Troubadour Class Act
 
-Panache, melody, and depiction. Some troubadours have it all, but everyone starts somewhere. Your troubadour class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a troubadour class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
+Panache, melody, and depiction. Some [troubadours](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) have it all, but everyone starts somewhere. Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
 
 - **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the Brag skill.
 - **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the Gymnastics skill.
 - **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the Music skill and can play an instrument.
 
-Your troubadour class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
+Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
 
 #### Drama
 
@@ -64,7 +64,7 @@ When you use an ability outside of combat that lets you spend unlimited drama on
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Swashbuckler.)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Swashbuckler](%7BREL_PATH_PREFIX%7DRules/Kits/Swashbuckler%7BREL_PATH_SUFFIX%7D).)
 
 #### Scene Partner
 
@@ -74,7 +74,7 @@ You can have a number of bonds active equal to your level. When you form a bond 
 
 #### Routines
 
-You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not dazed, dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
+You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D), dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
 
 You start off with the Choreography and Revitalizing Limerick performance abilities. Your choice of class act grants you additional performances.
 
@@ -102,7 +102,7 @@ You start off with the Choreography and Revitalizing Limerick performance abilit
 
 #### 1st-Level Class Act Features
 
-Your troubadour class act grants you two features, as shown on the 1st-Level Class Act Features table.
+Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants you two features, as shown on the 1st-Level Class Act Features table.
 
 ###### 1st-Level Class Act Features Table
 
@@ -125,7 +125,7 @@ You have the following performance ability, which is usable with your Routines f
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to jump, tumble, or climb as part of their movement before the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D), tumble, or \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) as part of their movement before the end of their turn.
 
 ##### Blocking
 
@@ -140,7 +140,7 @@ You have the following performance ability, which is usable with your Routines f
 > | ---------------------------- | -------------------------------: |
 > | **📏 2 aura**                | **🎯 Each creature in the area** |
 >
-> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and teleport those targets to unoccupied spaces in the area. A target can't be teleported in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) those targets to unoccupied spaces in the area. A target can't be [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
 ##### Dramatic Monologue
 
@@ -233,7 +233,7 @@ You have the following performance abilities, which are usable with your Routine
 
 #### Class Act Triggered Action
 
-Your troubadour class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
+Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
 ###### Class Act Triggered Action Table
 
@@ -324,9 +324,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 + P psychic damage; P < WEAK, bleeding (save ends)
-> - **12-16:** 5 + P psychic damage; P < AVERAGE, bleeding (save ends)
-> - **17+:** 7 + P psychic damage; P < STRONG, bleeding (save ends)
+> - **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 7 + P psychic damage; P < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Instigator
@@ -343,7 +343,7 @@ Choose one signature ability from the following options. Signature abilities can
 > - **12-16:** 6 + P damage
 > - **17+:** 9 + P damage
 >
-> **Effect:** The target is taunted by you or a willing ally adjacent to you until the end of the target's next turn.
+> **Effect:** The target is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by you or a willing ally adjacent to you until the end of the target's next turn.
 
 <!-- -->
 > ###### Witty Banter
@@ -400,9 +400,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 1; I < WEAK, dazed (save ends)
-> - **12-16:** Slide 1; I < AVERAGE, dazed (save ends)
-> - **17+:** Slide 2; I < STRONG, dazed (save ends)
+> - **≤11:** Slide 1; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** Slide 1; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** Slide 2; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Spend 2+ Drama:** The size of the burst increases by 1 for every 2 drama spent.
 
@@ -417,9 +417,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 damage; P < WEAK, slowed (save ends)
-> - **12-16:** 5 damage; P < AVERAGE, slowed (save ends)
-> - **17+:** 6 damage; P < STRONG, restrained (save ends)
+> - **≤11:** 4 damage; P < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 damage; P < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 6 damage; P < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** The area is difficult terrain for enemies.
 
@@ -436,9 +436,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Agility or Presence:**
 >
-> - **≤11:** Taunted (EoT); A < WEAK, prone
-> - **12-16:** Taunted (EoT); A < AVERAGE, prone
-> - **17+:** Taunted (EoT); A < STRONG, prone and can't stand (EoT)
+> - **≤11:** [Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT); A < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** [Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT); A < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **17+:** [Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT); A < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (EoT)
 
 ###### 5-Drama Ability
 
@@ -479,7 +479,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 > | --------------- | ------------------------------------: |
 > | **📏 3 burst**  | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can teleport up to 5 squares. Any teleported target who was slowed is no longer slowed.
+> **Effect:** Each target can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 5 squares. Any [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) target who was [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) is no longer [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D).
 
 <!-- -->
 > ###### Method Acting (5 Drama)
@@ -492,8 +492,8 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 + A damage; P < WEAK, weakened (save ends)
-> - **12-16:** 10 + A damage; P < AVERAGE, weakened (save ends)
-> - **17+:** 14 + A damage; P < STRONG, weakened (save ends)
+> - **≤11:** 6 + A damage; P < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 10 + A damage; P < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 14 + A damage; P < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** You can become bleeding (save ends) to deal an extra 5 corruption damage to the target.
+> **Effect:** You can become [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends) to deal an extra 5 corruption damage to the target.

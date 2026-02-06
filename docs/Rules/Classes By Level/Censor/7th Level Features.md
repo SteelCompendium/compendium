@@ -14,7 +14,7 @@ type: class/censor/level
 
 ### 7th-Level Features
 
-As a 7th-level censor, you gain the following features.
+As a 7th-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 
@@ -22,7 +22,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### 7th-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 7th-Level Censor Domain Features table.
+You gain a domain feature from your domain, as shown on the 7th-Level [Censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) Domain Features table.
 
 ###### 7th-Level Censor Domain Features Table
 
@@ -58,7 +58,7 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 

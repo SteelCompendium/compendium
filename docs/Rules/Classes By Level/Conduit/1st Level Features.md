@@ -14,7 +14,7 @@ type: class/conduit/level
 
 ### 1st-Level Features
 
-As a conduit, you gain the following features.
+As a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Deity and Domains
 
@@ -73,7 +73,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Life Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
-- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are prone. Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
+- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
 
 ###### Love Domain Piety and Effect
 
@@ -103,7 +103,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Trickery Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
-- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your conduit level.
+- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) level.
 
 ###### War Domain Piety and Effect
 
@@ -112,7 +112,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 #### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level Conduit Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
@@ -166,7 +166,7 @@ You have the following ability.
 > | ----------- | --------------: |
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ##### Grave Speech
 
@@ -241,7 +241,7 @@ You have the following ability, which you can use once on your turn.
 >
 > - You can target one additional ally within distance.
 > - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
-> - A prone target can stand up.
+> - A [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target can stand up.
 > - A target can spend 1 additional Recovery.
 
 #### Ray of Wrath
@@ -417,7 +417,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 3 holy damage
 > - **17+:** 5 holy damage
 >
-> **Effect:** You can teleport yourself and each ally in the area to unoccupied spaces in the area.
+> **Effect:** You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) yourself and each ally in the area to unoccupied spaces in the area.
 
 <!-- -->
 > ###### Sacrificial Offer
@@ -530,9 +530,9 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; A < WEAK, prone
-> - **12-16:** 6 + I holy damage; A < AVERAGE, prone
-> - **17+:** 9 + I holy damage; A < STRONG, prone and can't stand (save ends)
+> - **≤11:** 3 + I holy damage; A < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 6 + I holy damage; A < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 9 + I holy damage; A < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
 
 <!-- -->
 > ###### Violence Will Not Aid Thee (3 Piety)
@@ -581,9 +581,9 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 6 + I holy damage; I < WEAK, frightened (save ends)
-> - **12-16:** 9 + I holy damage; I < AVERAGE, frightened (save ends)
-> - **17+:** 13 + I holy damage; I < STRONG, frightened (save ends)
+> - **≤11:** 6 + I holy damage; I < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 13 + I holy damage; I < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Faith Is Our Armor (5 Piety)
@@ -611,4 +611,4 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 > | --------------- | ---------------------------: |
 > | **📏 4 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.
+> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).

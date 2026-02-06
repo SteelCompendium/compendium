@@ -14,4 +14,4 @@ type: movement
 
 ##### Hover
 
-A creature who has "hover" in their speed entry (most commonly alongside "fly" or "teleport"), or who gains the temporary ability to hover, can remain motionless in midair. They don't fall even if they are knocked prone or their speed is reduced to 0.
+A creature who has "hover" in their speed entry (most commonly alongside "[fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D)" or "[teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)"), or who gains the temporary ability to [hover](%7BREL_PATH_PREFIX%7DRules/Movement/Hover%7BREL_PATH_SUFFIX%7D), can remain motionless in midair. They don't fall even if they are knocked [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) or their speed is reduced to 0.

@@ -14,7 +14,7 @@ type: class/talent/level
 
 ### 4th-Level Features
 
-As a 4th-level talent, you gain the following features.
+As a 4th-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 
@@ -22,7 +22,7 @@ Your Reason and Presence scores each increase to 3.
 
 #### Mind Projection
 
-As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and prone, and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
+As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
 
 Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.
 
@@ -42,6 +42,6 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 #### Suspensor Field
 
-You can fly. While flying, your stability is reduced to 0 and can't be increased. If you can already fly, you have a +2 bonus to speed while flying instead.
+You can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D). While flying, your stability is reduced to 0 and can't be increased. If you can already [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), you have a +2 bonus to speed while flying instead.
 
 If you are strained while flying and are force moved, the forced movement distance gains a +2 bonus.

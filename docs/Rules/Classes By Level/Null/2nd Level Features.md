@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 2nd-Level Features
 
-As a 2nd-level null, you gain the following features.
+As a 2nd-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -22,7 +22,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level Tradition Feature
 
-Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
@@ -34,11 +34,11 @@ Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Fe
 
 ##### Entropic Adaptability
 
-You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically climb at full speed while moving.
+You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving.
 
 ##### Inertial Sink
 
-You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be grabbed.
+You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D).
 
 Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being force moved, you reduce that damage by an amount equal to your level.
 
@@ -48,7 +48,7 @@ As a maneuver, you can read an entire book or process a similar amount of inform
 
 #### 2nd-Level Tradition Ability
 
-Your null tradition grants your choice of one of two abilities.
+Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition grants your choice of one of two abilities.
 
 ##### 2nd-Level Chronokinetic Ability
 
@@ -95,9 +95,9 @@ Choose one of the following heroic abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 cold damage; A < WEAK, slowed (save ends)
-> - **12-16:** 9 cold damage; A < AVERAGE, slowed (save ends)
-> - **17+:** 13 cold damage; A < STRONG, slowed (save ends)
+> - **≤11:** 6 cold damage; A < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 13 cold damage; A < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Heat Sink (5 Discipline)
@@ -144,4 +144,4 @@ Choose one of the following abilities.
 > - **12-16:** You gain 15 temporary Stamina.
 > - **17+:** You gain 20 temporary Stamina.
 >
-> **Effect:** While you have temporary Stamina from this ability, you can't be made bleeding even while dying.
+> **Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) even while dying.

@@ -28,8 +28,8 @@ type: treasure/leveled/weapon
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +1 bonus to melee distance with weapon abilities using this weapon. Additionally, any damage-dealing weapon ability using the weapon against a target who has A < AVERAGE also leaves that target bleeding (save ends).
+**1st Level:** You gain a +1 bonus to melee distance with weapon abilities using this weapon. Additionally, any damage-dealing weapon ability using the weapon against a target who has A < AVERAGE also leaves that target [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends).
 
-**5th Level:** The weapon's bonus to melee distance increases to +2. Additionally, any weapon ability that deals rolled damage using the weapon gains a +3 damage bonus against any target who is bleeding.
+**5th Level:** The weapon's bonus to melee distance increases to +2. Additionally, any weapon ability that deals rolled damage using the weapon gains a +3 damage bonus against any target who is [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D).
 
-**9th Level:** The weapon's bonus to melee distance increases to +3. Additionally, if you use a signature ability using the weapon that targets one or more bleeding creatures, you can use the same ability again immediately as a maneuver.
+**9th Level:** The weapon's bonus to melee distance increases to +3. Additionally, if you use a signature ability using the weapon that targets one or more [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) creatures, you can use the same ability again immediately as a maneuver.

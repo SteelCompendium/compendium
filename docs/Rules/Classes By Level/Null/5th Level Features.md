@@ -14,11 +14,11 @@ type: class/null/level
 
 ### 5th-Level Features
 
-As a 5th-level null, you gain the following features.
+As a 5th-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 5th-Level Tradition Feature
 
-Your null tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
+Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
@@ -57,9 +57,9 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A damage; I < WEAK, restrained (save ends)
-> - **12-16:** 10 + A damage; I < AVERAGE, restrained (save ends)
-> - **17+:** 13 + A damage; I < STRONG, restrained (save ends)
+> - **≤11:** 7 + A damage; I < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 10 + A damage; I < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 13 + A damage; I < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** This strike resolves before the triggering movement or main action.
 
@@ -74,11 +74,11 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 10 + A damage; A < WEAK, grabbed
-> - **12-16:** 14 + A damage; A < AVERAGE, grabbed
-> - **17+:** 18 + A damage; A < STRONG, grabbed
+> - **≤11:** 10 + A damage; A < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 18 + A damage; A < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
 >
-> **Effect:** While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+> **Effect:** While [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
 <!-- -->
 > ###### Phase Leap (9 Discipline)
@@ -89,7 +89,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 > | ----------- | ----------: |
 > | **📏 Self** | **🎯 Self** |
 >
-> **Effect:** You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your Null Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
+> **Effect:** You [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your Null Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 
 <!-- -->
 > ###### Synaptic Reset (9 Discipline)

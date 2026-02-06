@@ -38,4 +38,4 @@ type: feature/ability/talent/1st-level-feature
 - **12-16:** 5 psychic damage; push 1
 - **17+:** 7 psychic damage; push 2
 
-**Strained:** The size of the burst increases by 2, and you are bleeding until the start of your next turn.
+**Strained:** The size of the burst increases by 2, and you are [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) until the start of your next turn.

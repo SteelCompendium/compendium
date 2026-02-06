@@ -14,7 +14,7 @@ type: class/fury/level
 
 ### 1st-Level Features
 
-As a 1st-level fury, you gain the following features.
+As a 1st-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Primordial Aspect
 
@@ -33,7 +33,7 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 <!-- -->
 > **Where's My Maneuver?**
 >
-> Since most other classes get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the fury?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the fury has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+> Since most other [classes](%7BREL_PATH_PREFIX%7DRules/Chapters/Classes%7BREL_PATH_SUFFIX%7D) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D) has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
 ##### Ferocity in Combat
 
@@ -95,7 +95,7 @@ You can use and gain the benefits of a stormwight kit (see Stormwight Kits). You
 
 ##### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Panther.)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](%7BREL_PATH_PREFIX%7DRules/Kits/Panther%7BREL_PATH_SUFFIX%7D).)
 
 ##### Primordial Cunning
 
@@ -172,7 +172,7 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 
 #### Mighty Leaps
 
-You can't obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: Combat).
+You can't obtain lower than a tier 2 outcome on any Might test made to [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) (see Movement Types in Chapter 10: Combat).
 
 #### Fury Abilities
 
@@ -210,7 +210,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 2 + M damage
 > - **12-16:** 5 + M damage
-> - **17+:** 7 + M damage; A < STRONG, slowed (save ends)
+> - **17+:** 7 + M damage; A < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** You can shift 1 square.
 
@@ -225,9 +225,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M damage; M < WEAK, grabbed
-> - **12-16:** 5 + M damage; M < AVERAGE, grabbed
-> - **17+:** 7 + M damage; M < STRONG, grabbed
+> - **≤11:** 2 + M damage; M < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 7 + M damage; M < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
 
 <!-- -->
 > ###### To the Death!
@@ -316,11 +316,11 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; M < WEAK, bleeding (save ends)
-> - **12-16:** 5 + M damage; M < AVERAGE, bleeding (save ends)
-> - **17+:** 8 + M damage; M < STRONG, bleeding (save ends)
+> - **≤11:** 3 + M damage; M < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 8 + M damage; M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While bleeding this way, the target takes damage equal to your Might score at the end of each of your turns.
+> **Effect:** While [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) this way, the target takes damage equal to your Might score at the end of each of your turns.
 
 ###### 5-Ferocity Ability
 
@@ -337,9 +337,9 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; M < WEAK, bleeding and weakened (save ends)
-> - **12-16:** 6 + M damage; M < AVERAGE, bleeding and weakened (save ends)
-> - **17+:** 10 + M damage; M < STRONG, bleeding and weakened (save ends)
+> - **≤11:** 4 + M damage; M < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 10 + M damage; M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 

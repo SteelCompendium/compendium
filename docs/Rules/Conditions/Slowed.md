@@ -14,4 +14,4 @@ type: condition
 
 ##### Slowed
 
-A creature who is slowed has speed 2 unless their speed is already lower, and they can't shift.
+A creature who is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) has speed 2 unless their speed is already lower, and they can't shift.

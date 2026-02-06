@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 + R psychic damage; I < WEAK, slowed (save ends)
-> - **12-16:** 10 + R psychic damage; I < AVERAGE, weakened (save ends)
-> - **17+:** 14 + R psychic damage; I < STRONG, dazed (save ends)
+> - **≤11:** 6 + R psychic damage; I < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 14 + R psychic damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Strained:** You start crying, and you can't use triggered actions or make free strikes until the end of the target's next turn.
 
@@ -54,4 +54,4 @@ Choose one of the following abilities.
 >
 > **Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
 >
-> **Strained:** You take 1d6 damage and are weakened until the end of your turn.
+> **Strained:** You take 1d6 damage and are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) until the end of your turn.

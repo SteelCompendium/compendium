@@ -44,7 +44,7 @@ The Director has a number of key jobs in this game, which we'll go over in this 
 - Before a campaign starts, the Director pitches the idea of their campaign to the players.
 - Before each game, the Director prepares the adventure by building scenes that include encounters, negotiations, and downtime activities.
 - During the game, the Director presents the scenes they've prepared to the players.
-- During the game, the Director is responsible for how the NPCs and the environment react to the actions of the heroes. This includes changing and skipping prepared scenes and running new scenes on the fly.
+- During the game, the Director is responsible for how the NPCs and the environment react to the actions of the heroes. This includes changing and skipping prepared scenes and running new scenes on the [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D).
 - During the game, the Director acts as a referee, adjudicating the rules. If something isn't covered by the rules, the Director decides how to determine what happens next in the game.
 - After the game, the Director makes or reviews notes covering what happened during the game, then starts planning for the next game session.
 
@@ -143,7 +143,7 @@ The buy-in tells the players that their heroes are going to travel to far-flung 
 
 #### Player Option Restrictions
 
-Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all memonek and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all ancestries (see [Chapter 3](#page-35-0)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4](#page-67-0)) so that no one can take Aristocrat or Politician.
+Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all [ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Ancestries%7BREL_PATH_SUFFIX%7D) (see [Chapter 3](#page-35-0)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4](#page-67-0)) so that no one can take [Aristocrat](%7BREL_PATH_PREFIX%7DRules/Careers/Aristocrat%7BREL_PATH_SUFFIX%7D) or [Politician](%7BREL_PATH_PREFIX%7DRules/Careers/Politician%7BREL_PATH_SUFFIX%7D).
 
 Put any restrictions your campaign has into your pitch!
 
@@ -259,16 +259,16 @@ Discuss the details of a hero's complication with that hero's player. Complicati
 
 Once you understand a hero's desires for their complication, you can create an echelon outline for the complication to give the hero's backstory some narrative teeth throughout the campaign. Consider the following example.
 
-Matt, playing Linn the talent, has the Elemental Inside complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth elementalist. Sorin wanted to abduct Linn's talent mentor, a dwarf who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
+Matt, playing Linn the [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), has the Elemental Inside complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D). Sorin wanted to abduct Linn's [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) mentor, a [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
 
-Matt tells the Director that Linn enjoys the extra protection afforded to her by Bruulv, since it makes her a tougher hero, and she would like to find a way to keep her benefit while losing the drawback. The Director comes up with an echelon outline for Linn that will enrich the talent's story and have ties to the main campaign (which happens to be the example campaign in the echelon outline above).
+Matt tells the Director that Linn enjoys the extra protection afforded to her by Bruulv, since it makes her a tougher hero, and she would like to find a way to keep her benefit while losing the drawback. The Director comes up with an echelon outline for Linn that will enrich the [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D)'s story and have ties to the main campaign (which happens to be the example campaign in the echelon outline above).
 
 - **1st Echelon:** After the heroes start riling up Lord Saxton's forces, Sorin offers her services to the tyrant for a chance to face Linn. During the heroes' assault on the keep, Sorin attacks.
 - **2nd Echelon:** Assuming Sorin's defeat, Bruulv becomes even angrier, and can now try to wrestle control away from Linn whenever she is winded in addition to when she is dying. Linn finds a Crown of Elements, a special magic treasure that allows her to force Bruulv back to a "takes control only while dying" state as long as she wears it. The crown has other elemental powers too—and is one of the items desired by Ajax.
-- **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly high elf named Leaves of the Autumn Wind offers to enhance the crown, allowing the talent to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
+- **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly high elf named Leaves of the Autumn Wind offers to enhance the crown, allowing the [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
 - **4th Echelon:** With the crown enhanced, Linn can speak directly to Bruulv. By learning the elemental's history and desires through negotiation, she can see that Bruulv mostly wants to return to the City of Brass so they might once again see the raw elemental powers come together. If Linn can visit this city that is literally worlds away, she earns Bruulv's trust and the elemental stops taking over her form.
 
-At each echelon, you should revisit your complication echelon outlines, since the actions of the players could change your plans. In the example outline above, if Sorin gets away after the battle with Saxton during the 1st echelon, the elementalist is likely to return and try to free Bruulv once again!
+At each echelon, you should revisit your complication echelon outlines, since the actions of the players could change your plans. In the example outline above, if Sorin gets away after the battle with Saxton during the 1st echelon, the [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D) is likely to return and try to free Bruulv once again!
 
 ### Creating Adventures
 
@@ -315,7 +315,7 @@ Of course, some villains want to cause violence and mayhem just for the sake of 
 <!-- -->
 > **Stealing is Encouraged**
 >
-> When you're coming up with ideas for campaigns, adventures, and scenes, you should feel free to steal plots, action set pieces, characters, and anything else you want from your favorite movies, television shows, novels, comic books, and podcasts. You can then modify a few cosmetic details to make things your own. Borrowing a character who's a human man in your favorite novel to make an NPC? Make the NPC a dwarf woman with a new name and no one is the wiser. Got an idea for an encounter based on a battle scene from your favorite science fiction flick? Make those invading aliens gnolls instead! Let your favorite stories inspire you, especially when you're looking for new ideas.
+> When you're coming up with ideas for campaigns, adventures, and scenes, you should feel free to steal plots, action set pieces, characters, and anything else you want from your favorite movies, television shows, novels, comic books, and podcasts. You can then modify a few cosmetic details to make things your own. Borrowing a character who's a [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) man in your favorite novel to make an NPC? Make the NPC a [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) woman with a new name and no one is the wiser. Got an idea for an encounter based on a battle scene from your favorite science fiction flick? Make those invading aliens gnolls instead! Let your favorite stories inspire you, especially when you're looking for new ideas.
 
 #### Adventure Goal
 
@@ -354,7 +354,7 @@ What's notable about the NPC's appearance? Do they have distinguishing features 
 
 ##### Voice
 
-When the NPC speaks, how does their voice sound? You don't have to put on a character voice every time you speak as the NPC, but telling the players, "This elf talks like a pirate," or "This dwarf has a high-pitched voice that keeps cracking," helps them remember and differentiate that NPC from others.
+When the NPC speaks, how does their voice sound? You don't have to put on a character voice every time you speak as the NPC, but telling the players, "This elf talks like a pirate," or "This [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) has a high-pitched voice that keeps cracking," helps them remember and differentiate that NPC from others.
 
 ##### Behavior
 
@@ -599,7 +599,7 @@ Some hazards deal effects in addition to or instead of damage. A hazard that is 
 - A character loses a Recovery.
 - A curse leaves a character with a demonic-sounding voice that imposes a bane on Presence tests.
 - A character receives a gaping wound that causes them to take 1d10 damage whenever they roll a natural 2 before they next finish a respite.
-- A character is teleported into the middle of a nearby body of water.
+- A character is [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) into the middle of a nearby body of water.
 
 But although lasting and interesting consequences are fun, make sure they don't derail your story to the point where the whole game becomes about solving the problems created by a hazard—unless your group thinks that's fun!
 
@@ -643,7 +643,7 @@ Finally, if the heroes really offend the NPC and end the negotiation with their 
 
 #### Hero Negotiation Stats
 
-Many heroes have class features, titles, or other character options that make them better in negotiation. When you're preparing a negotiation, it helps if you know each hero's Renown score and any features they have that might impact a negotiation, such as the troubadour's Scene Partner feature. Ask your players to tell you if any of their character options influence negotiation at the start of a campaign, and ask again whenever they gain a new level.
+Many heroes have class features, titles, or other character options that make them better in negotiation. When you're preparing a negotiation, it helps if you know each hero's Renown score and any features they have that might impact a negotiation, such as the [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D)'s Scene Partner feature. Ask your players to tell you if any of their character options influence negotiation at the start of a campaign, and ask again whenever they gain a new level.
 
 #### Heroes Must Initiate
 

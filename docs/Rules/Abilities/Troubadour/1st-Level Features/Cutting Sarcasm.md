@@ -35,6 +35,6 @@ type: feature/ability/troubadour/1st-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 2 + P psychic damage; P < WEAK, bleeding (save ends)
-- **12-16:** 5 + P psychic damage; P < AVERAGE, bleeding (save ends)
-- **17+:** 7 + P psychic damage; P < STRONG, bleeding (save ends)
+- **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 7 + P psychic damage; P < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)

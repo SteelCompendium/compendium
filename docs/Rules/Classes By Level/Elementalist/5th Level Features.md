@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 5th-Level Features
 
-As a 5th-level elementalist, you gain the following features.
+As a 5th-level [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 5th-Level Specialization Feature
 
@@ -45,11 +45,11 @@ Additionally, whenever an ally within distance of your Hurl Element ability is f
 
 Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.
 
-Additionally, whenever you use a void ability, you or one ally within distance of the ability can teleport a number of squares equal to your Reason score.
+Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) a number of squares equal to your Reason score.
 
 ##### Smoldering Step
 
-You can use 1 square of movement to walk into an area of fire your size or larger and teleport to any other area of fire your size or larger within 10 squares of the first area.
+You can use 1 square of movement to [walk](%7BREL_PATH_PREFIX%7DRules/Movement/Walk%7BREL_PATH_SUFFIX%7D) into an area of fire your size or larger and [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to any other area of fire your size or larger within 10 squares of the first area.
 
 Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.
 
@@ -119,10 +119,10 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 corruption damage; A < WEAK, restrained (save ends)
-> - **12-16:** 3 corruption damage; A < AVERAGE, restrained (save ends)
-> - **17+:** 5 corruption damage; A < STRONG, restrained (save ends)
+> - **≤11:** 2 corruption damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 5 corruption damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is restrained (save ends).
+> **Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends).
 >
 > **Persistent 1:** The area remains until the start of your next turn.

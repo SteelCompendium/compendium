@@ -40,163 +40,163 @@ Complications are presented in alphabetical order.
 
 ###### Complications Table 2-Column
 
-| d100 | Complication                        | d100 | Complication               |
-| ---- | ----------------------------------- | ---- | -------------------------- |
-| 1    | Advanced Studies                    | 51   | Loner                      |
-| 2    | Amnesia                             | 52   | Lost in Time               |
-| 3    | Animal Form                         | 53   | Lost Your Head             |
-| 4    | Antihero                            | 54   | Lucky                      |
-| 5    | Artifact Bonded                     | 55   | Master Chef                |
-| 6    | Bereaved                            | 56   | Meddling Butler            |
-| 7    | Betrothed                           | 57   | Medium                     |
-| 8    | Chaos Touched                       | 58   | Medusa Blood               |
-| 9    | Chosen One                          | 59   | Misunderstood              |
-| 10   | Consuming Interest                  | 60   | Mundane                    |
-| 11   | Corrupted Mentor                    | 61   | Outlaw                     |
-| 12   | Coward                              | 62   | Pirate                     |
-| 13   | Crash Landed                        | 63   | Preacher                   |
-| 14   | Cult Victim                         | 64   | Primordial Sickness        |
-| 15   | Curse of Caution                    | 65   | Prisoner of the Synlirii   |
-| 16   | Curse of Immortality                | 66   | Promising Apprentice       |
-| 17   | Curse of Misfortune                 | 67   | Psychic Eruption           |
-| 18   | Curse of Poverty                    | 68   | Raised by Beasts           |
-| 19   | Curse of Punishment                 | 69   | Refugee                    |
-| 20   | Curse of Stone                      | 70   | Rival                      |
-| 21   | Cursed Weapon                       | 71   | Rogue Talent               |
-| 22   | Disgraced                           | 72   | Runaway                    |
-| 23   | Dragon Dreams                       | 73   | Searching for a Cure       |
-| 24   | Elemental Inside                    | 74   | Secret Identity            |
-| 25   | Evanesceria                         | 75   | Secret Twin                |
-| 26   | Exile                               | 76   | Self-Taught                |
-| 27   | Fallen Immortal                     | 77   | Sewer Folk                 |
-| 28   | Famous Relative                     | 78   | Shadow Born                |
-| 29   | Feytouched                          | 79   | Shared Spirit              |
-| 30   | Fiery Ideal                         | 80   | Shattered Legacy           |
-| 31   | Fire and Chaos                      | 81   | Shipwrecked                |
-| 32   | Following in the Footsteps          | 82   | Sibling's Shield           |
-| 33   | Forbidden Romance                   | 83   | Silent Sentinel            |
-| 34   | Frostheart                          | 84   | Slight Case of Lycanthropy |
-| 35   | Getting Too Old for This            | 85   | Stolen Face                |
-| 36   | Gnoll-Mauled                        | 86   | Strange Inheritance        |
-| 37   | Greening                            | 87   | Stripped of Rank           |
-| 38   | Grifter                             | 88   | Thrill Seeker              |
-| 39   | Grounded                            | 89   | Vampire Scion              |
-| 40   | Guilty Conscience                   | 90   | Voice in Your Head         |
-| 41   | Hawk Rider                          | 91   | Vow of Duty                |
-| 42   | Host Body                           | 92   | Vow of Honesty             |
-| 43   | Hunted                              | 93   | Waking Dreams              |
-| 44   | Hunter                              | 94   | War Dog Collar             |
-| 45   | Indebted                            | 95   | War of Assassins           |
-| 46   | Infernal Contract                   | 96   | Ward                       |
-| 47   | Infernal Contract... But, Like, Bad | 97   | Waterborn                  |
-| 48   | Ivory Tower                         | 98   | Wodewalker                 |
-| 49   | Lifebonded                          | 99   | Wrathful Spirit            |
-| 50   | Lightning Soul                      | 100  | Wrongly Imprisoned         |
+| d100 | Complication                                                                             | d100 | Complication                                                                                 |
+| ---- | ---------------------------------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------------------- |
+| 1    | Advanced Studies                                                                         | 51   | [Loner](%7BREL_PATH_PREFIX%7DRules/Complications/Loner%7BREL_PATH_SUFFIX%7D)                 |
+| 2    | [Amnesia](%7BREL_PATH_PREFIX%7DRules/Complications/Amnesia%7BREL_PATH_SUFFIX%7D)         | 52   | Lost in Time                                                                                 |
+| 3    | Animal Form                                                                              | 53   | Lost Your Head                                                                               |
+| 4    | [Antihero](%7BREL_PATH_PREFIX%7DRules/Complications/Antihero%7BREL_PATH_SUFFIX%7D)       | 54   | [Lucky](%7BREL_PATH_PREFIX%7DRules/Complications/Lucky%7BREL_PATH_SUFFIX%7D)                 |
+| 5    | Artifact Bonded                                                                          | 55   | Master Chef                                                                                  |
+| 6    | [Bereaved](%7BREL_PATH_PREFIX%7DRules/Complications/Bereaved%7BREL_PATH_SUFFIX%7D)       | 56   | Meddling Butler                                                                              |
+| 7    | [Betrothed](%7BREL_PATH_PREFIX%7DRules/Complications/Betrothed%7BREL_PATH_SUFFIX%7D)     | 57   | [Medium](%7BREL_PATH_PREFIX%7DRules/Complications/Medium%7BREL_PATH_SUFFIX%7D)               |
+| 8    | Chaos Touched                                                                            | 58   | Medusa Blood                                                                                 |
+| 9    | Chosen One                                                                               | 59   | [Misunderstood](%7BREL_PATH_PREFIX%7DRules/Complications/Misunderstood%7BREL_PATH_SUFFIX%7D) |
+| 10   | Consuming Interest                                                                       | 60   | [Mundane](%7BREL_PATH_PREFIX%7DRules/Complications/Mundane%7BREL_PATH_SUFFIX%7D)             |
+| 11   | Corrupted Mentor                                                                         | 61   | [Outlaw](%7BREL_PATH_PREFIX%7DRules/Complications/Outlaw%7BREL_PATH_SUFFIX%7D)               |
+| 12   | [Coward](%7BREL_PATH_PREFIX%7DRules/Complications/Coward%7BREL_PATH_SUFFIX%7D)           | 62   | [Pirate](%7BREL_PATH_PREFIX%7DRules/Complications/Pirate%7BREL_PATH_SUFFIX%7D)               |
+| 13   | Crash Landed                                                                             | 63   | [Preacher](%7BREL_PATH_PREFIX%7DRules/Complications/Preacher%7BREL_PATH_SUFFIX%7D)           |
+| 14   | Cult Victim                                                                              | 64   | Primordial Sickness                                                                          |
+| 15   | Curse of Caution                                                                         | 65   | Prisoner of the Synlirii                                                                     |
+| 16   | Curse of Immortality                                                                     | 66   | Promising Apprentice                                                                         |
+| 17   | Curse of Misfortune                                                                      | 67   | Psychic Eruption                                                                             |
+| 18   | Curse of Poverty                                                                         | 68   | Raised by Beasts                                                                             |
+| 19   | Curse of Punishment                                                                      | 69   | [Refugee](%7BREL_PATH_PREFIX%7DRules/Complications/Refugee%7BREL_PATH_SUFFIX%7D)             |
+| 20   | Curse of Stone                                                                           | 70   | [Rival](%7BREL_PATH_PREFIX%7DRules/Complications/Rival%7BREL_PATH_SUFFIX%7D)                 |
+| 21   | Cursed Weapon                                                                            | 71   | Rogue [Talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D)               |
+| 22   | [Disgraced](%7BREL_PATH_PREFIX%7DRules/Complications/Disgraced%7BREL_PATH_SUFFIX%7D)     | 72   | [Runaway](%7BREL_PATH_PREFIX%7DRules/Complications/Runaway%7BREL_PATH_SUFFIX%7D)             |
+| 23   | Dragon Dreams                                                                            | 73   | Searching for a Cure                                                                         |
+| 24   | Elemental Inside                                                                         | 74   | Secret Identity                                                                              |
+| 25   | [Evanesceria](%7BREL_PATH_PREFIX%7DRules/Complications/Evanesceria%7BREL_PATH_SUFFIX%7D) | 75   | Secret Twin                                                                                  |
+| 26   | [Exile](%7BREL_PATH_PREFIX%7DRules/Complications/Exile%7BREL_PATH_SUFFIX%7D)             | 76   | Self-Taught                                                                                  |
+| 27   | Fallen Immortal                                                                          | 77   | Sewer Folk                                                                                   |
+| 28   | Famous Relative                                                                          | 78   | [Shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) Born                |
+| 29   | [Feytouched](%7BREL_PATH_PREFIX%7DRules/Complications/Feytouched%7BREL_PATH_SUFFIX%7D)   | 79   | Shared Spirit                                                                                |
+| 30   | Fiery Ideal                                                                              | 80   | Shattered Legacy                                                                             |
+| 31   | Fire and Chaos                                                                           | 81   | [Shipwrecked](%7BREL_PATH_PREFIX%7DRules/Complications/Shipwrecked%7BREL_PATH_SUFFIX%7D)     |
+| 32   | Following in the Footsteps                                                               | 82   | Sibling's Shield                                                                             |
+| 33   | Forbidden Romance                                                                        | 83   | Silent Sentinel                                                                              |
+| 34   | [Frostheart](%7BREL_PATH_PREFIX%7DRules/Complications/Frostheart%7BREL_PATH_SUFFIX%7D)   | 84   | Slight Case of Lycanthropy                                                                   |
+| 35   | Getting Too Old for This                                                                 | 85   | Stolen Face                                                                                  |
+| 36   | Gnoll-Mauled                                                                             | 86   | Strange Inheritance                                                                          |
+| 37   | [Greening](%7BREL_PATH_PREFIX%7DRules/Complications/Greening%7BREL_PATH_SUFFIX%7D)       | 87   | Stripped of Rank                                                                             |
+| 38   | [Grifter](%7BREL_PATH_PREFIX%7DRules/Complications/Grifter%7BREL_PATH_SUFFIX%7D)         | 88   | Thrill Seeker                                                                                |
+| 39   | [Grounded](%7BREL_PATH_PREFIX%7DRules/Complications/Grounded%7BREL_PATH_SUFFIX%7D)       | 89   | Vampire Scion                                                                                |
+| 40   | Guilty Conscience                                                                        | 90   | Voice in Your Head                                                                           |
+| 41   | Hawk Rider                                                                               | 91   | Vow of Duty                                                                                  |
+| 42   | Host Body                                                                                | 92   | Vow of Honesty                                                                               |
+| 43   | [Hunted](%7BREL_PATH_PREFIX%7DRules/Complications/Hunted%7BREL_PATH_SUFFIX%7D)           | 93   | Waking Dreams                                                                                |
+| 44   | [Hunter](%7BREL_PATH_PREFIX%7DRules/Complications/Hunter%7BREL_PATH_SUFFIX%7D)           | 94   | War Dog Collar                                                                               |
+| 45   | [Indebted](%7BREL_PATH_PREFIX%7DRules/Complications/Indebted%7BREL_PATH_SUFFIX%7D)       | 95   | War of Assassins                                                                             |
+| 46   | Infernal Contract                                                                        | 96   | [Ward](%7BREL_PATH_PREFIX%7DRules/Complications/Ward%7BREL_PATH_SUFFIX%7D)                   |
+| 47   | Infernal Contract... But, Like, Bad                                                      | 97   | [Waterborn](%7BREL_PATH_PREFIX%7DRules/Complications/Waterborn%7BREL_PATH_SUFFIX%7D)         |
+| 48   | Ivory Tower                                                                              | 98   | [Wodewalker](%7BREL_PATH_PREFIX%7DRules/Complications/Wodewalker%7BREL_PATH_SUFFIX%7D)       |
+| 49   | [Lifebonded](%7BREL_PATH_PREFIX%7DRules/Complications/Lifebonded%7BREL_PATH_SUFFIX%7D)   | 99   | Wrathful Spirit                                                                              |
+| 50   | Lightning Soul                                                                           | 100  | Wrongly Imprisoned                                                                           |
 
 ###### Complications Table
 
-| d100 | Complication                        |
-| ---- | ----------------------------------- |
-| 1    | Advanced Studies                    |
-| 2    | Amnesia                             |
-| 3    | Animal Form                         |
-| 4    | Antihero                            |
-| 5    | Artifact Bonded                     |
-| 6    | Bereaved                            |
-| 7    | Betrothed                           |
-| 8    | Chaos Touched                       |
-| 9    | Chosen One                          |
-| 10   | Consuming Interest                  |
-| 11   | Corrupted Mentor                    |
-| 12   | Coward                              |
-| 13   | Crash Landed                        |
-| 14   | Cult Victim                         |
-| 15   | Curse of Caution                    |
-| 16   | Curse of Immortality                |
-| 17   | Curse of Misfortune                 |
-| 18   | Curse of Poverty                    |
-| 19   | Curse of Punishment                 |
-| 20   | Curse of Stone                      |
-| 21   | Cursed Weapon                       |
-| 22   | Disgraced                           |
-| 23   | Dragon Dreams                       |
-| 24   | Elemental Inside                    |
-| 25   | Evanesceria                         |
-| 26   | Exile                               |
-| 27   | Fallen Immortal                     |
-| 28   | Famous Relative                     |
-| 29   | Feytouched                          |
-| 30   | Fiery Ideal                         |
-| 31   | Fire and Chaos                      |
-| 32   | Following in the Footsteps          |
-| 33   | Forbidden Romance                   |
-| 34   | Frostheart                          |
-| 35   | Getting Too Old for This            |
-| 36   | Gnoll-Mauled                        |
-| 37   | Greening                            |
-| 38   | Grifter                             |
-| 39   | Grounded                            |
-| 40   | Guilty Conscience                   |
-| 41   | Hawk Rider                          |
-| 42   | Host Body                           |
-| 43   | Hunted                              |
-| 44   | Hunter                              |
-| 45   | Indebted                            |
-| 46   | Infernal Contract                   |
-| 47   | Infernal Contract... But, Like, Bad |
-| 48   | Ivory Tower                         |
-| 49   | Lifebonded                          |
-| 50   | Lightning Soul                      |
-| 51   | Loner                               |
-| 52   | Lost in Time                        |
-| 53   | Lost Your Head                      |
-| 54   | Lucky                               |
-| 55   | Master Chef                         |
-| 56   | Meddling Butler                     |
-| 57   | Medium                              |
-| 58   | Medusa Blood                        |
-| 59   | Misunderstood                       |
-| 60   | Mundane                             |
-| 61   | Outlaw                              |
-| 62   | Pirate                              |
-| 63   | Preacher                            |
-| 64   | Primordial Sickness                 |
-| 65   | Prisoner of the Synlirii            |
-| 66   | Promising Apprentice                |
-| 67   | Psychic Eruption                    |
-| 68   | Raised by Beasts                    |
-| 69   | Refugee                             |
-| 70   | Rival                               |
-| 71   | Rogue Talent                        |
-| 72   | Runaway                             |
-| 73   | Searching for a Cure                |
-| 74   | Secret Identity                     |
-| 75   | Secret Twin                         |
-| 76   | Self-Taught                         |
-| 77   | Sewer Folk                          |
-| 78   | Shadow Born                         |
-| 79   | Shared Spirit                       |
-| 80   | Shattered Legacy                    |
-| 81   | Shipwrecked                         |
-| 82   | Sibling's Shield                    |
-| 83   | Silent Sentinel                     |
-| 84   | Slight Case of Lycanthropy          |
-| 85   | Stolen Face                         |
-| 86   | Strange Inheritance                 |
-| 87   | Stripped of Rank                    |
-| 88   | Thrill Seeker                       |
-| 89   | Vampire Scion                       |
-| 90   | Voice in Your Head                  |
-| 91   | Vow of Duty                         |
-| 92   | Vow of Honesty                      |
-| 93   | Waking Dreams                       |
-| 94   | War Dog Collar                      |
-| 95   | War of Assassins                    |
-| 96   | Ward                                |
-| 97   | Waterborn                           |
-| 98   | Wodewalker                          |
-| 99   | Wrathful Spirit                     |
-| 100  | Wrongly Imprisoned                  |
+| d100 | Complication                                                                                 |
+| ---- | -------------------------------------------------------------------------------------------- |
+| 1    | Advanced Studies                                                                             |
+| 2    | [Amnesia](%7BREL_PATH_PREFIX%7DRules/Complications/Amnesia%7BREL_PATH_SUFFIX%7D)             |
+| 3    | Animal Form                                                                                  |
+| 4    | [Antihero](%7BREL_PATH_PREFIX%7DRules/Complications/Antihero%7BREL_PATH_SUFFIX%7D)           |
+| 5    | Artifact Bonded                                                                              |
+| 6    | [Bereaved](%7BREL_PATH_PREFIX%7DRules/Complications/Bereaved%7BREL_PATH_SUFFIX%7D)           |
+| 7    | [Betrothed](%7BREL_PATH_PREFIX%7DRules/Complications/Betrothed%7BREL_PATH_SUFFIX%7D)         |
+| 8    | Chaos Touched                                                                                |
+| 9    | Chosen One                                                                                   |
+| 10   | Consuming Interest                                                                           |
+| 11   | Corrupted Mentor                                                                             |
+| 12   | [Coward](%7BREL_PATH_PREFIX%7DRules/Complications/Coward%7BREL_PATH_SUFFIX%7D)               |
+| 13   | Crash Landed                                                                                 |
+| 14   | Cult Victim                                                                                  |
+| 15   | Curse of Caution                                                                             |
+| 16   | Curse of Immortality                                                                         |
+| 17   | Curse of Misfortune                                                                          |
+| 18   | Curse of Poverty                                                                             |
+| 19   | Curse of Punishment                                                                          |
+| 20   | Curse of Stone                                                                               |
+| 21   | Cursed Weapon                                                                                |
+| 22   | [Disgraced](%7BREL_PATH_PREFIX%7DRules/Complications/Disgraced%7BREL_PATH_SUFFIX%7D)         |
+| 23   | Dragon Dreams                                                                                |
+| 24   | Elemental Inside                                                                             |
+| 25   | [Evanesceria](%7BREL_PATH_PREFIX%7DRules/Complications/Evanesceria%7BREL_PATH_SUFFIX%7D)     |
+| 26   | [Exile](%7BREL_PATH_PREFIX%7DRules/Complications/Exile%7BREL_PATH_SUFFIX%7D)                 |
+| 27   | Fallen Immortal                                                                              |
+| 28   | Famous Relative                                                                              |
+| 29   | [Feytouched](%7BREL_PATH_PREFIX%7DRules/Complications/Feytouched%7BREL_PATH_SUFFIX%7D)       |
+| 30   | Fiery Ideal                                                                                  |
+| 31   | Fire and Chaos                                                                               |
+| 32   | Following in the Footsteps                                                                   |
+| 33   | Forbidden Romance                                                                            |
+| 34   | [Frostheart](%7BREL_PATH_PREFIX%7DRules/Complications/Frostheart%7BREL_PATH_SUFFIX%7D)       |
+| 35   | Getting Too Old for This                                                                     |
+| 36   | Gnoll-Mauled                                                                                 |
+| 37   | [Greening](%7BREL_PATH_PREFIX%7DRules/Complications/Greening%7BREL_PATH_SUFFIX%7D)           |
+| 38   | [Grifter](%7BREL_PATH_PREFIX%7DRules/Complications/Grifter%7BREL_PATH_SUFFIX%7D)             |
+| 39   | [Grounded](%7BREL_PATH_PREFIX%7DRules/Complications/Grounded%7BREL_PATH_SUFFIX%7D)           |
+| 40   | Guilty Conscience                                                                            |
+| 41   | Hawk Rider                                                                                   |
+| 42   | Host Body                                                                                    |
+| 43   | [Hunted](%7BREL_PATH_PREFIX%7DRules/Complications/Hunted%7BREL_PATH_SUFFIX%7D)               |
+| 44   | [Hunter](%7BREL_PATH_PREFIX%7DRules/Complications/Hunter%7BREL_PATH_SUFFIX%7D)               |
+| 45   | [Indebted](%7BREL_PATH_PREFIX%7DRules/Complications/Indebted%7BREL_PATH_SUFFIX%7D)           |
+| 46   | Infernal Contract                                                                            |
+| 47   | Infernal Contract... But, Like, Bad                                                          |
+| 48   | Ivory Tower                                                                                  |
+| 49   | [Lifebonded](%7BREL_PATH_PREFIX%7DRules/Complications/Lifebonded%7BREL_PATH_SUFFIX%7D)       |
+| 50   | Lightning Soul                                                                               |
+| 51   | [Loner](%7BREL_PATH_PREFIX%7DRules/Complications/Loner%7BREL_PATH_SUFFIX%7D)                 |
+| 52   | Lost in Time                                                                                 |
+| 53   | Lost Your Head                                                                               |
+| 54   | [Lucky](%7BREL_PATH_PREFIX%7DRules/Complications/Lucky%7BREL_PATH_SUFFIX%7D)                 |
+| 55   | Master Chef                                                                                  |
+| 56   | Meddling Butler                                                                              |
+| 57   | [Medium](%7BREL_PATH_PREFIX%7DRules/Complications/Medium%7BREL_PATH_SUFFIX%7D)               |
+| 58   | Medusa Blood                                                                                 |
+| 59   | [Misunderstood](%7BREL_PATH_PREFIX%7DRules/Complications/Misunderstood%7BREL_PATH_SUFFIX%7D) |
+| 60   | [Mundane](%7BREL_PATH_PREFIX%7DRules/Complications/Mundane%7BREL_PATH_SUFFIX%7D)             |
+| 61   | [Outlaw](%7BREL_PATH_PREFIX%7DRules/Complications/Outlaw%7BREL_PATH_SUFFIX%7D)               |
+| 62   | [Pirate](%7BREL_PATH_PREFIX%7DRules/Complications/Pirate%7BREL_PATH_SUFFIX%7D)               |
+| 63   | [Preacher](%7BREL_PATH_PREFIX%7DRules/Complications/Preacher%7BREL_PATH_SUFFIX%7D)           |
+| 64   | Primordial Sickness                                                                          |
+| 65   | Prisoner of the Synlirii                                                                     |
+| 66   | Promising Apprentice                                                                         |
+| 67   | Psychic Eruption                                                                             |
+| 68   | Raised by Beasts                                                                             |
+| 69   | [Refugee](%7BREL_PATH_PREFIX%7DRules/Complications/Refugee%7BREL_PATH_SUFFIX%7D)             |
+| 70   | [Rival](%7BREL_PATH_PREFIX%7DRules/Complications/Rival%7BREL_PATH_SUFFIX%7D)                 |
+| 71   | Rogue [Talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D)               |
+| 72   | [Runaway](%7BREL_PATH_PREFIX%7DRules/Complications/Runaway%7BREL_PATH_SUFFIX%7D)             |
+| 73   | Searching for a Cure                                                                         |
+| 74   | Secret Identity                                                                              |
+| 75   | Secret Twin                                                                                  |
+| 76   | Self-Taught                                                                                  |
+| 77   | Sewer Folk                                                                                   |
+| 78   | [Shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) Born                |
+| 79   | Shared Spirit                                                                                |
+| 80   | Shattered Legacy                                                                             |
+| 81   | [Shipwrecked](%7BREL_PATH_PREFIX%7DRules/Complications/Shipwrecked%7BREL_PATH_SUFFIX%7D)     |
+| 82   | Sibling's Shield                                                                             |
+| 83   | Silent Sentinel                                                                              |
+| 84   | Slight Case of Lycanthropy                                                                   |
+| 85   | Stolen Face                                                                                  |
+| 86   | Strange Inheritance                                                                          |
+| 87   | Stripped of Rank                                                                             |
+| 88   | Thrill Seeker                                                                                |
+| 89   | Vampire Scion                                                                                |
+| 90   | Voice in Your Head                                                                           |
+| 91   | Vow of Duty                                                                                  |
+| 92   | Vow of Honesty                                                                               |
+| 93   | Waking Dreams                                                                                |
+| 94   | War Dog Collar                                                                               |
+| 95   | War of Assassins                                                                             |
+| 96   | [Ward](%7BREL_PATH_PREFIX%7DRules/Complications/Ward%7BREL_PATH_SUFFIX%7D)                   |
+| 97   | [Waterborn](%7BREL_PATH_PREFIX%7DRules/Complications/Waterborn%7BREL_PATH_SUFFIX%7D)         |
+| 98   | [Wodewalker](%7BREL_PATH_PREFIX%7DRules/Complications/Wodewalker%7BREL_PATH_SUFFIX%7D)       |
+| 99   | Wrathful Spirit                                                                              |
+| 100  | Wrongly Imprisoned                                                                           |
 
 #### Advanced Studies
 
@@ -220,7 +220,7 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to burrow or fly, or to automatically climb or swim at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](%7BREL_PATH_PREFIX%7DRules/Movement/Burrow%7BREL_PATH_SUFFIX%7D) or [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), or to automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
@@ -317,9 +317,9 @@ Your mentor taught you everything and you trusted them completely until they wen
 
 Some call you a coward, just because you shriek and run when you encounter danger. Sure, you might not have the natural bravado of less-imaginative people. And sure, you're always imagining the many horrible ways you could die, but you're used to fear. When you run in terror, you run *toward* the enemy.
 
-**Benefit:** While you are frightened, you can move toward the source of your fear.
+**Benefit:** While you are [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D), you can move toward the source of your fear.
 
-**Drawback:** Whenever you make a saving throw to end the frightened condition, you roll a d10 twice and take the lower roll.
+**Drawback:** Whenever you make a saving throw to end the [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) condition, you roll a d10 twice and take the lower roll.
 
 #### Crash Landed
 
@@ -357,7 +357,7 @@ For as long as you can remember, you've never gotten older. You've simply advent
 
 You should have never pissed off that mage! Maybe they deserved your ire, or maybe you were just being a bully. But whatever the case, they cursed you before skipping town. Now, in moments of pressure that require great skill, you have a tendency to choke, falling and flailing in such a dramatic fashion that you take everyone else with you.
 
-**Benefit and Drawback:** Whenever you make a test in combat and incur a consequence, you ignore that consequence. Instead, you and each ally adjacent to you fall prone.
+**Benefit and Drawback:** Whenever you make a test in combat and incur a consequence, you ignore that consequence. Instead, you and each ally adjacent to you fall [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
 
 #### Curse of Poverty
 
@@ -379,7 +379,7 @@ As a child, you met a creature who turns people to stone, such as a medusa. You 
 
 **Benefit:** You have a +1 bonus to stability. Additionally, you can use a free maneuver to cause your body, gear, and any items you hold to take on the appearance of stone, making you appear to be a mundane statue while you remain unmoving.
 
-**Drawback:** You have sonic weakness 5. Additionally, while you are winded, you are dazed.
+**Drawback:** You have sonic weakness 5. Additionally, while you are winded, you are [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D).
 
 #### Cursed Weapon
 
@@ -505,9 +505,9 @@ As a child, you survived a gnoll attack. But that attack left you with a jagged 
 
 **Benefit:** Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to move up to your speed and make a free strike.
 
-**Drawback:** While you are dazed, if you start your turn adjacent to one or more creatures, you must use your main action to make a melee free strike against an adjacent creature.
+**Drawback:** While you are [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D), if you start your turn adjacent to one or more creatures, you must use your main action to make a melee free strike against an adjacent creature.
 
-**Special:** You can't take this complication if you can't be made dazed.
+**Special:** You can't take this complication if you can't be made [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D).
 
 #### Greening
 
@@ -529,7 +529,7 @@ You used to be a con artist, but those days are pretty much behind you. Being a 
 
 Once when you were a child, your settlement was in danger and you called out to the earth for aid. That call was answered by a summoning of protective dirt-and-stone walls, and ever since then, you've felt the earth's presence as a friend and protector.
 
-**Benefit:** You have the 1st-level Elementalist Specialization feature Motivate Earth (see [Chapter 5: Classes](#page-83-2)). If you also gain this feature in any other way, the Motivate Earth ability becomes a ranged ability for you with a distance of ranged 5.
+**Benefit:** You have the 1st-level [Elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D) Specialization feature Motivate Earth (see [Chapter 5: Classes](#page-83-2)). If you also gain this feature in any other way, the Motivate Earth ability becomes a ranged ability for you with a distance of ranged 5.
 
 **Drawback:** You attract lightning. Whenever any creature within 2 squares of you takes lightning damage, you take 5 lightning damage that can't be reduced in any way.
 
@@ -619,7 +619,7 @@ You studied in an academy or other educational institution. Your training was th
 
 In a sinister ritual, your soul has been bound to that of another creature. This might be a companion, a creature you are beholden to, or an enemy. When they die, you die—making you the perfect bodyguard.
 
-**Benefit:** Choose another creature who doesn't have the Lifebonded complication. When you die, your body disappears until that creature finishes a respite or earns 1 or more Victories. You then appear next to the creature, fully healed.
+**Benefit:** Choose another creature who doesn't have the [Lifebonded](%7BREL_PATH_PREFIX%7DRules/Complications/Lifebonded%7BREL_PATH_SUFFIX%7D) complication. When you die, your body disappears until that creature finishes a respite or earns 1 or more Victories. You then appear next to the creature, fully healed.
 
 **Drawback:** If the creature you're bound to dies, you die as well, no matter what other traits or features you have.
 
@@ -637,7 +637,7 @@ You've always been a lone wolf. With no one else to lean on, you've picked up a 
 
 **Benefit:** When you finish a respite, choose a skill you don't have. You have that skill until the end of your next respite.
 
-**Drawback:** Now that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 Stamina, you are taunted by that creature until your ally's Stamina is higher than 0, another creature makes you taunted, or the end of the encounter.
+**Drawback:** Now that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 Stamina, you are [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by that creature until your ally's Stamina is higher than 0, another creature makes you [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D), or the end of the encounter.
 
 #### Lost in Time
 
@@ -730,9 +730,9 @@ Your mother and father never saw eye to eye. You know this because your father i
 >
 > **Power Roll + Might or Presence:**
 >
-> - **≤11:** 2 damage; M < WEAK, slowed (save ends)
-> - **12-16:** 4 damage; M < AVERAGE, slowed (save ends)
-> - **17+:** 6 damage; M < STRONG, slowed (save ends)
+> - **≤11:** 2 damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 4 damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 6 damage; M < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** This ability has no effect on a creature who can't see you or who purposefully avoids looking at your eyes. A creature reduced to 0 Stamina by this ability is turned to inanimate stone.
 
@@ -823,7 +823,7 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 > - **12-16:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level + your highest characteristic
 > - **17+:** 1 psychic damage for each Heroic Resource you spend
 
-**Drawback:** Whenever you become bleeding, frightened, or weakened, you must use Psychic Blast as a free triggered action.
+**Drawback:** Whenever you become [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D), [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D), or [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D), you must use Psychic Blast as a free triggered action.
 
 #### Raised by Beasts
 
@@ -914,7 +914,7 @@ While your peers were learning their trades in fancy schools, you honed your cap
 
 Impoverished or on the run, you spent your formative years living in the sewers of a major city. There, you learned lessons that have served you well, although the miasma of the sewers did permanent damage to your health.
 
-**Benefit:** You can automatically climb or swim (your choice) at full speed while moving, and you never get lost while underground. Additionally, while in a city with sewers, you and your companions can move from place to place without being detected, as the Director determines.
+**Benefit:** You can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) (your choice) at full speed while moving, and you never get lost while underground. Additionally, while in a city with sewers, you and your companions can move from place to place without being detected, as the Director determines.
 
 **Drawback:** You have poison weakness 5.
 
@@ -962,7 +962,7 @@ You were trained by a group of spies, who psionically infused silence into your 
 
 **Benefit:** You have the Eavesdrop and Sneak skills from the intrigue skill group, plus one skill of your choice from the lore skill group. Additionally, you can telepathically communicate with any creature provided they share a language with you and you can observe each other. A creature you communicate with this way can respond telepathically if they choose.
 
-**Drawback:** You have sonic weakness 5. Additionally, whenever you take sonic damage, you are dazed until the end of your next turn.
+**Drawback:** You have sonic weakness 5. Additionally, whenever you take sonic damage, you are [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) until the end of your next turn.
 
 #### Slight Case of Lycanthropy
 
@@ -972,7 +972,7 @@ Maybe you were bitten as a child, or maybe it's a family curse. Either way, you 
 
 **Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee free strike against the nearest creature if you can. You can shift up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
 
-**Special:** You can't take this complication if you are a fury with the stormwight primordial aspect.
+**Special:** You can't take this complication if you are a [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D) with the stormwight primordial aspect.
 
 #### Stolen Face
 
@@ -1007,7 +1007,7 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 >
 > **Effect:** The target can use a triggered action to take a main action, a maneuver, or a move action.
 >
-> **Special:** If you have the Strike Now tactician ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
+> **Special:** If you have the Strike Now [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D) ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
 
 **Drawback:** Rather than attracting followers at 3, 6, 9, and 12 Renown, you can attract followers only when your Renown reaches 4, 8, 12, and 16. See [Renown](#page-364-6) in [Chapter 13: Rewards](#page-327-1).
 
@@ -1098,7 +1098,7 @@ Your childhood sweetheart was royalty, and the two of you stayed close throughou
 
 You nearly lost your life at sea, but then you heard the voice. Someone—or something—in the water called out to you, telling you to swim. The ocean was suddenly no longer your doom but your parent, granting you a fragment of its power. But for what purpose, you can't be sure.
 
-**Benefit:** You can automatically swim at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
+**Benefit:** You can automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Rogue Wave
@@ -1131,9 +1131,9 @@ You were dying in the wode, collapsing while starving and wounded. When you woke
 
 You're quick to anger, never letting an insult go without slinging one right back. In combat, you fight as if possessed by a literal spirit of wrath. No matter the tactical circumstances, when someone injures you, you feel compelled to answer blood with blood.
 
-**Benefit:** While you are taunted by a creature, you gain an edge on strikes against that creature. Additionally, you can spend 1 Heroic Resource to have a double edge instead.
+**Benefit:** While you are [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by a creature, you gain an edge on strikes against that creature. Additionally, you can spend 1 Heroic Resource to have a double edge instead.
 
-**Drawback:** In combat, whenever a creature makes a strike against you and you are not taunted, you are taunted by that creature until the end of your next turn. Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a Recovery or be compelled to reply with an insult.
+**Drawback:** In combat, whenever a creature makes a strike against you and you are not [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D), you are [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by that creature until the end of your next turn. Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a Recovery or be compelled to reply with an insult.
 
 #### Wrongly Imprisoned
 

@@ -41,4 +41,4 @@ type: feature/ability/shadow/3rd-level-feature
 - **12-16:** 13 + A damage
 - **17+:** 18 + A damage
 
-**Effect:** The target is taunted by a willing ally within 5 squares of you until the end of the target's next turn.
+**Effect:** The target is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by a willing ally within 5 squares of you until the end of the target's next turn.

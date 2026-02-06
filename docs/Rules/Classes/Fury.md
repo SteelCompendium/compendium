@@ -16,7 +16,7 @@ type: class
 
 You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
-**As a fury, you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness—and neither do you.**
+**As a [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness—and neither do you.**
 
 <!-- -->
 > "DEATH!"
@@ -62,7 +62,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 ### 1st-Level Features
 
-As a 1st-level fury, you gain the following features.
+As a 1st-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Primordial Aspect
 
@@ -81,7 +81,7 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 <!-- -->
 > **Where's My Maneuver?**
 >
-> Since most other classes get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the fury?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the fury has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+> Since most other [classes](%7BREL_PATH_PREFIX%7DRules/Chapters/Classes%7BREL_PATH_SUFFIX%7D) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D) has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
 ##### Ferocity in Combat
 
@@ -143,7 +143,7 @@ You can use and gain the benefits of a stormwight kit (see Stormwight Kits). You
 
 ##### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Panther.)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](%7BREL_PATH_PREFIX%7DRules/Kits/Panther%7BREL_PATH_SUFFIX%7D).)
 
 ##### Primordial Cunning
 
@@ -220,7 +220,7 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 
 #### Mighty Leaps
 
-You can't obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: Combat).
+You can't obtain lower than a tier 2 outcome on any Might test made to [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) (see Movement Types in Chapter 10: Combat).
 
 #### Fury Abilities
 
@@ -258,7 +258,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 2 + M damage
 > - **12-16:** 5 + M damage
-> - **17+:** 7 + M damage; A < STRONG, slowed (save ends)
+> - **17+:** 7 + M damage; A < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** You can shift 1 square.
 
@@ -273,9 +273,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M damage; M < WEAK, grabbed
-> - **12-16:** 5 + M damage; M < AVERAGE, grabbed
-> - **17+:** 7 + M damage; M < STRONG, grabbed
+> - **≤11:** 2 + M damage; M < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 7 + M damage; M < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
 
 <!-- -->
 > ###### To the Death!
@@ -364,11 +364,11 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; M < WEAK, bleeding (save ends)
-> - **12-16:** 5 + M damage; M < AVERAGE, bleeding (save ends)
-> - **17+:** 8 + M damage; M < STRONG, bleeding (save ends)
+> - **≤11:** 3 + M damage; M < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 8 + M damage; M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While bleeding this way, the target takes damage equal to your Might score at the end of each of your turns.
+> **Effect:** While [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) this way, the target takes damage equal to your Might score at the end of each of your turns.
 
 ###### 5-Ferocity Ability
 
@@ -385,9 +385,9 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; M < WEAK, bleeding and weakened (save ends)
-> - **12-16:** 6 + M damage; M < AVERAGE, bleeding and weakened (save ends)
-> - **17+:** 10 + M damage; M < STRONG, bleeding and weakened (save ends)
+> - **≤11:** 4 + M damage; M < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 10 + M damage; M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 
@@ -438,7 +438,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 ### 2nd-Level Features
 
-As a 2nd-level fury, you gain the following features.
+As a 2nd-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -466,7 +466,7 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can jump as part of your charge.
+Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) as part of your charge.
 
 #### 2nd-Level Aspect Ability
 
@@ -521,9 +521,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; P < WEAK, dazed and frightened (save ends)
-> - **12-16:** 5 + M damage; P < AVERAGE, dazed and frightened (save ends)
-> - **17+:** 8 + M damage; P < STRONG, dazed and frightened (save ends)
+> - **≤11:** 3 + M damage; P < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 + M damage; P < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 8 + M damage; P < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Phalanx-Breaker (5 Ferocity)
@@ -538,9 +538,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 damage; A < WEAK, dazed (save ends)
-> - **12-16:** 4 damage; A < AVERAGE, dazed (save ends)
-> - **17+:** 6 damage; A < STRONG, dazed (save ends)
+> - **≤11:** 2 damage; A < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 4 damage; A < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 6 damage; A < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 ##### 2nd-Level Stormwight Ability
 
@@ -557,9 +557,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 damage; I < WEAK, slowed (save ends)
-> - **12-16:** 6 damage; I < AVERAGE, slowed (save ends)
-> - **17+:** 10 damage; I < STRONG, slowed (save ends)
+> - **≤11:** 4 damage; I < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 6 damage; I < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 10 damage; I < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
 
@@ -574,15 +574,15 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 damage; push 1; M < WEAK, dazed (save ends)
-> - **12-16:** 5 damage; push 2; M < AVERAGE, dazed (save ends)
-> - **17+:** 7 damage; push 3; M < STRONG, dazed (save ends)
+> - **≤11:** 2 damage; push 1; M < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 7 damage; push 3; M < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** This ability deals your primordial damage type (see Stormwight Kits).
 
 ### 3rd-Level Features
 
-As a 3rd-level fury, you gain the following features.
+As a 3rd-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 3rd-Level Aspect Feature
 
@@ -598,7 +598,7 @@ Your primordial aspect grants you a feature, as shown on the 3rd-Level Aspect Fe
 
 ##### Immovable Object
 
-You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be grabbed.
+You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D).
 
 Additionally, you have a bonus to stability equal to your Might score.
 
@@ -625,7 +625,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is frightened until the end of their turn.
+> **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) until the end of their turn.
 
 <!-- -->
 > ###### Face the Storm! (7 Ferocity)
@@ -636,7 +636,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is taunted until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy taunted by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
+> **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
 
 <!-- -->
 > ###### Steelbreaker (7 Ferocity)
@@ -662,7 +662,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 
 ### 4th-Level Features
 
-As a 4th-level fury, you gain the following features.
+As a 4th-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 
@@ -694,7 +694,7 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 ### 5th-Level Features
 
-As a 5th-level fury, you gain the following features.
+As a 5th-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 5th-Level Aspect Feature
 
@@ -710,15 +710,15 @@ Your primordial aspect grants you a feature, as shown on the 5th-Level Aspect Fe
 
 ##### Bounder
 
-Your jump distance and height double (see Movement Types in Chapter 10: Combat). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you land prone (see Falling in Chapter 10). You are not prone after falling and landing on another creature.
+Your [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) distance and height double (see Movement Types in Chapter 10: Combat). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) distance for the purpose of determining damage and whether you land [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) (see Falling in Chapter 10). You are not [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) after falling and landing on another creature.
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level conduit (see 1st-Level Domain Feature in the Conduit section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) (see 1st-Level Domain Feature in the [Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) section).
 
 ##### Unfettered
 
-At the start of your turn, you can end any restrained condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
+At the start of your turn, you can end any [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
 
 #### 9-Ferocity Ability
 
@@ -735,11 +735,11 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 10 + M damage; M < WEAK, slowed (save ends)
-> - **12-16:** 14 + M damage; M < AVERAGE, slowed (save ends)
-> - **17+:** 20 + M damage; M < STRONG, slowed (save ends)
+> - **≤11:** 10 + M damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 14 + M damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 20 + M damage; M < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While slowed this way, the target takes 1 damage for every square they move, including from forced movement.
+> **Effect:** While [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way, the target takes 1 damage for every square they move, including from forced movement.
 
 <!-- -->
 > ###### My Turn! (9 Ferocity)
@@ -788,15 +788,15 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 9 + M damage; M < WEAK, slowed (save ends)
-> - **12-16:** 13 + M damage; M < AVERAGE, slowed (save ends)
-> - **17+:** 18 + M damage; M < STRONG, restrained (save ends)
+> - **≤11:** 9 + M damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 13 + M damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 18 + M damage; M < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While the target is slowed this way, any other effect that would make the target slowed instead makes them restrained by this ability. Additionally, a creature who fails the saving throw while restrained this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
+> **Effect:** While the target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way, any other effect that would make the target [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) instead makes them [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) by this ability. Additionally, a creature who fails the saving throw while [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
 
 ### 6th-Level Features
 
-As a 6th-level fury, you gain the following features.
+As a 6th-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Marauder of the Primordial Chaos
 
@@ -806,7 +806,7 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 
 #### Primordial Portal
 
-As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to teleport yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to teleport back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
 
 (Exploring Quintessence is possible from your island, but continued safety is not guaranteed.)
 
@@ -831,7 +831,7 @@ Choose one of the following abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You jump up to your maximum jump distance and make one power roll that targets each creature adjacent to the space where you land.
+> **Effect:** You [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) up to your maximum [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) distance and make one power roll that targets each creature adjacent to the space where you land.
 >
 > **Power Roll + Might:**
 >
@@ -886,11 +886,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; P < WEAK, frightened (save ends)
-> - **12-16:** 6 + M damage; P < AVERAGE, frightened (save ends)
-> - **17+:** 10 + M damage; P < STRONG, frightened (save ends)
+> - **≤11:** 4 + M damage; P < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 6 + M damage; P < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 10 + M damage; P < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are frightened of you (save ends).
+> **Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends).
 
 ##### 6th-Level Stormwight Abilities
 
@@ -907,11 +907,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 8 damage; M < WEAK, grabbed
-> - **12-16:** 13 damage; M < AVERAGE, grabbed
-> - **17+:** 17 damage; M < STRONG, grabbed
+> - **≤11:** 8 damage; M < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 13 damage; M < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 17 damage; M < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
 >
-> **Effect:** You can shift up to 4 squares, bringing the target with you. While grabbed this way, the target takes damage equal to twice your Might score at the start of each of your turns.
+> **Effect:** You can shift up to 4 squares, bringing the target with you. While [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
 
 <!-- -->
 > ###### Riders on the Storm (9 Ferocity)
@@ -922,13 +922,13 @@ Choose one of the following abilities.
 > | --------------- | -------------------------------: |
 > | **📏 3 aura**   | **🎯 Each creature in the area** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can fly while the aura is active. Each ally target who starts or ends their turn in the area can also fly until the start of their next turn or until the effect ends.
+> **Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) until the start of their next turn or until the effect ends.
 >
 > **Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a primordial storm that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.
 
 ### 7th-Level Features
 
-As a 7th-level fury, you gain the following features.
+As a 7th-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 
@@ -954,7 +954,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level fury, you gain the following features.
+As an 8th-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -1046,7 +1046,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 ### 9th-Level Features
 
-As a 9th-level fury, you gain the following features.
+As a 9th-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Harbinger of the Primordial Chaos
 
@@ -1170,13 +1170,13 @@ Choose one of the following abilities.
 
 ### 10th-Level Features
 
-As a 10th-level fury, you gain the following features.
+As a 10th-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Chaos Incarnate
 
 Your mastery of elemental forces protects and emboldens you. If you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to twice your Might score. If you are a stormwight, your damage immunity from your Primordial Storm feature (see Stormwight Kits) increases to three times your Might score.
 
-When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are frightened of you (save ends).
+When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends).
 
 Additionally, when you use Primordial Strike, you can spend up to 3 ferocity, gaining 1 surge per ferocity spent to use for that strike.
 
@@ -1265,7 +1265,7 @@ With this stormwight kit, you channel your primordial ferocity into the form of 
 
 ##### Aspect Benefits
 
-Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature grabbed by you.
+Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) by you.
 
 ##### Animal Form: Bear
 
@@ -1297,9 +1297,9 @@ Your primordial damage type is cold.
 
 **Power Roll + Might:**
 
-- **≤11:** 2 + M damage; M < WEAK, grabbed
-- **12-16:** 5 + M damage; M < AVERAGE, grabbed
-- **17+:** 11 + M damage; M < STRONG, grabbed
+- **≤11:** 2 + M damage; M < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+- **17+:** 11 + M damage; M < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
 
 ##### Growing Ferocity
 
@@ -1307,18 +1307,18 @@ As your ferocity grows, you gain benefits as noted on the Boren Growing Ferocity
 
 ###### Boren Growing Ferocity Table
 
-| Ferocity        | Benefit                                                                                                                                                                                                                   |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | You can have up to two creatures grabbed at a time. Additionally, whenever you make a strike against a creature you have grabbed, you gain 1 surge.                                                                       |
-| 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                           |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                                     |
-| 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                             |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                                               |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature grabbed, any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
+| Ferocity        | Benefit                                                                                                                                                                                                                                                                                         |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | You can have up to two creatures [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D), you gain 1 surge. |
+| 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                                                                                                 |
+| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                                                                                                           |
+| 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                                                   |
+| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                                                                                                                     |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
 #### Corven
 
-With this stormwight kit, you channel your primordial ferocity into the form of a crow, becoming stealthy and quick. Corven are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
+With this stormwight kit, you channel your primordial ferocity into the form of a crow, becoming stealthy and quick. Corven are tied to the [mountain](%7BREL_PATH_PREFIX%7DRules/Kits/Mountain%7BREL_PATH_SUFFIX%7D) passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
 
 ##### Aspect Benefits
 
@@ -1326,11 +1326,11 @@ You gain an edge on tests made to hide and sneak. Additionally, whenever you fal
 
 ##### Animal Form: Crow
 
-While you are in your crow form, your size is 1T and you can fly. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your crow form, your size is 1T and you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D). You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Crow
 
-While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can fly.
+While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D).
 
 ##### Primordial Storm: Anabatic Wind
 
@@ -1386,11 +1386,11 @@ You gain an edge on tests made to hide and sneak. Additionally, you ignore diffi
 
 ##### Animal Form: Rat
 
-While you are in your rat form, your size is 1T and you can automatically climb at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to climb other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your rat form, your size is 1T and you can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Rat
 
-While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically climb at full speed while moving.
+While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving.
 
 ##### Primordial Storm: Rat Flood
 
@@ -1475,9 +1475,9 @@ Your primordial damage type is lightning.
 
 **Power Roll + Might:**
 
-- **≤11:** 4 + M damage; A < WEAK, prone
-- **12-16:** 7 + M damage; A < AVERAGE, prone
-- **17+:** 9 + M damage; A < STRONG, prone
+- **≤11:** 4 + M damage; A < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+- **12-16:** 7 + M damage; A < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+- **17+:** 9 + M damage; A < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
 
 ##### Growing Ferocity
 
@@ -1488,8 +1488,8 @@ As your ferocity grows, you gain benefits as noted on the Vuken Growing Ferocity
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | Whenever you use the Knockback maneuver, you can target one additional creature.                                                                                                                                                 |
-| 4               | The first time on a turn that you push a creature or knock a creature prone, you gain 1 surge.                                                                                                                                   |
+| 4               | The first time on a turn that you push a creature or knock a creature [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D), you gain 1 surge.                                                               |
 | 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time on a turn that you push a creature or knock a creature prone, you gain 2 surges.                                                                                                                                  |
+| 8 (4th level)   | The first time on a turn that you push a creature or knock a creature [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D), you gain 2 surges.                                                              |
 | 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Agility score. |

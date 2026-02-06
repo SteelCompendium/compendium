@@ -35,9 +35,9 @@ type: feature/ability/talent/1st-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 2 + P corruption damage; P < WEAK, slowed (save ends)
-- **12-16:** 3 + P corruption damage; P < AVERAGE, slowed (save ends)
-- **17+:** 5 + P corruption damage; P < STRONG, slowed (save ends)
+- **≤11:** 2 + P corruption damage; P < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 5 + P corruption damage; P < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 

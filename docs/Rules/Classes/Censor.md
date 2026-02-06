@@ -14,9 +14,9 @@ type: class
 
 ## Censor
 
-Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions—or even existence—are anathema to your church.
+Demons and deathless fear you. Criminals run from the sight of your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D). Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) those whose actions—or even existence—are anathema to your church.
 
-As a censor, you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
+As a [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
 <!-- -->
 > "We FIGHT!
@@ -51,32 +51,32 @@ As a censor, you're at your best against the strongest foes. Your judgment terri
 
 ###### Censor Advancement Table
 
-| Level | Features                                                                                                   | Abilities                 | Order<br/> Abilities |
-| ----- | ---------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------- |
-| 1st   | Censor Order, Deity and Domains, Wrath, Judgment, Kit, My Life for Yours, Domain Feature, Censor Abilities | Signature, 3, 5           | -                    |
-| 2nd   | Perk, Order Features, Order Ability                                                                        | Signature, 3, 5           | 5                    |
-| 3rd   | Look On My Work and Despair, 7-Wrath Ability                                                               | Signature, 3, 5, 7        | 5                    |
-| 4th   | Characteristic Increase, Perk, Skill, Wrath Beyond Wrath, Domain Feature                                   | Signature, 3, 5, 7        | 5                    |
-| 5th   | Order Feature, 9-Wrath Ability                                                                             | Signature, 3, 5, 7, 9     | 5                    |
-| 6th   | Implement of Wrath, Perk, Order Ability                                                                    | Signature, 3, 5, 7, 9     | 5, 9                 |
-| 7th   | Characteristic Increase, Domain Feature, Focused Wrath, Skill                                              | Signature, 3, 5, 7, 9     | 5, 9                 |
-| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9                 |
-| 9th   | Improved Implement of Wrath, Order Ability                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
-| 10th  | Characteristic Increase, Perk, Skill, Templar, Virtue, Wrath of the Gods                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
+| Level | Features                                                                                                                                                                                                                                       | Abilities                 | Order<br/> Abilities |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------- |
+| 1st   | [Censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) Order, Deity and Domains, Wrath, Judgment, Kit, My Life for Yours, Domain Feature, [Censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) Abilities | Signature, 3, 5           | -                    |
+| 2nd   | Perk, Order Features, Order Ability                                                                                                                                                                                                            | Signature, 3, 5           | 5                    |
+| 3rd   | Look On My Work and Despair, 7-Wrath Ability                                                                                                                                                                                                   | Signature, 3, 5, 7        | 5                    |
+| 4th   | Characteristic Increase, Perk, Skill, Wrath Beyond Wrath, Domain Feature                                                                                                                                                                       | Signature, 3, 5, 7        | 5                    |
+| 5th   | Order Feature, 9-Wrath Ability                                                                                                                                                                                                                 | Signature, 3, 5, 7, 9     | 5                    |
+| 6th   | Implement of Wrath, Perk, Order Ability                                                                                                                                                                                                        | Signature, 3, 5, 7, 9     | 5, 9                 |
+| 7th   | Characteristic Increase, Domain Feature, Focused Wrath, Skill                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5, 9                 |
+| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                                                                                                                                          | Signature, 3, 5, 7, 9, 11 | 5, 9                 |
+| 9th   | Improved Implement of Wrath, Order Ability                                                                                                                                                                                                     | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
+| 10th  | Characteristic Increase, Perk, Skill, Templar, Virtue, Wrath of the Gods                                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
 
 ### 1st-Level Features
 
-As a 1st-level censor, you gain the following features.
+As a 1st-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Censor Order
 
-Censors are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a censor order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
+[Censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
 
 - **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the Read Person skill.
 - **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the Magic skill.
 - **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the Lead skill.
 
-Your censor order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
+Your [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
 
 #### Deity and Domains
 
@@ -86,7 +86,7 @@ After choosing your deity, pick one domain from their portfolio. Your choice of 
 
 #### Wrath
 
-The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you censor those your church deems to be heretics.
+The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) those your church deems to be heretics.
 
 ##### Wrath in Combat
 
@@ -100,7 +100,7 @@ You lose any remaining wrath at the end of the encounter.
 
 Though you can't gain wrath outside of combat, you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the censor, but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), but they might appear in future products.)
 
 #### Judgment
 
@@ -115,7 +115,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 > | ----------------- | ---------------: |
 > | **📏 Ranged 10**  | **🎯 One enemy** |
 >
-> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another censor judges the target.
+> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) judges the target.
 >
 > Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
 >
@@ -126,7 +126,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 > - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 > - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 > - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-> - If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.
+> - If you damage a creature judged by you with a melee ability, the creature is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by you until the end of their next turn.
 >
 > You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
 
@@ -134,7 +134,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 
 The first time on a turn that you use your Judgment ability to judge a creature, you gain the following benefit based on your order:
 
-- **Exorcist:** You can teleport up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
+- **Exorcist:** You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
 - **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
 - **Paragon:** You can vertical pull the judged creature up to a number of squares equal to twice your Presence score.
 
@@ -159,11 +159,11 @@ You channel your will to mend your wounds or the wounds of your allies. You have
 >
 > **Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
 >
-> **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+> **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target can stand up.
 
 #### 1st-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 1st-Level Censor Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
+You gain a domain feature from your domain, as shown on the 1st-Level [Censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
 
 ###### 1st-Level Censor Domain Features Table
 
@@ -219,7 +219,7 @@ You have the following ability.
 > | ----------- | --------------: |
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ##### Grave Speech
 
@@ -326,9 +326,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M holy damage; P < WEAK, slowed (save ends)
-> - **12-16:** 5 + M holy damage; P < AVERAGE, slowed (save ends)
-> - **17+:** 7 + M holy damage; P < STRONG, slowed (save ends)
+> - **≤11:** 2 + M holy damage; P < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 7 + M holy damage; P < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Your Allies Cannot Save You!
@@ -417,9 +417,9 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P holy damage; I < WEAK, dazed (save ends)
-> - **12-16:** 8 + P holy damage; I < AVERAGE, dazed (save ends)
-> - **17+:** 11 + P holy damage; I < STRONG, dazed (save ends)
+> - **≤11:** 5 + P holy damage; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 11 + P holy damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 ###### 5-Wrath Ability
 
@@ -436,11 +436,11 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 6 + M holy damage; grabbed
-> - **12-16:** 9 + M holy damage; grabbed
-> - **17+:** 13 + M holy damage; grabbed
+> - **≤11:** 6 + M holy damage; [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** 9 + M holy damage; [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **17+:** 13 + M holy damage; [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
 >
-> **Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+> **Effect:** If the target makes a strike against a creature while [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
 
 <!-- -->
 > ###### Behold the Face of Justice! (5 Wrath)
@@ -453,11 +453,11 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is frightened of you (save ends)
-> - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is frightened of you (save ends)
-> - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is frightened of you (save ends)
+> - **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends)
+> - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends)
+> - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends)
 >
-> **Effect:** Each enemy frightened this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
+> **Effect:** Each enemy [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
 
 <!-- -->
 > ###### Censored (5 Wrath)
@@ -495,7 +495,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 ### 2nd-Level Features
 
-As a 2nd-level censor, you gain the following features.
+As a 2nd-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -556,11 +556,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 8 + M holy damage; P < WEAK, frightened (save ends)
-> - **12-16:** 12 + M holy damage; P < AVERAGE, frightened (save ends)
-> - **17+:** 15 + M holy damage; P < STRONG, frightened (save ends)
+> - **≤11:** 8 + M holy damage; P < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 15 + M holy damage; P < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** If the target is already frightened of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
+> **Effect:** If the target is already [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
 
 <!-- -->
 > ###### Revelator (5 Wrath)
@@ -627,19 +627,19 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; P < WEAK, restrained (save ends)
-> - **12-16:** 9 + P damage; P < AVERAGE, restrained (save ends)
-> - **17+:** 12 + P damage; P < STRONG, restrained (save ends)
+> - **≤11:** 5 + P damage; P < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 12 + P damage; P < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While the target is restrained this way, your abilities that impose forced movement can still move them.
+> **Effect:** While the target is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way, your abilities that impose forced movement can still move them.
 
 ### 3rd-Level Features
 
-As a 3rd-level censor, you gain the following features.
+As a 3rd-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Look On My Work and Despair
 
-Your judgment has grown in divine power, instilling fear in those you condemn. Whenever you use your Judgment ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are frightened of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use Judgment as a free triggered action, if the new target has P < STRONG, they are frightened of you (save ends). If the target is already frightened of you, they instead take holy damage equal to twice your Presence score.
+Your judgment has grown in divine power, instilling fear in those you condemn. Whenever you use your Judgment ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use Judgment as a free triggered action, if the new target has P < STRONG, they are [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends). If the target is already [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you, they instead take holy damage equal to twice your Presence score.
 
 #### 7-Wrath Ability
 
@@ -691,7 +691,7 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 
 ### 4th-Level Features
 
-As a 4th-level censor, you gain the following features.
+As a 4th-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 
@@ -711,7 +711,7 @@ The first time each combat round that you deal damage to a creature judged by yo
 
 #### 4th-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 4th-Level Censor Domain Features table.
+You gain a domain feature from your domain, as shown on the 4th-Level [Censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) Domain Features table.
 
 ###### 4th-Level Censor Domain Features Table
 
@@ -785,19 +785,19 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ##### Windwalk
 
-While you have 5 or more Victories, you can fly. If you can already fly, you have a +2 bonus to speed while flying instead.
+While you have 5 or more Victories, you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D). If you can already [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), you have a +2 bonus to speed while flying instead.
 
 ##### Wode Road
 
-As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Presence score. Whenever you touch any tree in your network, you can use a main action to teleport yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Presence score. Whenever you touch any tree in your network, you can use a main action to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
 
 ### 5th-Level Features
 
-As a 5th-level censor, you gain the following features.
+As a 5th-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### 5th-Level Order Feature
 
-Your censor order grants you a feature, as shown on the 5th-Level Order Features table.
+Your [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) order grants you a feature, as shown on the 5th-Level Order Features table.
 
 ###### 5th-Level Order Features Table
 
@@ -834,7 +834,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 > | ---------------- | ----------------------: |
 > | **📏 Ranged 10** | **🎯 Self or one ally** |
 >
-> **Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up. The target then gains 2 surges, can shift up to their speed while ignoring difficult terrain, and can use a strike signature ability as a free triggered action.
+> **Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target can stand up. The target then gains 2 surges, can shift up to their speed while ignoring difficult terrain, and can use a strike signature ability as a free triggered action.
 
 <!-- -->
 > ###### Orison of Victory (9 Wrath)
@@ -851,7 +851,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 > - **12-16:** Each target gains 2 surges.
 > - **17+:** Each target gains 3 surges.
 >
-> **Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+> **Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target can stand up.
 
 <!-- -->
 > ###### Righteous Judgment (9 Wrath)
@@ -887,16 +887,16 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 
 ### 6th-Level Features
 
-As a 6th-level censor, you gain the following features.
+As a 6th-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Implement of Wrath
 
 Each time you finish a respite, you can choose one hero's weapon, including your own, to channel supernatural power as an implement of your god's wrath. The weapon becomes magic and gains the following benefits until your next respite:
 
 - Strikes with the weapon deal extra holy damage equal to the wielder's highest characteristic score.
-- Any creature struck by the weapon who has holy weakness and has P < STRONG is frightened and weakened (save ends).
+- Any creature struck by the weapon who has holy weakness and has P < STRONG is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends).
 - Any minion targeted by a strike using the weapon dies. That minion's Stamina maximum is removed from the minion Stamina pool before any damage is applied to the rest of the squad.
-- The weapon's wielder can't be made frightened.
+- The weapon's wielder can't be made [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D).
 
 #### Perk
 
@@ -904,7 +904,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### 6th-Level Order Ability
 
-Your censor order grants your choice of one of two heroic abilities.
+Your [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) order grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Exorcist Abilities
 
@@ -953,9 +953,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 3; I < WEAK, dazed (save ends)
-> - **12-16:** Slide 5; I < AVERAGE, dazed (save ends)
-> - **17+:** Slide 7; I < STRONG, dazed (save ends)
+> - **≤11:** Slide 3; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** Slide 5; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** Slide 7; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Edict of Peace (9 Wrath)
@@ -1004,7 +1004,7 @@ Choose one of the following abilities.
 
 ### 7th-Level Features
 
-As a 7th-level censor, you gain the following features.
+As a 7th-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 
@@ -1012,7 +1012,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### 7th-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 7th-Level Censor Domain Features table.
+You gain a domain feature from your domain, as shown on the 7th-Level [Censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) Domain Features table.
 
 ###### 7th-Level Censor Domain Features Table
 
@@ -1048,7 +1048,7 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -1121,7 +1121,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level censor, you gain the following features.
+As an 8th-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -1129,7 +1129,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Order Feature
 
-Your censor order grants you a feature, as shown on the 8th-Level Order Features table.
+Your [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) order grants you a feature, as shown on the 8th-Level Order Features table.
 
 ###### 8th-Level Order Features Table
 
@@ -1166,11 +1166,11 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 9 + M damage; I < WEAK, weakened (save ends)
-> - **12-16:** 13 + M damage; I < AVERAGE, weakened (save ends)
-> - **17+:** 18 + M damage; I < STRONG, weakened (save ends)
+> - **≤11:** 9 + M damage; I < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 13 + M damage; I < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 18 + M damage; I < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** At the end of each of your turns, a target weakened this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target weakened this way can't be targeted by their allies' abilities.
+> **Effect:** At the end of each of your turns, a target [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) this way can't be targeted by their allies' abilities.
 
 <!-- -->
 > ###### Hand of the Gods (11 Wrath)
@@ -1200,11 +1200,11 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 9 + M damage; I < WEAK, dazed (save ends)
-> - **12-16:** 13 + M damage; I < AVERAGE, dazed (save ends)
-> - **17+:** 18 + M damage; I < STRONG, dazed (save ends)
+> - **≤11:** 9 + M damage; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 13 + M damage; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 18 + M damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** At the end of each of your turns, a target dazed this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
+> **Effect:** At the end of each of your turns, a target [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
 
 <!-- -->
 > ###### Your Allies Turn on You! (11 Wrath)
@@ -1217,15 +1217,15 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; I < WEAK, slowed (save ends)
-> - **12-16:** 9 + P damage; I < AVERAGE, slowed (save ends)
-> - **17+:** 12 + P damage; I < STRONG, slowed (save ends)
+> - **≤11:** 5 + P damage; I < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 9 + P damage; I < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 12 + P damage; I < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While the target is slowed this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is slowed this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
+> **Effect:** While the target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
 
 ### 9th-Level Features
 
-As a 9th-level censor, you gain the following features.
+As a 9th-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Improved Implement of Wrath
 
@@ -1237,7 +1237,7 @@ The weapon you target with your Implement of Wrath feature gains the following a
 
 #### 9th-Level Order Ability
 
-Your censor order grants your choice of one of two heroic abilities.
+Your [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) order grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Exorcist Abilities
 
@@ -1271,11 +1271,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 7 + P psychic damage; P < WEAK, frightened (save ends)
-> - **12-16:** 10 + P psychic damage; P < AVERAGE, frightened (save ends)
-> - **17+:** 13 + P psychic damage; P < STRONG, frightened (save ends)
+> - **≤11:** 7 + P psychic damage; P < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 10 + P psychic damage; P < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 13 + P psychic damage; P < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
-> **Effect:** While frightened this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target frightened this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
+> **Effect:** While [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
 
 ##### 9th-Level Oracle Abilities
 
@@ -1341,7 +1341,7 @@ Choose one of the following abilities.
 
 ### 10th-Level Features
 
-As a 10th-level censor, you gain the following features.
+As a 10th-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 
@@ -1357,7 +1357,7 @@ You gain one skill of your choice.
 
 #### Templar
 
-You are the ultimate representation of your god's justice in the timescape. Whenever you use your Judgment ability, you can use a free triggered action to use a conduit domain effect (see [Domain Piety and Effects](#page-110-0) in the [Conduit](#page-108-0) section) associated with your chosen domain, or a domain you access with virtue (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your conduit level, use your censor level instead.
+You are the ultimate representation of your god's justice in the timescape. Whenever you use your Judgment ability, you can use a free triggered action to use a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) domain effect (see [Domain Piety and Effects](#page-110-0) in the [Conduit](#page-108-0) section) associated with your chosen domain, or a domain you access with virtue (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) level, use your [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) level instead.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 

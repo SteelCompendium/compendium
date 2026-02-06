@@ -35,4 +35,4 @@ type: feature/ability/shadow/2nd-level-feature
 
 **Trigger:** You use your In All This Confusion ability.
 
-**Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
+**Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can spend a Recovery.

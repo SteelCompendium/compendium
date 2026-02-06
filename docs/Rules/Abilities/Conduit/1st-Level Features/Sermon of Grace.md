@@ -33,4 +33,4 @@ type: feature/ability/conduit/1st-level-feature
 | --------------- | ---------------------------: |
 | **📏 4 burst**  | **🎯 Each ally in the area** |
 
-**Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.
+**Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).

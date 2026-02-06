@@ -14,19 +14,19 @@ type: class/shadow/level
 
 ### 1st-Level Features
 
-As a 1st-level shadow, you gain the following features.
+As a 1st-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Shadow College
 
-Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
-You graduated from a shadow college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
+You graduated from a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
-- College of Black Ash: The College of Black Ash founded the art of being a shadow. Its graduates are unmatched in mobility, using sorcery to teleport around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
+- College of Black Ash: The College of Black Ash founded the art of being a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D). Its graduates are unmatched in mobility, using sorcery to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
 - College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the Alchemy skill.
 - College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the Lie skill.
 
-Your shadow college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
 
 #### Insight
 
@@ -46,11 +46,11 @@ You lose any remaining insight at the end of the encounter.
 
 Although you can't gain insight outside of combat, you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash Teleport, you can use it as if you had spent an amount of insight equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can use it as if you had spent an amount of insight equal to your Victories.
 
 #### 1st-Level College Features
 
-Your shadow college grants you one or two features, as shown on the 1st-Level College Features table.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants you one or two features, as shown on the 1st-Level College Features table.
 
 ###### 1st-Level College Features Table
 
@@ -73,9 +73,9 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You teleport up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+> **Effect:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
 >
-> **Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) 1 additional square for each insight spent.
 
 ##### Coat the Blade
 
@@ -119,7 +119,7 @@ You always carry a supply of smoke bombs to use for distractions and easy getawa
 
 #### College Triggered Action
 
-Your shadow college grants you a triggered action, as shown on the College Triggered Actions table.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants you a triggered action, as shown on the College Triggered Actions table.
 
 ###### College Triggered Actions Table
 
@@ -168,9 +168,9 @@ Your shadow college grants you a triggered action, as shown on the College Trigg
 >
 > **Trigger:** You take damage.
 >
-> **Effect:** You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.
+> **Effect:** You take half the damage, then can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 4 squares after the triggering effect resolves.
 >
-> **Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) 1 additional square for each insight spent.
 
 #### Hesitation Is Weakness
 
@@ -214,7 +214,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 3 + A damage
 > - **12-16:** 5 + A damage
-> - **17+:** 8 + A damage; I < STRONG, prone
+> - **17+:** 8 + A damage; I < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
 >
 > **Effect:** One ally within 5 squares of the target gains 1 surge.
 
@@ -305,9 +305,9 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, bleeding (save ends)
-> - **12-16:** 6 + A damage; A < AVERAGE, bleeding (save ends)
-> - **17+:** 10 + A damage; A < STRONG, bleeding (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 10 + A damage; A < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Get In Get Out (3 Insight)

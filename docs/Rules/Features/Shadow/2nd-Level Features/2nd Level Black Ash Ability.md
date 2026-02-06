@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 + A damage; you can teleport the target 1 square
-> - **12-16:** 10 + A damage; you can teleport the target up to 3 squares
-> - **17+:** 14 + A damage; you can teleport the target up to 5 squares
+> - **≤11:** 6 + A damage; you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target 1 square
+> - **12-16:** 10 + A damage; you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 3 squares
+> - **17+:** 14 + A damage; you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 5 squares
 
 <!-- -->
 > ###### Too Slow (5 Insight)
@@ -46,4 +46,4 @@ Choose one of the following abilities.
 >
 > **Trigger:** You use your In All This Confusion ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can spend a Recovery.

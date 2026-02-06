@@ -28,6 +28,6 @@ type: treasure/leveled/weapon
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, any damage-dealing weapon ability using the weapon that achieves a tier 3 outcome also leaves the target dazed until the end of their next turn. **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever a creature within distance of your ranged weapon free strike uses a triggered action, you can use a triggered action after their triggered action resolves to make a ranged weapon free strike using this weapon against the creature.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, any damage-dealing weapon ability using the weapon that achieves a tier 3 outcome also leaves the target [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) until the end of their next turn. **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever a creature within distance of your ranged weapon free strike uses a triggered action, you can use a triggered action after their triggered action resolves to make a ranged weapon free strike using this weapon against the creature.
 
 **9th Level:** The weapon's extra psychic damage increases to 3. Additionally, you have a double edge on weapon abilities that use the weapon against creatures who have used a psionic ability since the end of your last turn.

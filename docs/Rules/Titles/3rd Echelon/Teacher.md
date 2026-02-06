@@ -15,7 +15,7 @@ type: title/3rd-echelon
 
 #### Teacher
 
-*Someday, I'll understand how peeling these carrots for dinner relates to my elementalist training.*
+*Someday, I'll understand how peeling these carrots for dinner relates to my [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D) training.*
 
 **Prerequisite:** You train or command at least three lower-level members of your class.
 

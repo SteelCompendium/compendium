@@ -14,4 +14,4 @@ type: movement
 
 ##### Fly
 
-A creature who has "fly" in their speed entry, or who gains the temporary ability to fly, can move through the air vertically or horizontally at full speed and remain in midair. If a flying creature is knocked prone or has their speed reduced to 0, they fall (see [Falling](#page-283-3) below).
+A creature who has "fly" in their speed entry, or who gains the temporary ability to [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), can move through the air vertically or horizontally at full speed and remain in midair. If a flying creature is knocked [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) or has their speed reduced to 0, they fall (see [Falling](#page-283-3) below).

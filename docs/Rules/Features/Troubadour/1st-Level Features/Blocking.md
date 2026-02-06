@@ -30,4 +30,4 @@ You have the following performance ability, which is usable with your Routines f
 > | ---------------------------- | -------------------------------: |
 > | **📏 2 aura**                | **🎯 Each creature in the area** |
 >
-> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and teleport those targets to unoccupied spaces in the area. A target can't be teleported in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) those targets to unoccupied spaces in the area. A target can't be [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.

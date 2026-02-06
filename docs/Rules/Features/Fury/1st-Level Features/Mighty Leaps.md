@@ -18,4 +18,4 @@ type: feature/trait/fury/1st-level-feature
 
 #### Mighty Leaps
 
-You can't obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: Combat).
+You can't obtain lower than a tier 2 outcome on any Might test made to [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) (see Movement Types in Chapter 10: Combat).

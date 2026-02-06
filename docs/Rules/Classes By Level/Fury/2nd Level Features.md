@@ -14,7 +14,7 @@ type: class/fury/level
 
 ### 2nd-Level Features
 
-As a 2nd-level fury, you gain the following features.
+As a 2nd-level [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -42,7 +42,7 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can jump as part of your charge.
+Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) as part of your charge.
 
 #### 2nd-Level Aspect Ability
 
@@ -97,9 +97,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; P < WEAK, dazed and frightened (save ends)
-> - **12-16:** 5 + M damage; P < AVERAGE, dazed and frightened (save ends)
-> - **17+:** 8 + M damage; P < STRONG, dazed and frightened (save ends)
+> - **≤11:** 3 + M damage; P < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 + M damage; P < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 8 + M damage; P < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Phalanx-Breaker (5 Ferocity)
@@ -114,9 +114,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 damage; A < WEAK, dazed (save ends)
-> - **12-16:** 4 damage; A < AVERAGE, dazed (save ends)
-> - **17+:** 6 damage; A < STRONG, dazed (save ends)
+> - **≤11:** 2 damage; A < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 4 damage; A < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 6 damage; A < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 ##### 2nd-Level Stormwight Ability
 
@@ -133,9 +133,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 damage; I < WEAK, slowed (save ends)
-> - **12-16:** 6 damage; I < AVERAGE, slowed (save ends)
-> - **17+:** 10 damage; I < STRONG, slowed (save ends)
+> - **≤11:** 4 damage; I < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 6 damage; I < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 10 damage; I < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
 
@@ -150,8 +150,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 damage; push 1; M < WEAK, dazed (save ends)
-> - **12-16:** 5 damage; push 2; M < AVERAGE, dazed (save ends)
-> - **17+:** 7 damage; push 3; M < STRONG, dazed (save ends)
+> - **≤11:** 2 damage; push 1; M < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 7 damage; push 3; M < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Effect:** This ability deals your primordial damage type (see Stormwight Kits).

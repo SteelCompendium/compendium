@@ -36,6 +36,6 @@ type: feature/ability/shadow/3rd-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 8 + A damage; A < WEAK, restrained (save ends)
-- **12-16:** 12 + A damage; A < AVERAGE, restrained (save ends)
-- **17+:** 16 + A damage; A < STRONG, restrained (save ends)
+- **≤11:** 8 + A damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 12 + A damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 16 + A damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)

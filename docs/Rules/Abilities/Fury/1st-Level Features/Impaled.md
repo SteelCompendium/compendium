@@ -34,6 +34,6 @@ type: feature/ability/fury/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 2 + M damage; M < WEAK, grabbed
-- **12-16:** 5 + M damage; M < AVERAGE, grabbed
-- **17+:** 7 + M damage; M < STRONG, grabbed
+- **≤11:** 2 + M damage; M < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+- **17+:** 7 + M damage; M < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)

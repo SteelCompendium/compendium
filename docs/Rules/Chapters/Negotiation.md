@@ -95,7 +95,7 @@ An NPC with the benevolence pitfall has a cynical view of the world, believing t
 Arguments that appeal to a benevolence motivation contend that if the NPC strikes a deal with the heroes, the people the NPC cares about will benefit from the deal. Example arguments include the following:
 
 - "If you lend us the Sword of Agathor, we can make Capital safer for your guild by using it to lay your enemies low."
-- "If you can teleport us into the dragon's cave, we'll give you half the wyrm's hoard once we cut off the creature's head. That could benefit generations of students at your academy!"
+- "If you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) us into the dragon's cave, we'll give you half the wyrm's hoard once we cut off the creature's head. That could benefit generations of students at your academy!"
 
 ##### Discovery
 
@@ -198,7 +198,7 @@ An NPC with the protection pitfall is happy to leave others to fend for themselv
 Arguments that appeal to a protection motivation contend that helping the heroes allows an NPC to better protect their charge. Example arguments include the following:
 
 - "Dead soldiers grow the necromancer's ranks. Total annihilation is the only way to defeat her. March with us now, while her army is small, and we'll defeat her. Or you could gamble that someone else tries, fails, and suddenly she's at the border, ready to overrun your kingdom with an army tenfold larger than what it is now."
-- "I understand your grandchild is hell-bent on joining the service. I happen to have a magic suit of armor that could help them ward off the blows of monsters and ruffians. I'd be happy to give it to you, in exchange for borrowing your griffons for a few days. After all, I won't need the armor if I can simply fly over the marsh's monsters."
+- "I understand your grandchild is hell-bent on joining the service. I happen to have a magic suit of armor that could help them ward off the blows of monsters and ruffians. I'd be happy to give it to you, in exchange for borrowing your griffons for a few days. After all, I won't need the armor if I can simply [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) over the marsh's monsters."
 
 ##### Revelry
 
@@ -452,23 +452,23 @@ Here's how the negotiation with Zola might play out.
 
 **Director (Djordi):** *The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you note where six burly ruffians flank your group on both sides. The human holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel.*
 
-**James (playing Korvo, a shadow):** *I have a seat and say, "Korvo at your service, Ms. Honeycut. And these here are the finest companions a polder could ask for: Linn, Jorn, and Val."*
+**James (playing Korvo, a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D)):** *I have a seat and say, "Korvo at your service, Ms. Honeycut. And these here are the finest companions a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) could ask for: Linn, Jorn, and Val."*
 
 **Director:** *Zola nods to each of you in turn, then says, "You'll excuse me if I dispense with more pleasantries. These days, no place is safe for the Clock. We keep moving. So tell me, what are you here for?"*
 
-**Alyssa (playing Jorn, a tactician):** *"We're building an army to take down Saxton once and for all."*
+**Alyssa (playing Jorn, a [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D)):** *"We're building an army to take down Saxton once and for all."*
 
 In this scenario, all the heroes have a Renown of 2 except for Jorn, who has a Renown of 3 and is therefore famous to Zola.
 
-**Director:** *Zola gives a mirthless chuckle as she shakes her head. "Oh is that all? I have to tell you, I don't think the four of you stand much of a chance. Unless you're hiding a legion or two of dwarves in your pockets. Yes, you have Jorn the Mighty with you, but you'll need more than one famous warrior to win the day."*
+**Director:** *Zola gives a mirthless chuckle as she shakes her head. "Oh is that all? I have to tell you, I don't think the four of you stand much of a chance. Unless you're hiding a legion or two of [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) in your pockets. Yes, you have Jorn the Mighty with you, but you'll need more than one famous warrior to win the day."*
 
 **Alyssa:** *Ah! So she has heard of me at least! Thanks, Renown.*
 
-**Grace (playing Val, a conduit):** *"We don't. But we do have Lord Edmund—the true heir to the Bedegar throne."*
+**Grace (playing Val, a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D)):** *"We don't. But we do have Lord Edmund—the true heir to the Bedegar throne."*
 
 **Director:** *Zola nods, impressed. "I'm glad the boy is safe, but that's all he is—a boy, not an army."*
 
-**Matt (playing Linn, a talent):** *"He's a boy people will rally around. We have no army, but that's why we're here. We're planning on changing that. Can you spare any soldiers for our cause?"*
+**Matt (playing Linn, a [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D)):** *"He's a boy people will rally around. We have no army, but that's why we're here. We're planning on changing that. Can you spare any soldiers for our cause?"*
 
 The negotiation officially starts. The heroes have stated what they want from Zola. The Director begins by prompting them to make an argument.
 

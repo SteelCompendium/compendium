@@ -30,6 +30,6 @@ type: treasure/leveled/weapon
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can shift to any square adjacent to the target after the push.
 
-**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the Charge main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to shift, you can fly as part of the charge movement or the shift. If you don't end your flying movement on the ground, you fall.
+**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the Charge main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to shift, you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) as part of the charge movement or the shift. If you don't end your flying movement on the ground, you fall.
 
 **9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that forced movement can be vertical.

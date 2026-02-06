@@ -35,6 +35,6 @@ type: feature/ability/elementalist/1st-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 + R corruption damage; R < WEAK, slowed (save ends)
-- **12-16:** 4 + R corruption damage; R < AVERAGE, slowed (save ends)
-- **17+:** 6 + R corruption damage; R < STRONG, slowed (save ends)
+- **≤11:** 2 + R corruption damage; R < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 6 + R corruption damage; R < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)

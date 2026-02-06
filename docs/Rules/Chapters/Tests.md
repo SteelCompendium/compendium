@@ -26,7 +26,7 @@ The advancement of a story shouldn't be halted by failing a test. For instance, 
 
 #### It Just Works!
 
-When a hero attempts to solve a task that typically requires a test with clever, outside-the-box thinking, the Director can instead decide that no test is required and the attempt automatically works! For example, if a hero who wants to climb a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can climb up the wall without needing to make a test.
+When a hero attempts to solve a task that typically requires a test with clever, outside-the-box thinking, the Director can instead decide that no test is required and the attempt automatically works! For example, if a hero who wants to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) up the wall without needing to make a test.
 
 That said, such clever ideas often work for free the first time, but the Director could decide they require tests if they are used again.
 
@@ -42,7 +42,7 @@ The player reports the total of the roll, and the Director interprets its succes
 
 #### Characteristics and Tests
 
-When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which characteristic the test uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a Might test to determine how far and how quickly you're able to climb. If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a Presence test if you're attempting to win over the jury with your personality, or a Reason test if you're laying out a logical argument to support your innocence.
+When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which characteristic the test uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a Might test to determine how far and how quickly you're able to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim). If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a Presence test if you're attempting to win over the jury with your personality, or a Reason test if you're laying out a logical argument to support your innocence.
 
 Though the Director can decide to call for tests in any circumstances, a number of tasks that heroes routinely undertake are commonly set up as tests.
 
@@ -132,7 +132,7 @@ Depending on a test's difficulty and the power roll made to accomplish the task 
 
 If you fail a hard test and incur a consequence, you don't do what you set out to do—in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task.
 
-For instance, if a hero suffers a consequence while trying to climb a wall, they might make it halfway up the wall and then fall, taking damage and landing prone. A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the monarch is deathly allergic.
+For instance, if a hero suffers a consequence while trying to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a wall, they might make it halfway up the wall and then fall, taking damage and landing [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D). A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the \[monarch\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th Echelon/Monarch) is deathly allergic.
 
 Not all consequences need to be immediate or apparent. For example, a hero might fail with a consequence on a test made to cheat at a high-stakes game of cards with a noble. The failure means the cheating is noticed, but the Director decides that the noble doesn't say anything. This consequence isn't made apparent until later in the evening, when the noble has guards surround the hero, intent on taking the cheater down to the dungeon for stacking the deck.
 
@@ -149,7 +149,7 @@ In lieu of other consequences, the Director also has the option to gain 2 additi
 
 ##### Failure
 
-If you fail a test without incurring a consequence, you simply don't do what you set out to do. A hero attempting to climb a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
+If you fail a test without incurring a consequence, you simply don't do what you set out to do. A hero attempting to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
 
 On a failed test, the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the test. This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an Agility test made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
 
@@ -157,7 +157,7 @@ When a hero rolls a failure without a consequence, the Director can offer to let
 
 ##### Success With a Consequence
 
-If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the climb more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
+If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
 
 Just like failure with a consequence, the consequences accompanying success don't need to be immediately apparent. In lieu of other consequences, the Director has the option to gain 2 additional Malice at the start of the next combat encounter.
 
@@ -289,14 +289,14 @@ For example, intimidating someone with a purely verbal threat is a Presence test
 
 Having a wide range of specific skills means you'll frequently make tests that don't use one of your character's skills, simply applying a characteristic. By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a test. That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that's pretty darn heroic!
 
-Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an elementalist who has a gymnastic background in jumping and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
+Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D) who has a gymnastic background in jumping and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
 
 The rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my Climb skill for a +2 bonus to my Presence test?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
 
 <!-- -->
 > **Edges on Tests With Specific Skills**
 >
-> Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the conduit's Blessing of Fortunate Weather can create foggy weather that grants creatures who make tests using the Hide skill an edge on those tests. Any creature who attempts to hide in the fog gains an edge on the test as long as the Hide skill would apply to that test, regardless of whether they have that skill or not.
+> Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D)'s Blessing of Fortunate Weather can create foggy weather that grants creatures who make tests using the Hide skill an edge on those tests. Any creature who attempts to hide in the fog gains an edge on the test as long as the Hide skill would apply to that test, regardless of whether they have that skill or not.
 
 <!-- -->
 > **Are All Skills Equal?**
@@ -440,15 +440,15 @@ In this scenario, a trio of adventurers want to scale the 40-foot-high walls sur
 
 **Director (Matt):** *The towering walls that surround the Star Chamber stand before you, the single iron gate closed and locked, with a platoon of armed guards outside.*
 
-**James (playing Korvo, a shadow):** *Let's move to the side of the wall opposite the gate and make our ascent there.*
+**James (playing Korvo, a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D)):** *Let's move to the side of the wall opposite the gate and make our ascent there.*
 
-**Grace (playing Val, a conduit):** *Agreed.*
+**Grace (playing Val, a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D)):** *Agreed.*
 
 **Director:** *Okay. It'll be a Might test to get up to the top of the wall.*
 
-The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to climb, designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
+The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim), designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
 
-**Alyssa (playing Jorn, a tactician):** *Let me go first. I've got good Might and can throw the others down a rope once I'm up there. And I've got the Climb skill.*
+**Alyssa (playing Jorn, a [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D)):** *Let me go first. I've got good Might and can throw the others down a rope once I'm up there. And I've got the Climb skill.*
 
 **Director:** *For sure. Okay, roll it up.*
 
@@ -462,13 +462,13 @@ The Director checks the Test Difficulty Outcomes table to confirm that a tier 3 
 
 **Alyssa:** *Great! I toss down a rope. Val, you're next.*
 
-**Grace:** *So it's a Might test. Would you let me use Endurance? It's a lot of physical exertion to climb.*
+**Grace:** *So it's a Might test. Would you let me use Endurance? It's a lot of physical exertion to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim).*
 
-**Director:** *It's not a climb that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier test.*
+**Director:** *It's not a \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier test.*
 
 **Grace:** *Fair. Okay, dice. Let's do this.*
 
-Given the rope, the Director decides that this second climb attempt is an easy test. Grace rolls 2d10 and gets an 11. With her Might score of 2, that's a 13.
+Given the rope, the Director decides that this second \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) attempt is an easy test. Grace rolls 2d10 and gets an 11. With her Might score of 2, that's a 13.
 
 **Grace:** *13! That's a tier 2 outcome for Val.*
 
@@ -486,11 +486,11 @@ The Director checks the Test Difficulty Outcomes table once more, confirming tha
 
 **James:** *Nothing risked, nothing saved. Let's do it. Just be careful. Any loud noises could attract those guards.*
 
-**Alyssa:** *Please. I'm a pro. Since I'm lifting this polder off the ground, does the Lift skill apply?*
+**Alyssa:** *Please. I'm a pro. Since I'm lifting this [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) off the ground, does the Lift skill apply?*
 
 **Director:** *Yes, it does. Roll it up. That's a medium difficulty test.*
 
-Lifting the diminutive polder, Alyssa rolls 2d10-but gets a 2! With her Might score and Lift skill bonus of +2, the total is 6.
+Lifting the diminutive [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D), Alyssa rolls 2d10-but gets a 2! With her Might score and Lift skill bonus of +2, the total is 6.
 
 **Alyssa:** *A 6! Oof. That's tier 1.*
 
@@ -500,7 +500,7 @@ The Director then decides to make the failure potentially more interesting, by a
 
 **Director:** *I'll give you a choice, though. You can leave Korvo on the ground, or pull him up and suffer the consequence of making some noise while doing so.*
 
-**Grace:** *Ah, pull the polder up.*
+**Grace:** *Ah, pull the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) up.*
 
 **Alyssa:** *Yeah. We have to face these guards sometime.*
 
@@ -557,7 +557,7 @@ While you are hidden from another creature and not in combat, you can attempt to
 
 ### Group Tests
 
-Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to climb the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a Might group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an Agility group test.
+Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a Might group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an Agility group test.
 
 #### Group Test Difficulty
 
@@ -682,13 +682,13 @@ The Director determines that crossing the desert is a montage test of hard diffi
 
 When the test begins, the Director sets the scene. They tell the players that the desert has extreme temperatures, sudden sandstorms, high dunes to cross, deep sand, chasms, and quicksand lakes. The Director decides that the challenges of dunes, deep sand, and quicksand can be tackled multiple times in the test, since the Infinite Desert is filled with these hazards.
 
-Urdoncara, a fury, starts things off by asking to make an Intuition test using the Nature skill to predict the best times of day to travel and rest. She wants the party to avoid the worst of the desert's extreme temperatures and any sandstorms or other weather phenomena, so that the journey is quickened. The Director decides this is an easy test. Urdoncara makes the test and gets a total of 12, earning 1 success for the montage test.
+Urdoncara, a [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), starts things off by asking to make an Intuition test using the Nature skill to predict the best times of day to travel and rest. She wants the party to avoid the worst of the desert's extreme temperatures and any sandstorms or other weather phenomena, so that the journey is quickened. The Director decides this is an easy test. Urdoncara makes the test and gets a total of 12, earning 1 success for the montage test.
 
-Jorn, a tactician, wants to make a Reason test using the Climb skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to climb than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
+Jorn, a [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), wants to make a Reason test using the Climb skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
 
-Karrel, an elementalist, thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium Reason test. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
+Karrel, an [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D), thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium Reason test. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
 
-Val, a conduit, offers to scout ahead for the group with an Intuition test, using the Navigate skill to find the best path forward and avoid hazards such as chasms and quicksand. The Director thinks that acting as lookout in a vast desert is an easy task. Val smashes it with a 21-a success with a reward—and the Director decides to get creative. Val's lookout skills grant the next hero to act in the montage test an edge on their test. At the end of the first montage test round, the heroes have 3 successes and 1 failure.
+Val, a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), offers to scout ahead for the group with an Intuition test, using the Navigate skill to find the best path forward and avoid hazards such as chasms and quicksand. The Director thinks that acting as lookout in a vast desert is an easy task. Val smashes it with a 21-a success with a reward—and the Director decides to get creative. Val's lookout skills grant the next hero to act in the montage test an edge on their test. At the end of the first montage test round, the heroes have 3 successes and 1 failure.
 
 ##### Interlude
 
@@ -698,11 +698,11 @@ Before the next montage test round, the Director pauses the montage test to run 
 
 Urdoncara wants to make a Might test using the Lift skill to carry most of the group's equipment as they cross the desert, allowing her allies to move more quickly while she keeps up with her superior fortitude. The Director thinks this arduous task has a hard difficulty. Urdoncara gets a 17 on the test thanks to the edge from Val's earlier success. The montage test has 4 successes and 1 failure.
 
-Jorn, eager to prove himself after his last failure, asks to make a Might test using the Lead skill, representing tying a rope around his waist to drag his weaker friends over the tallest dunes. The Director likes the idea but doesn't think the Lead skill applies to the task. They tell Jorn that Lift is more appropriate, since the tactician is using his physical skill to aid his friends and not really doing anything interpersonal. Jorn agrees, and the Director sets the test at medium difficulty. Making the test with a bane because of his previous failure, the tactician rolls a 15, which is a success with a consequence. The montage test has 5 successes and 1 failure, but the consequence gives the Director another 2 Malice at the start of the next combat encounter.
+Jorn, eager to prove himself after his last failure, asks to make a Might test using the Lead skill, representing tying a rope around his waist to drag his weaker friends over the tallest dunes. The Director likes the idea but doesn't think the Lead skill applies to the task. They tell Jorn that Lift is more appropriate, since the [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D) is using his physical skill to aid his friends and not really doing anything interpersonal. Jorn agrees, and the Director sets the test at medium difficulty. Making the test with a bane because of his previous failure, the [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D) rolls a 15, which is a success with a consequence. The montage test has 5 successes and 1 failure, but the consequence gives the Director another 2 Malice at the start of the next combat encounter.
 
 Since the group needs only one more success to achieve total success, Karrel says she'd like to assist Val in whatever task she decides to take on. Val wants to recall lore about the Khem-hor-the inhabitants of the Infinite Desert—to remember their time-honored travel techniques using the History skill. Karrel has the Culture skill, which she can use to assist by providing information about the lives and society of the Khem-hor. She makes a Reason test to assist and gets a 16, granting Val an edge on her upcoming test.
 
-Val attempts to recall lore about the Khem-hor, wanting to know if she can remember any of their travel from her studies of the history of the region. The Director has her make a hard Reason test with an edge, thanks to Karrel's input on the current state of Khem-hor culture. Val gets a 17, and the Director decides that the conduit recalls a shortcut through a canyon tunnel that leads directly to Ahset, avoiding a vast lake of quicksand. The heroes get their sixth success in the montage test, achieving total success, and earn 2 Victories.
+Val attempts to recall lore about the Khem-hor, wanting to know if she can remember any of their travel from her studies of the history of the region. The Director has her make a hard Reason test with an edge, thanks to Karrel's input on the current state of Khem-hor culture. Val gets a 17, and the Director decides that the [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) recalls a shortcut through a canyon tunnel that leads directly to Ahset, avoiding a vast lake of quicksand. The heroes get their sixth success in the montage test, achieving total success, and earn 2 Victories.
 
 ##### Other Options
 

@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 1st-Level Features
 
-As a 1st-level elementalist, you gain the following features.
+As a 1st-level [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Elemental Specialization
 
@@ -114,7 +114,7 @@ You have the following ability.
 >
 > - You use the Knockback maneuver (see Chapter 10: Combat), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
 > - You choose a creature within the distance of your Hurl Element ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-> - You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to teleport 1 additional square for each essence spent.
+> - You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) 1 additional square for each essence spent.
 
 #### 1st-Level Specialization Feature
 
@@ -253,9 +253,9 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 >
 > **Trigger:** The target starts their turn, moves, or is force moved.
 >
-> **Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
+> **Effect:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) them at any point during the move.
 >
-> **Spend 1 Essence:** You teleport the target up to a number of squares equal to twice your Reason score instead.
+> **Spend 1 Essence:** You [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to a number of squares equal to twice your Reason score instead.
 
 #### Enchantment
 
@@ -358,7 +358,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + R corruption damage
 > - **17+:** 9 + R corruption damage
 >
-> **Effect:** You can teleport up to a number of squares equal to your Reason score.
+> **Effect:** You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to a number of squares equal to your Reason score.
 
 <!-- -->
 > ###### The Green Within, the Green Without
@@ -403,9 +403,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R corruption damage; R < WEAK, slowed (save ends)
-> - **12-16:** 4 + R corruption damage; R < AVERAGE, slowed (save ends)
-> - **17+:** 6 + R corruption damage; R < STRONG, slowed (save ends)
+> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Unquiet Ground
@@ -511,7 +511,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 >
 > - **≤11:** 3 damage
 > - **12-16:** 5 damage
-> - **17+:** 8 damage; M < STRONG, prone
+> - **17+:** 8 damage; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
 >
 > **Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 

@@ -14,7 +14,7 @@ type: ancestry
 
 ## High Elf
 
-Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, high elf history describes a better age, before the coming of humans and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
+Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, high elf history describes a better age, before the coming of [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
 In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
 
@@ -34,15 +34,15 @@ The five children stood alone in the center of a large circular courtyard open t
 
 "Yes," Jeremy said, looking at the nearest guards with their longspears and swords. "We feel very safe."
 
-"Who are you kidding?" Dade said. "Everyone knows how much elves hate humans."
+"Who are you kidding?" Dade said. "Everyone knows how much elves hate [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D)."
 
 At this, Lord Tear exchanged a look with Llyander, consort to Queen Imyrr. It was a knowing look, full of sadness and melancholy. Then he broke his silence.
 
-"Show me an elf who hates humans," he said, his voice deep and sonorous, "and I will show you an elf who loved a human and watched them grow old and die." He looked at the children for the first time and smiled a melancholy smile. "Love is like sunlight for us, you see. We love completely but rarely. The loss of it means an eternity of grief for us."
+"Show me an elf who hates [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D)," he said, his voice deep and sonorous, "and I will show you an elf who loved a [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) and watched them grow old and die." He looked at the children for the first time and smiled a melancholy smile. "Love is like sunlight for us, you see. We love completely but rarely. The loss of it means an eternity of grief for us."
 
 The king tapped the scroll against his lap, seeming to have reached a decision.
 
-"Well done, consort. Young humans, your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it..."-he looked at Llyander-"... by changing my mind."
+"Well done, consort. Young [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it..."-he looked at Llyander-"... by changing my mind."
 
 Llyander nodded deferentially, silently congratulating the king on his insight.
 
@@ -80,7 +80,7 @@ Llyander put a finger to their lips, silencing young Meliora. "It is not a thing
 
 Llyander shrugged. "What does anyone really look like?" And while the other children chalked this up to their escort's normally abstruse mode of communication, Meliora caught a glimpse of understanding somewhere in her mind.
 
-The king turned back to them. "Should any of you seek hidden lore or deep wisdom, please allow me to serve you first. But you, young woman, the human child who learned our language, I name thee *elf friend*. And my naming carries power. You will find the learning of our lore will come more quickly to you, and all those who still revere the elves will give you safe passage in their lands."
+The king turned back to them. "Should any of you seek hidden lore or deep wisdom, please allow me to serve you first. But you, young woman, the [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) child who learned our language, I name thee *elf friend*. And my naming carries power. You will find the learning of our lore will come more quickly to you, and all those who still revere the elves will give you safe passage in their lands."
 
 Llyander put their hands on their hips and regarded the children. "Not bad for your second quest. What shall you do for an encore?"
 
@@ -98,7 +98,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Hig
 
 ##### Glamor of Terror (2 Points)
 
-When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a triggered action to make that creature frightened of you until the end of their next turn.
+When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a triggered action to make that creature [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you until the end of their next turn.
 
 ##### Graceful Retreat (1 Point)
 
@@ -118,4 +118,4 @@ Accessing memories is as easy as living in the present for you. You gain an edge
 
 ##### Unstoppable Mind (2 Points)
 
-Your mind allows you to maintain your focus in any situation. You can't be made dazed.
+Your mind allows you to maintain your focus in any situation. You can't be made [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D).

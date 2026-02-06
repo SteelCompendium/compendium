@@ -37,6 +37,6 @@ type: feature/ability/troubadour/6th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 12 + A damage; M < WEAK, bleeding (save ends)
-- **12-16:** 18 + A damage; M < AVERAGE, bleeding (save ends)
-- **17+:** 24 + A damage; bleeding (EoT), or if M < STRONG, bleeding (save ends)
+- **≤11:** 12 + A damage; M < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 18 + A damage; M < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 24 + A damage; [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (EoT), or if M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)

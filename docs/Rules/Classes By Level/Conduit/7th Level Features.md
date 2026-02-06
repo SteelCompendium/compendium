@@ -14,7 +14,7 @@ type: class/conduit/level
 
 ### 7th-Level Features
 
-As a 7th-level conduit, you gain the following features.
+As a 7th-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Characteristic Increase
 
@@ -30,7 +30,7 @@ You gain one skill of your choice.
 
 #### 7th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level Conduit Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) Domain Features table.
 
 ###### 7th-Level Conduit Domain Features Table
 
@@ -66,7 +66,7 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 

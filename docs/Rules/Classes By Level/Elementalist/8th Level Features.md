@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 8th-Level Features
 
-As an 8th-level elementalist, you gain the following features.
+As an 8th-level [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -76,11 +76,11 @@ You have the following ability.
 >
 > **Source of Earth**
 >
-> |       Elemental       |            -             |       Level 8       |          BRUTE          |          EV -          |
-> | :-------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
-> |    **2**<br/> Size    |     **6**<br/> Speed     | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
-> | **-**<br/> Immunities | **Burrow**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-> |   **+3**<br/> Might   |   **+1**<br/> Agility    | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
+> |       Elemental       |                                              -                                              |       Level 8       |          BRUTE          |          EV -          |
+> | :-------------------: | :-----------------------------------------------------------------------------------------: | :-----------------: | :---------------------: | :--------------------: |
+> |    **2**<br/> Size    |                                      **6**<br/> Speed                                       | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
+> | **-**<br/> Immunities | **[Burrow](%7BREL_PATH_PREFIX%7DRules/Movement/Burrow%7BREL_PATH_SUFFIX%7D)**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+> |   **+3**<br/> Might   |                                     **+1**<br/> Agility                                     | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
 >
 > > **Earthwalk**
 > >
@@ -119,9 +119,9 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 > | ------------------------ | --------------: |
 > | **📏 Ranged 10**         |  **🎯 Special** |
 >
-> **Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the Catch Breath maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are prone. Each ally within distance also gains this benefit.
+> **Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the Catch Breath maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D). Each ally within distance also gains this benefit.
 >
-> Each enemy who ends their turn within 3 squares of the tree is restrained until the end of their next turn. A creature restrained this way can use a main action to end the effect early.
+> Each enemy who ends their turn within 3 squares of the tree is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) until the end of their next turn. A creature [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way can use a main action to end the effect early.
 
 <!-- -->
 > ###### Muse of Fire (11 Essence)
@@ -149,7 +149,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 > | ----------------------------- | --------------: |
 > | **📏 Ranged 10**              |  **🎯 Special** |
 >
-> **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is knocked prone. At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+> **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is knocked [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D). At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
 <!-- -->
 > ###### World Torn Asunder (11 Essence)
@@ -162,8 +162,8 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** M < WEAK, prone
-> - **12-16:** M < AVERAGE, prone
-> - **17+:** M < STRONG, prone
+> - **≤11:** M < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **12-16:** M < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **17+:** M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
 >
-> **Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is prone and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.
+> **Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.

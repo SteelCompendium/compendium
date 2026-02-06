@@ -36,8 +36,8 @@ type: feature/ability/fury/2nd-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 4 damage; I < WEAK, slowed (save ends)
-- **12-16:** 6 damage; I < AVERAGE, slowed (save ends)
-- **17+:** 10 damage; I < STRONG, slowed (save ends)
+- **≤11:** 4 damage; I < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **12-16:** 6 damage; I < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **17+:** 10 damage; I < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
 
 **Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.

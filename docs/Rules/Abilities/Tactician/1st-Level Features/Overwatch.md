@@ -34,4 +34,4 @@ type: feature/ability/tactician/1st-level-feature
 
 **Effect:** At any time during the target's movement, one ally can make a free strike against them.
 
-**Spend 1 Focus:** If the target has R < AVERAGE, they are slowed (EoT).
+**Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT).

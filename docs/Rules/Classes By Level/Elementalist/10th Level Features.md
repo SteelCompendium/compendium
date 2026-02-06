@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 10th-Level Features
 
-As a 10th-level elementalist, you gain the following features.
+As a 10th-level [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Breath
 
@@ -61,11 +61,11 @@ The number of Recoveries you have increases by 2, and each time you finish a res
 
 Additionally, as a respite activity, you can perform a ritual that causes a fruit tree to spring from the ground, grow, mature, and produce 1d6 of a treasure called Life Fruit. You can use a respite activity to cause an existing tree to produce another 1d6 Life Fruit, but it does not grow these magic consumables on its own.
 
-As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their Stamina, they can end all conditions or effects on themself, and they can stand up if prone. Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
+As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their Stamina, they can end all conditions or effects on themself, and they can stand up if [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
 
 ##### Master of Void
 
-Whenever you willingly move, you can teleport.
+Whenever you willingly move, you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D).
 
 Additionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require project sources for research projects. Whenever you use a respite activity to make a project roll for a research project, you automatically complete the project.
 

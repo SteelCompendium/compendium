@@ -28,4 +28,4 @@ type: treasure/consumable/2nd-echelon
 
 **Project Goal:** 90
 
-**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the frightened, slowed, and taunted conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
+**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D), [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D), and [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.

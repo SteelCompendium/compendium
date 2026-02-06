@@ -14,7 +14,7 @@ type: class/shadow/level
 
 ### 8th-Level Features
 
-As an 8th-level shadow, you gain the following features.
+As an 8th-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -22,7 +22,7 @@ You gain one perk of your choice.
 
 #### 8th-Level College Feature
 
-Your shadow college grants you a feature, as shown on the 8th-Level College Features table.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants you a feature, as shown on the 8th-Level College Features table.
 
 ###### 8th-Level College Features Table
 
@@ -34,7 +34,7 @@ Your shadow college grants you a feature, as shown on the 8th-Level College Feat
 
 ##### Cinder Step
 
-Whenever you willingly move, you can teleport. When you teleport this way, it counts as using a shadow ability for the purpose of using your Burning Ash and Trail of Cinders features.
+Whenever you willingly move, you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D). When you [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) this way, it counts as using a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) ability for the purpose of using your Burning Ash and Trail of Cinders features.
 
 ##### Parkour
 
@@ -91,9 +91,9 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 11 corruption damage; A < WEAK, restrained (save ends)
-> - **12-16:** 16 corruption damage; A < AVERAGE, restrained (save ends)
-> - **17+:** 21 corruption damage; A < STRONG, restrained (save ends)
+> - **≤11:** 11 corruption damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 16 corruption damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 21 corruption damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
 
 <!-- -->
 > ###### Speed of Shadows (11 Insight)
@@ -117,6 +117,6 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 12 damage; M < WEAK, slowed (save ends)
-> - **12-16:** 18 damage; M < AVERAGE, slowed (save ends)
-> - **17+:** 24 damage; M < STRONG, slowed (save ends)
+> - **≤11:** 12 damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 18 damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 24 damage; M < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)

@@ -52,8 +52,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** R < WEAK, frightened (save ends)
-> - **12-16:** R < AVERAGE, frightened (save ends)
-> - **17+:** R < STRONG, frightened (save ends)
+> - **≤11:** R < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** R < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** R < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
 >
 > **Strained:** You can't use this ability if doing so would cause you to have negative clarity.

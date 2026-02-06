@@ -14,7 +14,7 @@ type: class/shadow/level
 
 ### 2nd-Level Features
 
-As a 2nd-level shadow, you gain the following features.
+As a 2nd-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), you gain the following features.
 
 #### Perk
 
@@ -22,7 +22,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level College Feature
 
-Your shadow college grants you a feature, as shown on the 2nd-Level College Features table.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants you a feature, as shown on the 2nd-Level College Features table.
 
 ###### 2nd-Level College Features Table
 
@@ -34,7 +34,7 @@ Your shadow college grants you a feature, as shown on the 2nd-Level College Feat
 
 ##### Burning Ash
 
-The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to teleport away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
+The ash you leave behind burns your foes. The first time on a turn that you use a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) ability to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
 
 ##### Friend!
 
@@ -48,7 +48,7 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 
 #### 2nd-Level College Ability
 
-Your shadow college grants your choice of one of two heroic abilities.
+Your [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Black Ash Ability
 
@@ -65,9 +65,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 + A damage; you can teleport the target 1 square
-> - **12-16:** 10 + A damage; you can teleport the target up to 3 squares
-> - **17+:** 14 + A damage; you can teleport the target up to 5 squares
+> - **≤11:** 6 + A damage; you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target 1 square
+> - **12-16:** 10 + A damage; you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 3 squares
+> - **17+:** 14 + A damage; you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 5 squares
 
 <!-- -->
 > ###### Too Slow (5 Insight)
@@ -80,7 +80,7 @@ Choose one of the following abilities.
 >
 > **Trigger:** You use your In All This Confusion ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can spend a Recovery.
 
 ##### 2nd-Level Caustic Alchemy Ability
 
@@ -118,7 +118,7 @@ Choose one of the following abilities.
 > - **12-16:** 5 poison damage
 > - **17+:** 7 poison damage
 >
-> **Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is weakened (save ends).
+> **Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends).
 
 ##### 2nd-Level Harlequin Mask Ability
 
@@ -152,4 +152,4 @@ Choose one of the following abilities.
 >
 > **Trigger:** Another creature targets you with a strike.
 >
-> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
+> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.

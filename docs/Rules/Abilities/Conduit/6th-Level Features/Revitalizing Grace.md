@@ -34,4 +34,4 @@ type: feature/ability/conduit/6th-level-feature
 | --------------- | ------------------------------------: |
 | **📏 4 burst**  | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if prone.
+**Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
