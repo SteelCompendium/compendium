@@ -19,4 +19,4 @@ type: feature/trait/conduit/4th-level-feature
 
 ###### Windwalk
 
-While you have 5 or more Victories, you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D). If you can already [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), you have a +2 bonus to speed while flying instead.
+While you have 5 or more Victories, you can [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly). If you can already [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly), you have a +2 bonus to speed while flying instead.

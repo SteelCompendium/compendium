@@ -37,8 +37,8 @@ type: feature/ability/fury/5th-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 9 + M damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 13 + M damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 18 + M damage; M < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 9 + M damage; M < WEAK, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+- **12-16:** 13 + M damage; M < AVERAGE, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+- **17+:** 18 + M damage; M < STRONG, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
 
-**Effect:** While the target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way, any other effect that would make the target [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) instead makes them [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) by this ability. Additionally, a creature who fails the saving throw while [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
+**Effect:** While the target is [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) this way, any other effect that would make the target [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) instead makes them [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) by this ability. Additionally, a creature who fails the saving throw while [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).

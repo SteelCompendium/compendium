@@ -39,8 +39,8 @@ type: feature/ability/fury/6th-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 4 + M damage; P < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 6 + M damage; P < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 10 + M damage; P < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 4 + M damage; P < WEAK, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+- **12-16:** 6 + M damage; P < AVERAGE, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+- **17+:** 10 + M damage; P < STRONG, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
 
-**Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you (save ends).
+**Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) of you (save ends).

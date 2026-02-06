@@ -16,7 +16,7 @@ type: class
 
 The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect discipline, perfect order, mastery over mind and body, becoming an unarmed psionic warrior who dampens and absorbs magic and psionics. You require no weapons, no tools. You suffice.
 
-**As a [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you resist the supernatural forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the supernatural. Those who break the laws of nature using sorcery or psionics should fear you.**
+**As a [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), you resist the supernatural forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the supernatural. Those who break the laws of nature using sorcery or psionics should fear you.**
 
 <!-- -->
 > "Any weapon can be turned against the hand that wields it."
@@ -62,17 +62,17 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 ### 1st-Level Features
 
-As a 1st-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 1st-level [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), you gain the following features.
 
 #### Null Tradition
 
-Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
+Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null) tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
 
 - **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.
 - **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.
 - **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.
 
-Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
+Your [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
 
 #### Discipline
 
@@ -90,7 +90,7 @@ You lose any remaining discipline at the end of the encounter.
 
 Though you can't gain discipline outside of combat, you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), but they might appear in future products.)
 
 #### Null Field
 
@@ -136,7 +136,7 @@ Your instincts for danger let you predict attacks before they happen.
 
 #### Discipline Mastery
 
-As you advance in your chosen [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
+As you advance in your chosen [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null) tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
 
 Some Discipline Mastery benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
@@ -285,9 +285,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
-> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
-> - **17+:** 9 + A damage; A < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **≤11:** 4 + A damage; A < WEAK, [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed)
+> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed)
+> - **17+:** 9 + A damage; A < STRONG, [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed)
 
 <!-- -->
 > ###### Kinetic Strike
@@ -300,9 +300,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT)
-> - **12-16:** 5 + A damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT), slide 1
-> - **17+:** 6 + A damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT), slide 2
+> - **≤11:** 4 + A damage; [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (EoT)
+> - **12-16:** 5 + A damage; [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (EoT), slide 1
+> - **17+:** 6 + A damage; [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (EoT), slide 2
 
 <!-- -->
 > ###### Magnetic Strike
@@ -334,7 +334,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + A damage; push 4
 > - **17+:** 8 + A damage; push 6
 >
-> **Effect:** Before the push is resolved, you [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) this way, you can't push them.
+> **Effect:** Before the push is resolved, you [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) this way, you can't push them.
 
 <!-- -->
 > ###### Pressure Points
@@ -347,9 +347,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 9 + A damage; A < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+> - **17+:** 9 + A damage; A < STRONG, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
 
 ##### Heroic Abilities
 
@@ -415,9 +415,9 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 5 + A damage; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 7 + A damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 4 + A damage; I < WEAK, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) and [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 5 + A damage; I < AVERAGE, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) and [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 7 + A damage; I < STRONG, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) and [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
 
 ###### 5-Discipline Ability
 
@@ -434,11 +434,11 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+> - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+> - **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
 >
-> **Effect:** While [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
+> **Effect:** While [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
 
 <!-- -->
 > ###### Impart Force (5 Discipline)
@@ -472,7 +472,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
 > - **17+:** 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 >
-> **Effect:** A target who goes out of phase is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+> **Effect:** A target who goes out of phase is [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
 
 <!-- -->
 > ###### A Squad Unto Myself (5 Discipline)
@@ -493,7 +493,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 
 ### 2nd-Level Features
 
-As a 2nd-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 2nd-level [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), you gain the following features.
 
 #### Perk
 
@@ -501,7 +501,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level Tradition Feature
 
-Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
@@ -517,7 +517,7 @@ You have cold immunity equal to twice your Intuition score. Additionally, you ig
 
 ##### Inertial Sink
 
-You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D).
+You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed).
 
 Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being force moved, you reduce that damage by an amount equal to your level.
 
@@ -527,7 +527,7 @@ As a maneuver, you can read an entire book or process a similar amount of inform
 
 #### 2nd-Level Tradition Ability
 
-Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition grants your choice of one of two abilities.
+Your [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null) tradition grants your choice of one of two abilities.
 
 ##### 2nd-Level Chronokinetic Ability
 
@@ -574,9 +574,9 @@ Choose one of the following heroic abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 cold damage; A < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 13 cold damage; A < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 6 cold damage; A < WEAK, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 13 cold damage; A < STRONG, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
 
 <!-- -->
 > ###### Heat Sink (5 Discipline)
@@ -623,15 +623,15 @@ Choose one of the following abilities.
 > - **12-16:** You gain 15 temporary Stamina.
 > - **17+:** You gain 20 temporary Stamina.
 >
-> **Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) even while dying.
+> **Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) even while dying.
 
 ### 3rd-Level Features
 
-As a 3rd-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 3rd-level [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), you gain the following features.
 
 #### Psionic Leap
 
-You can long [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) and high [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) a distance equal to twice your Agility score without needing to make a test.
+You can long [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) and high [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) a distance equal to twice your Agility score without needing to make a test.
 
 #### Reorder
 
@@ -661,7 +661,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
+> **Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
 
 <!-- -->
 > ###### Stabilizing Field (7 Discipline)
@@ -687,7 +687,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 
 ### 4th-Level Features
 
-As a 4th-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 4th-level [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), you gain the following features.
 
 #### Characteristic Increase
 
@@ -715,11 +715,11 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 ### 5th-Level Features
 
-As a 5th-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 5th-level [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), you gain the following features.
 
 #### 5th-Level Tradition Feature
 
-Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
+Your [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
@@ -758,9 +758,9 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A damage; I < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 10 + A damage; I < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 13 + A damage; I < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 7 + A damage; I < WEAK, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
+> - **12-16:** 10 + A damage; I < AVERAGE, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
+> - **17+:** 13 + A damage; I < STRONG, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
 >
 > **Effect:** This strike resolves before the triggering movement or main action.
 
@@ -775,11 +775,11 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 10 + A damage; A < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
-> - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
-> - **17+:** 18 + A damage; A < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **≤11:** 10 + A damage; A < WEAK, [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed)
+> - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed)
+> - **17+:** 18 + A damage; A < STRONG, [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed)
 >
-> **Effect:** While [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+> **Effect:** While [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
 <!-- -->
 > ###### Phase Leap (9 Discipline)
@@ -790,7 +790,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 > | ----------- | ----------: |
 > | **📏 Self** | **🎯 Self** |
 >
-> **Effect:** You [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your Null Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
+> **Effect:** You [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your Null Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 
 <!-- -->
 > ###### Synaptic Reset (9 Discipline)
@@ -805,7 +805,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 
 ### 6th-Level Features
 
-As a 6th-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 6th-level [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), you gain the following features.
 
 #### Elemental Absorption
 
@@ -821,7 +821,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 #### 6th-Level Tradition Ability
 
-Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition grants your choice of one of two heroic abilities.
+Your [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null) tradition grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronokinetic Abilities
 
@@ -851,9 +851,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 damage; M < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-> - **12-16:** 8 damage; M < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-> - **17+:** 12 damage; M < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+> - **≤11:** 6 damage; M < WEAK, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed)
+> - **12-16:** 8 damage; M < AVERAGE, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed)
+> - **17+:** 12 damage; M < STRONG, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed)
 
 ##### 6th-Level Cryokinetic Abilities
 
@@ -885,7 +885,7 @@ Choose one of the following abilities.
 > | ------------------------- | --------------: |
 > | **📏 10 wall within 10**  |  **🎯 Special** |
 >
-> **Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends). Each enemy who is force moved into the wall and has M < AVERAGE is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends).
+> **Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends). Each enemy who is force moved into the wall and has M < AVERAGE is [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends).
 
 ##### 6th-Level Metakinetic Abilities
 
@@ -921,7 +921,7 @@ Choose one of the following abilities.
 
 ### 7th-Level Features
 
-As a 7th-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 7th-level [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), you gain the following features.
 
 #### Characteristic Increase
 
@@ -973,7 +973,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As an 8th-level [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), you gain the following features.
 
 #### Perk
 
@@ -981,7 +981,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Tradition Feature
 
-Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
+Your [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
@@ -1035,11 +1035,11 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 18 + A damage; push 10; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save ends)
+> - **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save ends)
+> - **17+:** 18 + A damage; push 10; I < STRONG, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save ends)
 >
-> **Effect:** The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) this way, they see glimpses of creatures from other parts of the timescape.
+> **Effect:** The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) this way, they see glimpses of creatures from other parts of the timescape.
 
 <!-- -->
 > ###### Scalar Assault (11 Discipline)
@@ -1067,19 +1067,19 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 >
 > **Trigger:** The target takes damage from another creature's ability while in the area of your Null Field ability.
 >
-> **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends). While the triggering creature is [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+> **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save ends). While the triggering creature is [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
 
 ### 9th-Level Features
 
-As a 9th-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 9th-level [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), you gain the following features.
 
 #### I Am the Weapon
 
-Your Stamina increases by 21 and you can't be made [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
+Your Stamina increases by 21 and you can't be made [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
 
 #### 9th-Level Tradition Ability
 
-Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition grants your choice of one of two heroic abilities.
+Your [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null) tradition grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronokinetic Abilities
 
@@ -1149,11 +1149,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 8 + I cold damage; M < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 15 + I cold damage; M < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 8 + I cold damage; M < WEAK, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
+> - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
+> - **17+:** 15 + I cold damage; M < STRONG, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
 >
-> **Effect:** While [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way, any potency associated with the damage is reduced by 2.
+> **Effect:** While [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) this way, any potency associated with the damage is reduced by 2.
 
 ##### 9th-Level Metakinetic Abilities
 
@@ -1183,15 +1183,15 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A psychic damage; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-> - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-> - **17+:** 13 + A psychic damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+> - **≤11:** 7 + A psychic damage; I < WEAK, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed)
+> - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed)
+> - **17+:** 13 + A psychic damage; I < STRONG, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed)
 >
-> **Effect:** While [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
+> **Effect:** While [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
 
 ### 10th-Level Features
 
-As a 10th-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 10th-level [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), you gain the following features.
 
 #### Characteristic Increase
 

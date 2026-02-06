@@ -36,8 +36,8 @@ type: feature/ability/elementalist/5th-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** M < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-- **12-16:** M < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-- **17+:** M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+- **≤11:** M < WEAK, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
+- **12-16:** M < AVERAGE, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
+- **17+:** M < STRONG, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
 
-**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.
+**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.

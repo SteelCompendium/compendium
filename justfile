@@ -28,8 +28,8 @@ update push="true":
         echo >&2 "[INFO] Updating markdown links for mkdocs"
         find "${compendium_dir}/docs" -type f -name '*.md' -print0 |
         while IFS= read -r -d '' f; do
-            sed -i -E 's|\{REL_PATH_PREFIX\}|https://steelcompendium.io/compendium/main-linked/|g' "$f"
-            sed -i -E 's|\{REL_PATH_SUFFIX\}||g' "$f"
+            sed -i -E 's|REL_PATH_PREFIX|https://steelcompendium.io/compendium/main-linked/|g' "$f"
+            sed -i -E 's|REL_PATH_SUFFIX||g' "$f"
         done
 
         # Clean out the extras

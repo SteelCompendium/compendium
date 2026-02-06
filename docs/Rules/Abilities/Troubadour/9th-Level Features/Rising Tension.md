@@ -34,4 +34,4 @@ type: feature/ability/troubadour/9th-level-feature
 | ----------------- | --------------: |
 | **📏 Ranged 10**  | **🎯 One ally** |
 
-**Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) or [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+**Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) or [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.

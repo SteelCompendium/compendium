@@ -36,6 +36,6 @@ type: feature/ability/conduit/1st-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 3 + I holy damage; A < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-- **12-16:** 6 + I holy damage; A < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-- **17+:** 9 + I holy damage; A < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
+- **≤11:** 3 + I holy damage; A < WEAK, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
+- **12-16:** 6 + I holy damage; A < AVERAGE, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
+- **17+:** 9 + I holy damage; A < STRONG, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and can't stand (save ends)

@@ -14,4 +14,4 @@ type: condition
 
 ##### Weakened
 
-A creature who is [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) takes a bane on power rolls.
+A creature who is [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) takes a bane on power rolls.

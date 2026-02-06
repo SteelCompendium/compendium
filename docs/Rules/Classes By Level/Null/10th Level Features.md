@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 10th-Level Features
 
-As a 10th-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 10th-level [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), you gain the following features.
 
 #### Characteristic Increase
 

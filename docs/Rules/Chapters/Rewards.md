@@ -73,7 +73,7 @@ A hero can wield as many weapons, implements, suits of armor, or shields as they
 
 To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the Warrior Priest kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
 
-If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D)'s Prayer of Soldier's Skill.
+If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Conduit)'s Prayer of Soldier's Skill.
 
 A weapon's damage bonus only adds to melee abilities if your kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
 
@@ -102,7 +102,7 @@ Your character can carry any number of consumables at a time.
 >
 > Languages: Chapter 4: Background
 >
-> Abilities, conditions, potencies, surges: Chapter 5: [Classes](%7BREL_PATH_PREFIX%7DRules/Chapters/Classes%7BREL_PATH_SUFFIX%7D)
+> Abilities, conditions, potencies, surges: Chapter 5: [Classes](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Classes)
 >
 > Skills, tests: Chapter 9: Tests
 >
@@ -128,13 +128,13 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Project Roll Characteristic:** Agility or Intuition
 
-**Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D))
+**Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a [shadow](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Shadow))
 
 **Effect:** As a maneuver, you make a ranged free strike using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
 
-- **≤11:** You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 2 squares.
-- **12-16:** You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 4 squares.
-- **17+:** You can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target up to 6 squares.
+- **≤11:** You can [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) the target up to 2 squares.
+- **12-16:** You can [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) the target up to 4 squares.
+- **17+:** You can [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) the target up to 6 squares.
 
 ##### Blood Essence Vial
 
@@ -166,7 +166,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you rub the balm on your body and feel it tingle across your skin. You immediately end the [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) conditions on yourself, and you gain a +2 bonus to speed until the start of your next turn.
+**Effect:** As a maneuver, you rub the balm on your body and feel it tingle across your skin. You immediately end the [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) and [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) conditions on yourself, and you gain a +2 bonus to speed until the start of your next turn.
 
 ##### Catapult Dust
 
@@ -324,9 +324,9 @@ While you have line of effect to your homunculus, you can use a maneuver to issu
 
 Enterprising mages within various thieves' guilds have developed variations of the Portable Cloud. Each variation has a secondary item prerequisite and a project goal of 45.
 
-**Noxious Cloud:** Filled with a green or putrid yellow haze, this sphere spreads a choking, foul-smelling mist when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 poison damage. Additionally, any creature is [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) while in the fog.
+**Noxious Cloud:** Filled with a green or putrid yellow haze, this sphere spreads a choking, foul-smelling mist when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 poison damage. Additionally, any creature is [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) while in the fog.
 
-**Item Prerequisite:** An ounce of undead flesh. **Thunderhead Cloud:** Small lightning bolts arc around the black cloud in this sphere, which creates a 3 cube of cloud and lightning when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 lightning damage. Additionally, any creature is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) while in the cloud.
+**Item Prerequisite:** An ounce of undead flesh. **Thunderhead Cloud:** Small lightning bolts arc around the black cloud in this sphere, which creates a 3 cube of cloud and lightning when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 lightning damage. Additionally, any creature is [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) while in the cloud.
 
 **Item Prerequisite:** A spool of copper wire.
 
@@ -344,7 +344,7 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you sprinkle a dose of this powder onto food or drink, or blow it at an adjacent creature who is [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D), [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D), or unconscious. A creature who is exposed to blown powder (even if they hold their breath) or consumes a dose of the powder must communicate in only true statements for 1 hour. Additionally, other creatures gain an edge on Intuition and Presence tests made to convince the target to communicate, or to read the target's emotions. Any such creature has a double edge on the test if the target doesn't realize they've been affected by the snuff.
+**Effect:** As a maneuver, you sprinkle a dose of this powder onto food or drink, or blow it at an adjacent creature who is [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed), [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained), or unconscious. A creature who is exposed to blown powder (even if they hold their breath) or consumes a dose of the powder must communicate in only true statements for 1 hour. Additionally, other creatures gain an edge on Intuition and Presence tests made to convince the target to communicate, or to read the target's emotions. Any such creature has a double edge on the test if the target doesn't realize they've been affected by the snuff.
 
 ##### Snapdragon
 
@@ -380,7 +380,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D), [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D), and [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
+**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened), [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed), and [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
 
 ##### Bull Shot
 
@@ -396,7 +396,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the Charge main action, the target of your strike is gored upon your horns and [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D). While [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) this way, the creature is [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D). You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
+**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the Charge main action, the target of your strike is gored upon your horns and [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed). While [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) this way, the creature is [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding). You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
 
 ##### Chocolate of Immovability
 
@@ -444,7 +444,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90 (yields 1d3 vials)
 
-**Effect:** Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your stability is reduced to 0, and you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) and [hover](%7BREL_PATH_PREFIX%7DRules/Movement/Hover%7BREL_PATH_SUFFIX%7D). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
+**Effect:** Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your stability is reduced to 0, and you can [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly) and [hover](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Hover). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
 
 ##### Purified Jelly
 
@@ -602,7 +602,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are dying during this time, you don't die until you reach the negative of your Stamina maximum rather than your winded value. Additionally, while you are dying, you gain on edge on power rolls and you take half the damage dealt by the [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) condition. Once the potion's magic is triggered, it ends when you are no longer dying.
+**Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are dying during this time, you don't die until you reach the negative of your Stamina maximum rather than your winded value. Additionally, while you are dying, you gain on edge on power rolls and you take half the damage dealt by the [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) condition. Once the potion's magic is triggered, it ends when you are no longer dying.
 
 ##### Timesplitter
 
@@ -620,9 +620,9 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Effect:** As a maneuver, you make a ranged free strike using the \[Timesplitter\](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Consumables/3rd Echelon Consumables/Timesplitter), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
 
-- **≤11:** The target and each creature within 3 squares of them a [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends).
-- **12-16:** The target and each creature within 5 squares of them is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends).
-- **17+:** The target and each creature within 8 squares of them is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends).
+- **≤11:** The target and each creature within 3 squares of them a [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends).
+- **12-16:** The target and each creature within 5 squares of them is [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends).
+- **17+:** The target and each creature within 8 squares of them is [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends).
 
 ##### Ward Token
 
@@ -710,7 +710,7 @@ Infinite Library detailing incomplete instructions for building a sun
 
 **Project Goal:** 360
 
-**Effect:** As a maneuver, you spend 1 Heroic Resource to destroy this page and create a 4-cube area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a combat round or starts their turn there takes 20 fire damage and is [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) until the end of their turn.
+**Effect:** As a maneuver, you spend 1 Heroic Resource to destroy this page and create a 4-cube area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a combat round or starts their turn there takes 20 fire damage and is [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) until the end of their turn.
 
 ##### Restorative of the Bright Court
 
@@ -838,7 +838,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the Grab maneuver at a distance. If the target is [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your grab, or you call upon the vine to release the target (no action required).
+**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the Grab maneuver at a distance. If the target is [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your grab, or you call upon the vine to release the target (no action required).
 
 ##### Flameshade Gloves
 
@@ -872,7 +872,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are force moved, and any creature [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) by you takes a bane on the test for the Escape Grab maneuver.
+**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are force moved, and any creature [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) by you takes a bane on the test for the Escape Grab maneuver.
 
 ##### Hellcharger Helm
 
@@ -1004,7 +1004,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Goal:** 300
 
-**Effect:** As a maneuver, you touch the key to an adjacent willing, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D), or [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) creature and twist the key 90 degrees clockwise. That creature must answer the next three questions they are asked truthfully and fully. If twisted 90 degrees counterclockwise instead, the creature forgets the last 30 minutes they experienced. A creature affected by the key can't be affected again by any Key of Inquiry for 1 year. If the key is ever destroyed, all the memories it has erased are restored. Memories erased by the key can't be restored in any other way.
+**Effect:** As a maneuver, you touch the key to an adjacent willing, [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed), or [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) creature and twist the key 90 degrees clockwise. That creature must answer the next three questions they are asked truthfully and fully. If twisted 90 degrees counterclockwise instead, the creature forgets the last 30 minutes they experienced. A creature affected by the key can't be affected again by any Key of Inquiry for 1 year. If the key is ever destroyed, all the memories it has erased are restored. Memories erased by the key can't be restored in any other way.
 
 ##### Mediator's Charm
 
@@ -1157,7 +1157,7 @@ Additionally, you have the following ability.
 
 **Project Goal:** 450
 
-**Effect:** You must be a [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) to wear this ring. While you do so, the area of your Null Field ability increases by 1.
+**Effect:** You must be a [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null) to wear this ring. While you do so, the area of your Null Field ability increases by 1.
 
 Additionally, you have the following ability.
 
@@ -1173,10 +1173,10 @@ Additionally, you have the following ability.
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** 3 psychic damage
-> - **12-16:** 5 psychic damage; I < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 8 psychic damage; I < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 5 psychic damage; I < AVERAGE, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 8 psychic damage; I < STRONG, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
 >
-> **Effect:** While [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) in this way, the target takes a bane on magic or psionic abilities.
+> **Effect:** While [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) in this way, the target takes a bane on magic or psionic abilities.
 
 ##### Shifting Ring
 
@@ -1192,7 +1192,7 @@ Additionally, you have the following ability.
 
 **Project Goal:** 450
 
-**Effect:** Once per turn, you can use a maneuver to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 3 additional squares.
+**Effect:** Once per turn, you can use a maneuver to [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport), you can [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) up to 3 additional squares.
 
 #### 4th-Echelon Trinkets
 
@@ -1317,11 +1317,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina and you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D). If you don't end your turn on the ground, you fall.
+**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina and you can [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly). If you don't end your turn on the ground, you fall.
 
 **5th Level:** The armor's bonus to Stamina increases to +12. Additionally, you no longer need to end your turn on the ground to avoid falling.
 
-**9th Level:** The armor's bonus to Stamina increases to +21. Additionally, if you [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) any distance before making a strike, that strike gains an edge.
+**9th Level:** The armor's bonus to Stamina increases to +21. Additionally, if you [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly) any distance before making a strike, that strike gains an edge.
 
 ##### King's Roar
 
@@ -1341,7 +1341,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **5th Level:** The shield's bonus to Stamina increases to +6. When you cause the shield to roar, you target one creature or object within 3 squares and push that target up to 4 squares.
 
-**9th Level:** The shield's bonus to Stamina increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you push that target up to 5 squares, and the target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of their next turn.
+**9th Level:** The shield's bonus to Stamina increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you push that target up to 5 squares, and the target is [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) until the end of their next turn.
 
 ##### Kuran'zoi Prismscale
 
@@ -1357,7 +1357,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +6 bonus to Stamina while you wear this armor. Additionally, whenever a creature within 5 squares deals damage to you, you can use a triggered action to capture a moment of time in the armor, making that creature [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of their next turn.
+**1st Level:** You gain a +6 bonus to Stamina while you wear this armor. Additionally, whenever a creature within 5 squares deals damage to you, you can use a triggered action to capture a moment of time in the armor, making that creature [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) until the end of their next turn.
 
 **5th Level:** The armor's bonus to Stamina increases to +12. Additionally, when you capture a moment of time in the armor, the triggering creature also takes corruption damage equal to twice your highest characteristic score.
 
@@ -1377,11 +1377,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina. Additionally, you can use a main action to fold in on yourself until you and your gear are paper thin. This effect lasts for 1 minute, letting you easily slip through any opening that is 1 inch wide or more. When you return to your three-dimensional form, you are [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) for 1 minute. If you return to your true form while in a space that is too small for you, you are violently expelled into the nearest open space of your choice and take 3d6 damage.
+**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina. Additionally, you can use a main action to fold in on yourself until you and your gear are paper thin. This effect lasts for 1 minute, letting you easily slip through any opening that is 1 inch wide or more. When you return to your three-dimensional form, you are [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) for 1 minute. If you return to your true form while in a space that is too small for you, you are violently expelled into the nearest open space of your choice and take 3d6 damage.
 
-**5th Level:** The armor's bonus to Stamina increases to +12, and when you return to your true form, you are [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) only until the end of your next turn. Additionally, while you are paper thin, you can use a maneuver to wrap yourself around an adjacent target who is the same size or smaller than you, automatically grabbing them.
+**5th Level:** The armor's bonus to Stamina increases to +12, and when you return to your true form, you are [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) only until the end of your next turn. Additionally, while you are paper thin, you can use a maneuver to wrap yourself around an adjacent target who is the same size or smaller than you, automatically grabbing them.
 
-**9th Level:** The armor's bonus to Stamina increases to +21, and you are no longer [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) when you return to your true form. Additionally, while you have a target [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a bane when using the Escape Grab maneuver against you and when making strikes against you.
+**9th Level:** The armor's bonus to Stamina increases to +21, and you are no longer [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) when you return to your true form. Additionally, while you have a target [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a bane when using the Escape Grab maneuver against you and when making strikes against you.
 
 ##### Shrouded Memory
 
@@ -1399,9 +1399,9 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **1st Level:** You gain a +6 bonus to Stamina while you wear this armor. Additionally, you gain an edge on tests made to lie about or conceal your identity.
 
-**5th Level:** The armor's bonus to Stamina increases to +12. Additionally, whenever you take damage, you can use a triggered action to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 5 squares. If you do, you create an illusion of you dying in your previous space, which fades at the end of your next turn.
+**5th Level:** The armor's bonus to Stamina increases to +12. Additionally, whenever you take damage, you can use a triggered action to [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) up to 5 squares. If you do, you create an illusion of you dying in your previous space, which fades at the end of your next turn.
 
-**9th Level:** The armor's bonus to Stamina increases to +21. Whenever you use the armor's triggered action to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D), you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to a number of squares equal to the damage taken (minimum 5 squares). Additionally, if a creature dealt you the triggering damage, you become invisible to that creature until the end of your next turn.
+**9th Level:** The armor's bonus to Stamina increases to +21. Whenever you use the armor's triggered action to [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport), you can [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) up to a number of squares equal to the damage taken (minimum 5 squares). Additionally, if a creature dealt you the triggering damage, you become invisible to that creature until the end of your next turn.
 
 ##### Spiny Turtle
 
@@ -1457,11 +1457,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the Grab maneuver against that enemy. You can have any number of enemies [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) in this way.
+**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the Grab maneuver against that enemy. You can have any number of enemies [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) in this way.
 
-**5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the Escape Grab maneuver while [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) this way takes a bane on the test.
+**5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the Escape Grab maneuver while [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) this way takes a bane on the test.
 
-**9th Level:** The shield's bonus to Stamina increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) up to 5 squares.
+**9th Level:** The shield's bonus to Stamina increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) up to 5 squares.
 
 #### Leveled Implement Treasures
 
@@ -1565,7 +1565,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **5th Level:** The implement's damage bonus increases to +2. Additionally, whenever you deal 20 or more rolled damage with a magic or psionic ability to a creature whose senses you are using, that creature is weakend until the end of their next turn.
 
-**9th Level:** The implement's damage bonus increases to +3. Additionally, whenever you deal 30 or more rolled damage with a magic or psionic ability to a creature whose senses you are using, that creature is [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) until the end of their next turn.
+**9th Level:** The implement's damage bonus increases to +3. Additionally, whenever you deal 30 or more rolled damage with a magic or psionic ability to a creature whose senses you are using, that creature is [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) until the end of their next turn.
 
 ##### Words Become Wonders at Next Breath
 
@@ -1645,7 +1645,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon gains a +1 damage bonus. Additionally, whenever you deal rolled damage with this weapon, you can immediately shift 1 square. As well, while you wield or carry the weapon and are present in a negotiation, if an NPC in the negotiation has the greed, legacy, power, or revelry motivation, their starting interest increases by 1 (to a maximum of 5).
 
-**5th Level:** The weapon's damage bonus increases to +2. Additionally, when you make an opportunity attack against an enemy of your size or smaller, you can use fancy footwork to knock them [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D). You also earn 1 Renown.
+**5th Level:** The weapon's damage bonus increases to +2. Additionally, when you make an opportunity attack against an enemy of your size or smaller, you can use fancy footwork to knock them [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone). You also earn 1 Renown.
 
 **9th Level:** The weapon's damage bonus increases to +3. Additionally, you have a double edge on any test you make using a skill you have from the interpersonal skill group.
 
@@ -1663,11 +1663,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) you and that creature, letting you trade places provided you both fit into each other's spaces.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) you and that creature, letting you trade places provided you both fit into each other's spaces.
 
 **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to trade places with that creature or any creature within 4 squares of them, provided you both fit into each other's spaces.
 
-**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to trade places with that creature or any creature within 8 squares of them, provided you both fit into each other's spaces. Additionally, you can cause the creature you traded places with to be [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) until the end of their next turn, or you can spend a Recovery.
+**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to trade places with that creature or any creature within 8 squares of them, provided you both fit into each other's spaces. Additionally, you can cause the creature you traded places with to be [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) until the end of their next turn, or you can spend a Recovery.
 
 ##### Executioner's Blade
 
@@ -1745,7 +1745,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can shift to any square adjacent to the target after the push.
 
-**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the Charge main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to shift, you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) as part of the charge movement or the shift. If you don't end your flying movement on the ground, you fall.
+**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the Charge main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to shift, you can [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly) as part of the charge movement or the shift. If you don't end your flying movement on the ground, you fall.
 
 **9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that forced movement can be vertical.
 
@@ -1763,11 +1763,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically grab the target. A target [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) in this way takes a bane when using the Escape Grab maneuver.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically grab the target. A target [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) in this way takes a bane when using the Escape Grab maneuver.
 
-**5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) by a strike using the net takes 8 fire damage each time they attempt to escape using the Escape Grab maneuver.
+**5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) by a strike using the net takes 8 fire damage each time they attempt to escape using the Escape Grab maneuver.
 
-**9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a free strike with another weapon against a target [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) using the net.
+**9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a free strike with another weapon against a target [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) using the net.
 
 ##### Onerous Bow
 
@@ -1783,9 +1783,9 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 poison damage. Additionally, any signature ability using the weapon that obtains a tier 3 outcome also makes the target [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) until the end of their next turn.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 poison damage. Additionally, any signature ability using the weapon that obtains a tier 3 outcome also makes the target [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) until the end of their next turn.
 
-**5th Level:** The weapon's extra poison damage increases to 2. A signature ability made using the weapon that obtains a tier 3 outcome also makes the target [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of their next turn.
+**5th Level:** The weapon's extra poison damage increases to 2. A signature ability made using the weapon that obtains a tier 3 outcome also makes the target [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) and [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) until the end of their next turn.
 
 **9th Level:** The weapon's extra poison damage increases to 3. Additionally, if you use an ability using the weapon that targets one creature and you don't have a bane or double bane on the ability, you can take a bane. Doing so lets you target another creature adjacent to the original target. Alternatively, you can have a double bane to target two creatures adjacent to the original target.
 
@@ -1803,11 +1803,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +1 bonus to melee distance with weapon abilities using this weapon. Additionally, any damage-dealing weapon ability using the weapon against a target who has A < AVERAGE also leaves that target [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends).
+**1st Level:** You gain a +1 bonus to melee distance with weapon abilities using this weapon. Additionally, any damage-dealing weapon ability using the weapon against a target who has A < AVERAGE also leaves that target [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends).
 
-**5th Level:** The weapon's bonus to melee distance increases to +2. Additionally, any weapon ability that deals rolled damage using the weapon gains a +3 damage bonus against any target who is [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D).
+**5th Level:** The weapon's bonus to melee distance increases to +2. Additionally, any weapon ability that deals rolled damage using the weapon gains a +3 damage bonus against any target who is [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding).
 
-**9th Level:** The weapon's bonus to melee distance increases to +3. Additionally, if you use a signature ability using the weapon that targets one or more [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) creatures, you can use the same ability again immediately as a maneuver.
+**9th Level:** The weapon's bonus to melee distance increases to +3. Additionally, if you use a signature ability using the weapon that targets one or more [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) creatures, you can use the same ability again immediately as a maneuver.
 
 ##### Third Eye Seeker
 
@@ -1823,7 +1823,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, any damage-dealing weapon ability using the weapon that achieves a tier 3 outcome also leaves the target [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) until the end of their next turn. **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever a creature within distance of your ranged weapon free strike uses a triggered action, you can use a triggered action after their triggered action resolves to make a ranged weapon free strike using this weapon against the creature.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, any damage-dealing weapon ability using the weapon that achieves a tier 3 outcome also leaves the target [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) until the end of their next turn. **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever a creature within distance of your ranged weapon free strike uses a triggered action, you can use a triggered action after their triggered action resolves to make a ranged weapon free strike using this weapon against the creature.
 
 **9th Level:** The weapon's extra psychic damage increases to 3. Additionally, you have a double edge on weapon abilities that use the weapon against creatures who have used a psionic ability since the end of your last turn.
 
@@ -1945,9 +1945,9 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this cloak, any creature who damages you is marked for revenge until the end of your next turn or until another creature damages you. Any strike you make against a creature marked for revenge deals extra damage equal to your highest characteristic score, and whenever you damage a creature marked for revenge, they are also [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) until the end of their next turn.
+**1st Level:** While you wear this cloak, any creature who damages you is marked for revenge until the end of your next turn or until another creature damages you. Any strike you make against a creature marked for revenge deals extra damage equal to your highest characteristic score, and whenever you damage a creature marked for revenge, they are also [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) until the end of their next turn.
 
-**5th Level:** Each creature who damages you is marked for revenge until the end of your next turn. Whenever you damage a creature marked for revenge, they are also [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends).
+**5th Level:** Each creature who damages you is marked for revenge until the end of your next turn. Whenever you damage a creature marked for revenge, they are also [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends).
 
 **9th Level:** When you have three or more creatures marked for revenge and you target one of them with an ability that targets only one creature, you target all the creatures marked for revenge, regardless of their distance from you and even if you don't have line of effect to them.
 
@@ -1989,11 +1989,11 @@ Whether drawn from a stone, gifted by a lake spirit, forged by a god, or used to
 
 Though its size and make are often debated, the sword is consistently described as having a crossguard made from pure starlight. When wielded, a brilliant metal blade springs forth from that hilt, suiting the holder's taste in weapons. Those who touch the blade are filled with the vigor and power of the heroes who have held it before.
 
-**Suited for Victory:** This sword takes on the size, shape, and make that the wielder wills into it. It can be a light, medium, or heavy weapon, and you can change its weapon type and appearance as a free maneuver. Any weapon ability that deals rolled damage using the Blade of a Thousand Years gains a +5 damage bonus, and that ability always deals holy damage. Any creature with weakness to holy damage who takes damage from this weapon is also [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) until the end of their next turn.
+**Suited for Victory:** This sword takes on the size, shape, and make that the wielder wills into it. It can be a light, medium, or heavy weapon, and you can change its weapon type and appearance as a free maneuver. Any weapon ability that deals rolled damage using the Blade of a Thousand Years gains a +5 damage bonus, and that ability always deals holy damage. Any creature with weakness to holy damage who takes damage from this weapon is also [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) and [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) until the end of their next turn.
 
 **Rally the Righteous:** This blade fills all around it with hope and courage. Each ally within 1 mile of the weapon gains an edge on weapon abilities and magic abilities, and has damage immunity 5. Additionally, each such creature's Stamina maximum increases by 15 and they gain a +15 bonus to Stamina when this ability first affects them.
 
-**Turn the Tide:** Each enemy minion within 1 mile of the sword is [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D). Any enemy leader or solo creature in that area takes a bane on ability rolls.
+**Turn the Tide:** Each enemy minion within 1 mile of the sword is [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed). Any enemy leader or solo creature in that area takes a bane on ability rolls.
 
 **Victory's Assurance:** This weapon always appears on the eve before what will later come to be known as a historic battle. It disappears after 24 hours or when the battle is won, whichever comes first. By taking the blade, the wielder unwittingly enters into a pact with the weapon. If they don't secure victory against monumental odds or some great foe by the time the sword disappears, they are pulled into the sword, preventing any chance of resurrection, and forever dooming them to lend their strength to the heroes of other ages.
 
@@ -2007,17 +2007,17 @@ Though its size and make are often debated, the sword is consistently described 
 
 This scepter waits high in the sky, resting within an endlessly raging cyclone. It waits for the one who will unify all people under its light. It awaits its champion.
 
-The [Encepter](%7BREL_PATH_PREFIX%7DRules/Treasures/Artifacts/Encepter%7BREL_PATH_SUFFIX%7D) is said to have first manifested in a young world doomed to apocalypse—unless every last inhabitant of that world could stand together. The scepter is said to impose either dominion or obliteration over any threat its light is drawn around. Today, it is most commonly known as a bad omen, and should the [Encepter](%7BREL_PATH_PREFIX%7DRules/Treasures/Artifacts/Encepter%7BREL_PATH_SUFFIX%7D) reveal itself, folk know that the world teeters on the brink of destruction. Whether any of the stories are true, few can say, for the only living eyes that have witnessed the [Encepter](%7BREL_PATH_PREFIX%7DRules/Treasures/Artifacts/Encepter%7BREL_PATH_SUFFIX%7D) belong to dragons deep in slumber.
+The [Encepter](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Artifacts/Encepter) is said to have first manifested in a young world doomed to apocalypse—unless every last inhabitant of that world could stand together. The scepter is said to impose either dominion or obliteration over any threat its light is drawn around. Today, it is most commonly known as a bad omen, and should the [Encepter](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Artifacts/Encepter) reveal itself, folk know that the world teeters on the brink of destruction. Whether any of the stories are true, few can say, for the only living eyes that have witnessed the [Encepter](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Artifacts/Encepter) belong to dragons deep in slumber.
 
-**Shining Presence:** The one who wields the [Encepter](%7BREL_PATH_PREFIX%7DRules/Treasures/Artifacts/Encepter%7BREL_PATH_SUFFIX%7D) is always cast in a brilliant glow. Any power roll made by the wielder that uses Presence automatically achieves a tier 3 outcome, though the wielder can still roll in an attempt to score a critical success or critical hit.
+**Shining Presence:** The one who wields the [Encepter](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Artifacts/Encepter) is always cast in a brilliant glow. Any power roll made by the wielder that uses Presence automatically achieves a tier 3 outcome, though the wielder can still roll in an attempt to score a critical success or critical hit.
 
-**Champion's Lasso:** As a free maneuver, the wielder of the scepter can trigger a glowing line of light that traces their path as they move, or can dismiss the glowing line. If the wielder crosses over this line, each creature and object of the wielder's choice enclosed inside the line and within 2 squares above and below it are considered lassoed by the [Encepter](%7BREL_PATH_PREFIX%7DRules/Treasures/Artifacts/Encepter%7BREL_PATH_SUFFIX%7D). Creatures remain lassoed until the lasso is released or until a new line is drawn.
+**Champion's Lasso:** As a free maneuver, the wielder of the scepter can trigger a glowing line of light that traces their path as they move, or can dismiss the glowing line. If the wielder crosses over this line, each creature and object of the wielder's choice enclosed inside the line and within 2 squares above and below it are considered lassoed by the [Encepter](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Artifacts/Encepter). Creatures remain lassoed until the lasso is released or until a new line is drawn.
 
-**Dominion:** Each creature lassoed by the [Encepter](%7BREL_PATH_PREFIX%7DRules/Treasures/Artifacts/Encepter%7BREL_PATH_SUFFIX%7D) is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) and can't [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D). A creature caught in midair while lassoed stays in place rather than falling.
+**Dominion:** Each creature lassoed by the [Encepter](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Artifacts/Encepter) is [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) and can't [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport). A creature caught in midair while lassoed stays in place rather than falling.
 
-**Obliteration:** As a main action, the wielder raises the [Encepter](%7BREL_PATH_PREFIX%7DRules/Treasures/Artifacts/Encepter%7BREL_PATH_SUFFIX%7D) to the sky. Each target lassoed by the [Encepter](%7BREL_PATH_PREFIX%7DRules/Treasures/Artifacts/Encepter%7BREL_PATH_SUFFIX%7D) erupts in a prismatic burst of light, taking 10 psychic damage for each square horizontally encircled by the lasso. The lasso is then immediately released.
+**Obliteration:** As a main action, the wielder raises the [Encepter](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Artifacts/Encepter) to the sky. Each target lassoed by the [Encepter](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Artifacts/Encepter) erupts in a prismatic burst of light, taking 10 psychic damage for each square horizontally encircled by the lasso. The lasso is then immediately released.
 
-**At World's End:** If the [Encepter](%7BREL_PATH_PREFIX%7DRules/Treasures/Artifacts/Encepter%7BREL_PATH_SUFFIX%7D) was not taken from its cyclonic resting place with the purpose of vanquishing a terrible peril, then a terrible peril emerges to threaten the world within 3 days of the scepter being taken.
+**At World's End:** If the [Encepter](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Artifacts/Encepter) was not taken from its cyclonic resting place with the purpose of vanquishing a terrible peril, then a terrible peril emerges to threaten the world within 3 days of the scepter being taken.
 
 ##### Mortal Coil
 
@@ -2139,7 +2139,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 - *Duck!:* When an enemy strikes you while a second creature is flanking you, you can use a triggered action to redirect the strike against the second creature. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Furniture Fighter:* When you use a weapon ability with an improvised weapon or a weapon that isn't part of your kit, the ability benefits from your kit's melee weapon damage bonus.
-- *Headbutt:* While you are [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) or [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D), your free strikes don't take a bane when those conditions would impose one.
+- *Headbutt:* While you are [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) or [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained), your free strikes don't take a bane when those conditions would impose one.
 - *If I Wanted You Dead, You'd Be Dead:* Whenever you defeat foes without killing any of them (including the foes you defeat to meet the prerequisite for this title), you gain an edge on tests during negotiations with those foes.
 
 #### City Rat
@@ -2158,7 +2158,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 *I don't know what it meant, but when I watched her die, I saw a vision. I watched her die and saw my own death. Am I losing my mind?*
 
-**Prerequisite:** You aren't a [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) but have witnessed the death of a [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D).
+**Prerequisite:** You aren't a [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) but have witnessed the death of a [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan).
 
 **Effect:** You aren't destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but remain conscious, you can become \[doomed\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st Echelon/Doomed). If you do, you can't regain Stamina, you automatically obtain a tier 3 outcome on tests and power rolls, and you don't die until your Stamina reaches the negative of your Stamina maximum. At the end of the encounter, you die.
 
@@ -2166,7 +2166,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 *I have learned much. It might be your courage that inspires others. Watch your opponent's shield as well as their sword. And above all, stand fast, and do not yield.*
 
-**Prerequisite:** You fight alongside three or more [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D).
+**Prerequisite:** You fight alongside three or more [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf).
 
 **Effect:** Choose one of the following benefits:
 
@@ -2182,7 +2182,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose a damage type to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:
 
-- *Elemental Blaster:* You have the [Elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D) 1st-level Hurl Element feature, dealing the chosen damage type.
+- *Elemental Blaster:* You have the [Elementalist](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist) 1st-level Hurl Element feature, dealing the chosen damage type.
 - *Elemental Immunity:* You have immunity to the chosen damage type equal to your highest characteristic score.
 - *Elemental Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal damage of the chosen type instead of its usual damage type.
 
@@ -2241,8 +2241,8 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 **Effect:** Choose one of the following benefits:
 
 - *Guess It's the Hard Way Then:* When combat begins and you aren't surprised, the first time you take damage before taking your turn, you halve that damage.
-- *Heedless Pursuer:* Once on each of your turns, you can use a free maneuver to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore difficult terrain and you can increase the distance of any [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) you make by 1 square, both until the end of your turn.
-- *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the My Life for Yours feature from the [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) class. When you use that ability, you can't spend wrath unless you have the Wrath class feature.
+- *Heedless Pursuer:* Once on each of your turns, you can use a free maneuver to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore difficult terrain and you can increase the distance of any [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) you make by 1 square, both until the end of your turn.
+- *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the My Life for Yours feature from the [censor](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Censor) class. When you use that ability, you can't spend wrath unless you have the Wrath class feature.
 - *Trained Tracker:* You gain an edge on tests made to track criminals.
 
 #### Monster Bane
@@ -2296,7 +2296,7 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 > | --------------- | ------------------------------------------: |
 > | **📏 5 burst**  | **🎯 Each enemy in the area hidden to you** |
 >
-> **Effect:** Each target who has P < AVERAGE is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by you until the end of their next turn, and you know the location of each creature [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) in this way.
+> **Effect:** Each target who has P < AVERAGE is [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) by you until the end of their next turn, and you know the location of each creature [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) in this way.
 
 - *Deadly and Big:* Your strikes gain a +3 damage bonus against creatures whose size is smaller than yours.
 - *Everybody Move!:* When you use the Knockback maneuver, you can target one additional creature of your size or two additional smaller creatures.
@@ -2375,7 +2375,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 > | --------------- | -----------------------------------: |
 > | **📏 3 burst**  | **🎯 Each undead enemy in the area** |
 >
-> **Effect:** Each target takes holy damage equal to your Reason, Intuition, or Presence score (your choice). Additionally, each target who has P < STRONG is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends).
+> **Effect:** Each target takes holy damage equal to your Reason, Intuition, or Presence score (your choice). Additionally, each target who has P < STRONG is [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends).
 
 ### 2nd-Echelon Titles
 
@@ -2389,8 +2389,8 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) creatures. Additionally, being [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) doesn't impose a bane on your strikes.
-- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D), you can use them as a weapon when you make a melee weapon free strike. Both the target and the [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) enemy take the strike's damage.
+- *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) creatures. Additionally, being [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) doesn't impose a bane on your strikes.
+- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed), you can use them as a weapon when you make a melee weapon free strike. Both the target and the [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) enemy take the strike's damage.
 - *Instant Celebrity:* You earn 1 Renown.
 - *Showstopper:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
@@ -2403,11 +2403,11 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > **Power Roll + Might or Agility:**
 >
-> - **≤11:** 6 damage; I < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 10 damage; I < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 14 damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 6 damage; I < WEAK, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 10 damage; I < AVERAGE, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+> - **17+:** 14 damage; I < STRONG, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save ends)
 >
-> **Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends).
+> **Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends).
 
 #### Awakened
 
@@ -2418,7 +2418,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Foresight:* You don't take a bane when using abilities against creatures with concealment.
-- *Rogue Talent:* Choose one triggered action that the [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) class has access to at 1st level. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend clarity, you can't do so unless you have the Clarity class feature.
+- *Rogue Talent:* Choose one triggered action that the [talent](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Talent) class has access to at 1st level. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend clarity, you can't do so unless you have the Clarity class feature.
 - *Telepathy:* As a maneuver, you communicate telepathically with a creature within 10 squares who understands a language you know. The creature can respond telepathically as part of the same maneuver.
 
 #### Battlefield Commander
@@ -2443,7 +2443,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 > **Effect:** Each target can use the Charge main action.
 
 - *Renowned Warrior:* You earn 1 Renown.
-- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D) class. You gain that feature even if you don't have the Tactical Doctrine feature.
+- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician) class. You gain that feature even if you don't have the Tactical Doctrine feature.
 
 #### Blood Magic
 
@@ -2513,9 +2513,9 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > **Power Roll + Might or Agility:**
 >
-> - **≤11:** 7 damage; M < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
-> - **12-16:** 11 damage; M < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
-> - **17+:** 16 damage; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
+> - **≤11:** 7 damage; M < WEAK, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and can't stand (save ends)
+> - **12-16:** 11 damage; M < AVERAGE, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and can't stand (save ends)
+> - **17+:** 16 damage; M < STRONG, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and can't stand (save ends)
 >
 > **Special:** If the target is size 2 or larger, you gain an edge on this ability.
 
@@ -2581,11 +2581,11 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > **Power Roll + Might or Agility:**
 >
-> - **≤11:** 7 damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 11 damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 16 damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 7 damage; [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (save ends)
+> - **12-16:** 11 damage; [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (save ends)
+> - **17+:** 16 damage; [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (save ends)
 >
-> **Effect:** You can end the [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) condition on the target as a free maneuver.
+> **Effect:** You can end the [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) condition on the target as a free maneuver.
 >
 > **Special:** If you take this title, you might occasionally be called upon to perform duties for the person who knighted you.
 
@@ -2611,7 +2611,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Boffin:* You gain a small magic spy device called a boffin. Once per encounter, you can activate a boffin property as a maneuver (see below).
-- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D) college features Coat the Blade or Smoke Bomb (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend insight unless you have the Insight class feature.
+- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Shadow) college features Coat the Blade or Smoke Bomb (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend insight unless you have the Insight class feature.
 - *Spy Ring:* You gain a piece of magic jewelry, such as a ring. As a main action while wearing the jewelry, you can take on the illusory appearance of an individual within 10 squares who you have line of effect to. This disguise lets you automatically succeed on tests made using the Disguise skill based solely on visual identification.
 
 ##### Boffin Properties
@@ -2633,7 +2633,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 - *Hunter's Oath:* As a main action, you swear a hunter's oath against a creature within 10 squares who you have line of effect to. This oath lasts until the target dies or until you swear a hunter's oath against a different creature. As long as the hunter's oath lasts, you magically know the direction to the target if they are within 50 miles of you, and your damage-dealing abilities gain a +5 damage bonus against the target.
 - *Particular Set of Skills:* You know a skill from the intrigue skill group.
-- *We're In This Together:* When you have a creature [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) and take damage from an ability not used by that creature, the [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) creature takes the same damage.
+- *We're In This Together:* When you have a creature [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) and take damage from an ability not used by that creature, the [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) creature takes the same damage.
 
 #### Undead Slain
 
@@ -2645,7 +2645,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 - *Ghoul or Vampire:* When you make a melee free strike against an adjacent creature, you can bite that creature. If you do so and obtain a tier 3 outcome, you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
 - *Incorporeal Undead:* You can move through other creatures and objects. The first time in a combat round that you pass through a creature, that creature takes corruption damage equal to half your level. You don't take damage from being force moved into objects.
-- *Other Corporeal Undead:* When you are reduced to 0 Stamina by damage that isn't fire or holy damage and your body isn't destroyed, you can regain half your Stamina and fall [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D). Once you use this benefit, you can't use it again until you earn 10 or more Victories.
+- *Other Corporeal Undead:* When you are reduced to 0 Stamina by damage that isn't fire or holy damage and your body isn't destroyed, you can regain half your Stamina and fall [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone). Once you use this benefit, you can't use it again until you earn 10 or more Victories.
 
 #### Unstoppable
 
@@ -2656,7 +2656,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 **Effect:** Choose one of the following benefits:
 
 - *From Hell's Heart:* While you are winded, your melee strikes gain a +3 damage bonus.
-- *Furious Attack:* Choose one signature ability from the [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
+- *Furious Attack:* Choose one signature ability from the [fury](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Fury) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
 - *Furious Charge:* When you use the Charge action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
 
 ### 3rd-Echelon Titles
@@ -2675,9 +2675,9 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 *Hi! Remember me?*
 
-**Prerequisite:** You die at the hands of your greatest foe, that foe still lives, and you aren't a [revenant](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D).
+**Prerequisite:** You die at the hands of your greatest foe, that foe still lives, and you aren't a [revenant](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant).
 
-**Effect:** You are restored to life. You gain the Tough But Withered signature trait from the [revenant](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D) ancestry.
+**Effect:** You are restored to life. You gain the Tough But Withered signature trait from the [revenant](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant) ancestry.
 
 #### Demon Slayer
 
@@ -2745,7 +2745,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act triggered action from the [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
+- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act triggered action from the [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
 - *Devil's Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
 <!-- -->
@@ -2760,8 +2760,8 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 > **Power Roll + Presence:**
 >
 > - **≤11:** You take 4 sonic damage unless you have the Performance skill.
-> - **12-16:** 6 sonic damage; M < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 10 sonic damage; M < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) and [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **12-16:** 6 sonic damage; M < AVERAGE, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+> - **17+:** 10 sonic damage; M < STRONG, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) and [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)
 >
 > **Effect:** The soul of any creature killed by this ability is dragged to Hell.
 
@@ -2830,7 +2830,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 #### Teacher
 
-*Someday, I'll understand how peeling these carrots for dinner relates to my [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D) training.*
+*Someday, I'll understand how peeling these carrots for dinner relates to my [elementalist](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist) training.*
 
 **Prerequisite:** You train or command at least three lower-level members of your class.
 
@@ -2880,7 +2880,7 @@ Additionally, choose one of the following benefits:
 
 - *Cosmic Revelation:* When you make a test with a skill from the lore skill group and obtain a tier 1 or tier 2 outcome, you can instead obtain a tier 3 outcome. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Mind Over Matter:* Whenever you spend a Recovery, you can end one condition on yourself.
-- *Rearrange the Game Pieces:* You can reach behind the curtain and alter reality. At the start of combat, choose yourself or any creature within 5 squares. The chosen target must move up to their speed to a space you choose, but can't enter damaging terrain or terrain that could impose a condition on them. The target doesn't appear to move or [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) to that space—they are simply there. No one but you has any memory of the target's previous position.
+- *Rearrange the Game Pieces:* You can reach behind the curtain and alter reality. At the start of combat, choose yourself or any creature within 5 squares. The chosen target must move up to their speed to a space you choose, but can't enter damaging terrain or terrain that could impose a condition on them. The target doesn't appear to move or [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) to that space—they are simply there. No one but you has any memory of the target's previous position.
 
 #### Forsaken
 
@@ -2891,8 +2891,8 @@ Additionally, choose one of the following benefits:
 **Effect:** A characteristic of your choice increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Brief Reunion:* While you're winded, you can use a maneuver to summon the artifact to your hand. It disappears at the end of your next turn. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
-- *Perfect Protection:* The Director chooses a damage type that is dealt by or thematically related to the artifact—for instance, holy for the Blade of a Thousand Years, psychic for the [Encepter](%7BREL_PATH_PREFIX%7DRules/Treasures/Artifacts/Encepter%7BREL_PATH_SUFFIX%7D), or corruption for the Mortal Coil. You have immunity all to the chosen damage type.
-- *Poor Compensation:* Instead of disappearing or otherwise departing, the artifact turns into a trinket or leveled treasure of the Director's choice that has the same approximate shape as the lost item—for instance, any magic sword for the Blade of a Thousand Years, any implement for the [Encepter](%7BREL_PATH_PREFIX%7DRules/Treasures/Artifacts/Encepter%7BREL_PATH_SUFFIX%7D), or a Thief of Joy or any other torque for the Mortal Coil.
+- *Perfect Protection:* The Director chooses a damage type that is dealt by or thematically related to the artifact—for instance, holy for the Blade of a Thousand Years, psychic for the [Encepter](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Artifacts/Encepter), or corruption for the Mortal Coil. You have immunity all to the chosen damage type.
+- *Poor Compensation:* Instead of disappearing or otherwise departing, the artifact turns into a trinket or leveled treasure of the Director's choice that has the same approximate shape as the lost item—for instance, any magic sword for the Blade of a Thousand Years, any implement for the [Encepter](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Artifacts/Encepter), or a Thief of Joy or any other torque for the Mortal Coil.
 
 #### Monarch
 
@@ -2941,7 +2941,7 @@ Additionally, choose one of the following benefits:
 - *Kill Me Once, Shame On You:* Choose a creature keyword belonging to one of the creatures who defeated you. Any creature with that keyword takes a bane on ability rolls against you.
 - *Memories of the Beyond:* You have two skills of your choice.
 
-**Special:** If a [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) gains this title as a result of using their Doomsight trait, they lose that trait.
+**Special:** If a [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) gains this title as a result of using their Doomsight trait, they lose that trait.
 
 #### Theoretical Warrior
 
@@ -2963,7 +2963,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 - *Bounce Back Fast:* Whenever you rest for 8 hours or more, you can gain the benefit of a respite. Once you use this benefit, you can't use it again until you have taken a regular respite.
 - *Reserves of Strength:* Your recovery value is half your Stamina
-- *Undying:* You can't be affected by the [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) condition.
+- *Undying:* You can't be affected by the [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) condition.
 
 #### Unchained
 
@@ -2973,9 +2973,9 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 **Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
-- *Bye-Bye:* You can use a maneuver to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) yourself and each willing ally within 5 squares of you to new positions within 10 squares of your original starting point. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
+- *Bye-Bye:* You can use a maneuver to [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) yourself and each willing ally within 5 squares of you to new positions within 10 squares of your original starting point. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Laughs at Locks:* Whenever you make a test to open a lock or break a restraint, you don't need any tools and you automatically obtain a tier 3 outcome.
-- *Slippery:* You can't be [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) against your will.
+- *Slippery:* You can't be [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) against your will.
 
 ## Renown
 

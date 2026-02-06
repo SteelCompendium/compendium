@@ -14,7 +14,7 @@ type: class/conduit/level
 
 ### 6th-Level Features
 
-As a 6th-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 6th-level [conduit](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Conduit), you gain the following features.
 
 #### Burgeoning Saint
 
@@ -31,7 +31,7 @@ You gain one crafting, lore, or supernatural perk of your choice.
 
 #### 6th-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 6th-Level [Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 6th-Level [Conduit](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Conduit) Domain Abilities table.
 
 ###### 6th-Level Conduit Domain Abilities Table
 
@@ -72,9 +72,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 8 + I damage; A < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 12 + I damage; A < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 16 + I damage; A < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 8 + I damage; A < WEAK, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
+> - **12-16:** 12 + I damage; A < AVERAGE, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
+> - **17+:** 16 + I damage; A < STRONG, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
 
 <!-- -->
 > ###### Blessing of the Midday Sun (9 Piety)
@@ -182,7 +182,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | --------------- | ------------------------------------: |
 > | **📏 4 burst**  | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
+> **Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone).
 
 <!-- -->
 > ###### Spirit Stampede (9 Piety)
@@ -195,9 +195,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 5 damage; M < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
-> - **12-16:** 8 damage; M < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
-> - **17+:** 11 damage; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
+> - **≤11:** 5 damage; M < WEAK, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and can't stand (save ends)
+> - **12-16:** 8 damage; M < AVERAGE, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and can't stand (save ends)
+> - **17+:** 11 damage; M < STRONG, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and can't stand (save ends)
 
 <!-- -->
 > ###### Your Story Ends Here (9 Piety)
@@ -210,8 +210,8 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 9 + I corruption damage; R < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 19 + I corruption damage; R < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 9 + I corruption damage; R < WEAK, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+> - **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+> - **17+:** 19 + I corruption damage; R < STRONG, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
 >
 > **Effect:** If this damage kills the target, you and each ally within distance can spend a Recovery.

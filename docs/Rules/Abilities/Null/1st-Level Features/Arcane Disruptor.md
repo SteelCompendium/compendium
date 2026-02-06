@@ -37,8 +37,8 @@ type: feature/ability/null/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+- **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+- **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
 
-**Effect:** While [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
+**Effect:** While [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.

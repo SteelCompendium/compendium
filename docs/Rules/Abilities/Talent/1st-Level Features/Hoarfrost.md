@@ -35,8 +35,8 @@ type: feature/ability/talent/1st-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 + R cold damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
-- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
-- **17+:** 6 + R cold damage; M < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
+- **≤11:** 2 + R cold damage; M < WEAK, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (EoT)
+- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (EoT)
+- **17+:** 6 + R cold damage; M < STRONG, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (EoT)
 
-**Strained:** You are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of your next turn. Additionally, a target [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) by this ability is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) instead.
+**Strained:** You are [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) until the end of your next turn. Additionally, a target [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) by this ability is [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) instead.

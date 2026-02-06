@@ -34,6 +34,6 @@ type: feature/ability/censor/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 2 + M holy damage; P < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 7 + M holy damage; P < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 2 + M holy damage; P < WEAK, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+- **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+- **17+:** 7 + M holy damage; P < STRONG, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)

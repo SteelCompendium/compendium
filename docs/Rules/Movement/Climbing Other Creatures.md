@@ -26,8 +26,8 @@ While you \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Move
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) as usual (see [Falling](#page-283-3) below).
-- **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
+- **≤11:** You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) as usual (see [Falling](#page-283-3) below).
+- **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone).
 - **17+:** You continue to hold on to the creature.
 
-If you are knocked [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) while climbing or riding a creature, you fall and land [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) in an adjacent space of your choice, taking damage as usual from the fall.
+If you are knocked [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) while climbing or riding a creature, you fall and land [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) in an adjacent space of your choice, taking damage as usual from the fall.

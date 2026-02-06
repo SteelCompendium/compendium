@@ -14,11 +14,11 @@ type: class/talent/level
 
 ### 1st-Level Features
 
-As a 1st-level [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 1st-level [talent](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Talent), you gain the following features.
 
 #### Talent Tradition
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) traditions:
+Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Talent) traditions:
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
 - **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
@@ -29,7 +29,7 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Talent) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Talent) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Talent) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
 
 #### Clarity and Strain
 
@@ -128,7 +128,7 @@ You know the Mindspeech language (see Languages in Orden in Chapter 4: Backgroun
 
 #### 1st-Level Tradition Features
 
-Your [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
+Your [talent](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Talent) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
 
 ###### 1st-Level Tradition Features Table
 
@@ -244,7 +244,7 @@ You have the following ability.
 
 #### Talent Abilities
 
-You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
+You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Talent) traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
 
 ##### Signature Abilities
 
@@ -261,9 +261,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
 >
 > **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 >
@@ -280,11 +280,11 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
-> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
-> - **17+:** 6 + R cold damage; M < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (EoT)
+> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (EoT)
+> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (EoT)
+> - **17+:** 6 + R cold damage; M < STRONG, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (EoT)
 >
-> **Strained:** You are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) until the end of your next turn. Additionally, a target [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) by this ability is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) instead.
+> **Strained:** You are [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) until the end of your next turn. Additionally, a target [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) by this ability is [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) instead.
 
 <!-- -->
 > ###### Incinerate
@@ -318,7 +318,7 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > - **≤11:** Slide 2 + R
 > - **12-16:** Slide 4 + R
-> - **17+:** Slide 6 + R; [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **17+:** Slide 6 + R; [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
 >
 > **Strained:** You must vertical push the target instead of sliding them.
 
@@ -337,7 +337,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 5 psychic damage; push 1
 > - **17+:** 7 psychic damage; push 2
 >
-> **Strained:** The size of the burst increases by 2, and you are [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) until the start of your next turn.
+> **Strained:** The size of the burst increases by 2, and you are [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) until the start of your next turn.
 
 <!-- -->
 > ###### Materialize
@@ -369,9 +369,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; M < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-> - **12-16:** 4 + R damage; M < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-> - **17+:** 6 + R damage; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **≤11:** 2 + R damage; M < WEAK, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
+> - **12-16:** 4 + R damage; M < AVERAGE, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
+> - **17+:** 6 + R damage; M < STRONG, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
 >
 > **Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.
 >
@@ -417,9 +417,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 3 + P psychic damage; I < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 9 + P psychic damage; I < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 3 + P psychic damage; I < WEAK, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+> - **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+> - **17+:** 9 + P psychic damage; I < STRONG, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
 
 <!-- -->
 > ###### Choke (3 Clarity)
@@ -432,11 +432,11 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 3 + R damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 5 + R damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 8 + R damage; M < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 3 + R damage; M < WEAK, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 5 + R damage; M < AVERAGE, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 8 + R damage; M < STRONG, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
 >
-> **Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) by this ability, this forced movement ignores their stability.
+> **Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) by this ability, this forced movement ignores their stability.
 
 <!-- -->
 > ###### Precognition (3 Clarity)
@@ -481,7 +481,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 >
 > **Effect:** The target uses an ability with a base Heroic Resource cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 >
-> **Strained:** You take 1d6 damage and are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends).
+> **Strained:** You take 1d6 damage and are [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends).
 
 <!-- -->
 > ###### Inertia Soak (5 Clarity)
@@ -494,7 +494,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 >
 > **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
 >
-> **Strained:** You are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends). While you are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
+> **Strained:** You are [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends). While you are [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
 
 <!-- -->
 > ###### Iron (5 Clarity)

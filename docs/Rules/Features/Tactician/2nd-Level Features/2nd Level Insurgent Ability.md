@@ -46,6 +46,6 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; R < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 4 + R damage; R < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 2 + R damage; R < WEAK, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+> - **17+:** 4 + R damage; R < STRONG, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)

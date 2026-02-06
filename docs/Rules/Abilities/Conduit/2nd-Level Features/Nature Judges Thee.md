@@ -37,6 +37,6 @@ type: feature/ability/conduit/2nd-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 2 damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 3 damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 7 damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 2 damage; A < WEAK, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
+- **12-16:** 3 damage; A < AVERAGE, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
+- **17+:** 7 damage; A < STRONG, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)

@@ -22,17 +22,17 @@ The flow of playing *Draw Steel* is like playing any other tabletop roleplaying 
 
 After the Director sets the scene, each player describes how their character interacts with the area. The Director then describes how the environment and any creatures in it respond to the heroes' actions.
 
-**Alyssa (playing Jorn, a [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D)):** *I'm going to hang out at the back of the group with my warhammer drawn. I want to be ready in case any of those skeletons we snuck by on the lower levels make their way up the stairs.*
+**Alyssa (playing Jorn, a [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician)):** *I'm going to hang out at the back of the group with my warhammer drawn. I want to be ready in case any of those skeletons we snuck by on the lower levels make their way up the stairs.*
 
-**Matt (playing Linn, a [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D)):** *Linn uses her Minor Telekinesis ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
+**Matt (playing Linn, a [talent](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Talent)):** *Linn uses her Minor Telekinesis ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
 
-**James (playing Korvo, a [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D)):** *I'll light a torch as I step into the room. Is there anything new we can see now?*
+**James (playing Korvo, a [shadow](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Shadow)):** *I'll light a torch as I step into the room. Is there anything new we can see now?*
 
 **Director:** *With the glass cleared away and brighter light glowing in the room, you can see that the floor is covered in faded sigils.*
 
 At some point, a player will have their hero attempt a task that has a risk of failing in a way that is narratively interesting. In such cases, the Director calls for some dice to be rolled! Don't worry—the rules outline when and how to do this.
 
-**Grace (playing Val, a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D)):** *Before anyone steps on them, I want to examine the symbols and figure out what they mean.*
+**Grace (playing Val, a [conduit](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Conduit)):** *Before anyone steps on them, I want to examine the symbols and figure out what they mean.*
 
 **Director:** *Okay, well for that, I need you to make an easy Reason test.*
 
@@ -52,7 +52,7 @@ At some point, a player will have their hero attempt a task that has a risk of f
 
 **Grace:** *Yeah. Should have warned you.*
 
-**Director:** *The whole tower starts to sway as the sarcophagus lids crash to the floor and clawed undead hands emerge from within. Six decaying [devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D), each tattooed with glowing green runes, rise. They're eager for violence.*
+**Director:** *The whole tower starts to sway as the sarcophagus lids crash to the floor and clawed undead hands emerge from within. Six decaying [devils](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil), each tattooed with glowing green runes, rise. They're eager for violence.*
 
 **James:** *I think we found the Rotting Lords of Hell.*
 
@@ -86,7 +86,7 @@ Presence (P) represents force of personality. A creature's capacity to lie to a 
 
 #### Characteristic Scores
 
-Each characteristic has a score that runs from −5 to +5. The higher a score, the more impact a creature has with that characteristic. A baby bunny rabbit would have a Might score of −5, while an ancient dragon would have a Might score of 5. The average [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) has a score of 0 in all their characteristics. Characteristic scores are added to power rolls—the dice rolls you make whenever your character attempts a task with an uncertain outcome (see [Power Rolls](#page-18-0) below).
+Each characteristic has a score that runs from −5 to +5. The higher a score, the more impact a creature has with that characteristic. A baby bunny rabbit would have a Might score of −5, while an ancient dragon would have a Might score of 5. The average [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) has a score of 0 in all their characteristics. Characteristic scores are added to power rolls—the dice rolls you make whenever your character attempts a task with an uncertain outcome (see [Power Rolls](#page-18-0) below).
 
 ### Dice
 
@@ -112,9 +112,9 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 #### Types of Power Rolls
 
-The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D) uses their Brutal Slam ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
+The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Fury) uses their Brutal Slam ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
 
-A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D) might not have an ability that lets them \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) up the face of a cliff, so climbing is an activity they can attempt with a test. An [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](#page-263-0) for more information.
+A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician) might not have an ability that lets them \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) up the face of a cliff, so climbing is an activity they can attempt with a test. An [elementalist](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](#page-263-0) for more information.
 
 <!-- -->
 > **Sapient Creatures**
@@ -137,7 +137,7 @@ The specific outcome of any power roll is determined by the effect or ability th
 
 ##### Downgrade a Power Roll
 
-Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) condition on a creature, but the tier 2 outcome for that ability lets you impose the [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) condition, you can use the tier 2 outcome if you would rather have the creature [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) than [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D).
+Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) condition on a creature, but the tier 2 outcome for that ability lets you impose the [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) condition, you can use the tier 2 outcome if you would rather have the creature [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) than [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained).
 
 If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see [Critical Hit](#page-89-0) in [Classes](#page-83-2)).
 
@@ -153,19 +153,19 @@ An archer standing on a castle wall fires down into a throng of enemies, hitting
 
 ##### Edge
 
-An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) walls!
+An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) walls!
 
 When you make a power roll with an edge, you gain a +2 bonus to the roll. If you make a power roll with two or more edges, you have a **double edge**. With a double edge, you don't add anything to the power roll, but the outcome of the roll automatically improves one tier (to a maximum of tier 3).
 
 ##### Bane
 
-A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) an outdoor wall because the weather makes the stone surface extra slick.
+A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) an outdoor wall because the weather makes the stone surface extra slick.
 
 When you make a power roll with a bane, you take a −2 penalty to the roll. If you make a power roll with two or more banes, you have a **double bane**. With a double bane, you don't subtract anything from the power roll, but the outcome of the roll automatically decreases one tier (to a minimum of tier 1).
 
 ##### Rolling With Edges and Banes
 
-Under certain circumstances, you might have one or more edges and banes on the same roll. For instance, you might take a bane when [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) by poison, even as you gain an edge for striking a [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) creature. In general, edges and banes cancel each other out, resolving as follows:
+Under certain circumstances, you might have one or more edges and banes on the same roll. For instance, you might take a bane when [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) by poison, even as you gain an edge for striking a [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) creature. In general, edges and banes cancel each other out, resolving as follows:
 
 - If you have an edge and a bane, or if you have a double edge and a double bane, the roll is made as usual without any edges or banes.
 - If you have a double edge and just one bane, the roll is made with one edge, regardless of how many individual edges contribute to the double edge.
@@ -178,7 +178,7 @@ The rules tell you when to modify a roll with an edge or a bane. The Director ca
 <!-- -->
 > **Why Cap?**
 >
-> We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can benefit or be hindered by short-term circumstances only so much. For example, a character who is [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) by poison already finds it difficult to attack—so that becoming [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) by a net can't really make it harder.
+> We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can benefit or be hindered by short-term circumstances only so much. For example, a character who is [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) by poison already finds it difficult to attack—so that becoming [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) by a net can't really make it harder.
 
 We also liked capping edges and banes at two because it keeps play quick. It's nice to not need to count beyond two positive or negative circumstances in a battle with a lot of effects flying around.
 
@@ -232,13 +232,13 @@ If you're not sure what to do when two rules come into conflict with each other,
 
 ### Always Round Down
 
-Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D) takes 7 damage and uses the Parry ability in response—a triggered action that halves the damage—then the damage is reduced to 3.
+Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician) takes 7 damage and uses the Parry ability in response—a triggered action that halves the damage—then the damage is reduced to 3.
 
 ### Creatures and Objects
 
-*Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. Creatures are living or unliving beings such as animals, elves, [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
+*Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. Creatures are living or unliving beings such as animals, elves, [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
 
-When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D) can't use their Return to Formlessness ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
+When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist) can't use their Return to Formlessness ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
 
 #### Unattended Objects
 
@@ -297,7 +297,7 @@ Your hero's class description has more information about how to use your Heroic 
 
 Recoveries represent the number of times your hero can take a breather and keep fighting. Spending Recoveries lets you regain Stamina—the measure of any creature's physical vitality and capacity to shrug off or avoid damage (see [Stamina](#page-291-0) in [Combat](#page-279-4)). Running out of Recoveries means your hero has reached their uttermost limit.
 
-When you spend a Recovery, you regain Stamina equal to your **recovery value**, which is one-third your Stamina maximum. You can spend your Recoveries with a special maneuver (see below), or you might do so with a little supernatural help from a [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), a boost of adrenaline from an allied [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), or inspiration from your party's [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D).
+When you spend a Recovery, you regain Stamina equal to your **recovery value**, which is one-third your Stamina maximum. You can spend your Recoveries with a special maneuver (see below), or you might do so with a little supernatural help from a [conduit](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Conduit), a boost of adrenaline from an allied [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician), or inspiration from your party's [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour).
 
 ##### Spending Recoveries
 
@@ -327,13 +327,13 @@ Since this game encompasses power levels from hometown heroes to demigods, the c
 
 #### 1st Echelon (1st to 3rd Level)
 
-The 1st echelon of play details the stories of characters of 1st to 3rd level. At this echelon, the characters are local heroes. They save lost caravans, besieged villages, and overlooked neighborhoods within cities. Characters battle bands of mortal humanoids—[dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), elves, goblins, [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), kobolds, [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D), and more. They can also face off against the occasional larger monstrous threat, such as a bredbeddle, ogre, or chimera. Such creatures can threaten a small community but rarely have plans for world domination or the destruction of the timescape. However, any of these adversaries might work for or be manipulated by stronger threats as a foreshadowing of what awaits the heroes at higher echelons.
+The 1st echelon of play details the stories of characters of 1st to 3rd level. At this echelon, the characters are local heroes. They save lost caravans, besieged villages, and overlooked neighborhoods within cities. Characters battle bands of mortal humanoids—[dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), elves, goblins, [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), kobolds, [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc), and more. They can also face off against the occasional larger monstrous threat, such as a bredbeddle, ogre, or chimera. Such creatures can threaten a small community but rarely have plans for world domination or the destruction of the timescape. However, any of these adversaries might work for or be manipulated by stronger threats as a foreshadowing of what awaits the heroes at higher echelons.
 
 #### 2nd Echelon (4th to 6th Level)
 
 The 2nd echelon of play covers 4th to 6th level. At this echelon, the heroes are now known throughout the wider region they serve. In Vasloria, this means the characters might save and be celebrated by an entire country. In Capital, their reputation and work could encompass several different neighborhoods of the enormous city. Heroes of the timescape might be known for saving a planet!
 
-Heroes in this echelon battle humanoids of great supernatural power, such as draconians, [devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D), and hobgoblins. They face bosses possessed of cunning and ambition as great as their terrible influence, such as medusas and overminds. Heroes at this level also face the humanoid threats of earlier levels, but those foes are villainous counterparts of equal power rather than bands of ruffians or marauding armies.
+Heroes in this echelon battle humanoids of great supernatural power, such as draconians, [devils](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil), and hobgoblins. They face bosses possessed of cunning and ambition as great as their terrible influence, such as medusas and overminds. Heroes at this level also face the humanoid threats of earlier levels, but those foes are villainous counterparts of equal power rather than bands of ruffians or marauding armies.
 
 #### 3rd Echelon (7th to 9th Level)
 
@@ -347,7 +347,7 @@ The 4th echelon of play explores the stories of characters of 10th level (and mi
 
 A new game demands new worlds! Welcome to the timescape—a collection of worlds spanning high fantasy, dark fantasy, even space fantasy!
 
-Our tour begins on the world of Orden, the prime manifold, where [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), elves, [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), and [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) share a world with dragons, goblins, kobolds, and dozens of other speaking peoples. But [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) civilization and politics dominate here.
+Our tour begins on the world of Orden, the prime manifold, where [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), elves, [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), and [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) share a world with dragons, goblins, kobolds, and dozens of other speaking peoples. But [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) civilization and politics dominate here.
 
 Orden contains eight major regions, the largest of which is Vasloria.
 
@@ -359,9 +359,9 @@ Aendrim, the land of hills and farms. Corwell with its knights and castles. The 
 
 Mountainous northeastern Vasloria is home to the small earldoms of Sednia, Olvaria, and Sărda, and the earldom of Rhöl containing the land of Glauer once ruled by a deathless count.
 
-Scattered across it all, Vasloria boasts the densest collection of elf-haunted wodes in Orden. All regions have wodes, but Vasloria's northern border is the Great Wode where the world still works as it did before [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) arrived.
+Scattered across it all, Vasloria boasts the densest collection of elf-haunted wodes in Orden. All regions have wodes, but Vasloria's northern border is the Great Wode where the world still works as it did before [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) arrived.
 
-Within the wodes, time misbehaves. Cause and effect are only distant cousins, as all lands were before Ord placed the [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) in the world,
+Within the wodes, time misbehaves. Cause and effect are only distant cousins, as all lands were before Ord placed the [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) in the world,
 
 imposing the Law of Time on Orden. Children's tales of villagers wandering into a wode and emerging unchanged 100 years later are based on real events. When pressed on how this "works," the elves look baffled. "How does what work?"
 
@@ -377,23 +377,23 @@ Omund was betrayed and his castle fell to Ajax the Invincible, now called the Ir
 
 It was Mortum who used the secrets of the synliroi body banks, granting immortality to those nobles who voluntarily submit to Ajax. Those same body banks produce Ajax's war dogs, his brutal, patchwork—soldiers who owe their new lives to the Iron Saint and fight for him fanatically.
 
-Ajax abolished all faiths and temples. He executed the dukes who organized and united the barons, leaving the far-flung baronies to try and hold [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) civilization together. Once, these people were loose allies. There was trade between [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), elves, [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) and [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D).
+Ajax abolished all faiths and temples. He executed the dukes who organized and united the barons, leaving the far-flung baronies to try and hold [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) civilization together. Once, these people were loose allies. There was trade between [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), elves, [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) and [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc).
 
 Now there is only suspicion.
 
 **The high elves of the fallen city** pay tribute with ancient artifacts they plunder from the fallen celestial city of Irranys. **The wode elves of the Orchid Court**, lacking any centralized government or cities, refuse to bow to Ajax.
 
-**The [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) of Kal Kalavar** pay tribute in prisoners they abduct from those foolish enough to travel the roads unescorted. These prisoners serve Ajax as forced labor or are fed into the body banks. Brooding under the mountains in their fabled Hanging City, the stone [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) do not like this deal with the Overlord but lack the power—or the will—to rebel.
+**The [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) of Kal Kalavar** pay tribute in prisoners they abduct from those foolish enough to travel the roads unescorted. These prisoners serve Ajax as forced labor or are fed into the body banks. Brooding under the mountains in their fabled Hanging City, the stone [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) do not like this deal with the Overlord but lack the power—or the will—to rebel.
 
 **The Hawklords of the High Aeries**, once remote and proud, almost mythical to the people below, made their own pact with Ajax to avoid extermination. They now serve as his elite counterinsurgent force. Mounted on their giant hawks, they project Ajax's power, enforce his law and extend his influence into every corner of the wilderness. Their mastery of the air means any revolt or rebellion is quickly seen and crushed.
 
 **The Dragon Phalanx** is broken. Ajax placed a high bounty on its warriors' heads. Some folk still see Omund's knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any dragon \[knight\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd Echelon/Knight) foolish enough to travel without a disguise away to the Chrysopolis.
 
-Isolated and outnumbered, the [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) baronies desperately fight a losing battle against the encroaching wilderness. Order dies. Chaos thrives.
+Isolated and outnumbered, the [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) baronies desperately fight a losing battle against the encroaching wilderness. Order dies. Chaos thrives.
 
 #### Capital
 
-The Greatest City in This or Any Age! City of the Great Game! Located west across the Bale Sea from Vasloria, on the eastern coast of Rioja, Capital is not only the largest city in Orden—it's the largest city there has ever been. Larger than the fabled steel [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) capital of Kalas Valiar, larger even than Alloy, the City at the Center of the Timescape. Capital is the exception to many rules.
+The Greatest City in This or Any Age! City of the Great Game! Located west across the Bale Sea from Vasloria, on the eastern coast of Rioja, Capital is not only the largest city in Orden—it's the largest city there has ever been. Larger than the fabled steel [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) capital of Kalas Valiar, larger even than Alloy, the City at the Center of the Timescape. Capital is the exception to many rules.
 
 It is a city of playwrights and opera, of spies and sorcery. Famed throughout the world as a city of high magic where flying tapestries act as taxis, the reality of living in Capital is somewhat more mundane. Only the very wealthy can afford such luxuries.
 
@@ -409,7 +409,7 @@ Duke Marco Vorona sponsors the Imperial War College, also known as the Academy. 
 
 **House Navarr**, oldest of the great houses, enforces the church's law, which they call justice. Led by His Grace Orsino, Duke Navarr, archbishop of the most powerful church in the city—the Church of Saint Ysabella the Pitiless—House Navarr consolidates a vast network of different churches and orders of knights across the region under one elaborate system of patronage.
 
-Arguably the most powerful great house, **House Valetta** controls the Arbitros Fiat, the tax collectors. Valetta is led by the Duchess Lenore who, in mourning for her assassinated husband Maximo, opened the *Codex Mortis* and spoke the ritual which should have returned her love to life. Instead, she brought about the Lilac Night, which transformed every mortal in her district, including herself, into deathless [revenants](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D). Now, the Duchess Lenore is an immortal vampire queen. A dead lady, ruling over a dead city.
+Arguably the most powerful great house, **House Valetta** controls the Arbitros Fiat, the tax collectors. Valetta is led by the Duchess Lenore who, in mourning for her assassinated husband Maximo, opened the *Codex Mortis* and spoke the ritual which should have returned her love to life. Instead, she brought about the Lilac Night, which transformed every mortal in her district, including herself, into deathless [revenants](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant). Now, the Duchess Lenore is an immortal vampire queen. A dead lady, ruling over a dead city.
 
 After the Lilac Night, when the prince was no longer able to rely on House Valetta to deliver the taxes they collected, Lady Shirome
 
@@ -433,11 +433,11 @@ Higher worlds are more energetic, affording access to alien technologies. Great 
 
 The lower worlds lack the energy necessary for such extraordinary technology to function, and so rely on magic to break the rules.
 
-On Axiom, the Plane of Uttermost Law, the [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) live on a world teeming with complex, inorganic life. UNISOL, the Universal Solar League, ensures and protects trade across the upper worlds, defending the starfreighters from the time raiders and the infamous pirate band the Starslayers on their legendary ship the K.R.A.D.1 *Fearless*.
+On Axiom, the Plane of Uttermost Law, the [memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek) live on a world teeming with complex, inorganic life. UNISOL, the Universal Solar League, ensures and protects trade across the upper worlds, defending the starfreighters from the time raiders and the infamous pirate band the Starslayers on their legendary ship the K.R.A.D.1 *Fearless*.
 
 Meanwhile, on Proteus, the Sea of Eternal Change, the formless proteans rebelled against the synliroi who once ruled the Plane of Uttermost Chaos, exiling the voiceless talkers to the World Below. Now masters of their world, the proteans take to the stars in their living changeships, hurling their small fleet against the tyrannical unquestioned might of UNISOL.
 
-On Quintessence, the lowest of the upper worlds, proteans and [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) alike rub shoulders with [devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D), fire [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), even [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) in Quintessence's capital city of Alloy, the City at the Center of the Timescape. The Free City of Alloy, also known as the City of Brass, is the gateway to the timescape. People travelling to or from the upper and lower worlds meet here to trade goods and information, free from the inflexible law of UNISOL.
+On Quintessence, the lowest of the upper worlds, proteans and [memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek) alike rub shoulders with [devils](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil), fire [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), even [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) in Quintessence's capital city of Alloy, the City at the Center of the Timescape. The Free City of Alloy, also known as the City of Brass, is the gateway to the timescape. People travelling to or from the upper and lower worlds meet here to trade goods and information, free from the inflexible law of UNISOL.
 
 Traveling downward from Quintessence one arrives on Orden, the Plane of Gods and Sorcery, highest of the lower worlds where magic rules. The gods, forbidden from interfering directly in a world with such a low energy state, rely on saints to enact their will. Technology from the upper worlds does not function down here, unless powered by a strong psionic mind or the miracle mineral iridoss, also known as prismacore.
 
@@ -445,7 +445,7 @@ Almost coterminal with Orden is its sister-manifold, the World Below, the Dark U
 
 The power of the World Below wanes, while the power of Equinox waxes. A smaller, parasitic manifold home to the twilight celestials and their servants the shadow elves, Equinox is ruled by Every Strike of Lightning a Lover Betrayed, the Queen of Shadows, third of the Three Sisters Below who plots to bridge the sea between worlds and colonize Orden making a new home for her people before their old world dies. A fierce, fairy-tale, weird magic, jungle world of permanent twilight also known as Dusk.
 
-The last plane of law, the Seven Cities of Hell is among the lowest of the lower planes. A land of [devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) proud of their civilization, each of the seven cities is ruled by an archduke who schemes to ascend to the Throne of Hell. A world of bureaucratic law, the [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) denizens of Hell have little interest in the other planes. Life is so much more *interesting* down here.
+The last plane of law, the Seven Cities of Hell is among the lowest of the lower planes. A land of [devils](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) proud of their civilization, each of the seven cities is ruled by an archduke who schemes to ascend to the Throne of Hell. A world of bureaucratic law, the [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) denizens of Hell have little interest in the other planes. Life is so much more *interesting* down here.
 
 The seven archdevils conspired together once; agreeing to create the Order of Desolation—also known as the Illriggers—to extend their power into the timescape, and defend Hell from the horde of demons below.
 
@@ -463,7 +463,7 @@ In Capital, for instance, people use flying tapestries to get around the city qu
 
 It's not clear to us, looking in, but it doesn't seem as though Orden operates according to the real-world laws of physics, chemistry, and biology. People in the middle ages here on Earth didn't know about quarks or DNA, but they still knew everything was made of "stuff" and everyone expected a child to more or less resemble their parents. Essentially, Orden works the way people living in any culture's medieval era believed the real world actually worked. Because of the presence of magic, prayer, and psionics in the world, it's unlikely anything like science or an industrial age will *ever* come to Orden.
 
-Ultimately, while there are 10th-level characters out there, these are exceedingly rare. Most people in Orden do not have class levels. Only a few are 1st level anything! No one has ever tried to take a census of all the [censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), [conduits](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), [furies](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D), and so forth, but if they did, they'd probably end up with a chart that looks a lot like Zipf's Law.
+Ultimately, while there are 10th-level characters out there, these are exceedingly rare. Most people in Orden do not have class levels. Only a few are 1st level anything! No one has ever tried to take a census of all the [censors](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Censor), [conduits](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Conduit), [furies](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Fury), and so forth, but if they did, they'd probably end up with a chart that looks a lot like Zipf's Law.
 
 Finally, most information about Orden and the timescape is presented from the point of view of someone living in Orden. They can tell you what they think they know, but even learned historians do not agree, and new information constantly comes to light challenging the accepted academic wisdom. Just like... you get it.
 
@@ -476,11 +476,11 @@ P.S. We use the phrase "Orden and the timescape" because Orden is, as it were, t
 >
 > We use the timescape and its medieval fantasyland Orden as the default setting presented in these books. Doing so makes it easier for us as designers to marry our design with real examples from a real (imaginary) fantasy world. We also think it's easier for you to take the names for places, languages, and gods, and replace them with your own. We might reference some hero or villain, saint or god, whose name makes you think, "Well, I don't have that in my setting." If we do a good job, though, you might be inspired to say, "But that makes me think..." And being inspired is part of the fun!
 
-If you're the Director, you can use as many or as few of the details of the timescape as you like. You might wish to create your own world within the timescape, or use a setting you've created that exists outside of the official MCDM manifolds. You can use details from settings published by other companies. There are no rules when it comes to worldbuilding. Feel free to take what you like from this book and change the rest. For example, you might not care for our [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) having literal stone skin. That's fine. You can make them fleshy, stout, bearded folk, or mohawked, barrel-chested punk rockers, or anything else you wish. As long as you're running a heroic fantasy campaign about fighting monsters, then the game's rules are still likely to serve your narrative even if that narrative deviates from ours.
+If you're the Director, you can use as many or as few of the details of the timescape as you like. You might wish to create your own world within the timescape, or use a setting you've created that exists outside of the official MCDM manifolds. You can use details from settings published by other companies. There are no rules when it comes to worldbuilding. Feel free to take what you like from this book and change the rest. For example, you might not care for our [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) having literal stone skin. That's fine. You can make them fleshy, stout, bearded folk, or mohawked, barrel-chested punk rockers, or anything else you wish. As long as you're running a heroic fantasy campaign about fighting monsters, then the game's rules are still likely to serve your narrative even if that narrative deviates from ours.
 
-If you're a player, ask your Director about the setting where the game takes place and discuss with them the sort of hero you want to create. Maybe you want to play a more traditional gruff and bearded [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) rather than go all short and stony. An open dialogue and honest discussion with your Director can lead to everyone getting what they want out of the game.
+If you're a player, ask your Director about the setting where the game takes place and discuss with them the sort of hero you want to create. Maybe you want to play a more traditional gruff and bearded [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) rather than go all short and stony. An open dialogue and honest discussion with your Director can lead to everyone getting what they want out of the game.
 
 <!-- -->
 > **What's Next? Find Out on Patreon**
 >
-> While this book and *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* are both chock-full of character options and adventure ideas that could keep you playing *Draw Steel* for years, some folks want even more [classes](%7BREL_PATH_PREFIX%7DRules/Chapters/Classes%7BREL_PATH_SUFFIX%7D), [ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Ancestries%7BREL_PATH_SUFFIX%7D), monsters, treasures, and encounters. You can find out what we're developing next, get a preview of that content, and read blog posts about the development of the game by joining the MCDM Patreon at *[mcdm.gg/Patreon](https://mcdm.gg/Patreon)*.
+> While this book and *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* are both chock-full of character options and adventure ideas that could keep you playing *Draw Steel* for years, some folks want even more [classes](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Classes), [ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries), monsters, treasures, and encounters. You can find out what we're developing next, get a preview of that content, and read blog posts about the development of the game by joining the MCDM Patreon at *[mcdm.gg/Patreon](https://mcdm.gg/Patreon)*.

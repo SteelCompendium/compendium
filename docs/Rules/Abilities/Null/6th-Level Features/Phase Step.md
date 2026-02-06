@@ -39,6 +39,6 @@ type: feature/ability/null/6th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 6 damage; M < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-- **12-16:** 8 damage; M < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-- **17+:** 12 damage; M < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+- **≤11:** 6 damage; M < WEAK, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed)
+- **12-16:** 8 damage; M < AVERAGE, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed)
+- **17+:** 12 damage; M < STRONG, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed)

@@ -14,11 +14,11 @@ type: class/troubadour/level
 
 ### 5th-Level Features
 
-As a 5th-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 5th-level [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), you gain the following features.
 
 #### 5th-Level Class Act Feature
 
-Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants your choice of one of two features.
+Your [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class act grants your choice of one of two features.
 
 ##### Auteur Features
 
@@ -26,7 +26,7 @@ Choose one of the following features.
 
 ###### Fix It in Post
 
-Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your Dramatic Monologue ability. Choose one of the following conditions on the target: [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D), [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D), [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D), [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D), or [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) can stand up.
+Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your Dramatic Monologue ability. Choose one of the following conditions on the target: [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding), [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened), [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed), or [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) can stand up.
 
 ###### Take Two!
 
@@ -108,7 +108,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 > | ----------------- | -------------------------: |
 > | **📏 Ranged 10**  | **🎯 One enemy or object** |
 >
-> **Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's Stamina, is [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.
+> **Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's Stamina, is [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.
 
 <!-- -->
 > ###### Love Song (9 Drama)

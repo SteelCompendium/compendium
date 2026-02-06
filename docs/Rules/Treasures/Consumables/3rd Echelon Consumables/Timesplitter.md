@@ -30,6 +30,6 @@ type: treasure/consumable/3rd-echelon
 
 **Effect:** As a maneuver, you make a ranged free strike using the \[Timesplitter\](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Consumables/3rd Echelon Consumables/Timesplitter), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
 
-- **≤11:** The target and each creature within 3 squares of them a [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends).
-- **12-16:** The target and each creature within 5 squares of them is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends).
-- **17+:** The target and each creature within 8 squares of them is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends).
+- **≤11:** The target and each creature within 3 squares of them a [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends).
+- **12-16:** The target and each creature within 5 squares of them is [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends).
+- **17+:** The target and each creature within 8 squares of them is [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends).

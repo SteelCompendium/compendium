@@ -16,42 +16,42 @@ type: chapter
 
 # Ancestries
 
-Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are [devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D), [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), elves, time raiders—and of course [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), whose culture and history dominates many worlds.
+Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are [devils](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil), [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), elves, time raiders—and of course [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), whose culture and history dominates many worlds.
 
 Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or lore skills, though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
 
-In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](#page-67-0)) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), and [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D), you can do that too!
+In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](#page-67-0)) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), and [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc), you can do that too!
 
-This chapter details twelve [ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Ancestries%7BREL_PATH_SUFFIX%7D) for the game:
+This chapter details twelve [ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries) for the game:
 
-**[Devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D):** [Devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) originated in the Seven Cities of Hell and have a supernatural charisma that helps them persuade others. They are similar in stature to [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), and their skin tones include deep blues, purples, and reds. They sport horns, eyes of all shades (including gold and red), and tails, and some have feathered or leathery wings.
+**[Devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil):** [Devils](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) originated in the Seven Cities of Hell and have a supernatural charisma that helps them persuade others. They are similar in stature to [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), and their skin tones include deep blues, purples, and reds. They sport horns, eyes of all shades (including gold and red), and tails, and some have feathered or leathery wings.
 
-**\[Dragon Knight\](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon Knight):** Dragon knights are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All dragon knights have wings, but on only a few are those wings big enough to let them [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D).
+**\[Dragon Knight\](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon Knight):** Dragon knights are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All dragon knights have wings, but on only a few are those wings big enough to let them [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly).
 
-**[Dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D):** Humanoids with stony skin, [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) have short and stout bodies. Many carve supernatural runes into their flesh, and some have beards made of crystals.
+**[Dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf):** Humanoids with stony skin, [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) have short and stout bodies. Many carve supernatural runes into their flesh, and some have beards made of crystals.
 
 **Wode Elf:** Lithe humanoids with finely furred skin in all shades of blue, wode elves have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to hide.
 
 **High Elf:** Stately and graceful, high elves have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any high elf is hidden from most—sometimes even from themself—thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a high elf's tone and smell.
 
-**[Hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D):** Descended from stone giants, the mighty [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) stand over 9 feet tall and have well-muscled bodies made of organic stone. They are the largest ancestry in this book!
+**[Hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan):** Descended from stone giants, the mighty [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) stand over 9 feet tall and have well-muscled bodies made of organic stone. They are the largest ancestry in this book!
 
-**[Human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D):** [Humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) are the most numerous people in Orden and many other fantasy worlds! In *Draw Steel*, [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) have all the diversity that our species displays in real life—and they can sense the presence of supernatural energy!
+**[Human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human):** [Humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) are the most numerous people in Orden and many other fantasy worlds! In *Draw Steel*, [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) have all the diversity that our species displays in real life—and they can sense the presence of supernatural energy!
 
-**[Memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D):** Originating on Axiom, the Plane of Uttermost Law, [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) are a machine people made of metal, marble, glass, and other inorganic materials. Their bodies are lightweight, making them easier to move and letting them fall at slower speeds.
+**[Memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek):** Originating on Axiom, the Plane of Uttermost Law, [memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek) are a machine people made of metal, marble, glass, and other inorganic materials. Their bodies are lightweight, making them easier to move and letting them fall at slower speeds.
 
-**[Orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D):** [Orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) have skin in green tones and stand slightly taller and wider than [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D). A supernatural energy they call "the blood fire" flows through their veins, igniting colorful lines in an [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D)'s skin during life-or-death battles.
+**[Orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc):** [Orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) have skin in green tones and stand slightly taller and wider than [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human). A supernatural energy they call "the blood fire" flows through their veins, igniting colorful lines in an [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc)'s skin during life-or-death battles.
 
-**[Polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D):** The smallest of the [ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Ancestries%7BREL_PATH_SUFFIX%7D) in this book, [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) stand no taller than 3-1/2 feet. They look like smaller [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), and they have the ability to blend in with the shadows.
+**[Polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder):** The smallest of the [ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries) in this book, [polders](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) stand no taller than 3-1/2 feet. They look like smaller [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), and they have the ability to blend in with the shadows.
 
-**[Revenant](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D):** No hero starts their life as a [revenant](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D). Rather, these undead creatures return to the world of the living because they have dire business that must be finished. A character of any ancestry can become a [revenant](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D).
+**[Revenant](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant):** No hero starts their life as a [revenant](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant). Rather, these undead creatures return to the world of the living because they have dire business that must be finished. A character of any ancestry can become a [revenant](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant).
 
 **\[Time Raider\](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Time Raider):** Travelers of the timescape, the time raiders (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
 
 <!-- -->
 > **Other Sections**
 >
-> The rules for using [ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Ancestries%7BREL_PATH_SUFFIX%7D) refer to lots of other parts of the game. You can find information on specific topics as follows:
+> The rules for using [ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries) refer to lots of other parts of the game. You can find information on specific topics as follows:
 >
 > Edges and banes, Recoveries, respites: [Chapter 1: The Basics](#page-17-3)
 >
@@ -69,9 +69,9 @@ This chapter details twelve [ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Anc
 
 Orden (talked about in Chapter 1: The Basics) is a fantasy world. It works on principles similar to those many people throughout history believed governed the real world. "I dunno, a god did it probably."
 
-[Humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), elves, [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D), [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), dragons, all have creator gods—the Elder Gods, four of whom made the world for some reason. Maybe they were bored.
+[Humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), elves, [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc), [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), dragons, all have creator gods—the Elder Gods, four of whom made the world for some reason. Maybe they were bored.
 
-The fashion among those gods for creating new, intelligent, species petered out after the [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D). Once [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) came along and invented war, it stopped being fun.
+The fashion among those gods for creating new, intelligent, species petered out after the [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc). Once [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) came along and invented war, it stopped being fun.
 
 It may be all species were created by gods. That's certainly what a lot of people throughout our own history assumed. Orden has no Darwin and probably won't ever. There's still inheritance. People expect children to look like their parents, but there aren't evolutionary pressures except on a very local scale.
 
@@ -79,7 +79,7 @@ And in a world where powerful, world-altering magics are available, mortals some
 
 However, mortals are not gods and lack their ineffable wisdom. They are, in fact, very effable. Many have sought the power to create. It is available to any sorcerer of near-godlike power with the right rituals, though these days that power is very obscure. Creating new intelligent species was easier for mortal wizards back in the youth of the world when magic was friskier.
 
-In every instance in recorded history, attempts by mortals to make obedient servitor species backfired. The steel [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) worked marvels with valiar, the truemetal, and the miracle mineral iridoss, known as prismacore, that grants objects a semblance of life. Eventually their science and magics produced the omnivok—machines that were self-aware. Perhaps uniquely, when the [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) realized they had created beings equal to themselves they stopped their work and gave their creations full rights and independence, preferring to work with them rather than attempt, and inevitably fail, to be their masters.
+In every instance in recorded history, attempts by mortals to make obedient servitor species backfired. The steel [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) worked marvels with valiar, the truemetal, and the miracle mineral iridoss, known as prismacore, that grants objects a semblance of life. Eventually their science and magics produced the omnivok—machines that were self-aware. Perhaps uniquely, when the [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) realized they had created beings equal to themselves they stopped their work and gave their creations full rights and independence, preferring to work with them rather than attempt, and inevitably fail, to be their masters.
 
 Normally, it doesn't work out that nicely. Even with the best of intentions, things go awry. The Dragon Phalanx were created by Good King Omund's wizard Vitae to be the perfect knights, dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed 30 years of peace and justice, eventually the dragon knights were betrayed by one of their own, seduced by the power offered by Ajax.
 
@@ -101,7 +101,7 @@ At the end of the day, if you throw out all of this and replace it with somethin
 
 Obviously you're free to invent whatever name you want for your character! And your director might have their own setting that uses different cultures than those in Orden. But if you want to pick an Orden-appropriate name for your hero, keep reading.
 
-Equally obviously; names are cultural, not biological. Your character probably has a name appropriate to whatever culture they were born into, or grew up in. A [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) raised by [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) would probably have a [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) name.
+Equally obviously; names are cultural, not biological. Your character probably has a name appropriate to whatever culture they were born into, or grew up in. A [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) raised by [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) would probably have a [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) name.
 
 #### Last Names and Bynames
 
@@ -123,7 +123,7 @@ Most cultures in Vasloria make a distinction between masculine and feminine name
 
 Among those cultures which do make a distinction between masculine and feminine names, there are always names that *could* refer to a person of any gender. Here in the real world, you can't tell a person's gender just from the name "Shane." This is mostly because which names are considered masculine or feminine changes over time, and when this happens, there's a period—maybe a few generations—where the name could refer to a person of any gender.
 
-Of course, there's no law (neither metaphorically nor literally) that requires your character to go by their birth name. They might not even know their birth name depending on what happened after they were born. It's not unusual, especially among [talents](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D), for a hero to adopt a moniker or sobriquet instead of a name. And in some cultures, there's a tradition of changing your name—or at least how you prefer to be known—as you go through different stages of life. High elves sometimes adopt a wholly new name when they reach a certain age, or more commonly, they choose a different component of their name. When A Mist Curls Around Dying Embers was a young woman, she was known as Mist. Now that she's the master of the Tower of Translation, she's known as Embers.
+Of course, there's no law (neither metaphorically nor literally) that requires your character to go by their birth name. They might not even know their birth name depending on what happened after they were born. It's not unusual, especially among [talents](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Talent), for a hero to adopt a moniker or sobriquet instead of a name. And in some cultures, there's a tradition of changing your name—or at least how you prefer to be known—as you go through different stages of life. High elves sometimes adopt a wholly new name when they reach a certain age, or more commonly, they choose a different component of their name. When A Mist Curls Around Dying Embers was a young woman, she was known as Mist. Now that she's the master of the Tower of Translation, she's known as Embers.
 
 #### Authentic or Comedic?
 
@@ -161,7 +161,7 @@ The choice of name is an important one, because it says a lot about you and how 
 
 ##### Wode Elf Names
 
-Elves in general have a casual attitude toward gender, it having no direct bearing on procreation for them. (Normal elf upon learning how [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) mate: "You mean... like animals?") They tend to view the various sex-linked traits associated among other [ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Ancestries%7BREL_PATH_SUFFIX%7D) with masculinity or femininity as a kind of fashion to be taken up or discarded as the mood suits. Over one life, any elf might wear masculine features, or feminine features, or both, many times. For wode elves, this often means adopting a new name, or a different version of the same name. Llyandros might become Llyandra for instance.
+Elves in general have a casual attitude toward gender, it having no direct bearing on procreation for them. (Normal elf upon learning how [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) mate: "You mean... like animals?") They tend to view the various sex-linked traits associated among other [ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries) with masculinity or femininity as a kind of fashion to be taken up or discarded as the mood suits. Over one life, any elf might wear masculine features, or feminine features, or both, many times. For wode elves, this often means adopting a new name, or a different version of the same name. Llyandros might become Llyandra for instance.
 
 **Feminine:** Elvyr, Eviarwyc, Illwyv, Iorwyth, Lliarwyn, Meithennyn, Nimuë, Rhegyth, Viarwyn, Ysallwyth
 
@@ -185,7 +185,7 @@ High elf names are poetic. They are an attempt to capture a fleeting, often cont
 
 ##### Western Vasloria Human Names
 
-[Human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) names vary widely by culture. The following examples are from Western Vasloria.
+[Human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) names vary widely by culture. The following examples are from Western Vasloria.
 
 **Feminine:** Brenwyn, Demelza, Elzbeth, Gwynhyvyr, Maerwyn, Margaret, Meliora, Rowenna, Tamara, Wenna
 
@@ -211,7 +211,7 @@ High elf names are poetic. They are an attempt to capture a fleeting, often cont
 
 ##### Polder Names
 
-For reasons not well understood, [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) in Vasloria use surnames. First names seem chosen to imply a degree of sophistication (or, at least, what [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) consider sophisticated) while last names are typically common, compound words. No one knows why they do this.
+For reasons not well understood, [polders](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) in Vasloria use surnames. First names seem chosen to imply a degree of sophistication (or, at least, what [polders](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) consider sophisticated) while last names are typically common, compound words. No one knows why they do this.
 
 **Feminine:** Agatha, Amaryllis, Beverly, Esmerelda, Marceline, Modesty, Penelope, Rosemarie, Ursula, Weatherly
 
@@ -223,7 +223,7 @@ For reasons not well understood, [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries
 
 ##### Revenant Names
 
-[Revenants](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D) most often keep whatever names they had in life. They may have any number of reasons to adopt a new name in which case that name would reflect their reasons for doing so. Perhaps they adopt a moniker like many [talents](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) do, or they choose a new name from their original culture, or something completely different!
+[Revenants](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant) most often keep whatever names they had in life. They may have any number of reasons to adopt a new name in which case that name would reflect their reasons for doing so. Perhaps they adopt a moniker like many [talents](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Talent) do, or they choose a new name from their original culture, or something completely different!
 
 ##### Time Raider Names
 
@@ -239,31 +239,31 @@ Kuran'zoi names typically end with an epithet, given when the young time raider 
 
 ### Measurements
 
-How tall is a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D)? How long does a [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) live? The Ancestry Measurements table provides the average adult height and weight ranges and life expectancy for each of the [ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Ancestries%7BREL_PATH_SUFFIX%7D) in this chapter. These measurements are only averages, and many folks in the world exist outside of them, so your hero can too!
+How tall is a [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder)? How long does a [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) live? The Ancestry Measurements table provides the average adult height and weight ranges and life expectancy for each of the [ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries) in this chapter. These measurements are only averages, and many folks in the world exist outside of them, so your hero can too!
 
-[Revenants](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D) aren't on the table, since their height and weight is based on their previous ancestry. Likewise, they live until destroyed or moving on after completing their unfinished business.
+[Revenants](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant) aren't on the table, since their height and weight is based on their previous ancestry. Likewise, they live until destroyed or moving on after completing their unfinished business.
 
-[Humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) have the potential to live a little longer on Orden than they do in the real world thanks to the presence of magic.
+[Humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) have the potential to live a little longer on Orden than they do in the real world thanks to the presence of magic.
 
 ###### Ancestry Measurements Table
 
-| Ancestry                                                                            | Height in Feet/<br/> Inches | Weight in<br/> Pounds | Life Expectancy in<br/> Years |
-| ----------------------------------------------------------------------------------- | --------------------------- | --------------------- | ----------------------------- |
-| [Devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D)           | 5'0''-6'0''                 | 120-250               | 70-120                        |
+| Ancestry                                                                        | Height in Feet/<br/> Inches | Weight in<br/> Pounds | Life Expectancy in<br/> Years |
+| ------------------------------------------------------------------------------- | --------------------------- | --------------------- | ----------------------------- |
+| [Devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil)                   | 5'0''-6'0''                 | 120-250               | 70-120                        |
 | \[Dragon Knight\](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon Knight) | 6'0''-7'0''                 | 200-350               | 50-90                         |
-| [Dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D)           | 4'0''-4'6''                 | 500-1,000             | 700-1,500                     |
-| Wode Elf                                                                            | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
-| High Elf                                                                            | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
-| [Hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D)         | 9'0''-10'0''                | 1,000-2,000           | 300-500                       |
-| [Human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D)           | 5'0''-6'0''                 | 100-300               | 70-120                        |
-| [Memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D)       | 5'0''-6'0''                 | 50-100                | 70-120                        |
-| [Orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D)               | 5'6''-6'6''                 | 150-300               | 50-90                         |
-| [Polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D)         | 3'3''-3'6''                 | 20-50                 | 50-90                         |
+| [Dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf)                   | 4'0''-4'6''                 | 500-1,000             | 700-1,500                     |
+| Wode Elf                                                                        | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
+| High Elf                                                                        | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
+| [Hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan)                 | 9'0''-10'0''                | 1,000-2,000           | 300-500                       |
+| [Human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human)                   | 5'0''-6'0''                 | 100-300               | 70-120                        |
+| [Memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek)               | 5'0''-6'0''                 | 50-100                | 70-120                        |
+| [Orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc)                       | 5'6''-6'6''                 | 150-300               | 50-90                         |
+| [Polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder)                 | 3'3''-3'6''                 | 20-50                 | 50-90                         |
 | \[Time Raider\](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Time Raider)     | 5'0''-6'0''                 | 120-250               | 50-90                         |
 
 ### Starting Size and Speed
 
-Unless otherwise noted, a character of any of these [ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Ancestries%7BREL_PATH_SUFFIX%7D) is size 1M and has speed 5 and stability 0.
+Unless otherwise noted, a character of any of these [ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries) is size 1M and has speed 5 and stability 0.
 
 Where an ancestry provides you with an ability, see [Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2) for details of the ability format.
 
@@ -271,21 +271,21 @@ Where an ancestry provides you with an ability, see [Abilities](#page-83-0) in [
 
 Each ancestry has one or more signature traits, which your hero gets for free if they take that ancestry. This is a defining feature that other heroes of your ancestry also possess.
 
-[Ancestries](%7BREL_PATH_PREFIX%7DRules/Chapters/Ancestries%7BREL_PATH_SUFFIX%7D) also have purchased traits, but you don't get every purchased trait your ancestry has to offer. Instead, your ancestry provides a budget of ancestry points you can use to select traits. Each trait has a point cost that you pay to grant its benefit to your hero.
+[Ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries) also have purchased traits, but you don't get every purchased trait your ancestry has to offer. Instead, your ancestry provides a budget of ancestry points you can use to select traits. Each trait has a point cost that you pay to grant its benefit to your hero.
 
-For example, the [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) ancestry has the signature trait Silver Tongue and 3 ancestry points to spend on seven different traits. A player creating a [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) hero could select Barbed Tail, Glowing Eyes, and Hellsight, each of which costs 1 ancestry point, or they could select one of those traits plus Impressive Horns or Wings, each of which costs 2 ancestry points. But they couldn't select both Impressive Horns and Wings, since their combined cost of 4 exceeds the ancestry points budget for the [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D).
+For example, the [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) ancestry has the signature trait Silver Tongue and 3 ancestry points to spend on seven different traits. A player creating a [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) hero could select Barbed Tail, Glowing Eyes, and Hellsight, each of which costs 1 ancestry point, or they could select one of those traits plus Impressive Horns or Wings, each of which costs 2 ancestry points. But they couldn't select both Impressive Horns and Wings, since their combined cost of 4 exceeds the ancestry points budget for the [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil).
 
 ## Devil
 
-The native ancestry of the Seven Cities of Hell, [devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) is born with some *hellmark*-horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
+The native ancestry of the Seven Cities of Hell, [devils](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) is born with some *hellmark*-horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
 
 Hell is dominated by the Seven Cities of Hell, each ruled by a different archdevil who constantly plots and schemes against the others in the hope of ascending to the Throne of Hell.
 
-Those [devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) who join "the trade," as their civil service is called, spend their days in bureaucratic service hoping or scheming for promotion. [Devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D), who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant's soul, with the summoned [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) acting as the broker.
+Those [devils](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) who join "the trade," as their civil service is called, spend their days in bureaucratic service hoping or scheming for promotion. [Devils](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil), who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant's soul, with the summoned [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) acting as the broker.
 
-On rare occasions, though, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) on Orden permanently. Some stranded [devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) seek to return to Hell, but most prefer life in Orden, where the phrase "stabbed in the back by a colleague" is usually a metaphor.
+On rare occasions, though, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) on Orden permanently. Some stranded [devils](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) seek to return to Hell, but most prefer life in Orden, where the phrase "stabbed in the back by a colleague" is usually a metaphor.
 
-The majority of [devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of [devils](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) who were stranded in the mundane world decades, centuries, even millennia ago.
+The majority of [devils](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of [devils](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) who were stranded in the mundane world decades, centuries, even millennia ago.
 
 ### On Devils
 
@@ -293,11 +293,11 @@ Adelard scuttled across the floor of his basement, a heavy tome clutched in one 
 
 One of the red candles suddenly guttered out, making the small room noticeably darker. "Damn and blast!" he hissed. Then he relit it from another candle.
 
-Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles—they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a* skull—it didn't even specify a *[human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D)* skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual *know* if the skull was real?
+Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles—they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a* skull—it didn't even specify a *[human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human)* skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual *know* if the skull was real?
 
 He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and wittering wasn't going to help. He opened the book and turned the page—then began to speak the ritual.
 
-Moments later, the candles flared, there was a burst of flame, and acrid brimstone filled his nostrils. When the smoke cleared... there was a [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) standing in his basement—dark purple skin, horns, even a twitching tail.
+Moments later, the candles flared, there was a burst of flame, and acrid brimstone filled his nostrils. When the smoke cleared... there was a [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) standing in his basement—dark purple skin, horns, even a twitching tail.
 
 "Aha! Yes, finally." The creature rubbed his hands together. "It's about time," he said, pulling on the bottom of his waistcoat to straighten it. "Now then! How does it go? Oh, yes." He cleared his throat. "On behalf of my lord, his grace Archduke Dispater, Lord of Dis, I am empowered to offer you..." But his speech fell on deaf ears.
 
@@ -307,25 +307,25 @@ Moments later, the candles flared, there was a burst of flame, and acrid brimsto
 
 He stopped cavorting and capering, and his eyes went wide. "Until they... until..." He clutched his chest.
 
-"Uh-oh," the [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) said, genuinely worried.
+"Uh-oh," the [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) said, genuinely worried.
 
 "HNNG!" Adelard grunted. Then he collapsed to the ground, curled into a fetal position, obviously in immense pain.
 
-"Nono. Nurse!" the [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) called out. "Doctor?! Is anyone... you should lie down. Well, you are lying down. Do some... some deep-breathing exercises. Have a cup of tea! That always..."
+"Nono. Nurse!" the [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) called out. "Doctor?! Is anyone... you should lie down. Well, you are lying down. Do some... some deep-breathing exercises. Have a cup of tea! That always..."
 
 Adelard gasped one last time and uncurled, muscles relaxed. Eyes open but unseeing.
 
-"... calms me down," the [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) said quietly.
+"... calms me down," the [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) said quietly.
 
-Suddenly, the candles were extinguished as one, plunging the room into pitch blackness. The [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D)'s hellsight meant this was only a minor inconvenience for him. "Um," he said to the empty room. "Uh-oh."
+Suddenly, the candles were extinguished as one, plunging the room into pitch blackness. The [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil)'s hellsight meant this was only a minor inconvenience for him. "Um," he said to the empty room. "Uh-oh."
 
 He poked the tip of his boot at the chalk symbol surrounding him on the floor. Nothing happened. He stepped on it. Nothing happened. He put his weight on that foot. No alarms went off.
 
 He walked out of the circle. Nothing happened. No one, it seemed, cared.
 
-A few moments later, the door to a small home, little more than a wooden shack, on the outskirts of a small village opened. A well-dressed [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) peeked out and then slowly emerged, stepping onto the dirt road that led through the center of the village. A keep stood atop a hill in the distance.
+A few moments later, the door to a small home, little more than a wooden shack, on the outskirts of a small village opened. A well-dressed [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) peeked out and then slowly emerged, stepping onto the dirt road that led through the center of the village. A keep stood atop a hill in the distance.
 
-"Ah," the [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) said.
+"Ah," the [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) said.
 
 A wide woman dressed in wool, carrying a pile of clean clothes, saw him and stopped in her tracks, her mouth open.
 
@@ -337,17 +337,17 @@ A wide woman dressed in wool, carrying a pile of clean clothes, saw him and stop
 
 A young man in a low, stone building saw this exchange, grabbed what looked like a long iron poker, and ran out to confront the new arrival.
 
-"Have at you, [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D)!" he said, assuming something like a dueling pose. "I say! Steady on!" The [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) raised his hands.
+"Have at you, [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil)!" he said, assuming something like a dueling pose. "I say! Steady on!" The [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) raised his hands.
 
 The two of them stood there, frozen in the middle of the street for a few moments.
 
-Then the [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) turned and ran away as quickly as he could.
+Then the [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) turned and ran away as quickly as he could.
 
 • "And that's how I ended up here!" Riyalkin toasted his dinner companion. "Now, after years of obscurity, a legendary hero!"
 
 "Legendarily *vain*," his dinner guest teased with a smile.
 
-"Simply playing my part, darling. People expect a certain amount of vanity in a [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), don't they?"
+"Simply playing my part, darling. People expect a certain amount of vanity in a [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), don't they?"
 
 She laughed. "Riyalkin the Red Pen is every bit as advertised."
 
@@ -355,7 +355,7 @@ She laughed. "Riyalkin the Red Pen is every bit as advertised."
 
 "Not all actors are vain." She took offense beautifully. "Just the good ones." She sipped her drink.
 
-"Well then, you must be very vain indeed," the [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) said. "Anyway, does that answer your question?"
+"Well then, you must be very vain indeed," the [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) said. "Anyway, does that answer your question?"
 
 "Mostly. Do they speak Caelian in Hell?"
 
@@ -369,7 +369,7 @@ He waggled his eyebrows. "Style counts for something."
 
 "Well, I was an accountant here in Capital for several years in between." "An accountant!"
 
-Riyalkin shrugged. "It's what I did before. I'm moderately good at it." "And how does one go from being an alien accountant to a famous [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D)?"
+Riyalkin shrugged. "It's what I did before. I'm moderately good at it." "And how does one go from being an alien accountant to a famous [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour)?"
 
 "Well..." Riyalkin seemed uncomfortable suddenly. "It's just that... the thing is, accountancy in the Seven Cities is just so much more interesting than it is here. Plotting and scheming, always on the lookout for an assassin, people constantly trying to claw their way up the ladder, usually over your dead body. And I guess I just... missed the excitement."
 
@@ -379,11 +379,11 @@ Riyalkin shrugged. "It's what I did before. I'm moderately good at it." "And how
 
 and the outrageous sums I spend looking good, I always feel *underdressed* in your presence? Do you employ sorcery? Or is it that any outfit is improved by your *unearthly* beauty?"
 
-She blushed in spite of herself and raised her own glass in a toast. "You silver-tongued [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D)."
+She blushed in spite of herself and raised her own glass in a toast. "You silver-tongued [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil)."
 
 ### Devil Traits
 
-[Devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
+[Devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) heroes have access to the following traits.
 
 #### Signature Trait: Silver Tongue
 
@@ -411,7 +411,7 @@ Your eyes let you see through darkness, fog, and other obscuring effects. You do
 
 ##### Impressive Horns (2 Points)
 
-Your cherished horns are larger than the average [devil](%7BREL_PATH_PREFIX%7DRules/Ancestries/Devil%7BREL_PATH_SUFFIX%7D)'s, and a hardened representation of your force of will. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
+Your cherished horns are larger than the average [devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil)'s, and a hardened representation of your force of will. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
 
 ##### Prehensile Tail (2 Points)
 
@@ -419,7 +419,7 @@ Your prehensile tail allows you to challenge foes on all sides. You can't be fla
 
 ##### Wings (2 Points)
 
-You possess wings powerful enough to take you airborne. While using your wings to [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) at 3rd level or lower, you have damage weakness 5.
+You possess wings powerful enough to take you airborne. While using your wings to [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly) at 3rd level or lower, you have damage weakness 5.
 
 ## Dragon Knight
 
@@ -427,7 +427,7 @@ The ritual of Dracogenesis that grants the power to create a generation of drago
 
 The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
 
-Knighthood was a title carried by every member of that first generation of dragon knights. Within the Dragon Phalanx were [shadows](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D), [censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), [tacticians](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), and [elementalists](%7BREL_PATH_PREFIX%7DRules/Classes/Elementalist%7BREL_PATH_SUFFIX%7D). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
+Knighthood was a title carried by every member of that first generation of dragon knights. Within the Dragon Phalanx were [shadows](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Shadow), [censors](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Censor), [tacticians](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician), and [elementalists](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
 
 Then Ajax came.
 
@@ -437,15 +437,15 @@ The cloaked figure at the back of the inn stood up. As they did so, their hood s
 
 A tall, broad draconian stepped into the light. He was old, his scales battle-scarred. He rested one clawed hand on the pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat, expressionless look was more terrifying than any threatening glower.
 
-The three [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) bandits took a step back. One of the [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) just sneered—then, sensing his [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) compatriots' reluctance, turned to look at them. "What's this?" the lead [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) growled.
+The three [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) bandits took a step back. One of the [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) just sneered—then, sensing his [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) compatriots' reluctance, turned to look at them. "What's this?" the lead [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) growled.
 
 Looking at the dragon knight, another bandit added quickly, "We didn't know there was one of you here."
 
-The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D). "Think of the *bounty*," the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) hissed to the [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), but he kept his eye on the draconian. "We'll all be *rich*."
+The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf). "Think of the *bounty*," the [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) hissed to the [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), but he kept his eye on the draconian. "We'll all be *rich*."
 
-The two [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) surveyed the tavern. The people were now all facing them. A few had stood up. They weren't afraid anymore.
+The two [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) surveyed the tavern. The people were now all facing them. A few had stood up. They weren't afraid anymore.
 
-"We'll be *back*," the lead [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) said, and the group of them backed out of the inn, sheathing their shortswords before they turned and left.
+"We'll be *back*," the lead [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) said, and the group of them backed out of the inn, sheathing their shortswords before they turned and left.
 
 As one, the people in the tavern turned to look with undisguised awe at the dragon knight. He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
 
@@ -573,19 +573,19 @@ As a maneuver, you can recite the following oath. Until the start of your next t
 
 ##### Wings (2 Points)
 
-You possess wings powerful enough to take you airborne. While using your wings to [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) at 3rd level or lower, you have damage weakness 5.
+You possess wings powerful enough to take you airborne. While using your wings to [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly) at 3rd level or lower, you have damage weakness 5.
 
 ## Dwarf
 
-Possessed of a strength that belies their size, [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D).
+Possessed of a strength that belies their size, [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf).
 
-[Dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) are the children of the elder god Ord, and a common phrase among [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) is "Ord made the world"-their way of saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) leave their homes to see the world and seek glory in Ord's name.
+[Dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) are the children of the elder god Ord, and a common phrase among [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) is "Ord made the world"-their way of saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) leave their homes to see the world and seek glory in Ord's name.
 
 ### On Dwarves
 
 "They can be stubborn," Embers said.
 
-John smiled and gave her a look as they walked around the barn. "Yeah not like elves and [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), right?"
+John smiled and gave her a look as they walked around the barn. "Yeah not like elves and [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), right?"
 
 Embers grinned.
 
@@ -593,61 +593,61 @@ Embers grinned.
 
 "Yes I can imagine why," Embers said. "Each sentence sounds like an order."
 
-They found the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) at the edge of the old quarry outside of town cutting blocks of stone with a long copper saw. It normally took two people a quarter hour, but the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) sawed an entire block in two with a single stroke. The stones smoked as they fell, and the copper saw glowed with heat.
+They found the [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) at the edge of the old quarry outside of town cutting blocks of stone with a long copper saw. It normally took two people a quarter hour, but the [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) sawed an entire block in two with a single stroke. The stones smoked as they fell, and the copper saw glowed with heat.
 
-John and Embers watched silently as the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) hefted another massive stone onto the cutting block.
+John and Embers watched silently as the [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) hefted another massive stone onto the cutting block.
 
-The [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) spit into his hands and noticed the two out of the corner of his eye. He paused, walked over to grab his battle staff with the hourglass symbol of Zarok, Law-Giver at the tip. He walked back to the stone and leaned his staff against a tree stump within easy reach should he need to use it.
+The [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) spit into his hands and noticed the two out of the corner of his eye. He paused, walked over to grab his battle staff with the hourglass symbol of Zarok, Law-Giver at the tip. He walked back to the stone and leaned his staff against a tree stump within easy reach should he need to use it.
 
 He went back to work.
 
 "Good morning," John said.
 
-The [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) ignored them.
+The [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) ignored them.
 
 "I'm a friend of Morag the Wise Woman," John said. "She said there was a high theochron of Zarok, Law-Giver around here working to earn his keep."
 
-The [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) paused. "High theochron?" he said. "A lofty title. Far too lofty for a job such as this," he went back to work and a moment later there were two more smoking blocks. He cleared them away.
+The [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) paused. "High theochron?" he said. "A lofty title. Far too lofty for a job such as this," he went back to work and a moment later there were two more smoking blocks. He cleared them away.
 
 "There's a job for nine..." John hesitated. *Ratcatchers* didn't seem appropriate. He went with his gut. "Heroes. In Bedegar. A village looking for someone to stand against Lord Saxton."
 
-"Mm. I have heard of this one," the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) said, seemingly uninterested. He hurled the smaller blocks into a pile and went to heft a new stone to cut. "A foul tyrant. Well-suited to these times. Perhaps the people deserve him."
+"Mm. I have heard of this one," the [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) said, seemingly uninterested. He hurled the smaller blocks into a pile and went to heft a new stone to cut. "A foul tyrant. Well-suited to these times. Perhaps the people deserve him."
 
-"No people *deserve* tyranny," Embers said, an edge in her voice. The [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) appeared to notice her for the first time, peered at her, took in her raiment, and went back to work. "Nine against Saxton." The [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) carried the massive block over his head to the cutting stone. He shook his head in disbelief at what was being asked. "How great the opposition?"
+"No people *deserve* tyranny," Embers said, an edge in her voice. The [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) appeared to notice her for the first time, peered at her, took in her raiment, and went back to work. "Nine against Saxton." The [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) carried the massive block over his head to the cutting stone. He shook his head in disbelief at what was being asked. "How great the opposition?"
 
 John told him.
 
-The [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) dropped the stone in astonishment and stared at the [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) and elf. Then he smiled. "Hah. You know our traditions well, sir knight. You seek to grant me a glorious death leading desperate soldiers against impossible odds."
+The [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) dropped the stone in astonishment and stared at the [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) and elf. Then he smiled. "Hah. You know our traditions well, sir knight. You seek to grant me a glorious death leading desperate soldiers against impossible odds."
 
 "Not that desperate," John said modestly.
 
-"Yes." The [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) looked at Embers again. "By garb and reputation, I make you A Mist Curls Around Dying Embers, mistress of the Tower of Translation. You are no stranger to power. But your tower is fallen lady," he said. "Seek you revenge? Or justice?"
+"Yes." The [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) looked at Embers again. "By garb and reputation, I make you A Mist Curls Around Dying Embers, mistress of the Tower of Translation. You are no stranger to power. But your tower is fallen lady," he said. "Seek you revenge? Or justice?"
 
 "I see no reason to choose," Embers said smoothly. "In my case, as well as the case of these villagers, justice would *be* revenge."
 
-The [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D)'s head snapped to look at Sir John. "She speaks my language as well it seems. You are of a kind, you two."
+The [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf)'s head snapped to look at Sir John. "She speaks my language as well it seems. You are of a kind, you two."
 
 "Three," John dared.
 
-The [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) failed to stifle a smile. "And what is your stake in this?" John shrugged. "I've already been paid," he said. He fished around in a pouch on his belt. "Here, I'll split it with you, fair and square."
+The [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) failed to stifle a smile. "And what is your stake in this?" John shrugged. "I've already been paid," he said. He fished around in a pouch on his belt. "Here, I'll split it with you, fair and square."
 
-John flicked a coin off his finger with his thumb. It spun and glinted as it arced across the space between them. The [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) snatched it from the air, opened his palm and stared at it. Something in his face changed. Softened. He looked at the nearby town that had adopted him. Peasants doing labor in the fields.
+John flicked a coin off his finger with his thumb. It spun and glinted as it arced across the space between them. The [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) snatched it from the air, opened his palm and stared at it. Something in his face changed. Softened. He looked at the nearby town that had adopted him. Peasants doing labor in the fields.
 
 He clenched his fist around the coin. "A princely sum," he said, mostly to himself.
 
 "You are Dazar," Embers dared. "High theochron in exile. Yours is the greatest dwarven church in all Omund's Land. Thousands look to you for spiritual guidance."
 
-The [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) said nothing. He looked at the coin in his hand.
+The [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) said nothing. He looked at the coin in his hand.
 
 "You left your people," Embers said quietly.
 
-"My people left me!" Dazar barked. "When they embraced Ajax!" Embers just watched the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D). His rage subsided as quickly as it came.
+"My people left me!" Dazar barked. "When they embraced Ajax!" Embers just watched the [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf). His rage subsided as quickly as it came.
 
 "I thought... I thought leaving might inspire my people to..." He looked at the nearby village. "Eh, it matters not. I could not have stayed in any event. I lack the stomach for tyranny."
 
 "Kal Kalavar's new thane is not an easy problem to solve," John said with sympathy. "Saxton is."
 
-The [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) looked up at Embers, "Her I know by reputation." He turned to look at John.
+The [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) looked up at Embers, "Her I know by reputation." He turned to look at John.
 
 John bowed slightly. "John," he said.
 
@@ -673,7 +673,7 @@ John shook his head.
 
 Dazar stared at the man, this knight of Tor, and looked at Embers quietly radiating pride in her friend.
 
-"Hmm," Dazar grunted. He opened a pouch on his chest armor and inserted the coin. "We must find a [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), to tell the tale of Saxton's fall. I cannot wait to hear how it ends!" He walked between them, carrying his staff over his shoulder.
+"Hmm," Dazar grunted. He opened a pouch on his chest armor and inserted the coin. "We must find a [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), to tell the tale of Saxton's fall. I cannot wait to hear how it ends!" He walked between them, carrying his staff over his shoulder.
 
 "Come!" he barked. "There's a world needs mending! Why stand we here idle?"
 
@@ -681,13 +681,13 @@ John was grinning madly at Embers. She held up three fingers.
 
 ### Dwarf Traits
 
-[Dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
+[Dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) heroes have access to the following traits.
 
 #### Signature Trait: Runic Carving
 
 You can carve a rune onto your skin with 10 uninterrupted minutes of work, which is activated by the magic within your body. The rune you carve determines the benefit you receive, chosen from among the following:
 
-**Detection:** Pick a specific type of creature (such as goblins or [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D)) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don't have line of effect to the creature or object. You can change the type of creature or object as a maneuver.
+**Detection:** Pick a specific type of creature (such as goblins or [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human)) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don't have line of effect to the creature or object. You can change the type of creature or object as a maneuver.
 
 **Light:** Your skin sheds light for 10 squares. You can turn this light on and off as a maneuver.
 
@@ -701,7 +701,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Gro
 
 ##### Great Fortitude (2 Points)
 
-Your hearty constitution prevents you from losing strength. You can't be made [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D).
+Your hearty constitution prevents you from losing strength. You can't be made [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened).
 
 ##### Grounded (1 Point)
 
@@ -721,7 +721,7 @@ You have a magic connection to the earth. When you spend 1 uninterrupted hour si
 
 ## Wode Elf
 
-Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) for snatching children who wander too far into the woods. [Humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) *should* fear the trees.
+Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) for snatching children who wander too far into the woods. [Humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) *should* fear the trees.
 
 The wode elves' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at urban warfare.
 
@@ -741,7 +741,7 @@ Then, only a few feet from them, a half-dozen figures melded out of the backgrou
 
 Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back toward them by two more wode elves, his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
 
-The elves were tall, taller than an adult [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
+The elves were tall, taller than an adult [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
 
 "Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a wode elf with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
 
@@ -849,13 +849,13 @@ You have the following signature ability. Signature abilities can be used at wil
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 2 + M or A damage; A < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 5 + M or A damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 2 + M or A damage; A < WEAK, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+- **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+- **17+:** 5 + M or A damage; A < STRONG, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
 
 ## High Elf
 
-Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, high elf history describes a better age, before the coming of [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
+Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, high elf history describes a better age, before the coming of [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
 In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
 
@@ -875,15 +875,15 @@ The five children stood alone in the center of a large circular courtyard open t
 
 "Yes," Jeremy said, looking at the nearest guards with their longspears and swords. "We feel very safe."
 
-"Who are you kidding?" Dade said. "Everyone knows how much elves hate [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D)."
+"Who are you kidding?" Dade said. "Everyone knows how much elves hate [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human)."
 
 At this, Lord Tear exchanged a look with Llyander, consort to Queen Imyrr. It was a knowing look, full of sadness and melancholy. Then he broke his silence.
 
-"Show me an elf who hates [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D)," he said, his voice deep and sonorous, "and I will show you an elf who loved a [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) and watched them grow old and die." He looked at the children for the first time and smiled a melancholy smile. "Love is like sunlight for us, you see. We love completely but rarely. The loss of it means an eternity of grief for us."
+"Show me an elf who hates [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human)," he said, his voice deep and sonorous, "and I will show you an elf who loved a [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) and watched them grow old and die." He looked at the children for the first time and smiled a melancholy smile. "Love is like sunlight for us, you see. We love completely but rarely. The loss of it means an eternity of grief for us."
 
 The king tapped the scroll against his lap, seeming to have reached a decision.
 
-"Well done, consort. Young [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it..."-he looked at Llyander-"... by changing my mind."
+"Well done, consort. Young [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it..."-he looked at Llyander-"... by changing my mind."
 
 Llyander nodded deferentially, silently congratulating the king on his insight.
 
@@ -921,7 +921,7 @@ Llyander put a finger to their lips, silencing young Meliora. "It is not a thing
 
 Llyander shrugged. "What does anyone really look like?" And while the other children chalked this up to their escort's normally abstruse mode of communication, Meliora caught a glimpse of understanding somewhere in her mind.
 
-The king turned back to them. "Should any of you seek hidden lore or deep wisdom, please allow me to serve you first. But you, young woman, the [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) child who learned our language, I name thee *elf friend*. And my naming carries power. You will find the learning of our lore will come more quickly to you, and all those who still revere the elves will give you safe passage in their lands."
+The king turned back to them. "Should any of you seek hidden lore or deep wisdom, please allow me to serve you first. But you, young woman, the [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) child who learned our language, I name thee *elf friend*. And my naming carries power. You will find the learning of our lore will come more quickly to you, and all those who still revere the elves will give you safe passage in their lands."
 
 Llyander put their hands on their hips and regarded the children. "Not bad for your second quest. What shall you do for an encore?"
 
@@ -939,7 +939,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Hig
 
 ##### Glamor of Terror (2 Points)
 
-When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a triggered action to make that creature [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you until the end of their next turn.
+When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a triggered action to make that creature [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) of you until the end of their next turn.
 
 ##### Graceful Retreat (1 Point)
 
@@ -959,21 +959,21 @@ Accessing memories is as easy as living in the present for you. You gain an edge
 
 ##### Unstoppable Mind (2 Points)
 
-Your mind allows you to maintain your focus in any situation. You can't be made [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D).
+Your mind allows you to maintain your focus in any situation. You can't be made [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed).
 
 ## Hakaan
 
-In spite of their friendly, outgoing nature, the rare presence of a [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) in [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) society is considered a harbinger. An omen of dark times.
+In spite of their friendly, outgoing nature, the rare presence of a [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) in [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) society is considered a harbinger. An omen of dark times.
 
 Descended from a tribe of giants in upper Vanigar, the original Haka'an tribe made a bargain with Holkatya the Vanigar trickster god. They traded some of their gigantic size and strength for the ability to see the future.
 
-But Holkatya betrayed them, and the only future a [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) is allowed to see is the moment and nature of their own death. These visions are never of some mundane tragedy. No [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) ever received a vision of dying from choking on a grape. This Doomsight is always momentous. Always dramatic.
+But Holkatya betrayed them, and the only future a [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) is allowed to see is the moment and nature of their own death. These visions are never of some mundane tragedy. No [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) ever received a vision of dying from choking on a grape. This Doomsight is always momentous. Always dramatic.
 
-The Doomsight can happen at any moment. It does not come for all or even most [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D), but when it comes, it is considered an act of overwhelming hubris to ignore it. Trying to escape the Doomsight means a painful, tragic death, and cursing your family to live with shame.
+The Doomsight can happen at any moment. It does not come for all or even most [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan), but when it comes, it is considered an act of overwhelming hubris to ignore it. Trying to escape the Doomsight means a painful, tragic death, and cursing your family to live with shame.
 
-But the only [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) the average [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) meets is one trying to fulfill their doom. The [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) superstition—that the arrival of one or more [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) in [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) experience the Doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
+But the only [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) the average [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) meets is one trying to fulfill their doom. The [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) superstition—that the arrival of one or more [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) in [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) experience the Doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
 
-[Humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) in Vanigar have their own word for this concept of a personal fate. "Wyrd." Traditional [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) sometimes refer to the Doomsight as "wyrdken."
+[Humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) in Vanigar have their own word for this concept of a personal fate. "Wyrd." Traditional [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) sometimes refer to the Doomsight as "wyrdken."
 
 ### On Hakaan
 
@@ -991,7 +991,7 @@ As the giant forced the maw open, glowing tentacles writhed out of it, wrapping 
 
 John knew what the giant did not—the tendrils drained life, sapped energy. The living portal would gain the strength it needed to defeat the giant by drinking his own life force.
 
-But the arrival of the giant changed the equation. John saw a new solution. The [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) risked his life to buy them options, and Sir John of Tor would not let the giant risk his life in vain.
+But the arrival of the giant changed the equation. John saw a new solution. The [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) risked his life to buy them options, and Sir John of Tor would not let the giant risk his life in vain.
 
 Kicking the styrich back gave John room to move, and he dashed toward Embers. A shout, and a thrust into the soulraker's back, and the demons surrounding Embers turned to face Sir John.
 
@@ -999,17 +999,17 @@ He had to focus so intently on the demons who now surrounded him, he wasn't even
 
 Dispatching a chimeron, John saw Embers emerge from the other side of the egress demon with Dazar in her arms. John couldn't tell if Dazar was conscious. He might even be dead. Who knew what lurked on the other side of that living portal to the Abyssal Waste?
 
-The [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) struggled against the living gateway to that blasted world. One leg buckled and the stone warrior fell to one knee. The door would take him just as it took their [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D).
+The [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) struggled against the living gateway to that blasted world. One leg buckled and the stone warrior fell to one knee. The door would take him just as it took their [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) [conduit](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Conduit).
 
 Then, rising behind the egress demon, the high theocron, his battlestaff glowing.
 
-"Back!" Dazar [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) of Zarok, Law-Giver shouted, smashing at the flesh of the living doorway with his battlestaff. "To hell!" He swung again.
+"Back!" Dazar [conduit](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Conduit) of Zarok, Law-Giver shouted, smashing at the flesh of the living doorway with his battlestaff. "To hell!" He swung again.
 
 The doorway quivered and bled, and the giant stood up. "Yes!" He called out. "YES!"
 
 John and Embers joined the fight. The gamble, unspoken, was that the summoned demons would evaporate if their living portal were destroyed. It paid off.
 
-They only had a moment before the demons swarmed them, but a moment was all it took before the [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) shouted and finally ripped the bloody egress demon apart with his bare hands.
+They only had a moment before the demons swarmed them, but a moment was all it took before the [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) shouted and finally ripped the bloody egress demon apart with his bare hands.
 
 The demons in midstride all turned inside out, leaving bubbling, steaming pools of organs, eyeballs, and teeth on the ground. Leaving four heroes gasping from the fight.
 
@@ -1039,7 +1039,7 @@ The giant smiled "Fear? At a meeting of friends? Ah these must be treacherous ti
 
 The giant shook his head. "Following my brother. He hurtles headlong to meet his doom, which I deem is bound up in this matter of this Sky Tyrant."
 
-"Ajax," Dazar said. And the [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) could hear the darkness in his voice.
+"Ajax," Dazar said. And the [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) could hear the darkness in his voice.
 
 "Aye. I did not understand why his path and yours seemed coincident, but now I think it has something to do with the thing they all seek, his demons."
 
@@ -1047,11 +1047,11 @@ John looked at Embers. "One of the Eleven Who Shall Not Be Named," she said. "Th
 
 The giant nodded solemnly. "You are lorewise. My trust in you was well-placed. I am Ardashir," he placed one palm on his forehead, the other over his heart, and bowed his head once. "It would be my pleasure to journey with you awhile. Stalwart allies are rare and precious in these times." He grinned. "Good company even more so."
 
-"No armor, no sword or staff," Dazar noticed. "[Hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) do not use weapons?"
+"No armor, no sword or staff," Dazar noticed. "[Hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) do not use weapons?"
 
 "Many do!" Ardashir said. "I do not. I left the hills of my people long ago to pursue a different path. A path of order and discipline. It is my birthright perhaps."
 
-"He's a [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D)," Embers explained. "They eschew all weapons and implements of war. It is part of their creed, as I understand it."
+"He's a [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null)," Embers explained. "They eschew all weapons and implements of war. It is part of their creed, as I understand it."
 
 "Strength alone might serve," Dazar nodded, "when the strength is such as yours."
 
@@ -1061,7 +1061,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 
 ### Hakaan Traits
 
-[Hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
+[Hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) heroes have access to the following traits.
 
 #### Signature Trait: Big!
 
@@ -1089,7 +1089,7 @@ Whenever you force move a creature or object, the forced movement distance gains
 
 ##### Great Fortitude (2 Points)
 
-Your hearty constitution prevents you from losing strength. You can't be made [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D).
+Your hearty constitution prevents you from losing strength. You can't be made [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened).
 
 ##### Stand Tough (1 Point)
 
@@ -1097,49 +1097,49 @@ Your body is made to withstand the blows of your enemies. Your Might score is tr
 
 ## Human
 
-[Humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) belong to the world in a way the other speaking peoples do not. You can sense the presence of the supernatural—that... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
+[Humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) belong to the world in a way the other speaking peoples do not. You can sense the presence of the supernatural—that... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
 
-"No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin... the [dwarves](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) and the [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) as you say. What is it that sets [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason."
+"No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin... the [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) and the [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) as you say. What is it that sets [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason."
 
 ### On Humans
 
-So, we arrive here at the end of your first semester of [Human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) Culture. I hope to see you next year in the Caelian Empire course, and though it may be hard to believe now, I often see former students' names in our textbooks years later. Perhaps that will be some of you.
+So, we arrive here at the end of your first semester of [Human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) Culture. I hope to see you next year in the Caelian Empire course, and though it may be hard to believe now, I often see former students' names in our textbooks years later. Perhaps that will be some of you.
 
-I will now answer the one question I am asked most often, and which I save answering until the last day of class. What do I think of [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D)?
+I will now answer the one question I am asked most often, and which I save answering until the last day of class. What do I think of [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human)?
 
-I am a high elf, as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
+I am a high elf, as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
 
-What do I think of [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D)? Well, I will tell you.
+What do I think of [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human)? Well, I will tell you.
 
 I was here, teaching this class during the fire of Chaos 373. The fire *leveled this city*. Can you imagine that? Can you imagine the heat, the death, destruction that such a thing causes?
 
 *Six months* after the Great Fire, your ancestors had rebuilt... everything. I have seen many miracles in my life. Witnessing that feat might be chief among them.
 
-Liches are almost always [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D). Did you know that? I think I know why. Your lives are so short—almost as soon as you're born, you're thinking about dying, and you refuse to yield.
+Liches are almost always [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human). Did you know that? I think I know why. Your lives are so short—almost as soon as you're born, you're thinking about dying, and you refuse to yield.
 
 That refusal to yield to death... to *death*... is what drives you, I think. Drives you to leave the world better than you found it. Causes ruined people to rebuild great city.
 
-We studied [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) history in this room. Did you feel that those great ancestors of yours were perhaps made of finer stuff than you? Do not think thus. I knew them, and I know you, and your future is greater. I sometimes think each [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) generation greater than the last—more courageous, more generous. Quicker to forgive.
+We studied [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) history in this room. Did you feel that those great ancestors of yours were perhaps made of finer stuff than you? Do not think thus. I knew them, and I know you, and your future is greater. I sometimes think each [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) generation greater than the last—more courageous, more generous. Quicker to forgive.
 
 Today, Ajax's name is on everyone's tongue, but we learned of many great evils that plagued this world. We met the Pharaoh Khorsekef, desperate, his power failing, as he opened the Great Tet and drank of the time stored there, becoming the Ultralich. He was defeated, and now rules the Necropolitan Ruin in the Abyssal Waste.
 
 We watched Cthrion Uroniziir try to reduce the timescape into one singular universe, wiping out reality as we know it. She was defeated, and we see her cage every day.1
 
-Each of these great evils was defeated by a coalition. The armies and heroes of many speaking peoples. And all of them—all of them—were led... by [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D). That's a fact. That's history. You can look it up.
+Each of these great evils was defeated by a coalition. The armies and heroes of many speaking peoples. And all of them—all of them—were led... by [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human). That's a fact. That's history. You can look it up.
 
 Is there some rare trait that makes you uniquely qualified to lead disparate peoples, bring them together to achieve great things? I think... there must be.
 
-Those great [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), your ancestors, did not focus on differences. They did not *weigh* different people and grade them based on arbitrary traits deemed virtues and flaws. That is what Ajax does. No, those [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) focused on the future. On making a better world... for all of us. A world many of them knew they would not live to see. That is a sacrifice... I can scarcely imagine.
+Those great [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), your ancestors, did not focus on differences. They did not *weigh* different people and grade them based on arbitrary traits deemed virtues and flaws. That is what Ajax does. No, those [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) focused on the future. On making a better world... for all of us. A world many of them knew they would not live to see. That is a sacrifice... I can scarcely imagine.
 
 The people who stand against Ajax and tyrants like him will be just like you—normal people. Priests and scholars and merchants and farmers. Maybe even teachers.
 
-Stopping Ajax will require you to become something else. You must become heroes. [Conduits](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) of saints, warmasters of great armies. [Censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) and [shadows](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D). That may seem unlikely now, but the future has a way of surprising us.
+Stopping Ajax will require you to become something else. You must become heroes. [Conduits](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Conduit) of saints, warmasters of great armies. [Censors](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Censor) and [shadows](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Shadow). That may seem unlikely now, but the future has a way of surprising us.
 
 Some of your names, I will see written in future textbooks. But some of your names, I will see written in the stars.
 
 ### Human Traits
 
-[Human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
+[Human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) heroes have access to the following traits.
 
 #### Signature Trait: Detect the Supernatural
 
@@ -1155,11 +1155,11 @@ Your connection to the natural world allows you to resist certain supernatural e
 
 ##### Determination (2 Points)
 
-A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D), [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D), or [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D), you can use a maneuver to immediately end one of those conditions.
+A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened), [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed), or [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened), you can use a maneuver to immediately end one of those conditions.
 
 ##### Perseverance (1 Point)
 
-Giving up is for other people. You gain an edge on tests made using the Endurance skill. Additionally, when you are [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D), your speed is reduced to 3 instead of 2.
+Giving up is for other people. You gain an edge on tests made using the Endurance skill. Additionally, when you are [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed), your speed is reduced to 3 instead of 2.
 
 ##### Resist the Unnatural (1 Point)
 
@@ -1167,13 +1167,13 @@ Your instinctive resilience protects you from injuries beyond the routine. Whene
 
 ##### Staying Power (2 Points)
 
-Your [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) physiology allows you to fight, run, and stay awake longer than others. You increase your number of Recoveries by 2.
+Your [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) physiology allows you to fight, run, and stay awake longer than others. You increase your number of Recoveries by 2.
 
 ## Memonek
 
-The native denizens of Axiom, the Plane of Uttermost Law, [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) dwell in a land with lakes and trees and birds and flowers. But on this alien world, the lakes are seas of mercury, the birds glitter with wings of glass stretched gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
+The native denizens of Axiom, the Plane of Uttermost Law, [memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek) dwell in a land with lakes and trees and birds and flowers. But on this alien world, the lakes are seas of mercury, the birds glitter with wings of glass stretched gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
 
-The minds of [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called emotion.
+The minds of [memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek) are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called emotion.
 
 ### On Memonek
 
@@ -1187,13 +1187,13 @@ Vithyaranu, Count of the ALAV *Revile* paced back and forth, his cloak billowing
 
 "Listen, whether you like it or not, whether I like it or not, I'm in charge of this mission. Either you tell me what's going on, or I have no choice. I *have* to conclude you're a danger to the team and cut you loose."
 
-Revile stopped and turned to look at the rest of the party, recovering from their wounds. The [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D)'s white porcelain chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle, fragile.
+Revile stopped and turned to look at the rest of the party, recovering from their wounds. The [memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek)'s white porcelain chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle, fragile.
 
 Count Revile took a deep breath. "We call it *velloparatha*," he said. "In your tongue it would be... worldsick. Or world-sickness? It is a thing that happens... to my people... when they come to your world. It is an illness of... of feeling. Emotion."
 
 "Are you going mad?" John asked, his voice quiet. He wanted to give the count a chance to answer privately.
 
-The [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) smiled ruefully. "It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger. A *grasshopper* the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) called it. I thought I had never seen a thing so perfect and beautiful. That was awe. As powerful as I have ever felt. In the battle today, anger. Just as powerful.
+The [memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek) smiled ruefully. "It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger. A *grasshopper* the [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) called it. I thought I had never seen a thing so perfect and beautiful. That was awe. As powerful as I have ever felt. In the battle today, anger. Just as powerful.
 
 "I thought I could resist it. When I arrived here and felt no different I thought perhaps worldsickness was a legend. But it is a slow process, this illness. These insidious emotions."
 
@@ -1205,7 +1205,7 @@ Count Revile shook his head. "Not like this. We are creatures of reason, we of A
 
 "At yourself ? Why? What did you...?"
 
-"John," the [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) said, and now it was his turn to whisper. "I was afraid. Afraid of... of being wounded, of failing you, failing my friends. Of dying. And out of that fear came... enormous anger. At myself. Anger that I was so weak so... useless. Anger so... strong, so powerful... I forgot who I was."
+"John," the [memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek) said, and now it was his turn to whisper. "I was afraid. Afraid of... of being wounded, of failing you, failing my friends. Of dying. And out of that fear came... enormous anger. At myself. Anger that I was so weak so... useless. Anger so... strong, so powerful... I forgot who I was."
 
 John chuckled. "That's just..." He smiled broadly. "That's just normal. We all feel that way."
 
@@ -1253,15 +1253,15 @@ Count Revile hefted the starcore. "I have responsibilities to keep. I will retur
 
 John offered his hand. Revile shook it and then held it.
 
-"If there are many like you in this world of gods and sorcery," the noble [memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) star captain said, "then your victory over evil is assured."
+"If there are many like you in this world of gods and sorcery," the noble [memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek) star captain said, "then your victory over evil is assured."
 
-"I don't know about many," John said, extricating his hand. He looked at the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), elf, and [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D).
+"I don't know about many," John said, extricating his hand. He looked at the [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), elf, and [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan).
 
 "But there might be enough."
 
 ### Memonek Traits
 
-[Memonek](%7BREL_PATH_PREFIX%7DRules/Ancestries/Memonek%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
+[Memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek) heroes have access to the following traits.
 
 #### Signature Trait: Fall Lightly
 
@@ -1289,7 +1289,7 @@ You can push your body to move at incredible speeds. Your speed is 7.
 
 ##### Nonstop (2 Points)
 
-Your connection to Axiom allows you to regulate your movement. You can't be made [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D).
+Your connection to Axiom allows you to regulate your movement. You can't be made [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed).
 
 ##### Systematic Mind (1 Point)
 
@@ -1305,23 +1305,23 @@ Velloparatha—the worldsickness—might hinder you, but you know how to turn yo
 
 ## Orc
 
-An anger that cannot be hidden. A [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D) that drives them in battle. [Orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) are famed throughout the world as consummate warriors—a reputation that the peace—loving [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) find distasteful.
+An anger that cannot be hidden. A [fury](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Fury) that drives them in battle. [Orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) are famed throughout the world as consummate warriors—a reputation that the peace—loving [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) find distasteful.
 
-The fifth of the speaking peoples, [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) arrived on Orden after [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) and elves. They made their homes in the borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For generations, this put them directly in the path of [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) who cut down the trees and built roads and farms.
+The fifth of the speaking peoples, [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) arrived on Orden after [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) and elves. They made their homes in the borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For generations, this put them directly in the path of [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) who cut down the trees and built roads and farms.
 
-Each [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) has within them a fire that causes their veins to glow once blood is drawn. This anger propels them right to the edge of death. The dichotomy between their desire to be left alone and their zeal in battle is summarized in a [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) proverb:
+Each [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) has within them a fire that causes their veins to glow once blood is drawn. This anger propels them right to the edge of death. The dichotomy between their desire to be left alone and their zeal in battle is summarized in a [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) proverb:
 
-"Be thankful [orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) do not hold grudges."
+"Be thankful [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) do not hold grudges."
 
 ### On Orcs
 
-The [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) pulled her greataxe from the split skull of the newly dead ogre. [Prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) heroes scrambled to their feet. Dazar healed the wounded.
+The [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) pulled her greataxe from the split skull of the newly dead ogre. [Prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) heroes scrambled to their feet. Dazar healed the wounded.
 
-The [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) hopped down from the corpse of the defeated. "Elg was a ruin ogre," she said. "Infected with a troll disease. An inconvenience for troll-kin but to an ogre..." She indicated the mutated ogre. "You weren't to know."
+The [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) hopped down from the corpse of the defeated. "Elg was a ruin ogre," she said. "Infected with a troll disease. An inconvenience for troll-kin but to an ogre..." She indicated the mutated ogre. "You weren't to know."
 
-"Oh, good," Sir John said with obvious relief. "You speak Caelian." "Yes." The [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) said. She seemed distant. She gave John a look. "I speak the language of your conquerors."
+"Oh, good," Sir John said with obvious relief. "You speak Caelian." "Yes." The [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) said. She seemed distant. She gave John a look. "I speak the language of your conquerors."
 
-John smiled. He liked this [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) already.
+John smiled. He liked this [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) already.
 
 "By the stars!" Ardashir said with open joy on his face. "You saved our lives. It *must* be you who we seek."
 
@@ -1329,11 +1329,11 @@ Khorva looked at the assembled heroes. A motley band. "You did most of the work,
 
 "You waited until we proved our mettle before acting!" Dazar said, and from the way he spoke it was unclear if this was an accusation or mere observation.
 
-"If you couldn't hold your own," the [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) said, "there'd be no point helping you." Her eyes rested on Sir John.
+"If you couldn't hold your own," the [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) said, "there'd be no point helping you." Her eyes rested on Sir John.
 
 "John," he said.
 
-"Khorva," the [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) said.
+"Khorva," the [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) said.
 
 "Of the Howling," John said.
 
@@ -1341,7 +1341,7 @@ Khorva looked at the assembled heroes. A motley band. "You did most of the work,
 
 "We've been looking for you," Dazar said.
 
-Khorva nodded without looking at the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D).
+Khorva nodded without looking at the [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf).
 
 "I surmised as much," she said. "It seemed your plan was to wander around the wood until something tried to kill you in the hopes of attracting my attention."
 
@@ -1355,7 +1355,7 @@ Khorva sighed and looked away into the forest. "My sister died leaving my people
 
 "How clever the dead are," she said, her voice a little hollow, "to torment us from the grave."
 
-John saw the broken swords on her belt. "Five swords," he said. "Five broken swords." He looked at Khorva anew. "I don't think I've ever seen an [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) survived three challenges."
+John saw the broken swords on her belt. "Five swords," he said. "Five broken swords." He looked at Khorva anew. "I don't think I've ever seen an [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) survived three challenges."
 
 "They couldn't kill me and I wouldn't yield." She looked at the group of them skeptically. "Four of you?"
 
@@ -1375,7 +1375,7 @@ John smiled. "My sister liked fishing too."
 
 "Why not talk to my brother?"
 
-"Because we are not fools," Embers said, and Khorva locked eyes with her, standing a little straighter. The [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D)'s brown eyes burned and it seemed the group rose somewhat in her estimation. She nodded once. "The folk of farm and field go to war," Dazar said, using the orcish term for [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D). "A war against Lord Saxton and his priest."
+"Because we are not fools," Embers said, and Khorva locked eyes with her, standing a little straighter. The [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc)'s brown eyes burned and it seemed the group rose somewhat in her estimation. She nodded once. "The folk of farm and field go to war," Dazar said, using the orcish term for [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human). "A war against Lord Saxton and his priest."
 
 Khorva turned to John. "How is this your matter?"
 
@@ -1397,9 +1397,9 @@ John relaxed as he saw Khorva's eyes soften. She understood.
 
 Khorva looked up to watch three crows idly circling, rising, riding a heat haze into the sky. "How many is the opposition?"
 
-"Saxton has no regulars. Just some knights, we can take care of them. But he has the Whitewater. Led by Bonebreaker Dorokor. That's three companies of elite light [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) foot against a handful of peasant levies. We need the Howling."
+"Saxton has no regulars. Just some knights, we can take care of them. But he has the Whitewater. Led by Bonebreaker Dorokor. That's three companies of elite light [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) foot against a handful of peasant levies. We need the Howling."
 
-"Perhaps," Khorva said, and turned away from the crows to look out over the heroes. "I know Dorokor, she is not like my brother. A head of meat and muscle. Dorokor is a thinker. You seek the Howling because you seek a counter to the Whitewater." She looked at John. "But even better, *talk* to Dorokor. Deny Saxton his pet [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) clan, and *earn* the allegiance of the Whitewater."
+"Perhaps," Khorva said, and turned away from the crows to look out over the heroes. "I know Dorokor, she is not like my brother. A head of meat and muscle. Dorokor is a thinker. You seek the Howling because you seek a counter to the Whitewater." She looked at John. "But even better, *talk* to Dorokor. Deny Saxton his pet [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) clan, and *earn* the allegiance of the Whitewater."
 
 "Is such a thing possible?" Embers asked.
 
@@ -1407,7 +1407,7 @@ A moment passed. Khorva didn't break eye contact with John. "It's possible," she
 
 "The Howling *or* the Whitewater tribe," Dazar said. "Either would be a formidable foe in any battle, such is the reputation of orcish warlore."
 
-Khorva shook her head. "[Orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) have no great love for battle. We love trees and green things. We love an unspoiled land. For this reason did Kul place us in the world. The last of the original speaking peoples."
+Khorva shook her head. "[Orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) have no great love for battle. We love trees and green things. We love an unspoiled land. For this reason did Kul place us in the world. The last of the original speaking peoples."
 
 "But also did Kul place the fire within you," Embers said.
 
@@ -1419,7 +1419,7 @@ Khorva shook her head. "[Orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_P
 
 "It's about living with yourself. Sleeping at night."
 
-"Battles do not bring restful sleep," Khorva said. "The opposite, I find." "Battles bring glory! Battles make heroes!" Dazar insisted, and John felt like he learned something about the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) in that moment. He could hear that Dazar believed this to be true, and knew it was a lie. It was a test.
+"Battles do not bring restful sleep," Khorva said. "The opposite, I find." "Battles bring glory! Battles make heroes!" Dazar insisted, and John felt like he learned something about the [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) in that moment. He could hear that Dazar believed this to be true, and knew it was a lie. It was a test.
 
 "War makes only one thing. Corpses." Khorva looked down at the high theochron, who nodded. Test passed.
 
@@ -1429,7 +1429,7 @@ Khorva shook her head. "[Orcs](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_P
 
 ### Orc Traits
 
-[Orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
+[Orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) heroes have access to the following traits.
 
 #### Signature Trait: Relentless
 
@@ -1453,7 +1453,7 @@ The magic in your blood makes it difficult for others to move you. You have a +1
 
 ##### Nonstop (2 Points)
 
-Your bloodfire supplies you with a constant rush of adrenaline. You can't be made [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D).
+Your bloodfire supplies you with a constant rush of adrenaline. You can't be made [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed).
 
 ##### Passionate Artisan (1 Point)
 
@@ -1461,35 +1461,35 @@ When you are stirred by a passion for creation, your bloodfire allows you to wor
 
 ## Polder
 
-After [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) are the most numerous and diverse ancestry in Orden. They are not [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), but they live in and among [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) and share their gods and culture. Almost every [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) culture in Orden has a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) saint or a [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) saint venerated by [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D).
+After [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), [polders](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) are the most numerous and diverse ancestry in Orden. They are not [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), but they live in and among [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) and share their gods and culture. Almost every [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) culture in Orden has a [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) saint or a [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) saint venerated by [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder).
 
-Short, averaging 31/2 feet tall, the [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D)' origins are obscure. They are a young species who, like [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), have no single patron god. Their ability to *shadowmeld* means they enjoy a reputation as excellent spies and thieves. Many [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) consider this a base slander and point out they're also famed as chefs, though [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) can be found in every profession, especially in cities.
+Short, averaging 31/2 feet tall, the [polders](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder)' origins are obscure. They are a young species who, like [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), have no single patron god. Their ability to *shadowmeld* means they enjoy a reputation as excellent spies and thieves. Many [polders](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) consider this a base slander and point out they're also famed as chefs, though [polders](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) can be found in every profession, especially in cities.
 
 ### On Polders
 
 The three peasants—Jago, his wife Sarah, and his sister Beth—sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
 
-"This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) said. "You need the people to rise up. Been fifteen years since Omund died—fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
+"This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) said. "You need the people to rise up. Been fifteen years since Omund died—fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
 
 "If you stand on the grass long enough, it learns to lie flat," A Mist Curls Around Dying Embers said. "But what do *you* say?"
 
-"Eh?" the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) asked her. But he glanced at Sir John staring at him. "You say the people have no stomach for rebellion," Embers said. "But what about you?"
+"Eh?" the [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) asked her. But he glanced at Sir John staring at him. "You say the people have no stomach for rebellion," Embers said. "But what about you?"
 
-"Oh," the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the high elf and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) before," he said.
+"Oh," the [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the high elf and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) before," he said.
 
 "Are you kidding me?" Jackson said.
 
 "No! Sorry, I just..."
 
-"What are you, from the moon? Where you from that you never met a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) before? There's [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) in every fucking village and town from here to the sea."
+"What are you, from the moon? Where you from that you never met a [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) before? There's [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) in every fucking village and town from here to the sea."
 
-"Really? That's weird. I'm from Tor, I've been all over—just never met a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) before."
+"Really? That's weird. I'm from Tor, I've been all over—just never met a [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) before."
 
 Jackson looked at his friend, the high elf void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
 
-"Well, we're adorable," the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) said, and drank some ale. "They must have been around I guess," John said. "I probably just never noticed."
+"Well, we're adorable," the [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) said, and drank some ale. "They must have been around I guess," John said. "I probably just never noticed."
 
-The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) put his drink down. "Oh, thank you. Thank you very much. You know, it's funny. I never have any problem noticing you big assholes. One of you makes about as much noise as a cow, which... I don't even know how you manage that."
+The [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) put his drink down. "Oh, thank you. Thank you very much. You know, it's funny. I never have any problem noticing you big assholes. One of you makes about as much noise as a cow, which... I don't even know how you manage that."
 
 "You're talking just... my voice is just as loud as yours!"
 
@@ -1497,17 +1497,17 @@ The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) 
 
 Jago, Sarah, and Beth all smiled at the exchange.
 
-"[Humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) are loud, yes," Embers agreed.
+"[Humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) are loud, yes," Embers agreed.
 
 "Do we have to... can we talk about something else, please?" John said.
 
-"I just..." The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) wouldn't let it go. "You seriously never... you never been to an inn? Cavall's teeth, I can't count how many inns and taverns I've been to run by [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D), got [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) in the kitchen or waiting tables. One of the only two things we're good at, I think."
+"I just..." The [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) wouldn't let it go. "You seriously never... you never been to an inn? Cavall's teeth, I can't count how many inns and taverns I've been to run by [polders](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder), got [polders](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) in the kitchen or waiting tables. One of the only two things we're good at, I think."
 
 "Yeah?" John asked. "What's the other one?"
 
 The little man smiled. "Getting into places we ain't supposed to be." "Now we're talking," Sir John said. "You were saying we need the people behind us. I agree."
 
-"Yeah, okay. To business: How to rally the people." The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) took the question seriously. "It's not hard. First, we need someone they'll rally around. I could make someone up, invent a local folk hero, but if we can find the real thing? They just need to look the part, that's all. I'll take care of the rest."
+"Yeah, okay. To business: How to rally the people." The [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) took the question seriously. "It's not hard. First, we need someone they'll rally around. I could make someone up, invent a local folk hero, but if we can find the real thing? They just need to look the part, that's all. I'll take care of the rest."
 
 "I'm working on that," John said. "But it's... slower going than I thought. I'm betting on a long shot."
 
@@ -1521,11 +1521,11 @@ He looked at his drink, at the expensive clear glass the innkeep had given him b
 
 John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
-The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) looked at the high elf and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
+The [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) looked at the high elf and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 
-"What do you mean?" Now it was the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D)'s turn to be confused. "What do you mean, 'What do I mean?'" John said.
+"What do you mean?" Now it was the [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder)'s turn to be confused. "What do you mean, 'What do I mean?'" John said.
 
 "I'm not... we don't need *real* ogres." Jackson looked at the elf. "Is he for real?"
 
@@ -1533,15 +1533,15 @@ The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) 
 
 "You mean you're going to make it up?!" John exclaimed.
 
-"I..." Jackson looked with incredulity at the high elf void mage, then back at the [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D). "Yes, I do mean that. Does he know what I do?" he asked the elf.
+"I..." Jackson looked with incredulity at the high elf void mage, then back at the [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human). "Yes, I do mean that. Does he know what I do?" he asked the elf.
 
 "He'll learn." Embers smiled.
 
-The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) turned back to Sir John. "Hello. I lie for a living. And I'm *really good at it*. Sometimes also kill people, but only if lying or running away doesn't work."
+The [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) turned back to Sir John. "Hello. I lie for a living. And I'm *really good at it*. Sometimes also kill people, but only if lying or running away doesn't work."
 
 John turned to Embers. "I thought he was a thief."
 
-"I was a thief," the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) said.
+"I was a thief," the [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) said.
 
 "You *were* a thief."
 
@@ -1549,21 +1549,21 @@ John turned to Embers. "I thought he was a thief."
 
 "Did they kick you out, or did you quit?"
 
-"Depends on who you ask. I don't like being told what to do. It's sort of a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) thing. Hereditary or ancestral or whatever. Everybody wants a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) chef until they start trying to tell us what to cook."
+"Depends on who you ask. I don't like being told what to do. It's sort of a [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) thing. Hereditary or ancestral or whatever. Everybody wants a [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) chef until they start trying to tell us what to cook."
 
 "So what are you now?"
 
 "I'm annoying."
 
-The elf smiled. "He's a [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D)—one of the best."
+The elf smiled. "He's a [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour)—one of the best."
 
 Sir John looked at him, nodded. "No lute, I notice. And you don't seem the type to sit by the hearth telling stories."
 
-The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) grinned. "I ain't that kind of [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D). I'm the other kind. I think the best story is the one people tell each other."
+The [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) grinned. "I ain't that kind of [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour). I'm the other kind. I think the best story is the one people tell each other."
 
-"Propaganda," Sir John said, a grin spreading across his face. The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) pointed a finger at him and smiled. John heard the door to the inn open behind him. This wasn't notable, but the gasp from the customers was.
+"Propaganda," Sir John said, a grin spreading across his face. The [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) pointed a finger at him and smiled. John heard the door to the inn open behind him. This wasn't notable, but the gasp from the customers was.
 
-"Hey," the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) said, looking past John to the doorway. "Hey, I think our folk hero just showed up. Damn, he looks the part all right. Or she, I can never tell with these guys."
+"Hey," the [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) said, looking past John to the doorway. "Hey, I think our folk hero just showed up. Damn, he looks the part all right. Or she, I can never tell with these guys."
 
 John turned to see.
 
@@ -1577,7 +1577,7 @@ The dragon knight stared at them for a moment, then turned back to his friend.
 
 ### Polder Traits
 
-[Polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
+[Polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) heroes have access to the following traits.
 
 ### Signature Trait: Shadowmeld
 
@@ -1609,7 +1609,7 @@ Your innate shadow magic grants you resilience against the unnatural. You have c
 
 ##### Fearless (2 Points)
 
-Courage is all you know. You can't be made [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D).
+Courage is all you know. You can't be made [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened).
 
 ##### Graceful Retreat (1 Point)
 
@@ -1629,11 +1629,11 @@ Staying light on your feet lets you quickly get back into position. Whenever you
 
 ## Revenant
 
-The dead [walk](%7BREL_PATH_PREFIX%7DRules/Movement/Walk%7BREL_PATH_SUFFIX%7D) among us. Some of them are happier about it than others.
+The dead [walk](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Walk) among us. Some of them are happier about it than others.
 
-Unlike the necromantic rituals that produce wights and wraiths and zombies, [revenants](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D) rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
+Unlike the necromantic rituals that produce wights and wraiths and zombies, [revenants](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant) rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
 
-These [revenants](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D) are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
+These [revenants](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant) are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
 
 ### On Revenants
 
@@ -1657,7 +1657,7 @@ from the outside, looked like an unremarkable section of wall.
 
 "Nonono! How could she... Capital was *nine months ago!*"
 
-"She's a [revenant](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D), idiot! She doesn't even need air. She could have walked here! Just... into the water and across the bottom of the sea! Why didn't you say anything?"
+"She's a [revenant](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant), idiot! She doesn't even need air. She could have walked here! Just... into the water and across the bottom of the sea! Why didn't you say anything?"
 
 "I did! You asshole, I just did! I been trying to tell you for-"
 
@@ -1693,7 +1693,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 
 ### Revenant Traits
 
-[Revenant](%7BREL_PATH_PREFIX%7DRules/Ancestries/Revenant%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
+[Revenant](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant) heroes have access to the following traits.
 
 #### Signature Trait: Former Life
 
@@ -1703,7 +1703,7 @@ Choose the ancestry you were before you died. Your size is that ancestry's size 
 
 Your undead body grants you immunity to cold, corruption, lightning, and poison damage equal to your level, but you have fire weakness 5. You can't suffocate, and you don't need to eat or drink to stay alive.
 
-Additionally, when your Stamina reaches the negative of your winded value, you become inert instead of dying. You fall [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand. You continue to observe your surroundings, but you can't speak, take main actions, maneuvers, move actions, or triggered actions. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
+Additionally, when your Stamina reaches the negative of your winded value, you become inert instead of dying. You fall [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and can't stand. You continue to observe your surroundings, but you can't speak, take main actions, maneuvers, move actions, or triggered actions. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
 
 ##### Purchased Revenant Traits
 
@@ -1711,7 +1711,7 @@ You have 2 ancestry points to spend on the following traits, or 3 ancestry point
 
 ##### Bloodless (2 Points)
 
-For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) even while dying.
+For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) even while dying.
 
 ##### Previous Life: 1 Point (1 Point)
 
@@ -1771,7 +1771,7 @@ Up close, she could see the fine stitching along Lycaon's cheeks and forehead, t
 
 The taxiarch smiled to himself, nodded with respect at the woman's epithets. He placed his foot on a low piece of rubble, once part of the wall of the stone church, and leaned his arm on his knee. He was not dressed as the other war dogs. No black leather for him. He wore a gold breastplate with the embossed head of a ram molded into it, a white cape over his back. Gold greaves and red leather boots and gloves. The other war dogs only had patches of hair but his was long and blond.
 
-He struck a casual, jaunty pose. "Where is your worldship?" he said in a more reasonable voice. "Or came you here in a single-seater *starskimmer*?" At this, the alien's crystal eyes went wide, betraying surprise. "You see?" the taxiarch said, impressed with himself. "I am not a primitive like these peasants, who hounded you because you are alien." He nodded at the folk of the small town watching from the stables some distance away. "I am Ajax's elite. Better than his chosen. I was *made* for victory." Indeed, Taxiarch Lycaon looked almost fully [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D). Handsome and fit like a statue from Phaedros, which his model had almost certainly been inspired by. Unless you looked closely, there was no sign he was a product of the body banks. "If you agree to *lead me* to your vessel, I will let you go free."
+He struck a casual, jaunty pose. "Where is your worldship?" he said in a more reasonable voice. "Or came you here in a single-seater *starskimmer*?" At this, the alien's crystal eyes went wide, betraying surprise. "You see?" the taxiarch said, impressed with himself. "I am not a primitive like these peasants, who hounded you because you are alien." He nodded at the folk of the small town watching from the stables some distance away. "I am Ajax's elite. Better than his chosen. I was *made* for victory." Indeed, Taxiarch Lycaon looked almost fully [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human). Handsome and fit like a statue from Phaedros, which his model had almost certainly been inspired by. Unless you looked closely, there was no sign he was a product of the body banks. "If you agree to *lead me* to your vessel, I will let you go free."
 
 The alien sighed. "'Blaap blaap blaap,'" she said. "You should hear yourself. Like barking *thrazz*, you sound to me. Who holds your leash I wonder? For surely a microbrain such as you could not command any more than these rabble." She nodded her head at the other twenty or so war dogs.
 
@@ -1795,23 +1795,23 @@ Slowly everyone assembled could make out the sounds of a conversation, quiet wit
 
 "Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
-Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) in working battle plate. A [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) with his battle-staff tipped with an hourglass. An [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) with a huge battleaxe casually resting on her shoulder. A [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. An unarmed [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) towering over everyone. And a dragon knight. Of all the motley band, it was the dragon knight who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
+Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) in working battle plate. A [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) with his battle-staff tipped with an hourglass. An [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) with a huge battleaxe casually resting on her shoulder. A [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. An unarmed [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) towering over everyone. And a dragon knight. Of all the motley band, it was the dragon knight who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
 
 The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the taxiarch bellowed "Hold fast!" and they held their ground, uncertainty over the unknown threat of a band of heroes battling in each of them against the certain fear of their commander.
 
-The [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) looked around and saw a clump of villagers watching the scene from a distance, gathered around what looked like some stables. He waved. "Hello!" he said, smiling.
+The [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) looked around and saw a clump of villagers watching the scene from a distance, gathered around what looked like some stables. He waved. "Hello!" he said, smiling.
 
 One of the villagers waved back before being shushed.
 
 John looked at the taxiarch and immediately read the situation. It was a clear enough picture.
 
-There was something about the war dogs. They loved Ajax's cruelty—reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional—could be reasoned with, but he was an [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D).
+There was something about the war dogs. They loved Ajax's cruelty—reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional—could be reasoned with, but he was an [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc).
 
 Not the war dogs—they were fanatics.
 
 "What's this?" the taxiarch called out with a hungry grin. "Allies of the alien?" He was projecting confidence. Trying to muster his wary soldiers.
 
-"Allies of all those who suffer, and seek justice," the [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D) announced. Sir John ignored the war dog, tilted his head toward the alien. "Embers?"
+"Allies of all those who suffer, and seek justice," the [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) announced. Sir John ignored the war dog, tilted his head toward the alien. "Embers?"
 
 "A kuran'zoi," the high elf said, and the alien held her head up with pride. "A time raider from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear."
 
@@ -1823,9 +1823,9 @@ John knew what came next, but he wasn't an assassin. He had his own part to play
 
 "She goes free," John commanded, his voice steel, "or you die here." He could feel the muscles tightening in his comrades, the whole company like a steel spring wound tight.
 
-Lycaon cocked his head at Sir John and took a few foolish steps toward the [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D). He was just out of reach. But close enough.
+Lycaon cocked his head at Sir John and took a few foolish steps toward the [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician). He was just out of reach. But close enough.
 
-"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D), [dwarf](%7BREL_PATH_PREFIX%7DRules/Ancestries/Dwarf%7BREL_PATH_SUFFIX%7D), and dragon knight. "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
+"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder), [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), and dragon knight. "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
@@ -1833,19 +1833,19 @@ Ember's eyes flashed into a starfield. The time raider's chains dissolved into s
 
 The time raider's right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
 
-John felt his skin tighten as Dazar warded him, and from the sun's shadow cast by Taxiarch Lycaon the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) Jackson Bootblack emerged, a rapier in each hand, and no one saw him move from where he'd been a moment before.
+John felt his skin tighten as Dazar warded him, and from the sun's shadow cast by Taxiarch Lycaon the [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) Jackson Bootblack emerged, a rapier in each hand, and no one saw him move from where he'd been a moment before.
 
-The [hakaan](%7BREL_PATH_PREFIX%7DRules/Ancestries/Hakaan%7BREL_PATH_SUFFIX%7D) burst into action and sped past him like a blur.
+The [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) burst into action and sped past him like a blur.
 
 At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in his heart—the clarion call of the last Storm Knight!
 
-At the sound, the [orc](%7BREL_PATH_PREFIX%7DRules/Ancestries/Orc%7BREL_PATH_SUFFIX%7D) dashed forward into a knot of war dog commandos, her axe already hewing about her.
+At the sound, the [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) dashed forward into a knot of war dog commandos, her axe already hewing about her.
 
 John hadn't hesitated, he'd already drawn his sword and falchion. "All right, you patchwork son of a bitch." He charged Lycaon who fumbled with the shortsword on his belt.
 
 ### Time Raider Traits
 
-Time [raider](%7BREL_PATH_PREFIX%7DRules/Kits/Raider%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
+Time [raider](https://steelcompendium.io/compendium/main-linked/Rules/Kits/Raider) heroes have access to the following traits.
 
 #### Signature Trait: Psychic Scar
 
@@ -1869,7 +1869,7 @@ Your unique physiology enhances your movement. You gain an edge on tests that us
 
 ##### Four-Armed Martial Arts (2 Points)
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) at a time.
 
 ##### Psionic Gift (2 Points)
 
@@ -1887,7 +1887,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 - **≤11:** 2 + R, I, or P damage;
 - **12-16:** 5 + R, I, or P damage; push 1
-- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
 
 ###### Psionic Bolt
 
@@ -1915,4 +1915,4 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Unstoppable Mind (2 Points)
 
-Your mind allows you to maintain your focus in any situation. You can't be made [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D).
+Your mind allows you to maintain your focus in any situation. You can't be made [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed).

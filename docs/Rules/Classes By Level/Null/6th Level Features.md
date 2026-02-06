@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 6th-Level Features
 
-As a 6th-level [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 6th-level [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null), you gain the following features.
 
 #### Elemental Absorption
 
@@ -30,7 +30,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 #### 6th-Level Tradition Ability
 
-Your [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D) tradition grants your choice of one of two heroic abilities.
+Your [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null) tradition grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronokinetic Abilities
 
@@ -60,9 +60,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 damage; M < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-> - **12-16:** 8 damage; M < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-> - **17+:** 12 damage; M < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+> - **≤11:** 6 damage; M < WEAK, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed)
+> - **12-16:** 8 damage; M < AVERAGE, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed)
+> - **17+:** 12 damage; M < STRONG, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed)
 
 ##### 6th-Level Cryokinetic Abilities
 
@@ -94,7 +94,7 @@ Choose one of the following abilities.
 > | ------------------------- | --------------: |
 > | **📏 10 wall within 10**  |  **🎯 Special** |
 >
-> **Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends). Each enemy who is force moved into the wall and has M < AVERAGE is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends).
+> **Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends). Each enemy who is force moved into the wall and has M < AVERAGE is [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends).
 
 ##### 6th-Level Metakinetic Abilities
 

@@ -39,6 +39,6 @@ type: feature/ability/talent/1st-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 3 + P psychic damage; I < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 9 + P psychic damage; I < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 3 + P psychic damage; I < WEAK, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+- **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+- **17+:** 9 + P psychic damage; I < STRONG, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)

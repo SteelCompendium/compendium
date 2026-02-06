@@ -40,6 +40,6 @@ type: feature/ability/tactician/6th-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** A < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** A < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** A < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** A < WEAK, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save ends)
+- **12-16:** A < AVERAGE, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save ends)
+- **17+:** A < STRONG, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save ends)

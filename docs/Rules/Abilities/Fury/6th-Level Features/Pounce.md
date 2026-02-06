@@ -38,8 +38,8 @@ type: feature/ability/fury/6th-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 8 damage; M < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
-- **12-16:** 13 damage; M < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
-- **17+:** 17 damage; M < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+- **≤11:** 8 damage; M < WEAK, [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed)
+- **12-16:** 13 damage; M < AVERAGE, [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed)
+- **17+:** 17 damage; M < STRONG, [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed)
 
-**Effect:** You can shift up to 4 squares, bringing the target with you. While [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
+**Effect:** You can shift up to 4 squares, bringing the target with you. While [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) this way, the target takes damage equal to twice your Might score at the start of each of your turns.

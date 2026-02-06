@@ -14,7 +14,7 @@ type: class/tactician/level
 
 ### 2nd-Level Features
 
-As a 2nd-level [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 2nd-level [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician), you gain the following features.
 
 #### Perk
 
@@ -80,9 +80,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; R < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 4 + R damage; R < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 2 + R damage; R < WEAK, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+> - **17+:** 4 + R damage; R < STRONG, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
 
 ##### 2nd-Level Mastermind Ability
 
@@ -99,9 +99,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 5 + R damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT)
-> - **12-16:** 9 + R damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT)
-> - **17+:** 12 + R damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT)
+> - **≤11:** 5 + R damage; [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (EoT)
+> - **12-16:** 9 + R damage; [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (EoT)
+> - **17+:** 12 + R damage; [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (EoT)
 >
 > **Effect:** One ally adjacent to the target can spend a Recovery.
 
@@ -137,9 +137,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** R < WEAK, the target is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of the triggering ally (save ends)
-> - **12-16:** R < AVERAGE, the target is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of the triggering ally (save ends)
-> - **17+:** R < STRONG, the target is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of the triggering ally (save ends)
+> - **≤11:** R < WEAK, the target is [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) of the triggering ally (save ends)
+> - **12-16:** R < AVERAGE, the target is [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) of the triggering ally (save ends)
+> - **17+:** R < STRONG, the target is [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) of the triggering ally (save ends)
 
 <!-- -->
 > ###### Squad! On Me! (5 Focus)

@@ -21,8 +21,8 @@ type: title/2nd-echelon
 
 **Effect:** Choose one of the following benefits:
 
-- *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) creatures. Additionally, being [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) doesn't impose a bane on your strikes.
-- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D), you can use them as a weapon when you make a melee weapon free strike. Both the target and the [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) enemy take the strike's damage.
+- *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) creatures. Additionally, being [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) doesn't impose a bane on your strikes.
+- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed), you can use them as a weapon when you make a melee weapon free strike. Both the target and the [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) enemy take the strike's damage.
 - *Instant Celebrity:* You earn 1 Renown.
 - *Showstopper:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
@@ -35,8 +35,8 @@ type: title/2nd-echelon
 >
 > **Power Roll + Might or Agility:**
 >
-> - **≤11:** 6 damage; I < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 10 damage; I < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 14 damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 6 damage; I < WEAK, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 10 damage; I < AVERAGE, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+> - **17+:** 14 damage; I < STRONG, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save ends)
 >
-> **Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends).
+> **Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends).

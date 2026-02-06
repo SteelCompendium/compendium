@@ -36,4 +36,4 @@ type: kit-ability/shining-armor
 - **12-16:** 8 + M or A damage
 - **17+:** 11 + M or A damage
 
-**Effect:** The target is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) until the end of their next turn.
+**Effect:** The target is [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) until the end of their next turn.

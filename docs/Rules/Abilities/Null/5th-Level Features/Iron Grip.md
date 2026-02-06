@@ -37,8 +37,8 @@ type: feature/ability/null/5th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 10 + A damage; A < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
-- **12-16:** 14 + A damage; A < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
-- **17+:** 18 + A damage; A < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+- **≤11:** 10 + A damage; A < WEAK, [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed)
+- **12-16:** 14 + A damage; A < AVERAGE, [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed)
+- **17+:** 18 + A damage; A < STRONG, [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed)
 
-**Effect:** While [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+**Effect:** While [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.

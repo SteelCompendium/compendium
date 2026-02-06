@@ -29,7 +29,7 @@ Choose one of the following abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) up to your maximum [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) distance and make one power roll that targets each creature adjacent to the space where you land.
+> **Effect:** You [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) up to your maximum [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) distance and make one power roll that targets each creature adjacent to the space where you land.
 >
 > **Power Roll + Might:**
 >

@@ -14,7 +14,7 @@ type: kit
 
 #### Mountain
 
-The [Mountain](%7BREL_PATH_PREFIX%7DRules/Kits/Mountain%7BREL_PATH_SUFFIX%7D) kit does exactly what it says on the tin. You don heavy armor and raise a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to strike.
+The [Mountain](https://steelcompendium.io/compendium/main-linked/Rules/Kits/Mountain) kit does exactly what it says on the tin. You don heavy armor and raise a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to strike.
 
 ##### Equipment
 

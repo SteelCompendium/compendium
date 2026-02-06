@@ -14,7 +14,7 @@ type: class/conduit/level
 
 ### 9th-Level Features
 
-As a 9th-level [conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 9th-level [conduit](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Conduit), you gain the following features.
 
 #### Faith's Sword
 
@@ -26,7 +26,7 @@ Your god elevates the power flowing through you. Your characteristic scores are 
 
 #### 9th-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level [Conduit](%7BREL_PATH_PREFIX%7DRules/Classes/Conduit%7BREL_PATH_SUFFIX%7D) Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level [Conduit](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Conduit) Domain Abilities table.
 
 ###### 9th-Level Conduit Domain Abilities Table
 
@@ -87,7 +87,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  |  **🎯 Special** |
 >
-> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
+> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly), stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
 >
 > On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.
 >
@@ -142,7 +142,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | ----------------- | -----------------: |
 > | **📏 Ranged 10**  | **🎯 Four allies** |
 >
-> **Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
+> **Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone).
 
 <!-- -->
 > ###### Righteous Phalanx (11 Piety)
@@ -181,11 +181,11 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 10 + I damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 15 + I damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 21 + I damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 10 + I damage; A < WEAK, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
+> - **12-16:** 15 + I damage; A < AVERAGE, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
+> - **17+:** 21 + I damage; A < STRONG, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
 >
-> **Effect:** While [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way, the target takes 10 damage at the start of each of your turns.
+> **Effect:** While [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) this way, the target takes 10 damage at the start of each of your turns.
 
 <!-- -->
 > ###### Word of Final Redemption (11 Piety)
@@ -211,8 +211,8 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 10 + I corruption damage; A < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 21 + I corruption damage; A < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 10 + I corruption damage; A < WEAK, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+> - **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+> - **17+:** 21 + I corruption damage; A < STRONG, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
 >
-> **Effect:** While [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) this way, the target has damage weakness 10.
+> **Effect:** While [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) this way, the target has damage weakness 10.

@@ -37,6 +37,6 @@ type: feature/ability/troubadour/6th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 12 + A damage; M < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 18 + A damage; M < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 24 + A damage; [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (EoT), or if M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 12 + A damage; M < WEAK, [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)
+- **12-16:** 18 + A damage; M < AVERAGE, [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)
+- **17+:** 24 + A damage; [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (EoT), or if M < STRONG, [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)

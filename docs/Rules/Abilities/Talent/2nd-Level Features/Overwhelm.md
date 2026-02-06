@@ -38,8 +38,8 @@ type: feature/ability/talent/2nd-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 6 + R psychic damage; I < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 14 + R psychic damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 6 + R psychic damage; I < WEAK, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+- **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+- **17+:** 14 + R psychic damage; I < STRONG, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save ends)
 
 **Strained:** You start crying, and you can't use triggered actions or make free strikes until the end of the target's next turn.

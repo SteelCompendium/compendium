@@ -23,4 +23,4 @@ type: title/2nd-echelon
 
 - *Hunter's Oath:* As a main action, you swear a hunter's oath against a creature within 10 squares who you have line of effect to. This oath lasts until the target dies or until you swear a hunter's oath against a different creature. As long as the hunter's oath lasts, you magically know the direction to the target if they are within 50 miles of you, and your damage-dealing abilities gain a +5 damage bonus against the target.
 - *Particular Set of Skills:* You know a skill from the intrigue skill group.
-- *We're In This Together:* When you have a creature [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) and take damage from an ability not used by that creature, the [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) creature takes the same damage.
+- *We're In This Together:* When you have a creature [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) and take damage from an ability not used by that creature, the [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) creature takes the same damage.

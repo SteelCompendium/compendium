@@ -14,9 +14,9 @@ type: class
 
 ## Troubadour
 
-The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D). You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
+The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour). You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
 
-**As a [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
+**As a [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
 
 "History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world." **Jackson Bootblack**
 
@@ -61,17 +61,17 @@ There is no visible text in the image provided. The image appears to show a deco
 
 ### 1st-Level Features
 
-As a 1st-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 1st-level [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), you gain the following features.
 
 #### Troubadour Class Act
 
-Panache, melody, and depiction. Some [troubadours](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) have it all, but everyone starts somewhere. Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
+Panache, melody, and depiction. Some [troubadours](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) have it all, but everyone starts somewhere. Your [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
 
 - **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the Brag skill.
 - **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the Gymnastics skill.
 - **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the Music skill and can play an instrument.
 
-Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
+Your [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
 
 #### Drama
 
@@ -111,7 +111,7 @@ When you use an ability outside of combat that lets you spend unlimited drama on
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Swashbuckler](%7BREL_PATH_PREFIX%7DRules/Kits/Swashbuckler%7BREL_PATH_SUFFIX%7D).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Swashbuckler](https://steelcompendium.io/compendium/main-linked/Rules/Kits/Swashbuckler).)
 
 #### Scene Partner
 
@@ -121,7 +121,7 @@ You can have a number of bonds active equal to your level. When you form a bond 
 
 #### Routines
 
-You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D), dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
+You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed), dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
 
 You start off with the Choreography and Revitalizing Limerick performance abilities. Your choice of class act grants you additional performances.
 
@@ -149,7 +149,7 @@ You start off with the Choreography and Revitalizing Limerick performance abilit
 
 #### 1st-Level Class Act Features
 
-Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants you two features, as shown on the 1st-Level Class Act Features table.
+Your [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class act grants you two features, as shown on the 1st-Level Class Act Features table.
 
 ###### 1st-Level Class Act Features Table
 
@@ -172,7 +172,7 @@ You have the following performance ability, which is usable with your Routines f
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D), tumble, or \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) as part of their movement before the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump), tumble, or \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) as part of their movement before the end of their turn.
 
 ##### Blocking
 
@@ -187,7 +187,7 @@ You have the following performance ability, which is usable with your Routines f
 > | ---------------------------- | -------------------------------: |
 > | **📏 2 aura**                | **🎯 Each creature in the area** |
 >
-> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) those targets to unoccupied spaces in the area. A target can't be [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) those targets to unoccupied spaces in the area. A target can't be [teleported](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
 ##### Dramatic Monologue
 
@@ -280,7 +280,7 @@ You have the following performance abilities, which are usable with your Routine
 
 #### Class Act Triggered Action
 
-Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
+Your [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
 ###### Class Act Triggered Action Table
 
@@ -371,9 +371,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 7 + P psychic damage; P < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)
+> - **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)
+> - **17+:** 7 + P psychic damage; P < STRONG, [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)
 
 <!-- -->
 > ###### Instigator
@@ -390,7 +390,7 @@ Choose one signature ability from the following options. Signature abilities can
 > - **12-16:** 6 + P damage
 > - **17+:** 9 + P damage
 >
-> **Effect:** The target is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by you or a willing ally adjacent to you until the end of the target's next turn.
+> **Effect:** The target is [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) by you or a willing ally adjacent to you until the end of the target's next turn.
 
 <!-- -->
 > ###### Witty Banter
@@ -447,9 +447,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 1; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** Slide 1; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** Slide 2; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** Slide 1; I < WEAK, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save ends)
+> - **12-16:** Slide 1; I < AVERAGE, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save ends)
+> - **17+:** Slide 2; I < STRONG, [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save ends)
 >
 > **Spend 2+ Drama:** The size of the burst increases by 1 for every 2 drama spent.
 
@@ -464,9 +464,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 damage; P < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 5 damage; P < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 6 damage; P < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 4 damage; P < WEAK, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 5 damage; P < AVERAGE, [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 6 damage; P < STRONG, [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) (save ends)
 >
 > **Effect:** The area is difficult terrain for enemies.
 
@@ -483,9 +483,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Agility or Presence:**
 >
-> - **≤11:** [Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT); A < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-> - **12-16:** [Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT); A < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-> - **17+:** [Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT); A < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (EoT)
+> - **≤11:** [Taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (EoT); A < WEAK, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
+> - **12-16:** [Taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (EoT); A < AVERAGE, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
+> - **17+:** [Taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (EoT); A < STRONG, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) and can't stand (EoT)
 
 ###### 5-Drama Ability
 
@@ -526,7 +526,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 > | --------------- | ------------------------------------: |
 > | **📏 3 burst**  | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) up to 5 squares. Any [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) target who was [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) is no longer [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D).
+> **Effect:** Each target can [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) up to 5 squares. Any [teleported](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) target who was [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) is no longer [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed).
 
 <!-- -->
 > ###### Method Acting (5 Drama)
@@ -539,15 +539,15 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 + A damage; P < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 10 + A damage; P < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 14 + A damage; P < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 6 + A damage; P < WEAK, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+> - **12-16:** 10 + A damage; P < AVERAGE, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+> - **17+:** 14 + A damage; P < STRONG, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
 >
-> **Effect:** You can become [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends) to deal an extra 5 corruption damage to the target.
+> **Effect:** You can become [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends) to deal an extra 5 corruption damage to the target.
 
 ### 2nd-Level Features
 
-As a 2nd-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 2nd-level [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), you gain the following features.
 
 #### Appeal to the Muses
 
@@ -585,7 +585,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 #### 2nd-Level Class Act Ability
 
-Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants your choice of one of two heroic abilities.
+Your [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Auteur Ability
 
@@ -679,11 +679,11 @@ Choose one of the following abilities.
 
 ### 3rd-Level Features
 
-As a 3rd-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 3rd-level [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), you gain the following features.
 
 #### 3rd-Level Class Act Feature
 
-Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
+Your [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
 
 ###### 3rd-Level Class Act Features Table
 
@@ -725,7 +725,7 @@ You have the following performance abilities, which are usable with your Routine
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) until the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) until the end of their turn.
 
 #### 7-Drama Ability
 
@@ -759,9 +759,9 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 fire damage; A < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 7 fire damage; A < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 10 fire damage; A < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 5 fire damage; A < WEAK, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+> - **12-16:** 7 fire damage; A < AVERAGE, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
+> - **17+:** 10 fire damage; A < STRONG, [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) (save ends)
 >
 > **Effect:** Each ally in the area can shift up to 2 squares.
 
@@ -797,7 +797,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 ### 4th-Level Features
 
-As a 4th-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 4th-level [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), you gain the following features.
 
 #### Characteristic Increase
 
@@ -845,11 +845,11 @@ You can ask the Director for three rumors regarding the area you're in or an are
 
 ### 5th-Level Features
 
-As a 5th-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 5th-level [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), you gain the following features.
 
 #### 5th-Level Class Act Feature
 
-Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants your choice of one of two features.
+Your [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class act grants your choice of one of two features.
 
 ##### Auteur Features
 
@@ -857,7 +857,7 @@ Choose one of the following features.
 
 ###### Fix It in Post
 
-Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your Dramatic Monologue ability. Choose one of the following conditions on the target: [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D), [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D), [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D), [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D), or [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) can stand up.
+Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your Dramatic Monologue ability. Choose one of the following conditions on the target: [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding), [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened), [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed), or [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) can stand up.
 
 ###### Take Two!
 
@@ -939,7 +939,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 > | ----------------- | -------------------------: |
 > | **📏 Ranged 10**  | **🎯 One enemy or object** |
 >
-> **Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's Stamina, is [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.
+> **Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's Stamina, is [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.
 
 <!-- -->
 > ###### Love Song (9 Drama)
@@ -969,7 +969,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 
 ### 6th-Level Features
 
-As a 6th-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 6th-level [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), you gain the following features.
 
 #### Perk
 
@@ -992,7 +992,7 @@ You have the following performance ability, which is usable with your Routines f
 
 #### 6th-Level Class Act Ability
 
-Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants your choice of one of two heroic abilities.
+Your [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Auteur Abilities
 
@@ -1009,9 +1009,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 psychic damage; P < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 7 psychic damage; P < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 2 psychic damage; P < WEAK, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+> - **17+:** 7 psychic damage; P < STRONG, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
 
 <!-- -->
 > ###### You're All My Understudies (9 Drama)
@@ -1039,9 +1039,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 12 + A damage; M < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 24 + A damage; [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (EoT), or if M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 12 + A damage; M < WEAK, [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)
+> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)
+> - **17+:** 24 + A damage; [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (EoT), or if M < STRONG, [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)
 
 <!-- -->
 > ###### Fight Choreography (9 Drama)
@@ -1067,13 +1067,13 @@ Choose one of the following abilities.
 > | ----------------------------- | ----------------------------: |
 > | **📏 Three 3 cubes within 1** | **🎯 Each enemy in the area** |
 >
-> **Effect:** A [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target ignores this ability.
+> **Effect:** A [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) target ignores this ability.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 7 sonic damage; P < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-> - **12-16:** 10 sonic damage; P < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-> - **17+:** 13 sonic damage; P < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **≤11:** 7 sonic damage; P < WEAK, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
+> - **12-16:** 10 sonic damage; P < AVERAGE, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
+> - **17+:** 13 sonic damage; P < STRONG, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
 
 <!-- -->
 > ###### Legendary Drum Fill (9 Drama)
@@ -1088,7 +1088,7 @@ Choose one of the following abilities.
 
 ### 7th-Level Features
 
-As a 7th-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 7th-level [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), you gain the following features.
 
 #### Characteristic Increase
 
@@ -1110,7 +1110,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As an 8th-level [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), you gain the following features.
 
 #### Perk
 
@@ -1118,7 +1118,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Class Act Feature
 
-Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants you a feature, as shown on the 8th-Level Class Act Features table.
+Your [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class act grants you a feature, as shown on the 8th-Level Class Act Features table.
 
 ###### 8th-Level Class Act Features Table
 
@@ -1177,7 +1177,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) ally can then make a melee free strike.
+> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) ally can then make a melee free strike.
 
 <!-- -->
 > ###### Power Ballad (11 Drama)
@@ -1225,17 +1225,17 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 
 ### 9th-Level Features
 
-As a 9th-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 9th-level [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), you gain the following features.
 
 #### Roar of the Crowd
 
-You are empowered by your audience, near and far. You can't be made [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D), and if you are [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D), you can stand up as a free maneuver.
+You are empowered by your audience, near and far. You can't be made [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened), and if you are [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), you can stand up as a free maneuver.
 
 Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your Scene Partner feature + either your Victories or the number of players in your game (whichever is higher).
 
 #### 9th-Level Class Act Ability
 
-Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants your choice of one of two heroic abilities.
+Your [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Auteur Abilities
 
@@ -1267,7 +1267,7 @@ Choose one of the following abilities.
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  | **🎯 One ally** |
 >
-> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) or [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) or [weakened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Weakened) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
 
 ##### 9th-Level Duelist Abilities
 
@@ -1286,7 +1286,7 @@ Choose one of the following abilities.
 >
 > - **≤11:** 15 + A damage
 > - **12-16:** 21 + A damage
-> - **17+:** 28 + A damage; M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **17+:** 28 + A damage; M < STRONG, [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)
 >
 > **Effect:** This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.
 
@@ -1347,7 +1347,7 @@ Choose one of the following abilities.
 
 ### 10th-Level Features
 
-As a 10th-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 10th-level [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), you gain the following features.
 
 #### Applause
 

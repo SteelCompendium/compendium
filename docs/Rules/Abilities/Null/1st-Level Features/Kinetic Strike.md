@@ -35,6 +35,6 @@ type: feature/ability/null/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT)
-- **12-16:** 5 + A damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT), slide 1
-- **17+:** 6 + A damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT), slide 2
+- **≤11:** 4 + A damage; [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (EoT)
+- **12-16:** 5 + A damage; [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (EoT), slide 1
+- **17+:** 6 + A damage; [taunted](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Taunted) (EoT), slide 2

@@ -14,7 +14,7 @@ type: class/troubadour/level
 
 ### 6th-Level Features
 
-As a 6th-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 6th-level [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour), you gain the following features.
 
 #### Perk
 
@@ -37,7 +37,7 @@ You have the following performance ability, which is usable with your Routines f
 
 #### 6th-Level Class Act Ability
 
-Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants your choice of one of two heroic abilities.
+Your [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Auteur Abilities
 
@@ -54,9 +54,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 psychic damage; P < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 7 psychic damage; P < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 2 psychic damage; P < WEAK, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
+> - **17+:** 7 psychic damage; P < STRONG, [frightened](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Frightened) (save ends)
 
 <!-- -->
 > ###### You're All My Understudies (9 Drama)
@@ -84,9 +84,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 12 + A damage; M < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 24 + A damage; [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (EoT), or if M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 12 + A damage; M < WEAK, [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)
+> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)
+> - **17+:** 24 + A damage; [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (EoT), or if M < STRONG, [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) (save ends)
 
 <!-- -->
 > ###### Fight Choreography (9 Drama)
@@ -112,13 +112,13 @@ Choose one of the following abilities.
 > | ----------------------------- | ----------------------------: |
 > | **📏 Three 3 cubes within 1** | **🎯 Each enemy in the area** |
 >
-> **Effect:** A [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target ignores this ability.
+> **Effect:** A [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) target ignores this ability.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 7 sonic damage; P < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-> - **12-16:** 10 sonic damage; P < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-> - **17+:** 13 sonic damage; P < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **≤11:** 7 sonic damage; P < WEAK, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
+> - **12-16:** 10 sonic damage; P < AVERAGE, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
+> - **17+:** 13 sonic damage; P < STRONG, [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone)
 
 <!-- -->
 > ###### Legendary Drum Fill (9 Drama)
