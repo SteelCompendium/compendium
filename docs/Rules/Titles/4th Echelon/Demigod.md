@@ -17,7 +17,7 @@ type: title/4th-echelon
 
 *The ritual is complete. I feel your power flow through me. I am become a god! Ah-ha-ha-ha-ha!*
 
-**Prerequisite:** You have the \[Godsworn\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd Echelon/Godsworn) title, and hundreds of worshipful mortals complete a divine ritual in your name.
+**Prerequisite:** You have the [Godsworn](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd%20Echelon/Godsworn) title, and hundreds of worshipful mortals complete a divine ritual in your name.
 
 **Effect:** You gain the following benefits:
 

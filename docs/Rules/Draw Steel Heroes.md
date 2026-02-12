@@ -70,7 +70,7 @@ Basically, we worry only about those things you'd see your characters doing in a
 
 Closely tied to the heroic keyword, the cinematic keyword is about how we like abilities and features to be strongly evocative. You can imagine your character doing or saying these things. "In All This Confusion" is a good name for the [shadow](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Shadow)'s ability to slip out of melee and retreat to safety. The text of the ability says how it works, but the name creates an awareness that explains *how* it's working.
 
-When Sir Vanazor the \[dragon knight\](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon Knight) [fury](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Fury) leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you *experience* that action in your mind. It feels like a movie. It doesn't feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
+When Sir Vanazor the [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) [fury](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Fury) leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you *experience* that action in your mind. It feels like a movie. It doesn't feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
 
 You should imagine your [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician) character leading the battle, granting your allies free strikes, extra maneuvers. *Coordinating* the battle. That's what the name implies. And if we've done a good job, when you read through your character's abilities, you think, "Yes! This is what I was imagining! I can't wait to do this!"
 
@@ -166,7 +166,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Claw Dirt:** An ability that uses a maneuver to allow a creature without "burrow" in their speed entry to [burrow](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Burrow).
 
-**\[Climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim):** A movement mode that allows a creature to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) without using additional squares of movement. A creature without "climb" in their speed entry or the temporary ability to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) must use 2 squares of movement to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) 1 square.
+**[Climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim):** A movement mode that allows a creature to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) without using additional squares of movement. A creature without "climb" in their speed entry or the temporary ability to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) must use 2 squares of movement to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) 1 square.
 
 **Combat Round:** A segment of a combat encounter in which each creature participating in the battle takes a turn.
 
@@ -238,7 +238,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Downtime Project:** A task a hero undertakes during one or more respites.
 
-**\[Dragon Knight\](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon Knight):** An ancestry with a draconic heritage.
+**[Dragon Knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight):** An ancestry with a draconic heritage.
 
 **Drama:** The [troubadour](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Troubadour)'s Heroic Resource.
 
@@ -518,7 +518,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Surprised:** A creature who is surprised can't take triggered actions or free triggered actions, and ability rolls against them gain an edge.
 
-**\[Swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim):** A movement mode that allows a creature to \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) without using additional squares of movement. A creature without "\[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim)" in their speed entry or the temporary ability to \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) must use 2 squares of movement to \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) 1 square.
+**[Swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim):** A movement mode that allows a creature to [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) without using additional squares of movement. A creature without "[swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim)" in their speed entry or the temporary ability to [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) must use 2 squares of movement to [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) 1 square.
 
 **[Tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician):** A class for a hero who is a brilliant strategist and weapons expert.
 
@@ -544,7 +544,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Title:** A special reward that a hero can earn while adventuring, and which grants benefits or new abilities.
 
-**\[Time Raider\](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Time Raider):** An ancestry of four-armed psionic folk with ocular sensors instead of eyes.
+**[Time Raider](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Time%20Raider):** An ancestry of four-armed psionic folk with ocular sensors instead of eyes.
 
 **Timescape:** A multiverse of worlds, also known as manifolds, connected by the Sea of Stars.
 
@@ -684,7 +684,7 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Fury) uses their Brutal Slam ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
 
-A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician) might not have an ability that lets them \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) up the face of a cliff, so climbing is an activity they can attempt with a test. An [elementalist](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](#page-263-0) for more information.
+A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician) might not have an ability that lets them [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) up the face of a cliff, so climbing is an activity they can attempt with a test. An [elementalist](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Tests) for more information.
 
 <!-- -->
 > **Sapient Creatures**
@@ -693,7 +693,7 @@ A **test** is a power roll you make outside of using your abilities to affect or
 
 #### Making a Power Roll
 
-When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your characteristics. The characteristic you add depends on the kind of roll you're making, as outlined in [Abilities](#page-83-0) and [Tests](#page-263-0).
+When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your characteristics. The characteristic you add depends on the kind of roll you're making, as outlined in [Abilities](#page-83-0) and [Tests](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Tests).
 
 ##### Power Roll Outcomes
 
@@ -703,19 +703,19 @@ The total of a power roll determines your outcome tier—three levels that deter
 - **Tier 2:** If your power roll total is **12 to 16**, it is a tier 2 outcome. This is the average outcome of many power rolls, especially for heroes who are 1st level. When using an ability, a tier 2 outcome means that what you do has a moderate impact. With this outcome, a strike ability deals a decent amount of damage and has an effect that briefly helps allies or hinders enemies. For a test, a tier 2 outcome means you might succeed at what you set out to do—though depending on the difficulty, success might have a cost.
 - **Tier 3:** If your power roll total is **17 or higher**, it is a tier 3 outcome. This is the best outcome a power roll can have. When using an ability, a tier 3 outcome means you deliver the maximum impact possible. With this outcome, a strike ability deals a lot of damage and has a powerful or lasting effect on enemies or allies. For a test, a tier 3 outcome means you succeed at what you set out to do. If the test has an easy difficulty, you also get a little something extra in addition to your success.
 
-The specific outcome of any power roll is determined by the effect or ability that requires the roll (see [Abilities](#page-83-0)) or the rules for tests (see [Tests](#page-263-0)).
+The specific outcome of any power roll is determined by the effect or ability that requires the roll (see [Abilities](#page-83-0)) or the rules for tests (see [Tests](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Tests)).
 
 ##### Downgrade a Power Roll
 
 Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) condition on a creature, but the tier 2 outcome for that ability lets you impose the [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) condition, you can use the tier 2 outcome if you would rather have the creature [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) than [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained).
 
-If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see [Critical Hit](#page-89-0) in [Classes](#page-83-2)).
+If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see [Critical Hit](#page-89-0) in [Classes](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Classes)).
 
 ##### Natural Roll
 
 The total of your power roll before your characteristic or any other modifiers are added is called the natural roll. The rules often refer to this as "rolling a natural X," where X is the total of the roll. For example, if you get a 20 on a power roll before adding your characteristic, this is called rolling a natural 20.
 
-When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a critical hit (see [Critical Hit](#page-89-0) in [Classes](#page-83-2)).
+When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a critical hit (see [Critical Hit](#page-89-0) in [Classes](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Classes)).
 
 #### Edges and Banes
 
@@ -723,13 +723,13 @@ An archer standing on a castle wall fires down into a throng of enemies, hitting
 
 ##### Edge
 
-An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) walls!
+An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) walls!
 
 When you make a power roll with an edge, you gain a +2 bonus to the roll. If you make a power roll with two or more edges, you have a **double edge**. With a double edge, you don't add anything to the power roll, but the outcome of the roll automatically improves one tier (to a maximum of tier 3).
 
 ##### Bane
 
-A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) an outdoor wall because the weather makes the stone surface extra slick.
+A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) an outdoor wall because the weather makes the stone surface extra slick.
 
 When you make a power roll with a bane, you take a −2 penalty to the roll. If you make a power roll with two or more banes, you have a **double bane**. With a double bane, you don't subtract anything from the power roll, but the outcome of the roll automatically decreases one tier (to a minimum of tier 1).
 
@@ -743,7 +743,7 @@ Under certain circumstances, you might have one or more edges and banes on the s
 
 ##### When to Use Edges and Banes
 
-The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
+The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
 
 <!-- -->
 > **Why Cap?**
@@ -776,13 +776,13 @@ At the start of a new game session, the heroes have a number of hero tokens equa
 
 Heroes can earn more tokens through play by taking big risks to save others. A hero who leaps off a cliff to reach the bottom and aid a friend, who crosses a burning bridge to save a stray cat, or who wagers their most prized treasure as part of a negotiation to get shelter for a group of refugees might earn a hero token for the group. The Director has the final say regarding which heroic acts earn hero tokens.
 
-Players can also be awarded hero tokens as part of a test's outcome when they succeed on the test with a reward (see [Tests](#page-263-0)).
+Players can also be awarded hero tokens as part of a test's outcome when they succeed on the test with a reward (see [Tests](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Tests)).
 
 #### Spending Hero Tokens
 
 Whenever hero tokens are available, you can spend them in the following ways:
 
-- You can spend a hero token to gain 2 surges, allowing you to increase the damage or potency of an ability. (See [Surges](#page-89-2) in [Classes](#page-83-2).)
+- You can spend a hero token to gain 2 surges, allowing you to increase the damage or potency of an ability. (See [Surges](#page-89-2) in [Classes](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Classes).)
 - You can spend a hero token when you fail a saving throw, letting you succeed on the save instead.
 - You can spend a hero token to reroll a test. You must use the new roll.
 - You can spend 2 hero tokens on your turn or when you take damage (no action required) to regain Stamina equal to your recovery value before taking the damage.
@@ -957,7 +957,7 @@ Now there is only suspicion.
 
 **The Hawklords of the High Aeries**, once remote and proud, almost mythical to the people below, made their own pact with Ajax to avoid extermination. They now serve as his elite counterinsurgent force. Mounted on their giant hawks, they project Ajax's power, enforce his law and extend his influence into every corner of the wilderness. Their mastery of the air means any revolt or rebellion is quickly seen and crushed.
 
-**The Dragon Phalanx** is broken. Ajax placed a high bounty on its warriors' heads. Some folk still see Omund's knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any dragon \[knight\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd Echelon/Knight) foolish enough to travel without a disguise away to the Chrysopolis.
+**The Dragon Phalanx** is broken. Ajax placed a high bounty on its warriors' heads. Some folk still see Omund's knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any dragon [knight](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd%20Echelon/Knight) foolish enough to travel without a disguise away to the Chrysopolis.
 
 Isolated and outnumbered, the [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) baronies desperately fight a losing battle against the encroaching wilderness. Order dies. Chaos thrives.
 
@@ -1112,7 +1112,7 @@ The first thing you should do is think about the kind of hero you want to make. 
 
 #### 2. Ancestry
 
-Choose your hero's humanoid ancestry from among the range of [ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries) available in the game—devil, dragon knight, [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), wode elf, high elf, [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan), [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), [memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek), [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc), [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder), [revenant](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant), or time raider. Future supplements will introduce additional [ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries) you can choose from. See [Chapter 3: Ancestries](#page-35-0) for more information.
+Choose your hero's humanoid ancestry from among the range of [ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries) available in the game—devil, [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight), [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), wode elf, high elf, [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan), [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), [memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek), [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc), [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder), [revenant](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant), or time raider. Future supplements will introduce additional [ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries) you can choose from. See [Chapter 3: Ancestries](#page-35-0) for more information.
 
 #### 3. Culture
 
@@ -1277,7 +1277,7 @@ This chapter details twelve [ancestries](https://steelcompendium.io/compendium/m
 
 **[Devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil):** [Devils](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil) originated in the Seven Cities of Hell and have a supernatural charisma that helps them persuade others. They are similar in stature to [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), and their skin tones include deep blues, purples, and reds. They sport horns, eyes of all shades (including gold and red), and tails, and some have feathered or leathery wings.
 
-**\[Dragon Knight\](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon Knight):** Dragon knights are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All dragon knights have wings, but on only a few are those wings big enough to let them [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly).
+**[Dragon Knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight):** [Dragon knights](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All [dragon knights](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) have wings, but on only a few are those wings big enough to let them [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly).
 
 **[Dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf):** Humanoids with stony skin, [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) have short and stout bodies. Many carve supernatural runes into their flesh, and some have beards made of crystals.
 
@@ -1297,7 +1297,7 @@ This chapter details twelve [ancestries](https://steelcompendium.io/compendium/m
 
 **[Revenant](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant):** No hero starts their life as a [revenant](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant). Rather, these undead creatures return to the world of the living because they have dire business that must be finished. A character of any ancestry can become a [revenant](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Revenant).
 
-**\[Time Raider\](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Time Raider):** Travelers of the timescape, the time raiders (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
+**[Time Raider](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Time%20Raider):** Travelers of the timescape, the time raiders (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
 
 <!-- -->
 > **Other Sections**
@@ -1332,7 +1332,7 @@ However, mortals are not gods and lack their ineffable wisdom. They are, in fact
 
 In every instance in recorded history, attempts by mortals to make obedient servitor species backfired. The steel [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) worked marvels with valiar, the truemetal, and the miracle mineral iridoss, known as prismacore, that grants objects a semblance of life. Eventually their science and magics produced the omnivok—machines that were self-aware. Perhaps uniquely, when the [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) realized they had created beings equal to themselves they stopped their work and gave their creations full rights and independence, preferring to work with them rather than attempt, and inevitably fail, to be their masters.
 
-Normally, it doesn't work out that nicely. Even with the best of intentions, things go awry. The Dragon Phalanx were created by Good King Omund's wizard Vitae to be the perfect knights, dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed 30 years of peace and justice, eventually the dragon knights were betrayed by one of their own, seduced by the power offered by Ajax.
+Normally, it doesn't work out that nicely. Even with the best of intentions, things go awry. The Dragon Phalanx were created by Good King Omund's wizard Vitae to be the perfect knights, dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed 30 years of peace and justice, eventually the [dragon knights](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) were betrayed by one of their own, seduced by the power offered by Ajax.
 
 The law of unintended consequences applies to the just and the unjust alike.
 
@@ -1501,7 +1501,7 @@ How tall is a [polder](https://steelcompendium.io/compendium/main-linked/Rules/A
 | Ancestry                                                                        | Height in Feet/<br>Inches | Weight in<br>Pounds | Life Expectancy in<br>Years |
 | ------------------------------------------------------------------------------- | ------------------------- | ------------------- | --------------------------- |
 | [Devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil)                   | 5'0''-6'0''               | 120-250             | 70-120                      |
-| \[Dragon Knight\](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon Knight) | 6'0''-7'0''               | 200-350             | 50-90                       |
+| [Dragon Knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) | 6'0''-7'0''               | 200-350             | 50-90                       |
 | [Dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf)                   | 4'0''-4'6''               | 500-1,000           | 700-1,500                   |
 | Wode Elf                                                                        | 5'6''-6'6''               | 100-150             | 1,200-3,000                 |
 | High Elf                                                                        | 5'6''-6'6''               | 100-150             | 1,200-3,000                 |
@@ -1510,7 +1510,7 @@ How tall is a [polder](https://steelcompendium.io/compendium/main-linked/Rules/A
 | [Memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek)               | 5'0''-6'0''               | 50-100              | 70-120                      |
 | [Orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc)                       | 5'6''-6'6''               | 150-300             | 50-90                       |
 | [Polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder)                 | 3'3''-3'6''               | 20-50               | 50-90                       |
-| \[Time Raider\](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Time Raider)     | 5'0''-6'0''               | 120-250             | 50-90                       |
+| [Time Raider](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Time%20Raider)     | 5'0''-6'0''               | 120-250             | 50-90                       |
 
 ### Starting Size and Speed
 
@@ -1674,11 +1674,11 @@ You possess wings powerful enough to take you airborne. While using your wings t
 
 ## Dragon Knight
 
-The ritual of Dracogenesis that grants the power to create a generation of dragon knights—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
+The ritual of Dracogenesis that grants the power to create a generation of [dragon knights](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight)—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
 The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
 
-Knighthood was a title carried by every member of that first generation of dragon knights. Within the Dragon Phalanx were [shadows](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Shadow), [censors](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Censor), [tacticians](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician), and [elementalists](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
+Knighthood was a title carried by every member of that first generation of [dragon knights](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight). Within the Dragon Phalanx were [shadows](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Shadow), [censors](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Censor), [tacticians](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician), and [elementalists](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
 
 Then Ajax came.
 
@@ -1690,7 +1690,7 @@ A tall, broad draconian stepped into the light. He was old, his scales battle-sc
 
 The three [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) bandits took a step back. One of the [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) just sneered—then, sensing his [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) compatriots' reluctance, turned to look at them. "What's this?" the lead [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) growled.
 
-Looking at the dragon knight, another bandit added quickly, "We didn't know there was one of you here."
+Looking at the [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight), another bandit added quickly, "We didn't know there was one of you here."
 
 The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf). "Think of the *bounty*," the [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) hissed to the [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human), but he kept his eye on the draconian. "We'll all be *rich*."
 
@@ -1698,15 +1698,15 @@ The two [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancest
 
 "We'll be *back*," the lead [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) said, and the group of them backed out of the inn, sheathing their shortswords before they turned and left.
 
-As one, the people in the tavern turned to look with undisguised awe at the dragon knight. He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
+As one, the people in the tavern turned to look with undisguised awe at the [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight). He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
 
-A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the dragon knight walked past their table.
+A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) walked past their table.
 
 The knight moved on, ignoring them. The man reached out and grabbed the massive draconian's arm. The knight wheeled on the peasant, looming over him.
 
 The man touched his forelock. The two women with him curtseyed. "Begging your pardon, sir, but we been lookin' for you."
 
-The dragon knight sneered and bared a set of sharp teeth. "*Look for someone else*," he growled as he pulled his arm away.
+The [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) sneered and bared a set of sharp teeth. "*Look for someone else*," he growled as he pulled his arm away.
 
 The man scurried around to stand in front of the draconian, blocking his way. He took off his worn cap and held it over his breast. "I'm sorry sir, but there ain't no one else. There's this new tax, you see, from the new baron. And a priest says he's of Saint Ajax."
 
@@ -1714,7 +1714,7 @@ The knight bared his impressive teeth, ready to scare Jago and the other two awa
 
 "You might want to hear 'em out, Vaant," said a voice from the table the three peasants had been sitting at.
 
-The dragon knight turned sharply to look at the man who'd spoken. His back was to the draconian, but the voice gave him away.
+The [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) turned sharply to look at the man who'd spoken. His back was to the draconian, but the voice gave him away.
 
 "John?"
 
@@ -1722,7 +1722,7 @@ The man turned to look up.
 
 "Hi Vaant," he said, smiling. He rose from the table. He was middleaged, fit. Black hair hung down to his shoulders. He was armed with many weapons. "Folks," he said, "this is Vaantikalisax, knight of King Omund in the Thunder Phalanx. He may be the last of the Storm Knights."
 
-The man held out his hand. The dragon knight looked at it for a moment before reaching out slowly to grasp it. "What are you doing out here?" he asked.
+The man held out his hand. The [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) looked at it for a moment before reaching out slowly to grasp it. "What are you doing out here?" he asked.
 
 "These people need help. I said I'd find it. Heard a rumor someone matching your description was holed up here having a drinking contest with Mr. John Barleycorn."
 
@@ -1734,7 +1734,7 @@ The draconian sniffed, released John's hand. "Sure," he said. "But why *me*?"
 
 "Yeah." Sir John smiled. "The hero game."
 
-The inn had mostly gone back to its business but the three peasants watched intently. Eventually the dragon knight spoke again, his voice low.
+The inn had mostly gone back to its business but the three peasants watched intently. Eventually the [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) spoke again, his voice low.
 
 "I owe you a lot, John—but not everything."
 
@@ -1744,17 +1744,17 @@ The inn had mostly gone back to its business but the three peasants watched inte
 
 "What does your oath say? 'Even should the sun stop in the sky, even should the night-'"
 
-"John," the dragon knight said, his voice suddenly sad. Exasperated. "You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time—of you. Don't spoil it." He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
+"John," the [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) said, his voice suddenly sad. Exasperated. "You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time—of you. Don't spoil it." He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
 
-"Vaant," Sir John said, following. "Sir Vaantikalisax, by your *oath*!" The dragon knight stopped and spun around. Everyone in the inn was watching the show again. Act two.
+"Vaant," Sir John said, following. "Sir Vaantikalisax, by your *oath*!" The [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) stopped and spun around. Everyone in the inn was watching the show again. Act two.
 
 "The people need leadership," John said.
 
-Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and what did it amount to?! I watched Ajax... I watched him..." The dragon knight's eyes flinched. His clawed hands tightened on his mace and shield. "I watched the oath... fail."
+Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and what did it amount to?! I watched Ajax... I watched him..." The [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight)'s eyes flinched. His clawed hands tightened on his mace and shield. "I watched the oath... fail."
 
 "Vaant... Vaant, the Dragon Phalanx didn't *fail*. You were *betrayed*. It was Mandrake! One of your own, don't you get it? You're just as fallible as the rest of us. You were never 'incorruptible.' It's just what we wanted to believe. You're just people—like the rest of us."
 
-The dragon knight looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
+The [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
 
 "Exactly," Vaantikalisax said. Then he turned and left the inn.
 
@@ -2822,7 +2822,7 @@ Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing i
 
 "I, uh..." Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
 
-The dragon knight stared at them for a moment, then turned back to his friend.
+The [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) stared at them for a moment, then turned back to his friend.
 
 "Maybe you're right," he said.
 
@@ -3046,7 +3046,7 @@ Slowly everyone assembled could make out the sounds of a conversation, quiet wit
 
 "Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
-Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) in working battle plate. A [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) with his battle-staff tipped with an hourglass. An [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) with a huge battleaxe casually resting on her shoulder. A [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. An unarmed [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) towering over everyone. And a dragon knight. Of all the motley band, it was the dragon knight who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
+Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) in working battle plate. A [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf) with his battle-staff tipped with an hourglass. An [orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc) with a huge battleaxe casually resting on her shoulder. A [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder) with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. An unarmed [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) towering over everyone. And a [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight). Of all the motley band, it was the [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
 
 The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the taxiarch bellowed "Hold fast!" and they held their ground, uncertainty over the unknown threat of a band of heroes battling in each of them against the certain fear of their commander.
 
@@ -3076,7 +3076,7 @@ John knew what came next, but he wasn't an assassin. He had his own part to play
 
 Lycaon cocked his head at Sir John and took a few foolish steps toward the [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician). He was just out of reach. But close enough.
 
-"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder), [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), and dragon knight. "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
+"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, [polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder), [dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), and [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight). "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
@@ -3190,19 +3190,19 @@ You can build your culture one aspect at a time, or you can use the following ta
 
 ###### Typical Ancestry Cultures Table
 
-| Ancestry                                                          | Language    | Environment | Organization | Upbringing |
-| ----------------------------------------------------------------- | ----------- | ----------- | ------------ | ---------- |
-| [Devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil)     | Anjali      | Urban       | Bureaucratic | Academic   |
-| Dragon knight                                                     | Vastariax   | Secluded    | Bureaucratic | Martial    |
-| [Dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf)     | Zaliac      | Secluded    | Bureaucratic | Creative   |
-| Wode elf                                                          | Yllyric     | Wilderness  | Bureaucratic | Martial    |
-| High elf                                                          | Hyrallic    | Secluded    | Bureaucratic | Martial    |
-| [Hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan)   | Vhoric      | Rural       | Communal     | Labor      |
-| [Human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human)     | Vaslorian   | Urban       | Communal     | Labor      |
-| [Memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek) | Axiomatic   | Nomadic     | Communal     | Academic   |
-| [Orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc)         | Kalliak     | Wilderness  | Communal     | Creative   |
-| [Polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder)   | Khoursirian | Urban       | Communal     | Creative   |
-| Time raider                                                       | Voll        | Nomadic     | Communal     | Martial    |
+| Ancestry                                                                        | Language    | Environment | Organization | Upbringing |
+| ------------------------------------------------------------------------------- | ----------- | ----------- | ------------ | ---------- |
+| [Devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil)                   | Anjali      | Urban       | Bureaucratic | Academic   |
+| [Dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) | Vastariax   | Secluded    | Bureaucratic | Martial    |
+| [Dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf)                   | Zaliac      | Secluded    | Bureaucratic | Creative   |
+| Wode elf                                                                        | Yllyric     | Wilderness  | Bureaucratic | Martial    |
+| High elf                                                                        | Hyrallic    | Secluded    | Bureaucratic | Martial    |
+| [Hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan)                 | Vhoric      | Rural       | Communal     | Labor      |
+| [Human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human)                   | Vaslorian   | Urban       | Communal     | Labor      |
+| [Memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek)               | Axiomatic   | Nomadic     | Communal     | Academic   |
+| [Orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc)                       | Kalliak     | Wilderness  | Communal     | Creative   |
+| [Polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder)                 | Khoursirian | Urban       | Communal     | Creative   |
+| Time raider                                                                     | Voll        | Nomadic     | Communal     | Martial    |
 
 ###### Archetypical Cultures Table
 
@@ -3352,7 +3352,7 @@ Your hero grew up among leaders who rule over others and play the games of polit
 <!-- -->
 > **But I Really Want Alertness**
 >
-> If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the \[noble\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/3rd Echelon/Noble) upbringing aspect should give a character access to the Alertness skill, given that living among those who covet your power means always being aware of your surroundings.
+> If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the [noble](https://steelcompendium.io/compendium/main-linked/Rules/Titles/3rd%20Echelon/Noble) upbringing aspect should give a character access to the Alertness skill, given that living among those who covet your power means always being aware of your surroundings.
 
 #### Languages in Orden
 
@@ -3366,7 +3366,7 @@ The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago.
 
 Some 1,300 years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) in most regions to one extent or another.
 
-Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), dragon knights, elves, [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan), [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc), [polders](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
+Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), [dragon knights](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight), elves, [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan), [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc), [polders](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
 
 ##### Extant Languages
 
@@ -3669,7 +3669,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One supernatural perk (*Quick Build:* \[Ritualist\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Supernatural Perks/Ritualist).)
+**Perk:** One supernatural perk (*Quick Build:* [Ritualist](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Supernatural%20Perks/Ritualist).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3780,7 +3780,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* \[Brawny\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Exploration Perks/Brawny).)
+**Perk:** One exploration perk (*Quick Build:* [Brawny](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Exploration%20Perks/Brawny).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3834,7 +3834,7 @@ You gain the following career benefits:
 
 **Renown:** +2
 
-**Perk:** One interpersonal perk (*Quick Build:* \[Harmonizer\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Interpersonal Perks/Harmonizer).)
+**Perk:** One interpersonal perk (*Quick Build:* [Harmonizer](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Interpersonal%20Perks/Harmonizer).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3946,7 +3946,7 @@ You gain the following career benefits:
 
 **Renown:** +1
 
-**Perk:** One exploration perk (*Quick Build:* \[Teamwork\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Exploration Perks/Teamwork).)
+**Perk:** One exploration perk (*Quick Build:* [Teamwork](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Exploration%20Perks/Teamwork).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                               |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4469,7 +4469,7 @@ Unless otherwise indicated, a creature can grab only one creature at a time.
 
 ##### Prone
 
-While a creature is [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), they are flat on the ground, any strike they make takes a bane, and melee abilities used against them gain an edge. A [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) creature must [crawl](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Crawl) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim), [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump), \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim), or [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly) while [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone). If they are climbing, flying, or jumping when knocked [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), they fall.
+While a creature is [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), they are flat on the ground, any strike they make takes a bane, and melee abilities used against them gain an edge. A [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) creature must [crawl](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Crawl) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim), [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump), [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim), or [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly) while [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone). If they are climbing, flying, or jumping when knocked [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), they fall.
 
 Unless the ability or effect that imposed the [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) condition says otherwise, a [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) creature can stand up using the Stand Up maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)). A creature adjacent to a willing [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) creature can likewise use the Stand Up maneuver to make that creature stand up.
 
@@ -8240,28 +8240,28 @@ You can revert back to your true form as a maneuver. You can't enter an animal f
 
 ###### Green Animal Forms Table
 
-| Animal Type         | Level | Temporary Stamina | Speed                                                                         | Size | Stability Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ------------------- | ----- | ----------------- | ----------------------------------------------------------------------------- | ---- | --------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Canine              | 2nd   | 5                 | 7                                                                             | 1M   | +0              | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Fish                | 2nd   | 0                 | 5 (\[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Rodent              | 2nd   | 0                 | 5 (\[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim))     | 1T   | +0              | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Bird                | 3rd   | 0                 | 5 ([fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly))                   | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Great cat           | 3rd   | 5                 | 6 (\[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim))     | 2    | +0              | +1/+1/+1           | As a maneuver, you can [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) up to 3 squares in any direction. If you land on<br>an enemy of your size or smaller, that enemy is knocked [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), and you can<br>make a melee free strike against them (no action required).                                                                                                                                              |
-| Giant frog          | 4th   | 5                 | 5 (\[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim))      | 2    | +0              | +0/+0/+0           | Your melee free strike has a distance of melee 3. When you take the Advance<br>move action, you can high [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) or long [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) up to half your speed. This<br>[jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) can allow you to move more squares than your speed.                                                                                                   |
-| Horse               | 4th   | 5                 | 8                                                                             | 2    | +1              | +0/+0/+0           | You can use the Charge main action as a maneuver. You can't use two Charge<br>main actions on the same turn.                                                                                                                                                                                                                                                                                                                                                                        |
-| Mohler              | 4th   | 0                 | 7 ([burrow](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Burrow))             | 1S   | +1              | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Bear                | 5th   | 10                | 5 (\[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim))     | 2    | +1              | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Giant bird          | 5th   | 0                 | 7 ([fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly))                   | 2    | +0              | +1/+1/+1           | After making a melee free strike, you can shift up to 3 squares as a free<br>triggered action.                                                                                                                                                                                                                                                                                                                                                                                      |
-| Giant<br>salamander | 6th   | 5                 | 5                                                                             | 1L   | +3              | +2/+2/+2           | Your melee free strike deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                                                                                                                                                                                                                                |
-| Giant spider        | 6th   | 0                 | 5 (\[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim))     | 2    | +0              | +0/+1/+2           | You have a double edge on melee free strikes against creatures you are hidden<br>from.                                                                                                                                                                                                                                                                                                                                                                                              |
-| Giant snake         | 7th   | 5                 | 5                                                                             | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee free strike, you<br>can automatically grab the target. While [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) this way, the target takes 2<br>damage at the start of each of their turns.                                                                                                                                                                                                                |
-| Kangaroo            | 7th   | 0                 | 7                                                                             | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee free strike, the target is [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save<br>ends). When you take the Advance move action, you can high [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) or long<br>[jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) up to half your speed. This [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) can allow you to move more squares<br>than your speed. |
-| Spiny armadillo     | 7th   | 10                | 5                                                                             | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br>creature takes 3 damage.                                                                                                                                                                                                                                                                                                                                                                                |
-| Ostrich             | 8th   | 0                 | 10                                                                            | 2    | +0              | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Shark               | 8th   | 0                 | 8 (\[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an edge on strikes against targets who are [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) or winded.                                                                                                                                                                                                                                                                       |
-| Giant octopus       | 9th   | 5                 | 5 (\[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim))      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee free strike. Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee free strike, you can automatically grab the target. You can have up to<br>eight creatures [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed).                                                                                                                                           |
-| Rhinoceros          | 9th   | 10                | 8                                                                             | 2    | +5              | +2/+2/+2           | Whenever you make a melee free strike as part of the Charge action, that<br>strike gains an edge.                                                                                                                                                                                                                                                                                                                                                                                   |
-| King terror lizard  | 10th  | 20                | 5                                                                             | 4    | +3              | +2/+2/+2           | Your melee free strike is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Animal Type         | Level | Temporary Stamina | Speed                                                                           | Size | Stability Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------- | ----- | ----------------- | ------------------------------------------------------------------------------- | ---- | --------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Canine              | 2nd   | 5                 | 7                                                                               | 1M   | +0              | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Fish                | 2nd   | 0                 | 5 ([swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Rodent              | 2nd   | 0                 | 5 ([climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim))     | 1T   | +0              | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Bird                | 3rd   | 0                 | 5 ([fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly))                     | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Great cat           | 3rd   | 5                 | 6 ([climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim))     | 2    | +0              | +1/+1/+1           | As a maneuver, you can [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) up to 3 squares in any direction. If you land on<br>an enemy of your size or smaller, that enemy is knocked [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), and you can<br>make a melee free strike against them (no action required).                                                                                                                                              |
+| Giant frog          | 4th   | 5                 | 5 ([swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim))      | 2    | +0              | +0/+0/+0           | Your melee free strike has a distance of melee 3. When you take the Advance<br>move action, you can high [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) or long [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) up to half your speed. This<br>[jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) can allow you to move more squares than your speed.                                                                                                   |
+| Horse               | 4th   | 5                 | 8                                                                               | 2    | +1              | +0/+0/+0           | You can use the Charge main action as a maneuver. You can't use two Charge<br>main actions on the same turn.                                                                                                                                                                                                                                                                                                                                                                        |
+| Mohler              | 4th   | 0                 | 7 ([burrow](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Burrow))               | 1S   | +1              | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Bear                | 5th   | 10                | 5 ([climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim))     | 2    | +1              | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Giant bird          | 5th   | 0                 | 7 ([fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly))                     | 2    | +0              | +1/+1/+1           | After making a melee free strike, you can shift up to 3 squares as a free<br>triggered action.                                                                                                                                                                                                                                                                                                                                                                                      |
+| Giant<br>salamander | 6th   | 5                 | 5                                                                               | 1L   | +3              | +2/+2/+2           | Your melee free strike deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                                                                                                                                                                                                                                |
+| Giant spider        | 6th   | 0                 | 5 ([climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim))     | 2    | +0              | +0/+1/+2           | You have a double edge on melee free strikes against creatures you are hidden<br>from.                                                                                                                                                                                                                                                                                                                                                                                              |
+| Giant snake         | 7th   | 5                 | 5                                                                               | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee free strike, you<br>can automatically grab the target. While [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed) this way, the target takes 2<br>damage at the start of each of their turns.                                                                                                                                                                                                                |
+| Kangaroo            | 7th   | 0                 | 7                                                                               | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee free strike, the target is [dazed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Dazed) (save<br>ends). When you take the Advance move action, you can high [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) or long<br>[jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) up to half your speed. This [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump) can allow you to move more squares<br>than your speed. |
+| Spiny armadillo     | 7th   | 10                | 5                                                                               | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br>creature takes 3 damage.                                                                                                                                                                                                                                                                                                                                                                                |
+| Ostrich             | 8th   | 0                 | 10                                                                              | 2    | +0              | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Shark               | 8th   | 0                 | 8 ([swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an edge on strikes against targets who are [bleeding](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Bleeding) or winded.                                                                                                                                                                                                                                                                       |
+| Giant octopus       | 9th   | 5                 | 5 ([swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim))      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee free strike. Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee free strike, you can automatically grab the target. You can have up to<br>eight creatures [grabbed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Grabbed).                                                                                                                                           |
+| Rhinoceros          | 9th   | 10                | 8                                                                               | 2    | +5              | +2/+2/+2           | Whenever you make a melee free strike as part of the Charge action, that<br>strike gains an edge.                                                                                                                                                                                                                                                                                                                                                                                   |
+| King terror lizard  | 10th  | 20                | 5                                                                               | 4    | +3              | +2/+2/+2           | Your melee free strike is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 ##### There Is No Space Between
 
@@ -10415,11 +10415,11 @@ You gain an edge on tests made to hide and sneak. Additionally, you ignore diffi
 
 ##### Animal Form: Rat
 
-While you are in your rat form, your size is 1T and you can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your rat form, your size is 1T and you can automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Rat
 
-While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving.
+While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
 
 ##### Primordial Storm: Rat Flood
 
@@ -11024,7 +11024,7 @@ Your [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null
 
 ##### Entropic Adaptability
 
-You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving.
+You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
 
 ##### Inertial Sink
 
@@ -12553,7 +12553,7 @@ You gain one perk of your choice.
 
 As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
-- You can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving.
+- You can automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
 - Enemies' spaces don't count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
 - If you end your turn with cover or concealment from another creature, you are automatically hidden from that creature.
 - You gain 1 surge at the start of each of your turns.
@@ -15668,7 +15668,7 @@ You have the following performance ability, which is usable with your Routines f
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump), tumble, or \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) as part of their movement before the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump), tumble, or [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) as part of their movement before the end of their turn.
 
 ##### Blocking
 
@@ -18329,7 +18329,7 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Burrow) or [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly), or to automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Burrow) or [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly), or to automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) or [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
@@ -18510,7 +18510,7 @@ You're a disgraced member of a powerful family or guild, having been turned out 
 
 You sometimes have strange dreams of a raging inferno... a gleaming pile of treasure... of spreading your wings and taking flight. You haven't told anyone about these dreams, except for your one strange relative who seems to know more than they're letting on.
 
-**Benefit:** Choose 2 ancestry points' worth of purchased dragon knight traits (see [Chapter 3: Ancestries](#page-35-0)). You can use these traits whenever you have 5 or more Victories.
+**Benefit:** Choose 2 ancestry points' worth of purchased [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) traits (see [Chapter 3: Ancestries](#page-35-0)). You can use these traits whenever you have 5 or more Victories.
 
 **Drawback:** Whenever you are reduced to 0 Stamina, you explode with heat and fire. You and each creature within 5 squares of you takes fire damage equal to twice your level. You can't reduce this damage for yourself in any way.
 
@@ -19023,7 +19023,7 @@ While your peers were learning their trades in fancy schools, you honed your cap
 
 Impoverished or on the run, you spent your formative years living in the sewers of a major city. There, you learned lessons that have served you well, although the miasma of the sewers did permanent damage to your health.
 
-**Benefit:** You can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) (your choice) at full speed while moving, and you never get lost while underground. Additionally, while in a city with sewers, you and your companions can move from place to place without being detected, as the Director determines.
+**Benefit:** You can automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) or [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) (your choice) at full speed while moving, and you never get lost while underground. Additionally, while in a city with sewers, you and your companions can move from place to place without being detected, as the Director determines.
 
 **Drawback:** You have poison weakness 5.
 
@@ -19207,7 +19207,7 @@ Your childhood sweetheart was royalty, and the two of you stayed close throughou
 
 You nearly lost your life at sea, but then you heard the voice. Someone—or something—in the water called out to you, telling you to swim. The ocean was suddenly no longer your doom but your parent, granting you a fragment of its power. But for what purpose, you can't be sure.
 
-**Benefit:** You can automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
+**Benefit:** You can automatically [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
 
 <!-- -->
 > ######## Rogue Wave
@@ -19264,7 +19264,7 @@ The advancement of a story shouldn't be halted by failing a test. For instance, 
 
 #### It Just Works!
 
-When a hero attempts to solve a task that typically requires a test with clever, outside-the-box thinking, the Director can instead decide that no test is required and the attempt automatically works! For example, if a hero who wants to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) up the wall without needing to make a test.
+When a hero attempts to solve a task that typically requires a test with clever, outside-the-box thinking, the Director can instead decide that no test is required and the attempt automatically works! For example, if a hero who wants to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) up the wall without needing to make a test.
 
 That said, such clever ideas often work for free the first time, but the Director could decide they require tests if they are used again.
 
@@ -19280,7 +19280,7 @@ The player reports the total of the roll, and the Director interprets its succes
 
 #### Characteristics and Tests
 
-When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which characteristic the test uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a Might test to determine how far and how quickly you're able to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim). If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a Presence test if you're attempting to win over the jury with your personality, or a Reason test if you're laying out a logical argument to support your innocence.
+When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which characteristic the test uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a Might test to determine how far and how quickly you're able to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim). If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a Presence test if you're attempting to win over the jury with your personality, or a Reason test if you're laying out a logical argument to support your innocence.
 
 Though the Director can decide to call for tests in any circumstances, a number of tasks that heroes routinely undertake are commonly set up as tests.
 
@@ -19370,7 +19370,7 @@ Depending on a test's difficulty and the power roll made to accomplish the task 
 
 If you fail a hard test and incur a consequence, you don't do what you set out to do—in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task.
 
-For instance, if a hero suffers a consequence while trying to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a wall, they might make it halfway up the wall and then fall, taking damage and landing [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone). A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the \[monarch\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th Echelon/Monarch) is deathly allergic.
+For instance, if a hero suffers a consequence while trying to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) a wall, they might make it halfway up the wall and then fall, taking damage and landing [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone). A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the [monarch](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th%20Echelon/Monarch) is deathly allergic.
 
 Not all consequences need to be immediate or apparent. For example, a hero might fail with a consequence on a test made to cheat at a high-stakes game of cards with a noble. The failure means the cheating is noticed, but the Director decides that the noble doesn't say anything. This consequence isn't made apparent until later in the evening, when the noble has guards surround the hero, intent on taking the cheater down to the dungeon for stacking the deck.
 
@@ -19387,7 +19387,7 @@ In lieu of other consequences, the Director also has the option to gain 2 additi
 
 ##### Failure
 
-If you fail a test without incurring a consequence, you simply don't do what you set out to do. A hero attempting to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
+If you fail a test without incurring a consequence, you simply don't do what you set out to do. A hero attempting to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
 
 On a failed test, the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the test. This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an Agility test made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
 
@@ -19395,7 +19395,7 @@ When a hero rolls a failure without a consequence, the Director can offer to let
 
 ##### Success With a Consequence
 
-If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
+If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
 
 Just like failure with a consequence, the consequences accompanying success don't need to be immediately apparent. In lieu of other consequences, the Director has the option to gain 2 additional Malice at the start of the next combat encounter.
 
@@ -19684,7 +19684,7 @@ In this scenario, a trio of adventurers want to scale the 40-foot-high walls sur
 
 **Director:** *Okay. It'll be a Might test to get up to the top of the wall.*
 
-The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim), designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
+The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim), designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
 
 **Alyssa (playing Jorn, a [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician)):** *Let me go first. I've got good Might and can throw the others down a rope once I'm up there. And I've got the Climb skill.*
 
@@ -19700,13 +19700,13 @@ The Director checks the Test Difficulty Outcomes table to confirm that a tier 3 
 
 **Alyssa:** *Great! I toss down a rope. Val, you're next.*
 
-**Grace:** *So it's a Might test. Would you let me use Endurance? It's a lot of physical exertion to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim).*
+**Grace:** *So it's a Might test. Would you let me use Endurance? It's a lot of physical exertion to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim).*
 
-**Director:** *It's not a \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier test.*
+**Director:** *It's not a [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier test.*
 
 **Grace:** *Fair. Okay, dice. Let's do this.*
 
-Given the rope, the Director decides that this second \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) attempt is an easy test. Grace rolls 2d10 and gets an 11. With her Might score of 2, that's a 13.
+Given the rope, the Director decides that this second [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) attempt is an easy test. Grace rolls 2d10 and gets an 11. With her Might score of 2, that's a 13.
 
 **Grace:** *13! That's a tier 2 outcome for Val.*
 
@@ -19795,7 +19795,7 @@ While you are hidden from another creature and not in combat, you can attempt to
 
 ### Group Tests
 
-Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a Might group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an Agility group test.
+Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a Might group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an Agility group test.
 
 #### Group Test Difficulty
 
@@ -19922,7 +19922,7 @@ When the test begins, the Director sets the scene. They tell the players that th
 
 Urdoncara, a [fury](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Fury), starts things off by asking to make an Intuition test using the Nature skill to predict the best times of day to travel and rest. She wants the party to avoid the worst of the desert's extreme temperatures and any sandstorms or other weather phenomena, so that the journey is quickened. The Director decides this is an easy test. Urdoncara makes the test and gets a total of 12, earning 1 success for the montage test.
 
-Jorn, a [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician), wants to make a Reason test using the Climb skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
+Jorn, a [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician), wants to make a Reason test using the Climb skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
 
 Karrel, an [elementalist](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist), thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium Reason test. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
 
@@ -20102,7 +20102,7 @@ You can't shift into or while within difficult terrain or damaging terrain (see 
 
 #### Movement Types
 
-Creatures in the game can use eight types of movement: [walk](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Walk), [burrow](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Burrow), \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim), \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim), [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump), [crawl](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Crawl), [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly), and [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport).
+Creatures in the game can use eight types of movement: [walk](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Walk), [burrow](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Burrow), [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim), [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim), [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump), [crawl](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Crawl), [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly), and [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport).
 
 ##### Walk
 
@@ -20152,21 +20152,21 @@ While a creature who is completely beneath the ground while burrowing is force m
 
 ##### Climb or Swim
 
-A creature who has "\[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim)" in their speed entry, or who gains the temporary ability to automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim), can \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "\[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim)" in their speed entry, or who gains the temporary ability to automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim), can \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) in liquid at full speed.
+A creature who has "[climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim), can [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim), can [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) in liquid at full speed.
 
-Creatures without those types of movement can still \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
+Creatures without those types of movement can still [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) or [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) or [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
 ###### Climbing Other Creatures
 
-You can attempt to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a creature whose size is greater than yours. If the creature is willing, you can \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) them without any trouble. If the creature is unwilling, you make the following test:
+You can attempt to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) a creature whose size is greater than yours. If the creature is willing, you can [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) them without any trouble. If the creature is unwilling, you make the following test:
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fail to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the creature, and they can make a free strike against you.
-- **12-16:** You fail to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the creature.
-- **17+:** You \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the creature.
+- **≤11:** You fail to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) the creature, and they can make a free strike against you.
+- **12-16:** You fail to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) the creature.
+- **17+:** You [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) the creature.
 
-While you \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
+While you [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
 
 **Power Roll + Might or Agility:**
 
@@ -20242,7 +20242,7 @@ Areas of acid, fire, sharp rocks, lava, or any other terrain that causes damage 
 
 Whenever a creature uses an ability to target a creature or object while standing on the ground and occupying a space that is fully above the target's space, they gain an edge on the power roll against that target. To be fully above a target, the bottom of a creature's space must be higher than or bordering on the top of the target's space.
 
-A creature can gain this benefit while climbing only if they have "climb" in their speed entry or can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving.
+A creature can gain this benefit while climbing only if they have "climb" in their speed entry or can automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
 
 #### Forced Movement
 
@@ -20458,7 +20458,7 @@ You can convert your main action into a maneuver or a move action, allowing you 
 
 When a creature takes the Charge main action, they move up to their speed in a straight line, then make a melee free strike (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a free strike.
 
-A creature can't move through difficult terrain or shift when they charge. They can [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly) or [burrow](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Burrow) as part of the Charge main action if they have that movement available to them, but they can't \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) while charging unless they can automatically use that movement at full speed.
+A creature can't move through difficult terrain or shift when they charge. They can [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly) or [burrow](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Burrow) as part of the Charge main action if they have that movement available to them, but they can't [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) or [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) while charging unless they can automatically use that movement at full speed.
 
 #### Defend
 
@@ -20633,7 +20633,7 @@ The Director can decide that a well-made or poorly made object has more or less 
 
 ### Underwater Combat
 
-If a creature is fully submerged in water, they have fire immunity 5 and lightning weakness 5. If they can't automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving, their power rolls take a bane.
+If a creature is fully submerged in water, they have fire immunity 5 and lightning weakness 5. If they can't automatically [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving, their power rolls take a bane.
 
 ### Suffocating
 
@@ -20643,7 +20643,7 @@ Out of combat, you can hold your breath for a number of minutes equal to your Mi
 
 ### Mounted Combat
 
-A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the Ride move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
+A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the Ride move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
 
 If a creature riding a mount is force moved, they are knocked off the mount and must make a test to determine how they land (see [Climbing Other Creatures)](#page-283-8). If a mount is force moved, they carry any riders with them. Riders and mounts [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) separately.
 
@@ -21687,7 +21687,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Forceful I:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 2 squares.
 
-**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
+**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
 
 **Rejuvenating I:** Whenever you use an ability that costs 1 or more of your Heroic Resource, roll a d10. On a 9 or higher, you gain 1 Heroic Resource.
 
@@ -22915,7 +22915,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** As a maneuver, you make a ranged free strike using the \[Timesplitter\](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Consumables/3rd Echelon Consumables/Timesplitter), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged free strike using the [Timesplitter](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Consumables/3rd%20Echelon%20Consumables/Timesplitter), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
 
 - **≤11:** The target and each creature within 3 squares of them a [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends).
 - **12-16:** The target and each creature within 5 squares of them is [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends).
@@ -23333,7 +23333,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Goal:** 300
 
-**Effect:** While you wear this necklace, you can breathe underwater, you can automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving, and you ignore difficult terrain created by water or in marsh and similar terrain.
+**Effect:** While you wear this necklace, you can breathe underwater, you can automatically [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving, and you ignore difficult terrain created by water or in marsh and similar terrain.
 
 ##### Scannerstone
 
@@ -23594,7 +23594,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina, you can automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
+**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina, you can automatically [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
 
 **5th Level:** The armor's bonus to Stamina increases to +12, and you have cold immunity 5. Additionally, whenever you fall, you can extend your arms (no action required) to unfurl a thick membrane between your arms and your body, slowing your fall and allowing you to glide. While gliding this way, you move downward at 1 square per round, and you can glide up to 6 squares horizontally as a free maneuver once during each of your turns.
 
@@ -24346,7 +24346,7 @@ Each title comes with a new ability or other special benefit. By earning titles,
 
 ### Title Requirements
 
-Players don't simply choose their characters' titles. Like treasures and Renown (in the next section), titles must be won. Each title has a unique requirement, so that earning a title might mean your character needs to defeat a specific monster, research dangerous forbidden lore, or—in the case of the \[Monarch\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th Echelon/Monarch) title—win a kingdom!
+Players don't simply choose their characters' titles. Like treasures and Renown (in the next section), titles must be won. Each title has a unique requirement, so that earning a title might mean your character needs to defeat a specific monster, research dangerous forbidden lore, or—in the case of the [Monarch](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th%20Echelon/Monarch) title—win a kingdom!
 
 Titles aren't given out on a schedule. Instead, the Director grants one whenever heroes perform a deed worthy of it. Just as a hero doesn't automatically find a magic weapon simply because they meet the requirements for using it, they don't automatically earn a title unless it's granted by the Director.
 
@@ -24354,7 +24354,7 @@ Although the Director gives out titles, if you want to earn a specific title, le
 
 ### Title Echelons
 
-Each title is assigned to an echelon of play where it is most likely to be earned. For instance, knighthood is something that can be typically earned by the 2nd echelon, but becoming a \[monarch\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th Echelon/Monarch) can usually only be achieved in the 4th echelon. But don't let the rules get in the way of a good story! If the Director decides that your character somehow wins a knighthood at 1st level, bask in the glory of this great accomplishment.
+Each title is assigned to an echelon of play where it is most likely to be earned. For instance, knighthood is something that can be typically earned by the 2nd echelon, but becoming a [monarch](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th%20Echelon/Monarch) can usually only be achieved in the 4th echelon. But don't let the rules get in the way of a good story! If the Director decides that your character somehow wins a knighthood at 1st level, bask in the glory of this great accomplishment.
 
 <!-- -->
 > For the Director: Granting Titles Early
@@ -24365,12 +24365,12 @@ Each title is assigned to an echelon of play where it is most likely to be earne
 
 This section details a number of ready-to-use titles. But the Director can also create custom titles, both to reward specific player accomplishments and to flesh out organizations, locations, and foes within their own game world. When a hero finally achieves a long-term goal after many game sessions of struggle, the Director can memorialize the moment by granting a unique title. Similarly, the Director can grant custom titles when the heroes befriend specific factions, defeat notorious villains, or learn new moves from skilled NPCs.
 
-The easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, your world might contain a secretive organization of freedom fighters—the Jesters—who never carry weapons, defeating foes with unarmed attacks and improvised weapons. Creating a Jester title can be as easy as modifying the \[Brawler\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st Echelon/Brawler) title by changing its requirements to "Fight alongside the Jesters against a mutual foe."
+The easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, your world might contain a secretive organization of freedom fighters—the Jesters—who never carry weapons, defeating foes with unarmed attacks and improvised weapons. Creating a Jester title can be as easy as modifying the [Brawler](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st%20Echelon/Brawler) title by changing its requirements to "Fight alongside the Jesters against a mutual foe."
 
 <!-- -->
 > **For the Director: Perks as Custom Titles**
 >
-> You can turn a perk into a 1st-echelon title simply by giving it a prerequisite (see Chapter 7: Perks). For example, a hero might gain the \[Familiar\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Supernatural Perks/Familiar) perk as a title instead if they complete a quest for an archmage, who then teaches the hero the conjuring ritual as a reward.
+> You can turn a perk into a 1st-echelon title simply by giving it a prerequisite (see Chapter 7: Perks). For example, a hero might gain the [Familiar](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Supernatural%20Perks/Familiar) perk as a title instead if they complete a quest for an archmage, who then teaches the hero the conjuring ritual as a reward.
 
 ### How Many Titles?
 
@@ -24380,7 +24380,7 @@ Just because a hero meets the prerequisite for a title doesn't mean it is grante
 
 Some titles have only one benefit. These are typically earned by heroes individually instead of together as a group. Only the hero doing the studying or meeting a particular fate reaps the reward!
 
-Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a selection of three or four different options. When the party earns the title, each player decides which benefit their hero takes. For instance, if the party triumphs in a tavern fight and gains the \[Brawler\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st Echelon/Brawler) title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in the increased notoriety. A hero can take any of a title's benefits they qualify for, and multiple heroes can take the same benefit.
+Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a selection of three or four different options. When the party earns the title, each player decides which benefit their hero takes. For instance, if the party triumphs in a tavern fight and gains the [Brawler](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st%20Echelon/Brawler) title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in the increased notoriety. A hero can take any of a title's benefits they qualify for, and multiple heroes can take the same benefit.
 
 ### Granting Titles
 
@@ -24400,7 +24400,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 <!-- -->
 > **For the Director: Planning Titles**
 >
-> While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for. As such, it's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, you can include the Demon Slayer or Dragon Blooded titles as potential rewards alongside that magic cloak or psionic dagger. You can even use titles to inspire adventures. What challenges should a hero face to earn the \[Demigod\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th Echelon/Demigod) title?
+> While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for. As such, it's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, you can include the Demon Slayer or Dragon Blooded titles as potential rewards alongside that magic cloak or psionic dagger. You can even use titles to inspire adventures. What challenges should a hero face to earn the [Demigod](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th%20Echelon/Demigod) title?
 
 #### Ancient Loremaster
 
@@ -24457,7 +24457,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Prerequisite:** You aren't a [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) but have witnessed the death of a [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan).
 
-**Effect:** You aren't destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but remain conscious, you can become \[doomed\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st Echelon/Doomed). If you do, you can't regain Stamina, you automatically obtain a tier 3 outcome on tests and power rolls, and you don't die until your Stamina reaches the negative of your Stamina maximum. At the end of the encounter, you die.
+**Effect:** You aren't destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but remain conscious, you can become [doomed](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st%20Echelon/Doomed). If you do, you can't regain Stamina, you automatically obtain a tier 3 outcome on tests and power rolls, and you don't die until your Stamina reaches the negative of your Stamina maximum. At the end of the encounter, you die.
 
 #### Dwarven Legionnaire
 
@@ -24621,7 +24621,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 **Effect:** Choose one of the following benefits:
 
-- *Deep-Sea Diver:* You can automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving.
+- *Deep-Sea Diver:* You can automatically [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
 - *Ship Speaker:* You magically know the location of any ship controlled by your party even while you aren't aboard. You can telepathically communicate with anyone on board one of your ships who understands a language, and they can respond, no matter your distance from the ship.
 - *Signal Flags:* While aboard a ship, you can communicate with and conduct negotiations with another ship up to 5 miles away, as long as you and creatures on the other ship have line of effect to each other. You gain an edge on Presence tests made while negotiating in this way.
 - *Trained Crewmember:* You gain an edge on tests made to handle air or sea vessels.
@@ -24816,7 +24816,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > **Special:** If the target is size 2 or larger, you gain an edge on this ability.
 
-- *Up the Beanstalk:* You have the \[Climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) skill. If you already have this skill, you instead gain an edge on tests made using the \[Climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
 
 #### Godsworn
 
@@ -24924,7 +24924,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 *I will follow you to the ends of the earth—just so I can kick you off the edge.*
 
-**Prerequisite:** You have the \[Marshal\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st Echelon/Marshal) title, and you take down an entire criminal organization.
+**Prerequisite:** You have the [Marshal](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st%20Echelon/Marshal) title, and you take down an entire criminal organization.
 
 **Effect:** Choose one of the following benefits:
 
@@ -25013,19 +25013,19 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Dragon Scaled:* Dragon scales grow on your body wherever the heart's blood of the dragon touched you. You gain the Wyrmplate signature trait from the dragon knight ancestry (see [Chapter 3](#page-35-0)).
-- *Dragon Touched:* You gain 3 ancestry points to spend on purchased dragon knight ancestry traits.
+- *Dragon Scaled:* Dragon scales grow on your body wherever the heart's blood of the dragon touched you. You gain the Wyrmplate signature trait from the [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) ancestry (see [Chapter 3](#page-35-0)).
+- *Dragon Touched:* You gain 3 ancestry points to spend on purchased [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) ancestry traits.
 
 #### Fleet Admiral
 
 *All hail the Pirate Queen!*
 
-**Prerequisite:** You have the \[Corsair\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd Echelon/Corsair) title, and you lead a fleet of at least three ships.
+**Prerequisite:** You have the [Corsair](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd%20Echelon/Corsair) title, and you lead a fleet of at least three ships.
 
 **Effect:** Choose one of the following benefits:
 
 - *First Mate:* You have a pirate retainer, such as a **human warrior**, chosen by the Director from *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*. This retainer's level increases to your level.
-- *Swashbuckler:* You can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving
+- *Swashbuckler:* You can automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving
 - *Treasure Keeper:* You earn 1 Wealth.
 - *Weather Wizard:* Once per day, you can spend 10 uninterrupted minutes to magically alter mundane weather in a 5-mile radius around you. The weather moves with you and persists for 6 hours or until you dismiss it as a free maneuver. Choose from one of the following weather types:
     - *Calm:* Wind-powered vessels and technology cease working
@@ -25153,7 +25153,7 @@ Titles suitable for 4th-echelon characters are presented in alphabetical order.
 
 *The ritual is complete. I feel your power flow through me. I am become a god! Ah-ha-ha-ha-ha!*
 
-**Prerequisite:** You have the \[Godsworn\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd Echelon/Godsworn) title, and hundreds of worshipful mortals complete a divine ritual in your name.
+**Prerequisite:** You have the [Godsworn](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd%20Echelon/Godsworn) title, and hundreds of worshipful mortals complete a divine ritual in your name.
 
 **Effect:** You gain the following benefits:
 
@@ -25254,7 +25254,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 *To reach Giant's Foot by dawn, we'll have to run every step of the way. Let's get moving.*
 
-**Prerequisite:** You have the \[Unstoppable\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd Echelon/Unstoppable) title, and you make or assist on a test as part of a montage test that obtains a full success.
+**Prerequisite:** You have the [Unstoppable](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd%20Echelon/Unstoppable) title, and you make or assist on a test as part of a montage test that obtains a full success.
 
 **Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
@@ -26394,7 +26394,7 @@ Here's an example of an opening overview that Matthew Colville created for his g
 
 *The rebellion against Ajax begins here. Surely the wards of the emperor contain the power to stop the Overlord. The heroes must travel across the world and brave many dangers to find and unlock the last emperor's wards. Whoever does will wield the lost empire's power.*
 
-As you can see, this opening overview introduces the setting—Vasloria (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](#page-17-3)). It also gives just enough history and background information for the players to understand their heroes' goal—to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
+As you can see, this opening overview introduces the setting—Vasloria (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/The%20Basics)). It also gives just enough history and background information for the players to understand their heroes' goal—to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
 
 <!-- -->
 > **Personal Problems at the Table**
@@ -26451,7 +26451,7 @@ The buy-in tells the players that their heroes are going to travel to far-flung 
 
 #### Player Option Restrictions
 
-Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all [memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek) and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all [ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries) (see [Chapter 3](#page-35-0)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4](#page-67-0)) so that no one can take [Aristocrat](https://steelcompendium.io/compendium/main-linked/Rules/Careers/Aristocrat) or [Politician](https://steelcompendium.io/compendium/main-linked/Rules/Careers/Politician).
+Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all [memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek) and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all [ancestries](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries) (see [Chapter 3](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Ancestries)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Background)) so that no one can take [Aristocrat](https://steelcompendium.io/compendium/main-linked/Rules/Careers/Aristocrat) or [Politician](https://steelcompendium.io/compendium/main-linked/Rules/Careers/Politician).
 
 Put any restrictions your campaign has into your pitch!
 
@@ -26550,7 +26550,7 @@ Multiple-front campaigns make the world feel authentic and alive, but they requi
 
 As part of your worldbuilding, you can create an outline of the events that might occur in each echelon of your campaign. The farther these events get from the start of the campaign, the vaguer you can leave the details. The actions of the heroes should matter and influence the course of events, so don't plan too much. Otherwise, you might end up throwing out earlier preparation to make player and character decisions matter.
 
-Your outline should include the plans of the villains in your campaign. Review [Echelons of Play](#page-22-0) in [Chapter 1: The Basics](#page-17-3) to get an idea of the threat level and stories the heroes should be experiencing at each stage of the campaign. An echelon outline might look like this:
+Your outline should include the plans of the villains in your campaign. Review [Echelons of Play](#page-22-0) in [Chapter 1: The Basics](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/The%20Basics) to get an idea of the threat level and stories the heroes should be experiencing at each stage of the campaign. An echelon outline might look like this:
 
 - **1st Echelon:** The heroes protect the village of Gravesford in the Barony of Bedegar from the forces of Lord Saxton, an usurper and tyrant loyal to Ajax. Eventually, they must bring the fight to Lord Saxton's keep in Bedegar City.
 - **2nd Echelon:** After toppling Saxton's keep, the heroes find a letter from Ajax detailing plans to amass powerful treasures from throughout Vasloria. The heroes can race to these locations to claim the treasures before Ajax's forces do.
@@ -26799,7 +26799,7 @@ Allow the heroes' investigation to drive the action. In an exploration scene, yo
 
 The heroes can usually obtain basic information just by interacting with their environment. If a player asks, "Does it look like the muddy floor of the cave would cling to someone's boots?", getting confirmation doesn't require a test. However, following the tracks that lead out of the cave toward the bandits' new hideout does require a test, because that's a harder task whose failure gives the bandits extra time to prepare an ambush for when the heroes arrive! If a character wants to meticulously dig through the refuse pile and examine each piece of trash, no test is required to find the torn-up pieces of the map unless they're under serious time pressure to do so. However, a character piecing the map back together needs to succeed on a Reason test to do so, because failing that task means the heroes obtain only incomplete information as they continue their search.
 
-[Chapter 9: Tests](#page-263-0) explains tests in detail and provides examples of different difficulties of tests. A lot of other fantasy games reflexively ask for a roll of the dice anytime a hero attempts a task. However, *Draw Steel* is built around the idea that the Director calls for tests only when failure would make the story more interesting for the heroes and not grind the game to a halt. You might end up asking for fewer tests than you're used to—and that's the way the game is meant to be played!
+[Chapter 9: Tests](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Tests) explains tests in detail and provides examples of different difficulties of tests. A lot of other fantasy games reflexively ask for a roll of the dice anytime a hero attempts a task. However, *Draw Steel* is built around the idea that the Director calls for tests only when failure would make the story more interesting for the heroes and not grind the game to a halt. You might end up asking for fewer tests than you're used to—and that's the way the game is meant to be played!
 
 Additionally, if a player has a particularly clever and plausible idea for attempting to overcome a challenge, you can have them automatically succeed on a task even if failure would make the story more interesting. It's important to reward clever thinking with success once in a while, so that the players are encouraged to think outside the box and create memorable moments!
 
@@ -26835,7 +26835,7 @@ If a test is a **success**, the hero does what they set out to do! You can even 
 
 If the test is a **success with a reward**, the hero does what they set out to do—and then some. A reward might grant another character who needs to make the same test an automatic success, grant an edge on a future test for the hero, reveal a hidden treasure the hero wasn't looking for, inspire a nearby NPC to come forth and offer aid, or earn the group a hero token. A reward on a test is yours to choose.
 
-Sample consequences and rewards for tests are detailed in [Chapter 9: Tests](#page-263-0).
+Sample consequences and rewards for tests are detailed in [Chapter 9: Tests](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Tests).
 
 #### Creating and Running Hazards
 
@@ -26921,7 +26921,7 @@ Refer to the details you wrote down for your NPCs while you roleplay them. Keep 
 
 ### Creating and Running Negotiations
 
-When you're preparing for a negotiation (see [Chapter 11: Negotiation](#page-297-0)), you'll want to pick an NPC and give them their negotiation stats—a starting interest and patience, motivations and pitfalls, and an Impression score. The Starting Attitudes table in the Negotiation chapter should give you an idea of where to start with some of these stats, but you should feel free to adjust the numbers as you see fit.
+When you're preparing for a negotiation (see [Chapter 11: Negotiation](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Negotiation)), you'll want to pick an NPC and give them their negotiation stats—a starting interest and patience, motivations and pitfalls, and an Impression score. The Starting Attitudes table in the Negotiation chapter should give you an idea of where to start with some of these stats, but you should feel free to adjust the numbers as you see fit.
 
 When assigning negotiation stats, keep the following guidelines in mind:
 
@@ -27316,7 +27316,7 @@ You can use montage tests to play out chases, escapes, investigations, wildernes
 
 When you prepare a montage test, you'll want to write down some key information.
 
-First, make a list of potential challenges the heroes can face during the montage test. This list should be at least as long as the number of successes the heroes must achieve to earn a total success. You might also prepare a list of consequences and rewards that could come up for individual tests made during the montage test, but since you can't predict what approaches the players will take to their characters' tests, don't worry about covering every scenario. You can always fall back on earning Malice and giving out hero tokens as a default consequence and reward (see [Test Outcomes](#page-264-0) in [Chapter 9: Tests](#page-263-0)).
+First, make a list of potential challenges the heroes can face during the montage test. This list should be at least as long as the number of successes the heroes must achieve to earn a total success. You might also prepare a list of consequences and rewards that could come up for individual tests made during the montage test, but since you can't predict what approaches the players will take to their characters' tests, don't worry about covering every scenario. You can always fall back on earning Malice and giving out hero tokens as a default consequence and reward (see [Test Outcomes](#page-264-0) in [Chapter 9: Tests](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Tests)).
 
 You'll then need to create the three outcomes of the montage: total success, partial success, and total failure. With a total success, the heroes should accomplish whatever they set out to do. With a partial success, they should accomplish their goal at a cost, create a new problem for themselves after doing what they set out to do, or not quite accomplish their full goal. With a total failure, the characters fail to do whatever they set out to do, but this result should not grind the story to a halt. Maybe they lose track of the fleeing lackeys they were pursuing, but they know they can now raid a mage's tower to find that information. Even if failure costs the characters dearly, they should still have options for continuing the adventure.
 
@@ -27324,7 +27324,7 @@ You'll then need to create the three outcomes of the montage: total success, par
 
 When you run a montage test, start by setting the scene for the players and listing the various challenges the heroes must overcome. Allow the players to strategize about the order in which they'll tackle these challenges and make tests.
 
-When you adjudicate individual tests as part of a montage test, do so as you would any other test (see [Adjudicating Tests](#page-263-0) in [Chapter 9](#page-263-0)). Individual tests should have rewards and consequences when appropriate. In addition to the usual options for rewards or consequences, you can choose to have those outcomes grant an edge or impose a bane on a test made later as part of the montage test. Do whatever makes sense for the heroes' actions in the narrative.
+When you adjudicate individual tests as part of a montage test, do so as you would any other test (see [Adjudicating Tests](#page-263-0) in [Chapter 9](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Tests)). Individual tests should have rewards and consequences when appropriate. In addition to the usual options for rewards or consequences, you can choose to have those outcomes grant an edge or impose a bane on a test made later as part of the montage test. Do whatever makes sense for the heroes' actions in the narrative.
 
 After each test, narrate the hero's failure or success in such a way that the other players can understand if and how the challenge has been overcome. Your description might even spark some new ideas for what the characters can do next.
 
@@ -27524,7 +27524,7 @@ One of the following outcomes ends the montage test:
 
 ### Running Respites
 
-When the heroes decide to take a respite (see [Respite](#page-21-4) in [Chapter 1:](#page-17-3) [The Basics](#page-17-3)), your role as Director changes a bit. Most of the heroes' activities during respites revolve around downtime projects, which are typically self-directed. However, you still have levers you can pull to make the story interesting.
+When the heroes decide to take a respite (see [Respite](#page-21-4) in [Chapter 1: The Basics](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/The%20Basics), your role as Director changes a bit. Most of the heroes' activities during respites revolve around downtime projects, which are typically self-directed. However, you still have levers you can pull to make the story interesting.
 
 #### Safe Place
 
@@ -27534,13 +27534,13 @@ Heroes can't take a respite unless they're in a safe place. This typically means
 
 #### Too Many Respites?
 
-It's up to the players how many respites the heroes take in a row. Characters eager to take a long series of respites to undertake downtime projects ([Chapter 12](#page-307-2)) is fine, but they should always feel pressure to get back to the fight. Remember that villains don't stop plotting and conquering while the heroes rest. Their plans continue! If the characters are taking their sweet time with respites so they can create as many Healing Potions as possible, have them get wind of the latest evil actions that nearby villains are taking. Heroes wanting to defend the people and values they love had better stop respiting and start adventuring.
+It's up to the players how many respites the heroes take in a row. Characters eager to take a long series of respites to undertake downtime projects ([Chapter 12](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Downtime%20Projects)) is fine, but they should always feel pressure to get back to the fight. Remember that villains don't stop plotting and conquering while the heroes rest. Their plans continue! If the characters are taking their sweet time with respites so they can create as many Healing Potions as possible, have them get wind of the latest evil actions that nearby villains are taking. Heroes wanting to defend the people and values they love had better stop respiting and start adventuring.
 
 If you prefer a campaign that has few respites, you might want to deploy artisans, sages, and readily available project sources to allow the heroes a chance to craft useful items and do research, since their available time to do so will be limited.
 
 #### Project Events
 
-Downtime project events are a Director's time to shine during downtime. Remember that these events (detailed in [Chapter 12](#page-307-2)) are optional, and you can use them as frequently as you like. In general, more than one or two events per respite can be disruptive to the overall campaign. It's also fine to have no events if you just want to keep the campaign's main story rolling along.
+Downtime project events are a Director's time to shine during downtime. Remember that these events (detailed in [Chapter 12](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Downtime%20Projects)) are optional, and you can use them as frequently as you like. In general, more than one or two events per respite can be disruptive to the overall campaign. It's also fine to have no events if you just want to keep the campaign's main story rolling along.
 
 When you're running downtime events, be sure to rotate which heroes are in the spotlight of the action. Don't focus on the same hero over and over again. You can also do a little preparation for events before you play them out, reading the event prompt and fleshing it out into a scene. Prompts are intentionally vaguely written so you can modify them as you see fit or easily create your own.
 
@@ -27568,7 +27568,7 @@ That said, you can make it easier to craft treasures and other items by changing
 
 ### Granting Rewards
 
-You should have as much fun giving out treasure, Renown, wealth, and titles to the characters as the players have earning those rewards (see [Chapter 13: Rewards](#page-327-1)). But what's the right amount of treasure to give out without turning the heroes into total badasses who can simply cut down every dragon they meet? How often do the rules of the game expect a hero to earn Renown? What about titles? This section has answers for you!
+You should have as much fun giving out treasure, Renown, wealth, and titles to the characters as the players have earning those rewards (see [Chapter 13: Rewards](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Rewards)). But what's the right amount of treasure to give out without turning the heroes into total badasses who can simply cut down every dragon they meet? How often do the rules of the game expect a hero to earn Renown? What about titles? This section has answers for you!
 
 #### Granting Treasures
 
@@ -27597,7 +27597,7 @@ The players can choose their hero's treasures, and can replace any leveled treas
 
 #### Making New Treasures
 
-You can easily create new types of leveled treasures for heroes to find using the enhancements from the Imbue Treasure project in [Chapter 12: Downtime Projects](#page-307-2).
+You can easily create new types of leveled treasures for heroes to find using the enhancements from the Imbue Treasure project in [Chapter 12: Downtime Projects](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Downtime%20Projects).
 
 You can also take any of the treasures in this book and easily reskin them. Do you wish Gecko Gloves were actually boots? Just change the description and the Hands keywords and you're good to go. Do you want the Icemaker Maul to be a dagger that creates pools of acid instead of an ice field? Change the Heavy Weapon keyword and swap the damage types, and you're ready to rock! Simply changing keywords, damage, and descriptions for treasures isn't going to break the game.
 

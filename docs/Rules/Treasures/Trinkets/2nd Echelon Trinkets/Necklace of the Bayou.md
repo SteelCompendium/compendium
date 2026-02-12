@@ -28,4 +28,4 @@ type: treasure/trinkets/2nd-echelon
 
 **Project Goal:** 300
 
-**Effect:** While you wear this necklace, you can breathe underwater, you can automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving, and you ignore difficult terrain created by water or in marsh and similar terrain.
+**Effect:** While you wear this necklace, you can breathe underwater, you can automatically [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving, and you ignore difficult terrain created by water or in marsh and similar terrain.

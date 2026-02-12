@@ -513,7 +513,7 @@ Your [null](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Null
 
 ##### Entropic Adaptability
 
-You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving.
+You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
 
 ##### Inertial Sink
 

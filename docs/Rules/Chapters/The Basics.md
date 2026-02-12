@@ -114,7 +114,7 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Fury) uses their Brutal Slam ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
 
-A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician) might not have an ability that lets them \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) up the face of a cliff, so climbing is an activity they can attempt with a test. An [elementalist](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](#page-263-0) for more information.
+A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician) might not have an ability that lets them [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) up the face of a cliff, so climbing is an activity they can attempt with a test. An [elementalist](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Tests) for more information.
 
 <!-- -->
 > **Sapient Creatures**
@@ -123,7 +123,7 @@ A **test** is a power roll you make outside of using your abilities to affect or
 
 #### Making a Power Roll
 
-When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your characteristics. The characteristic you add depends on the kind of roll you're making, as outlined in [Abilities](#page-83-0) and [Tests](#page-263-0).
+When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your characteristics. The characteristic you add depends on the kind of roll you're making, as outlined in [Abilities](#page-83-0) and [Tests](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Tests).
 
 ##### Power Roll Outcomes
 
@@ -133,19 +133,19 @@ The total of a power roll determines your outcome tier—three levels that deter
 - **Tier 2:** If your power roll total is **12 to 16**, it is a tier 2 outcome. This is the average outcome of many power rolls, especially for heroes who are 1st level. When using an ability, a tier 2 outcome means that what you do has a moderate impact. With this outcome, a strike ability deals a decent amount of damage and has an effect that briefly helps allies or hinders enemies. For a test, a tier 2 outcome means you might succeed at what you set out to do—though depending on the difficulty, success might have a cost.
 - **Tier 3:** If your power roll total is **17 or higher**, it is a tier 3 outcome. This is the best outcome a power roll can have. When using an ability, a tier 3 outcome means you deliver the maximum impact possible. With this outcome, a strike ability deals a lot of damage and has a powerful or lasting effect on enemies or allies. For a test, a tier 3 outcome means you succeed at what you set out to do. If the test has an easy difficulty, you also get a little something extra in addition to your success.
 
-The specific outcome of any power roll is determined by the effect or ability that requires the roll (see [Abilities](#page-83-0)) or the rules for tests (see [Tests](#page-263-0)).
+The specific outcome of any power roll is determined by the effect or ability that requires the roll (see [Abilities](#page-83-0)) or the rules for tests (see [Tests](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Tests)).
 
 ##### Downgrade a Power Roll
 
 Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained) condition on a creature, but the tier 2 outcome for that ability lets you impose the [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) condition, you can use the tier 2 outcome if you would rather have the creature [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) than [restrained](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Restrained).
 
-If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see [Critical Hit](#page-89-0) in [Classes](#page-83-2)).
+If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see [Critical Hit](#page-89-0) in [Classes](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Classes)).
 
 ##### Natural Roll
 
 The total of your power roll before your characteristic or any other modifiers are added is called the natural roll. The rules often refer to this as "rolling a natural X," where X is the total of the roll. For example, if you get a 20 on a power roll before adding your characteristic, this is called rolling a natural 20.
 
-When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a critical hit (see [Critical Hit](#page-89-0) in [Classes](#page-83-2)).
+When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a critical hit (see [Critical Hit](#page-89-0) in [Classes](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Classes)).
 
 #### Edges and Banes
 
@@ -153,13 +153,13 @@ An archer standing on a castle wall fires down into a throng of enemies, hitting
 
 ##### Edge
 
-An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) walls!
+An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) walls!
 
 When you make a power roll with an edge, you gain a +2 bonus to the roll. If you make a power roll with two or more edges, you have a **double edge**. With a double edge, you don't add anything to the power roll, but the outcome of the roll automatically improves one tier (to a maximum of tier 3).
 
 ##### Bane
 
-A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) an outdoor wall because the weather makes the stone surface extra slick.
+A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) an outdoor wall because the weather makes the stone surface extra slick.
 
 When you make a power roll with a bane, you take a −2 penalty to the roll. If you make a power roll with two or more banes, you have a **double bane**. With a double bane, you don't subtract anything from the power roll, but the outcome of the roll automatically decreases one tier (to a minimum of tier 1).
 
@@ -173,7 +173,7 @@ Under certain circumstances, you might have one or more edges and banes on the s
 
 ##### When to Use Edges and Banes
 
-The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
+The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
 
 <!-- -->
 > **Why Cap?**
@@ -206,13 +206,13 @@ At the start of a new game session, the heroes have a number of hero tokens equa
 
 Heroes can earn more tokens through play by taking big risks to save others. A hero who leaps off a cliff to reach the bottom and aid a friend, who crosses a burning bridge to save a stray cat, or who wagers their most prized treasure as part of a negotiation to get shelter for a group of refugees might earn a hero token for the group. The Director has the final say regarding which heroic acts earn hero tokens.
 
-Players can also be awarded hero tokens as part of a test's outcome when they succeed on the test with a reward (see [Tests](#page-263-0)).
+Players can also be awarded hero tokens as part of a test's outcome when they succeed on the test with a reward (see [Tests](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Tests)).
 
 #### Spending Hero Tokens
 
 Whenever hero tokens are available, you can spend them in the following ways:
 
-- You can spend a hero token to gain 2 surges, allowing you to increase the damage or potency of an ability. (See [Surges](#page-89-2) in [Classes](#page-83-2).)
+- You can spend a hero token to gain 2 surges, allowing you to increase the damage or potency of an ability. (See [Surges](#page-89-2) in [Classes](https://steelcompendium.io/compendium/main-linked/Rules/Chapters/Classes).)
 - You can spend a hero token when you fail a saving throw, letting you succeed on the save instead.
 - You can spend a hero token to reroll a test. You must use the new roll.
 - You can spend 2 hero tokens on your turn or when you take damage (no action required) to regain Stamina equal to your recovery value before taking the damage.
@@ -387,7 +387,7 @@ Now there is only suspicion.
 
 **The Hawklords of the High Aeries**, once remote and proud, almost mythical to the people below, made their own pact with Ajax to avoid extermination. They now serve as his elite counterinsurgent force. Mounted on their giant hawks, they project Ajax's power, enforce his law and extend his influence into every corner of the wilderness. Their mastery of the air means any revolt or rebellion is quickly seen and crushed.
 
-**The Dragon Phalanx** is broken. Ajax placed a high bounty on its warriors' heads. Some folk still see Omund's knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any dragon \[knight\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd Echelon/Knight) foolish enough to travel without a disguise away to the Chrysopolis.
+**The Dragon Phalanx** is broken. Ajax placed a high bounty on its warriors' heads. Some folk still see Omund's knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any dragon [knight](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd%20Echelon/Knight) foolish enough to travel without a disguise away to the Chrysopolis.
 
 Isolated and outnumbered, the [human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) baronies desperately fight a losing battle against the encroaching wilderness. Order dies. Chaos thrives.
 

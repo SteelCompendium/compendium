@@ -17,7 +17,7 @@ type: title/2nd-echelon
 
 *I will follow you to the ends of the earth—just so I can kick you off the edge.*
 
-**Prerequisite:** You have the \[Marshal\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st Echelon/Marshal) title, and you take down an entire criminal organization.
+**Prerequisite:** You have the [Marshal](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st%20Echelon/Marshal) title, and you take down an entire criminal organization.
 
 **Effect:** Choose one of the following benefits:
 

@@ -36,19 +36,19 @@ You can build your culture one aspect at a time, or you can use the following ta
 
 ###### Typical Ancestry Cultures Table
 
-| Ancestry                                                          | Language    | Environment | Organization | Upbringing |
-| ----------------------------------------------------------------- | ----------- | ----------- | ------------ | ---------- |
-| [Devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil)     | Anjali      | Urban       | Bureaucratic | Academic   |
-| Dragon knight                                                     | Vastariax   | Secluded    | Bureaucratic | Martial    |
-| [Dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf)     | Zaliac      | Secluded    | Bureaucratic | Creative   |
-| Wode elf                                                          | Yllyric     | Wilderness  | Bureaucratic | Martial    |
-| High elf                                                          | Hyrallic    | Secluded    | Bureaucratic | Martial    |
-| [Hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan)   | Vhoric      | Rural       | Communal     | Labor      |
-| [Human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human)     | Vaslorian   | Urban       | Communal     | Labor      |
-| [Memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek) | Axiomatic   | Nomadic     | Communal     | Academic   |
-| [Orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc)         | Kalliak     | Wilderness  | Communal     | Creative   |
-| [Polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder)   | Khoursirian | Urban       | Communal     | Creative   |
-| Time raider                                                       | Voll        | Nomadic     | Communal     | Martial    |
+| Ancestry                                                                        | Language    | Environment | Organization | Upbringing |
+| ------------------------------------------------------------------------------- | ----------- | ----------- | ------------ | ---------- |
+| [Devil](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Devil)                   | Anjali      | Urban       | Bureaucratic | Academic   |
+| [Dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) | Vastariax   | Secluded    | Bureaucratic | Martial    |
+| [Dwarf](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf)                   | Zaliac      | Secluded    | Bureaucratic | Creative   |
+| Wode elf                                                                        | Yllyric     | Wilderness  | Bureaucratic | Martial    |
+| High elf                                                                        | Hyrallic    | Secluded    | Bureaucratic | Martial    |
+| [Hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan)                 | Vhoric      | Rural       | Communal     | Labor      |
+| [Human](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human)                   | Vaslorian   | Urban       | Communal     | Labor      |
+| [Memonek](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Memonek)               | Axiomatic   | Nomadic     | Communal     | Academic   |
+| [Orc](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc)                       | Kalliak     | Wilderness  | Communal     | Creative   |
+| [Polder](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder)                 | Khoursirian | Urban       | Communal     | Creative   |
+| Time raider                                                                     | Voll        | Nomadic     | Communal     | Martial    |
 
 ###### Archetypical Cultures Table
 
@@ -198,7 +198,7 @@ Your hero grew up among leaders who rule over others and play the games of polit
 <!-- -->
 > **But I Really Want Alertness**
 >
-> If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the \[noble\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/3rd Echelon/Noble) upbringing aspect should give a character access to the Alertness skill, given that living among those who covet your power means always being aware of your surroundings.
+> If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the [noble](https://steelcompendium.io/compendium/main-linked/Rules/Titles/3rd%20Echelon/Noble) upbringing aspect should give a character access to the Alertness skill, given that living among those who covet your power means always being aware of your surroundings.
 
 #### Languages in Orden
 
@@ -212,7 +212,7 @@ The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago.
 
 Some 1,300 years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most [humans](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Human) in most regions to one extent or another.
 
-Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), dragon knights, elves, [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan), [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc), [polders](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
+Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dwarf), [dragon knights](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight), elves, [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan), [orcs](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Orc), [polders](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Polder), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
 
 ##### Extant Languages
 
@@ -515,7 +515,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One supernatural perk (*Quick Build:* \[Ritualist\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Supernatural Perks/Ritualist).)
+**Perk:** One supernatural perk (*Quick Build:* [Ritualist](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Supernatural%20Perks/Ritualist).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -626,7 +626,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* \[Brawny\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Exploration Perks/Brawny).)
+**Perk:** One exploration perk (*Quick Build:* [Brawny](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Exploration%20Perks/Brawny).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -680,7 +680,7 @@ You gain the following career benefits:
 
 **Renown:** +2
 
-**Perk:** One interpersonal perk (*Quick Build:* \[Harmonizer\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Interpersonal Perks/Harmonizer).)
+**Perk:** One interpersonal perk (*Quick Build:* [Harmonizer](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Interpersonal%20Perks/Harmonizer).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -788,7 +788,7 @@ You gain the following career benefits:
 
 **Renown:** +1
 
-**Perk:** One exploration perk (*Quick Build:* \[Teamwork\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Exploration Perks/Teamwork).)
+**Perk:** One exploration perk (*Quick Build:* [Teamwork](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Exploration%20Perks/Teamwork).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                               |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

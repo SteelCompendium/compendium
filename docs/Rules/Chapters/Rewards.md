@@ -618,7 +618,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** As a maneuver, you make a ranged free strike using the \[Timesplitter\](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Consumables/3rd Echelon Consumables/Timesplitter), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged free strike using the [Timesplitter](https://steelcompendium.io/compendium/main-linked/Rules/Treasures/Consumables/3rd%20Echelon%20Consumables/Timesplitter), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
 
 - **≤11:** The target and each creature within 3 squares of them a [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends).
 - **12-16:** The target and each creature within 5 squares of them is [slowed](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Slowed) (save ends).
@@ -1036,7 +1036,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Goal:** 300
 
-**Effect:** While you wear this necklace, you can breathe underwater, you can automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving, and you ignore difficult terrain created by water or in marsh and similar terrain.
+**Effect:** While you wear this necklace, you can breathe underwater, you can automatically [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving, and you ignore difficult terrain created by water or in marsh and similar terrain.
 
 ##### Scannerstone
 
@@ -1297,7 +1297,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina, you can automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
+**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina, you can automatically [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
 
 **5th Level:** The armor's bonus to Stamina increases to +12, and you have cold immunity 5. Additionally, whenever you fall, you can extend your arms (no action required) to unfurl a thick membrane between your arms and your body, slowing your fall and allowing you to glide. While gliding this way, you move downward at 1 square per round, and you can glide up to 6 squares horizontally as a free maneuver once during each of your turns.
 
@@ -2049,7 +2049,7 @@ Each title comes with a new ability or other special benefit. By earning titles,
 
 ### Title Requirements
 
-Players don't simply choose their characters' titles. Like treasures and Renown (in the next section), titles must be won. Each title has a unique requirement, so that earning a title might mean your character needs to defeat a specific monster, research dangerous forbidden lore, or—in the case of the \[Monarch\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th Echelon/Monarch) title—win a kingdom!
+Players don't simply choose their characters' titles. Like treasures and Renown (in the next section), titles must be won. Each title has a unique requirement, so that earning a title might mean your character needs to defeat a specific monster, research dangerous forbidden lore, or—in the case of the [Monarch](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th%20Echelon/Monarch) title—win a kingdom!
 
 Titles aren't given out on a schedule. Instead, the Director grants one whenever heroes perform a deed worthy of it. Just as a hero doesn't automatically find a magic weapon simply because they meet the requirements for using it, they don't automatically earn a title unless it's granted by the Director.
 
@@ -2057,7 +2057,7 @@ Although the Director gives out titles, if you want to earn a specific title, le
 
 ### Title Echelons
 
-Each title is assigned to an echelon of play where it is most likely to be earned. For instance, knighthood is something that can be typically earned by the 2nd echelon, but becoming a \[monarch\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th Echelon/Monarch) can usually only be achieved in the 4th echelon. But don't let the rules get in the way of a good story! If the Director decides that your character somehow wins a knighthood at 1st level, bask in the glory of this great accomplishment.
+Each title is assigned to an echelon of play where it is most likely to be earned. For instance, knighthood is something that can be typically earned by the 2nd echelon, but becoming a [monarch](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th%20Echelon/Monarch) can usually only be achieved in the 4th echelon. But don't let the rules get in the way of a good story! If the Director decides that your character somehow wins a knighthood at 1st level, bask in the glory of this great accomplishment.
 
 <!-- -->
 > For the Director: Granting Titles Early
@@ -2068,12 +2068,12 @@ Each title is assigned to an echelon of play where it is most likely to be earne
 
 This section details a number of ready-to-use titles. But the Director can also create custom titles, both to reward specific player accomplishments and to flesh out organizations, locations, and foes within their own game world. When a hero finally achieves a long-term goal after many game sessions of struggle, the Director can memorialize the moment by granting a unique title. Similarly, the Director can grant custom titles when the heroes befriend specific factions, defeat notorious villains, or learn new moves from skilled NPCs.
 
-The easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, your world might contain a secretive organization of freedom fighters—the Jesters—who never carry weapons, defeating foes with unarmed attacks and improvised weapons. Creating a Jester title can be as easy as modifying the \[Brawler\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st Echelon/Brawler) title by changing its requirements to "Fight alongside the Jesters against a mutual foe."
+The easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, your world might contain a secretive organization of freedom fighters—the Jesters—who never carry weapons, defeating foes with unarmed attacks and improvised weapons. Creating a Jester title can be as easy as modifying the [Brawler](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st%20Echelon/Brawler) title by changing its requirements to "Fight alongside the Jesters against a mutual foe."
 
 <!-- -->
 > **For the Director: Perks as Custom Titles**
 >
-> You can turn a perk into a 1st-echelon title simply by giving it a prerequisite (see Chapter 7: Perks). For example, a hero might gain the \[Familiar\](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Supernatural Perks/Familiar) perk as a title instead if they complete a quest for an archmage, who then teaches the hero the conjuring ritual as a reward.
+> You can turn a perk into a 1st-echelon title simply by giving it a prerequisite (see Chapter 7: Perks). For example, a hero might gain the [Familiar](https://steelcompendium.io/compendium/main-linked/Rules/Perks/Supernatural%20Perks/Familiar) perk as a title instead if they complete a quest for an archmage, who then teaches the hero the conjuring ritual as a reward.
 
 ### How Many Titles?
 
@@ -2083,7 +2083,7 @@ Just because a hero meets the prerequisite for a title doesn't mean it is grante
 
 Some titles have only one benefit. These are typically earned by heroes individually instead of together as a group. Only the hero doing the studying or meeting a particular fate reaps the reward!
 
-Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a selection of three or four different options. When the party earns the title, each player decides which benefit their hero takes. For instance, if the party triumphs in a tavern fight and gains the \[Brawler\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st Echelon/Brawler) title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in the increased notoriety. A hero can take any of a title's benefits they qualify for, and multiple heroes can take the same benefit.
+Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a selection of three or four different options. When the party earns the title, each player decides which benefit their hero takes. For instance, if the party triumphs in a tavern fight and gains the [Brawler](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st%20Echelon/Brawler) title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in the increased notoriety. A hero can take any of a title's benefits they qualify for, and multiple heroes can take the same benefit.
 
 ### Granting Titles
 
@@ -2103,7 +2103,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 <!-- -->
 > **For the Director: Planning Titles**
 >
-> While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for. As such, it's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, you can include the Demon Slayer or Dragon Blooded titles as potential rewards alongside that magic cloak or psionic dagger. You can even use titles to inspire adventures. What challenges should a hero face to earn the \[Demigod\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th Echelon/Demigod) title?
+> While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for. As such, it's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, you can include the Demon Slayer or Dragon Blooded titles as potential rewards alongside that magic cloak or psionic dagger. You can even use titles to inspire adventures. What challenges should a hero face to earn the [Demigod](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th%20Echelon/Demigod) title?
 
 #### Ancient Loremaster
 
@@ -2160,7 +2160,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Prerequisite:** You aren't a [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan) but have witnessed the death of a [hakaan](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Hakaan).
 
-**Effect:** You aren't destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but remain conscious, you can become \[doomed\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st Echelon/Doomed). If you do, you can't regain Stamina, you automatically obtain a tier 3 outcome on tests and power rolls, and you don't die until your Stamina reaches the negative of your Stamina maximum. At the end of the encounter, you die.
+**Effect:** You aren't destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but remain conscious, you can become [doomed](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st%20Echelon/Doomed). If you do, you can't regain Stamina, you automatically obtain a tier 3 outcome on tests and power rolls, and you don't die until your Stamina reaches the negative of your Stamina maximum. At the end of the encounter, you die.
 
 #### Dwarven Legionnaire
 
@@ -2324,7 +2324,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 **Effect:** Choose one of the following benefits:
 
-- *Deep-Sea Diver:* You can automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving.
+- *Deep-Sea Diver:* You can automatically [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
 - *Ship Speaker:* You magically know the location of any ship controlled by your party even while you aren't aboard. You can telepathically communicate with anyone on board one of your ships who understands a language, and they can respond, no matter your distance from the ship.
 - *Signal Flags:* While aboard a ship, you can communicate with and conduct negotiations with another ship up to 5 miles away, as long as you and creatures on the other ship have line of effect to each other. You gain an edge on Presence tests made while negotiating in this way.
 - *Trained Crewmember:* You gain an edge on tests made to handle air or sea vessels.
@@ -2519,7 +2519,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > **Special:** If the target is size 2 or larger, you gain an edge on this ability.
 
-- *Up the Beanstalk:* You have the \[Climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) skill. If you already have this skill, you instead gain an edge on tests made using the \[Climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
 
 #### Godsworn
 
@@ -2627,7 +2627,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 *I will follow you to the ends of the earth—just so I can kick you off the edge.*
 
-**Prerequisite:** You have the \[Marshal\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st Echelon/Marshal) title, and you take down an entire criminal organization.
+**Prerequisite:** You have the [Marshal](https://steelcompendium.io/compendium/main-linked/Rules/Titles/1st%20Echelon/Marshal) title, and you take down an entire criminal organization.
 
 **Effect:** Choose one of the following benefits:
 
@@ -2716,19 +2716,19 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Dragon Scaled:* Dragon scales grow on your body wherever the heart's blood of the dragon touched you. You gain the Wyrmplate signature trait from the dragon knight ancestry (see [Chapter 3](#page-35-0)).
-- *Dragon Touched:* You gain 3 ancestry points to spend on purchased dragon knight ancestry traits.
+- *Dragon Scaled:* Dragon scales grow on your body wherever the heart's blood of the dragon touched you. You gain the Wyrmplate signature trait from the [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) ancestry (see [Chapter 3](#page-35-0)).
+- *Dragon Touched:* You gain 3 ancestry points to spend on purchased [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) ancestry traits.
 
 #### Fleet Admiral
 
 *All hail the Pirate Queen!*
 
-**Prerequisite:** You have the \[Corsair\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd Echelon/Corsair) title, and you lead a fleet of at least three ships.
+**Prerequisite:** You have the [Corsair](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd%20Echelon/Corsair) title, and you lead a fleet of at least three ships.
 
 **Effect:** Choose one of the following benefits:
 
 - *First Mate:* You have a pirate retainer, such as a **human warrior**, chosen by the Director from *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*. This retainer's level increases to your level.
-- *Swashbuckler:* You can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving
+- *Swashbuckler:* You can automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving
 - *Treasure Keeper:* You earn 1 Wealth.
 - *Weather Wizard:* Once per day, you can spend 10 uninterrupted minutes to magically alter mundane weather in a 5-mile radius around you. The weather moves with you and persists for 6 hours or until you dismiss it as a free maneuver. Choose from one of the following weather types:
     - *Calm:* Wind-powered vessels and technology cease working
@@ -2856,7 +2856,7 @@ Titles suitable for 4th-echelon characters are presented in alphabetical order.
 
 *The ritual is complete. I feel your power flow through me. I am become a god! Ah-ha-ha-ha-ha!*
 
-**Prerequisite:** You have the \[Godsworn\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd Echelon/Godsworn) title, and hundreds of worshipful mortals complete a divine ritual in your name.
+**Prerequisite:** You have the [Godsworn](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd%20Echelon/Godsworn) title, and hundreds of worshipful mortals complete a divine ritual in your name.
 
 **Effect:** You gain the following benefits:
 
@@ -2957,7 +2957,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 *To reach Giant's Foot by dawn, we'll have to run every step of the way. Let's get moving.*
 
-**Prerequisite:** You have the \[Unstoppable\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd Echelon/Unstoppable) title, and you make or assist on a test as part of a montage test that obtains a full success.
+**Prerequisite:** You have the [Unstoppable](https://steelcompendium.io/compendium/main-linked/Rules/Titles/2nd%20Echelon/Unstoppable) title, and you make or assist on a test as part of a montage test that obtains a full success.
 
 **Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 

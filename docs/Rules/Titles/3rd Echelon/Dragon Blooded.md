@@ -21,5 +21,5 @@ type: title/3rd-echelon
 
 **Effect:** Choose one of the following benefits:
 
-- *Dragon Scaled:* Dragon scales grow on your body wherever the heart's blood of the dragon touched you. You gain the Wyrmplate signature trait from the dragon knight ancestry (see [Chapter 3](#page-35-0)).
-- *Dragon Touched:* You gain 3 ancestry points to spend on purchased dragon knight ancestry traits.
+- *Dragon Scaled:* Dragon scales grow on your body wherever the heart's blood of the dragon touched you. You gain the Wyrmplate signature trait from the [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) ancestry (see [Chapter 3](#page-35-0)).
+- *Dragon Touched:* You gain 3 ancestry points to spend on purchased [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) ancestry traits.

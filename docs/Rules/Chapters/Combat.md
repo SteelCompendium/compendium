@@ -170,7 +170,7 @@ You can't shift into or while within difficult terrain or damaging terrain (see 
 
 #### Movement Types
 
-Creatures in the game can use eight types of movement: [walk](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Walk), [burrow](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Burrow), \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim), \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim), [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump), [crawl](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Crawl), [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly), and [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport).
+Creatures in the game can use eight types of movement: [walk](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Walk), [burrow](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Burrow), [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim), [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim), [jump](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Jump), [crawl](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Crawl), [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly), and [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport).
 
 ##### Walk
 
@@ -220,21 +220,21 @@ While a creature who is completely beneath the ground while burrowing is force m
 
 ##### Climb or Swim
 
-A creature who has "\[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim)" in their speed entry, or who gains the temporary ability to automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim), can \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "\[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim)" in their speed entry, or who gains the temporary ability to automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim), can \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) in liquid at full speed.
+A creature who has "[climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim), can [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim), can [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) in liquid at full speed.
 
-Creatures without those types of movement can still \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
+Creatures without those types of movement can still [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) or [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) or [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
 ###### Climbing Other Creatures
 
-You can attempt to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a creature whose size is greater than yours. If the creature is willing, you can \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) them without any trouble. If the creature is unwilling, you make the following test:
+You can attempt to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) a creature whose size is greater than yours. If the creature is willing, you can [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) them without any trouble. If the creature is unwilling, you make the following test:
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fail to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the creature, and they can make a free strike against you.
-- **12-16:** You fail to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the creature.
-- **17+:** You \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the creature.
+- **≤11:** You fail to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) the creature, and they can make a free strike against you.
+- **12-16:** You fail to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) the creature.
+- **17+:** You [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) the creature.
 
-While you \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
+While you [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
 
 **Power Roll + Might or Agility:**
 
@@ -310,7 +310,7 @@ Areas of acid, fire, sharp rocks, lava, or any other terrain that causes damage 
 
 Whenever a creature uses an ability to target a creature or object while standing on the ground and occupying a space that is fully above the target's space, they gain an edge on the power roll against that target. To be fully above a target, the bottom of a creature's space must be higher than or bordering on the top of the target's space.
 
-A creature can gain this benefit while climbing only if they have "climb" in their speed entry or can automatically \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving.
+A creature can gain this benefit while climbing only if they have "climb" in their speed entry or can automatically [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
 
 #### Forced Movement
 
@@ -526,7 +526,7 @@ You can convert your main action into a maneuver or a move action, allowing you 
 
 When a creature takes the Charge main action, they move up to their speed in a straight line, then make a melee free strike (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a free strike.
 
-A creature can't move through difficult terrain or shift when they charge. They can [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly) or [burrow](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Burrow) as part of the Charge main action if they have that movement available to them, but they can't \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) while charging unless they can automatically use that movement at full speed.
+A creature can't move through difficult terrain or shift when they charge. They can [fly](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Fly) or [burrow](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Burrow) as part of the Charge main action if they have that movement available to them, but they can't [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) or [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) while charging unless they can automatically use that movement at full speed.
 
 #### Defend
 
@@ -701,7 +701,7 @@ The Director can decide that a well-made or poorly made object has more or less 
 
 ### Underwater Combat
 
-If a creature is fully submerged in water, they have fire immunity 5 and lightning weakness 5. If they can't automatically \[swim\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) at full speed while moving, their power rolls take a bane.
+If a creature is fully submerged in water, they have fire immunity 5 and lightning weakness 5. If they can't automatically [swim](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) at full speed while moving, their power rolls take a bane.
 
 ### Suffocating
 
@@ -711,7 +711,7 @@ Out of combat, you can hold your breath for a number of minutes equal to your Mi
 
 ### Mounted Combat
 
-A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the Ride move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
+A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the Ride move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
 
 If a creature riding a mount is force moved, they are knocked off the mount and must make a test to determine how they land (see [Climbing Other Creatures)](#page-283-8). If a mount is force moved, they carry any riders with them. Riders and mounts [teleport](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Teleport) separately.
 

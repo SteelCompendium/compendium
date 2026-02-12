@@ -124,7 +124,7 @@ Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing i
 
 "I, uh..." Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
 
-The dragon knight stared at them for a moment, then turned back to his friend.
+The [dragon knight](https://steelcompendium.io/compendium/main-linked/Rules/Ancestries/Dragon%20Knight) stared at them for a moment, then turned back to his friend.
 
 "Maybe you're right," he said.
 

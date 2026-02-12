@@ -26,7 +26,7 @@ The advancement of a story shouldn't be halted by failing a test. For instance, 
 
 #### It Just Works!
 
-When a hero attempts to solve a task that typically requires a test with clever, outside-the-box thinking, the Director can instead decide that no test is required and the attempt automatically works! For example, if a hero who wants to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) up the wall without needing to make a test.
+When a hero attempts to solve a task that typically requires a test with clever, outside-the-box thinking, the Director can instead decide that no test is required and the attempt automatically works! For example, if a hero who wants to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) up the wall without needing to make a test.
 
 That said, such clever ideas often work for free the first time, but the Director could decide they require tests if they are used again.
 
@@ -42,7 +42,7 @@ The player reports the total of the roll, and the Director interprets its succes
 
 #### Characteristics and Tests
 
-When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which characteristic the test uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a Might test to determine how far and how quickly you're able to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim). If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a Presence test if you're attempting to win over the jury with your personality, or a Reason test if you're laying out a logical argument to support your innocence.
+When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which characteristic the test uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a Might test to determine how far and how quickly you're able to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim). If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a Presence test if you're attempting to win over the jury with your personality, or a Reason test if you're laying out a logical argument to support your innocence.
 
 Though the Director can decide to call for tests in any circumstances, a number of tasks that heroes routinely undertake are commonly set up as tests.
 
@@ -132,7 +132,7 @@ Depending on a test's difficulty and the power roll made to accomplish the task 
 
 If you fail a hard test and incur a consequence, you don't do what you set out to do—in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task.
 
-For instance, if a hero suffers a consequence while trying to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a wall, they might make it halfway up the wall and then fall, taking damage and landing [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone). A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the \[monarch\](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th Echelon/Monarch) is deathly allergic.
+For instance, if a hero suffers a consequence while trying to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) a wall, they might make it halfway up the wall and then fall, taking damage and landing [prone](https://steelcompendium.io/compendium/main-linked/Rules/Conditions/Prone). A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the [monarch](https://steelcompendium.io/compendium/main-linked/Rules/Titles/4th%20Echelon/Monarch) is deathly allergic.
 
 Not all consequences need to be immediate or apparent. For example, a hero might fail with a consequence on a test made to cheat at a high-stakes game of cards with a noble. The failure means the cheating is noticed, but the Director decides that the noble doesn't say anything. This consequence isn't made apparent until later in the evening, when the noble has guards surround the hero, intent on taking the cheater down to the dungeon for stacking the deck.
 
@@ -149,7 +149,7 @@ In lieu of other consequences, the Director also has the option to gain 2 additi
 
 ##### Failure
 
-If you fail a test without incurring a consequence, you simply don't do what you set out to do. A hero attempting to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
+If you fail a test without incurring a consequence, you simply don't do what you set out to do. A hero attempting to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
 
 On a failed test, the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the test. This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an Agility test made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
 
@@ -157,7 +157,7 @@ When a hero rolls a failure without a consequence, the Director can offer to let
 
 ##### Success With a Consequence
 
-If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
+If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
 
 Just like failure with a consequence, the consequences accompanying success don't need to be immediately apparent. In lieu of other consequences, the Director has the option to gain 2 additional Malice at the start of the next combat encounter.
 
@@ -446,7 +446,7 @@ In this scenario, a trio of adventurers want to scale the 40-foot-high walls sur
 
 **Director:** *Okay. It'll be a Might test to get up to the top of the wall.*
 
-The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim), designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
+The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim), designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
 
 **Alyssa (playing Jorn, a [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician)):** *Let me go first. I've got good Might and can throw the others down a rope once I'm up there. And I've got the Climb skill.*
 
@@ -462,13 +462,13 @@ The Director checks the Test Difficulty Outcomes table to confirm that a tier 3 
 
 **Alyssa:** *Great! I toss down a rope. Val, you're next.*
 
-**Grace:** *So it's a Might test. Would you let me use Endurance? It's a lot of physical exertion to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim).*
+**Grace:** *So it's a Might test. Would you let me use Endurance? It's a lot of physical exertion to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim).*
 
-**Director:** *It's not a \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier test.*
+**Director:** *It's not a [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier test.*
 
 **Grace:** *Fair. Okay, dice. Let's do this.*
 
-Given the rope, the Director decides that this second \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) attempt is an easy test. Grace rolls 2d10 and gets an 11. With her Might score of 2, that's a 13.
+Given the rope, the Director decides that this second [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) attempt is an easy test. Grace rolls 2d10 and gets an 11. With her Might score of 2, that's a 13.
 
 **Grace:** *13! That's a tier 2 outcome for Val.*
 
@@ -557,7 +557,7 @@ While you are hidden from another creature and not in combat, you can attempt to
 
 ### Group Tests
 
-Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a Might group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an Agility group test.
+Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a Might group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an Agility group test.
 
 #### Group Test Difficulty
 
@@ -684,7 +684,7 @@ When the test begins, the Director sets the scene. They tell the players that th
 
 Urdoncara, a [fury](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Fury), starts things off by asking to make an Intuition test using the Nature skill to predict the best times of day to travel and rest. She wants the party to avoid the worst of the desert's extreme temperatures and any sandstorms or other weather phenomena, so that the journey is quickened. The Director decides this is an easy test. Urdoncara makes the test and gets a total of 12, earning 1 success for the montage test.
 
-Jorn, a [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician), wants to make a Reason test using the Climb skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
+Jorn, a [tactician](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Tactician), wants to make a Reason test using the Climb skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
 
 Karrel, an [elementalist](https://steelcompendium.io/compendium/main-linked/Rules/Classes/Elementalist), thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium Reason test. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
 

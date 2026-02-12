@@ -14,15 +14,15 @@ type: movement
 
 ###### Climbing Other Creatures
 
-You can attempt to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) a creature whose size is greater than yours. If the creature is willing, you can \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) them without any trouble. If the creature is unwilling, you make the following test:
+You can attempt to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) a creature whose size is greater than yours. If the creature is willing, you can [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) them without any trouble. If the creature is unwilling, you make the following test:
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fail to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the creature, and they can make a free strike against you.
-- **12-16:** You fail to \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the creature.
-- **17+:** You \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) the creature.
+- **≤11:** You fail to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) the creature, and they can make a free strike against you.
+- **12-16:** You fail to [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) the creature.
+- **17+:** You [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) the creature.
 
-While you \[climb\](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb or Swim) or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
+While you [climb](https://steelcompendium.io/compendium/main-linked/Rules/Movement/Climb%20or%20Swim) or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
 
 **Power Roll + Might or Agility:**
 
