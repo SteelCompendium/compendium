@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.devils.statblock:devil-magistrate
 scdc:
-  - 1.1.1:2.38.1:05
+  - 1.1.1:2.39.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
@@ -59,7 +59,7 @@ type: monster/devils/statblock
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 11 damage
 > - **12-16:** 17 damage

@@ -2678,7 +2678,7 @@ At the start of a chimera's turn, you can spend Malice to activate one of the fo
 >
 > **Effect:** The chimera shifts up to 5 squares. If they end this shift within distance of the target, make a power roll.
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; M < 1 slowed (save ends)
 > - **12-16:** 8 damage; prone; M < 2 slowed (save ends)
@@ -4653,7 +4653,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | --------------- | ----------------------------: |
 > | **📏 2 burst**  | **🎯 Each enemy in the area** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; slide 1
 > - **12-16:** 10 damage; slide 3
@@ -4720,7 +4720,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | --------------------------------- | ------------------------------: |
 > | **📏 Melee 2**                    | **🎯 Two creatures or objects** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; M < 1 prone
 > - **12-16:** 11 damage; M < 2 prone and can't stand (save ends)
@@ -4792,7 +4792,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 11 damage
 > - **12-16:** 17 damage
@@ -4864,7 +4864,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ------------------------- | -------------------: |
 > | **📏 Ranged 12**          | **🎯 Two creatures** |
 >
-> **Power Roll + 4**
+> **Power Roll + 4:**
 >
 > - **≤11:** I < 2 the target is charmed (save ends)
 > - **12-16:** I < 3 the target is charmed (save ends)
@@ -15327,7 +15327,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 > **Effect:** While a target is frightened this way, any ogre gains an edge on strikes against them.
 
 <!-- -->
-> ❗️ **Hrraaaaaagh!**
+> ❗️ **Hrraaaaaagh! (1 Malice)**
 >
 > | **-**       | **Free triggered action** |
 > | ----------- | ------------------------: |
@@ -20605,12 +20605,10 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > **Effect:** If the waxen is ignited (see Burn Bright), they shift up to their speed before using this ability. Each target makes an **Agility test**.
 >
 > - **≤11:** 10 damage
->
 > - **12-16:** 8 damage
->
 > - **17+:** 5 damage
 >
-> - The waxen is then destroyed and the area is difficult terrain for enemies.
+> The waxen is then destroyed and the area is difficult terrain for enemies.
 
 <!-- -->
 > ⭐️ **Burn Bright**

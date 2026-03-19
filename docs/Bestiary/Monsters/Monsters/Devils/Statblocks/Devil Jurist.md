@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.devils.statblock:devil-jurist
 scdc:
-  - 1.1.1:2.38.1:06
+  - 1.1.1:2.39.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
@@ -66,7 +66,7 @@ type: monster/devils/statblock
 > | --------------- | ----------------------------: |
 > | **📏 2 burst**  | **🎯 Each enemy in the area** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; slide 1
 > - **12-16:** 10 damage; slide 3

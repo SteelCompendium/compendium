@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.devils.statblock:devil-legate
 scdc:
-  - 1.1.1:2.38.1:08
+  - 1.1.1:2.39.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
@@ -59,7 +59,7 @@ type: monster/devils/statblock
 > | --------------------------------- | ------------------------------: |
 > | **📏 Melee 2**                    | **🎯 Two creatures or objects** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; M < 1 prone
 > - **12-16:** 11 damage; M < 2 prone and can't stand (save ends)
